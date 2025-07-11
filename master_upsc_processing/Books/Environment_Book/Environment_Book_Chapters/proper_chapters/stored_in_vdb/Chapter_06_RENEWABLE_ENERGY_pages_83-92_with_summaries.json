@@ -1,0 +1,870 @@
+[
+  {
+    "book_type": "UPSC",
+    "subject": "Environment",
+    "chapter_name": "RENEWABLE ENERGY",
+    "chapter_number": 6,
+    "page_number": 83,
+    "content": "\n\n**[IMAGE: Chapter title page for Chapter 6 in an UPSC book on the Environment.]**\n\n\n\n# RENEWABLE ENERGY \n\nConsumption of non-renewable sources of energy has caused more environmental damage than any other human activity. Electricity generated from fossil fuels has led to high concentrations of harmful gases in the atmosphere. This has in turn led to many environmental and health problems being faced today.\nTherefore, alternative sources of energy have become very important and relevant.\nRenewable energy is energy that is generated from natural resources that are continuously replenished. This includes sunlight, geothermal heat, wind, tides, water, and various forms of biomass. This energy cannot be exhausted and is constantly renewed.\nThey are viable source of clean limitless energy, cause less emission, and are available locally. The use of renewable energy greatly reduces all sort of pollutions vis-a-vis nonrenewable energy. Most of the renewable sources of energy are fairly non-polluting and considered clean. But biomass though a renewable source, is a major contributor of indoor pollution.\n\n## Renewable energy comprises of\n\n- Solar energy - energy generated from the sun\n- Hydel energy - energy derived from water\n- Biomass - energy from firewood, animal dung, biodegradable waste and crop residues, when it is burnt.\n- Geothermal energy- energy from hot dry rocks, magma, hot water springs, natural geysers, etc.\n- Ocean thermal - energy from waves and also from tidal waves.\n- Co-generation - producing two forms of energy from one fuel.\n- Fuel cells are also being used as cleaner energy source.\n\nElectricity is the flow of energy or current and is one of the most widely used forms of energy throughout the world.\n\n## Source\n\nPrimary source - renewable energy like solar, wind, geothermal\nSecondary source - non-renewable energy generated through the conversion of coal, oil, natural gas etc.\nThe Government has up-scaled the target of renewable energy capacity to 175 GW by the year 2022 which includes 100 GW from solar, 60 GW from wind, 10 GW from biopower and 5 GW from small hydro-power.\n\n## Installed power generation capacity in India\n\nThe total installed capacity in India from renewable energy on April, 2016 is 42,800 MW. Majority of the total capacity is developed by the State sector accounting for about 39 per cent (app.) followed by Private sector for about 31 per cent (app.) and Centre hold about 29 per cent (app.) each.\n\n### 6.1 SOLAR ENERGY\n\nIndia is one of the few countries naturally blessed with long days and plenty of sunshine.\nThere are two ways we can produce electricity from the sun light:\n\n- Photovoltaic Electricity - uses photovoltaic cells that absorb the direct sunlight to generate electricity\n- Solar-Thermal Electricity - uses a solar collector that has a mirrored surface which reflects the sunlight onto a receiver that heats up a liquid. This heated up liquid is used to make steam that produces electricity.\n\n\n### 6.1.3 Photovoltaic Electricity\n\nSolar panels are attached to an aluminium mounting system. Photovoltaic (PV) cells are made up of at least 2 semiconductor layers - a positive charge, and a negative charge. As a PV cell is exposed to sunlight, photons are reflected,",
+    "source_url": null,
+    "book_name": "Environment by Shankar IAS Academy",
+    "created_at": "2025-07-02T02:54:40.167574",
+    "section_name": "Chapter title page for Chapter 6 in an UPSC book on the Environment.",
+    "metadata": {
+      "file_id": "Environment by Shankar IAS Academy",
+      "document_type": "text",
+      "short_description": "Chapter title page for Chapter 6 in an UPSC book on the Environment.",
+      "summary": "The chapter discusses the importance of renewable energy sources like solar, wind, and biomass in reducing environmental damage caused by non-renewable energy consumption.",
+      "page_number": 83,
+      "subject": "Environment",
+      "class": "UPSC",
+      "chapter_name": "RENEWABLE ENERGY",
+      "chapter_number": 6,
+      "file_name": "Environment by Shankar IAS Academy",
+      "part": "Environmental Ecology",
+      "start_page": 83,
+      "end_page": 92,
+      "image_id": "img-0.jpeg",
+      "image_bbox": {
+        "top_left_x": 155,
+        "top_left_y": 343,
+        "bottom_right_x": 1481,
+        "bottom_right_y": 528
+      },
+      "dimensions": {
+        "dpi": 200,
+        "height": 2339,
+        "width": 1653
+      },
+      "content_analysis": {
+        "chapter_name": null,
+        "chapter_number": null,
+        "summary": "![img-0.jpeg](img-0.jpeg)",
+        "content_type": "text",
+        "key_topics": [
+          "environment",
+          "pollution",
+          "natural",
+          "resources",
+          "atmosphere",
+          "water",
+          "energy",
+          "renewable"
+        ],
+        "is_front_matter": false,
+        "confidence": 0.0
+      },
+      "image_count": 1,
+      "integrated_content_length": 3248,
+      "topic_tags": [
+        "environment",
+        "pollution",
+        "natural",
+        "resources",
+        "atmosphere",
+        "water",
+        "energy",
+        "renewable"
+      ],
+      "key_concepts": [
+        "environment",
+        "pollution",
+        "natural",
+        "resources",
+        "atmosphere",
+        "water",
+        "energy",
+        "renewable"
+      ],
+      "keywords": [
+        "Renewable energy",
+        "Solar energy",
+        "Wind energy",
+        "Biomass",
+        "Environmental damage",
+        "Electricity generation",
+        "Government targets",
+        "Installed capacity",
+        "Photovoltaic cells."
+      ],
+      "difficulty_level": "intermediate",
+      "learning_objectives": [],
+      "related_chapters": [],
+      "prerequisites": [],
+      "common_mistakes": []
+    }
+  },
+  {
+    "book_type": "UPSC",
+    "subject": "Environment",
+    "chapter_name": "RENEWABLE ENERGY",
+    "chapter_number": 1,
+    "page_number": 84,
+    "content": "pass right through, or absorbed by the solar cell. When enough photons are absorbed by the negative layer of the photovoltaic cell, electrons are freed from the negative semiconductor material. These freed electrons migrate to the positive layer creating a voltage differential. When the two layers are connected to an external load, the electrons flow through the circuit creating electricity. The power generated - Direct Current (DC) is converted to Alternate Current (AC) with the use of inverters.\n\n## Concentrated Solar Power (CSP) or solar thermal technology\n\nIt utilises focused sunlight and convert it into hightemperature heat. That heat is then channelled through a conventional generator to produce electricity.\nSolar collectors capture and concentrate sunlight to heat a fluid which in turn generates electricity. There are several variations in the shape of the collectors. The most commonly used are the parabolic troughs. Parabolic trough power plants use a curved, mirrored trough which reflects the direct solar radiation onto a glass tube containing a fluid and the fluid gets heated owing to the concentrated solar radiation and the hot steam generated is used to rotate the turbine to generate electricity. Commonly used fluids are synthetic oil, molten salt and pressurised steam.\nThe power generated - Direct Current (DC) is converted to Alternate Current (AC) with the use of inverters.\n\n### 6.1.4 Potential of solar energy in India\n\n- India has the potential to generate $35 \\mathrm{MW} / \\mathrm{km} 2$ using solar photovoltaic and solar thermal energy.\n- Solar energy of about 5,000 trillion kWh per year is incident over India's land area with most parts receiving $4-7 \\mathrm{kWh}$ per sq. m per day. Hence both technology routes (solar thermal and solar photovoltaic) for conversion of solar radiation into heat and electricity can effectively be harnessed providing huge scalability for solar power in India.\n- The states with very high solar radiation are Rajasthan, northern Gujarat and parts of Ladakh region, Andhra Pradesh, Maharashtra and Madhya Pradesh.\n\n\n### 6.1.5 Installed capacity - India\n\nThe current installed capacity of solar in grid connected power crossed 10,000 MW, as on 2017, as per MNRE estimates.\nA major initiative called 'The National Solar Mission' was formulated by Government of India and its state governments.\n\nOne of the main features of the Mission is to make India a global leader in solar energy and the mission envisages an installed solar generation capacity of 100 GW (revised target) by 2022.\n\n### 6.16 International Solar Alliance\n\nInternational Solar Alliance (ISA) is launched at the CoP21 Climate Conference in Paris on 3oth November as a special platform for mutual cooperation among 121 solar resource rich countries lying fully or partially between Tropic of Cancer and Tropic of Capricorn.\nThe alliance is dedicated to address special energy needs of ISA member countries.\nInternational Agency for Solar Policy and Application (IASPA) will be the formal name of International Solar Alliance. The ISA secretariat will be set up in National Institute of Solar Energy, Gurgaon.\n\n## Objectives\n\n1. to force down prices by driving demand;\n2. to bring standardization in solar technologies\n3. to foster research and development.\n\nPrime Minister coined the new term \"Surya Putra\" for all the nations which fall between Tropic of Cancer and Tropic of Capricorn, and which have been invited to join the alliance. The other term used for these countries is \"Sunshine Countries\".\nIESS 2047 stands for India Energy Security Scenarios 2047 calculator which has been launched by India to explore the potential of future energy scenarios for India.\n\n### 6.2. LUMINESCENT SOLAR CONCENTRATORS\n\nA luminescent solar concentrator (LSC) is a device that uses a thin sheet of material to trap solar radiation over a large area, before directing the energy (through luminescent emission) to cells mounted on the thin edges of the material layer.\nThe thin sheet of material typically consists of a polymer (such as polymethylmethacrylate (PMMA)), doped with luminescent species such as organic dyes, quantum dots or rare earth complexes.\n\n## What is the need for LSCs?\n\n- The main motivation for implementing LSCs is to replace a large area of expensive solar cells in a stand-",
+    "source_url": null,
+    "book_name": "Environment by Shankar IAS Academy",
+    "created_at": "2025-07-02T02:54:41.129831",
+    "section_name": "Climate, Development content in RENEWABLE ENERGY",
+    "metadata": {
+      "file_id": "Environment by Shankar IAS Academy",
+      "document_type": "text",
+      "short_description": "Climate, Development content in RENEWABLE ENERGY",
+      "summary": "The content discusses the working principles of solar photovoltaic cells and concentrated solar power technology, the potential of solar energy in India, the installed capacity of solar energy in India, and the International Solar Alliance.",
+      "page_number": 84,
+      "subject": "Environment",
+      "class": "UPSC",
+      "chapter_name": "RENEWABLE ENERGY",
+      "chapter_number": 1,
+      "file_name": "Environment by Shankar IAS Academy",
+      "part": "Environmental Ecology",
+      "start_page": 83,
+      "end_page": 92,
+      "image_id": null,
+      "image_bbox": {
+        "top_left_x": 0,
+        "top_left_y": 0,
+        "bottom_right_x": 0,
+        "bottom_right_y": 0
+      },
+      "dimensions": {
+        "dpi": 200,
+        "height": 2339,
+        "width": 1653
+      },
+      "content_analysis": {
+        "chapter_name": "To Force Down Prices By Driving Demand;",
+        "chapter_number": 1,
+        "summary": "pass right through, or absorbed by the solar cell. When enough photons are absorbed by the negative layer of the photovoltaic cell, electrons are freed from the negative semiconductor material. These ...",
+        "content_type": "text",
+        "key_topics": [
+          "climate",
+          "development",
+          "energy"
+        ],
+        "is_front_matter": false,
+        "confidence": 0.5
+      },
+      "image_count": 0,
+      "integrated_content_length": 4330,
+      "topic_tags": [
+        "climate",
+        "development",
+        "energy"
+      ],
+      "key_concepts": [
+        "climate",
+        "development",
+        "energy"
+      ],
+      "keywords": [
+        "solar photovoltaic",
+        "concentrated solar power",
+        "solar energy potential",
+        "installed capacity",
+        "International Solar Alliance",
+        "India",
+        "MNRE",
+        "National Solar Mission"
+      ],
+      "difficulty_level": "intermediate",
+      "learning_objectives": [],
+      "related_chapters": [],
+      "prerequisites": [],
+      "common_mistakes": []
+    }
+  },
+  {
+    "book_type": "UPSC",
+    "subject": "Environment",
+    "chapter_name": "RENEWABLE ENERGY",
+    "chapter_number": 1,
+    "page_number": 85,
+    "content": "ard flat-plate PV panel, with a cheaper alternative. Therefore there is both a reduction in both the cost of the module ( $\\varepsilon / \\mathrm{W}$ ) and the solar power produced $(\\varepsilon / \\mathrm{kWh})$.\n\n- A key advantage of over typical concentrating systems is that LSCs can collect both direct and diffuse solar radiation. Therefore tracking of the sun is not required.\n- LSCs are excellent candidates for building integrated photovoltaics (BIPV) and for the cloudier northern climates.\n\n\n## Ideal LSC\n\n- A broad absorption range to utilize the solar spectrum efficiently.\n- $100 \\%$ emission of light from the absorbing luminescent species.\n- A large shift between the absorption and emission spectra to reduce absorption losses.\n- Long term stability.\n\n\n## Challenges for LSC\n\n- The development of LSCs aims to create a working structure that performs close to the theoretical maximum efficiency.\n\n\n## International Renewable Energy Agency (IRENA)\n\nIRENA has 150 member nations with Headquarters in Abu Dhabi.\nThe International Renewable Energy Agency (IRENA) is an intergovernmental organisation that supports countries in their transition to a sustainable energy future, and serves as the principal platform for international cooperation, a centre of excellence, and a repository of policy, technology, resource and financial knowledge on renewable energy.\nIRENA promotes the widespread adoption and sustainable use of all forms of renewable energy, including bioenergy, geothermal, hydropower, ocean, solar and wind energy in the pursuit of sustainable development, energy access, energy security and low-carbon economic growth and prosperity.\n\n### 6.3 WIND ENERGY\n\nWind energy is the kinetic energy associated with the movement of atmospheric air. Wind turbines transform the energy in the wind into mechanical power, further converting to electric power to generate electricity. Five\nnations - Germany, USA, Denmark, Spain and India account for $80 \\%$ of the world's installed wind energy capacity.\n\n### 6.3.1 Wind farm\n\nA wind farm is a group of wind turbines in the same location used for production of electricity. A wind farm can be located onshore and offshore.\n\n- Onshore wind farms: operate on land, where the wind tends to be the strongest. The turbines of a Onshore wind farms are less expensive and easier to set up, maintain and operate than offshore turbines.\n- Offshore wind farms: Construction of wind farms in large bodies of water to generate electricity. Offshore wind farms are more expensive than onshore wind farms of the same nominal power.\n\n\n### 6.3.2 Working of wind turbines\n\nWind turbines convert the kinetic energy in the wind into mechanical energy. This mechanical power can be used for specific tasks (such as grinding grain or pumping water) or a generator can convert this mechanical power into electricity. Most turbines have three aerodynamically designed blades. The energy in the wind turns two or three propeller-like blades around a rotor that is connected to the main shaft, which spins a generator to create electricity. Wind turbines are mounted on a tower to capture the most energy. At 100 feet ( 30 meters) or more above ground, they can take advantage of faster and less turbulent wind.\nThree main variables determine how much electricity a turbine can produce:\n\n1. Wind speed- stronger winds produce more energy. Wind turbine generates energy at a speed of 4-25 metres per second\n2. Blade radius- the larger the radius of blades, the more the energy produced. Doubling the blade radius can result in four times more power.\n3. Air density- Heavier air exerts more lift on a rotor. Air density is a function of altitude, temperature and pressure. High altitude locations have low air pressure and lighter air so they are less productive turbine locations. The dense heavy air near sea level drives rotors faster and thus relatively more effectively.\n\n### 6.3.3 Two types of wind turbines\n\n1) Horizontal-axis design has two or three blades that spin upwind of the tower. A horizontal axis machine has its blades rotating on an axis parallel to the ground.",
+    "source_url": null,
+    "book_name": "Environment by Shankar IAS Academy",
+    "created_at": "2025-07-02T02:54:42.713345",
+    "section_name": "Climate, Sustainable content in RENEWABLE ENERGY",
+    "metadata": {
+      "file_id": "Environment by Shankar IAS Academy",
+      "document_type": "text",
+      "short_description": "Climate, Sustainable content in RENEWABLE ENERGY",
+      "summary": "The study material discusses the advantages and challenges of Luminescent Solar Concentrators (LSCs), the role of International Renewable Energy Agency (IRENA) in promoting renewable energy, and the working of wind energy and wind turbines.",
+      "page_number": 85,
+      "subject": "Environment",
+      "class": "UPSC",
+      "chapter_name": "RENEWABLE ENERGY",
+      "chapter_number": 1,
+      "file_name": "Environment by Shankar IAS Academy",
+      "part": "Environmental Ecology",
+      "start_page": 83,
+      "end_page": 92,
+      "image_id": null,
+      "image_bbox": {
+        "top_left_x": 0,
+        "top_left_y": 0,
+        "bottom_right_x": 0,
+        "bottom_right_y": 0
+      },
+      "dimensions": {
+        "dpi": 200,
+        "height": 2339,
+        "width": 1653
+      },
+      "content_analysis": {
+        "chapter_name": "Wind Speed- Stronger Winds Produce More Energy",
+        "chapter_number": 1,
+        "summary": "ard flat-plate PV panel, with a cheaper alternative. Therefore there is both a reduction in both the cost of the module ( $\\varepsilon / \\mathrm{W}$ ) and the solar power produced $(\\varepsilon / \\mat...",
+        "content_type": "text",
+        "key_topics": [
+          "climate",
+          "sustainable",
+          "development",
+          "water",
+          "energy",
+          "renewable",
+          "carbon"
+        ],
+        "is_front_matter": false,
+        "confidence": 0.5
+      },
+      "image_count": 0,
+      "integrated_content_length": 4117,
+      "topic_tags": [
+        "climate",
+        "sustainable",
+        "development",
+        "water",
+        "energy",
+        "renewable",
+        "carbon"
+      ],
+      "key_concepts": [
+        "climate",
+        "sustainable",
+        "development",
+        "water",
+        "energy",
+        "renewable",
+        "carbon"
+      ],
+      "keywords": [
+        "Luminescent Solar Concentrators",
+        "IRENA",
+        "wind energy",
+        "wind turbines",
+        "renewable energy",
+        "wind farm",
+        "onshore",
+        "offshore",
+        "kinetic energy"
+      ],
+      "difficulty_level": "intermediate",
+      "learning_objectives": [],
+      "related_chapters": [],
+      "prerequisites": [],
+      "common_mistakes": []
+    }
+  },
+  {
+    "book_type": "UPSC",
+    "subject": "Environment",
+    "chapter_name": "RENEWABLE ENERGY",
+    "chapter_number": 1,
+    "page_number": 86,
+    "content": "2) Vertical-axis turbines has vertical blades that rotate in and out of the wind. The vertical axis turbine has its blades rotating on an axis perpendicular to the ground. This drag-type turbine turns relatively slowly but yields a high torque. It is useful for grinding grain, pumping water and many other tasks, but its slow rotational speeds are not optimal for generating electricity. Ver-tical-axis turbines do not take advantage of the higher wind speeds at higher elevations ( 100 feet and so) above the ground vis-a-vis horizontal axis turbines.\n\n### 6.3.4 Potential of wind energy in India\n\nThe National Institute of Wind Energy (NIWE) has recently launched Wind Energy Resource Map of India at 100 meter above ground level (AGL) on online Geographic Information System platform.\nThe wind energy potential in the country at 100 m AGL is over 302 GW. Gujarat has the maximum potential followed by Karnataka, Maharashtra, Andra Pradesh according to the resource map.\nWind energy target\n\n- 60000 MW (60 GW) by 2022\n- 200000 MW (200 GW) by 2022\n\n\n### 6.3.5 Capacity installed\n\n- Tamil Nadu - 7200 MW\n- Maharastra - 4000 MW\n- Karnataka - 2700 MW\n- Rajasthan - 2700 MW\n\nAndra Pradesh, Madhya Pradesh, kerala are minor players with installed capacity of less than 1000 MW\n\n## National Offshore Wind Energy Policy, 2015:\n\nUnder this Policy, the Ministry of New \\& Renewable Energy (MNRE) has been authorized as the Nodal Ministry for use of offshore areas within the Exclusive Economic Zone (EEZ) of the country and the National Institute of Wind Energy (NIWE) has been authorized as the Nodal Agency for development of offshore wind energy in the country and to carry out allocation of offshore wind energy blocks, coordination and allied functions with related ministries and agencies.\nIt would pave the way for offshore wind energy development including, setting up of offshore wind power projects and research and development activities, in waters, in or adjacent to the country, up to the seaward distance of 200 Nautical Miles (EEZ of the country) from the base line.\n\nThe policy will provide a level playing field to all investors/ beneficiaries, domestic and international.\n\n## National Wind Energy Mission (Proposed):\n\nInitiated the process of establishing National Wind Energy Mission.\nThe setting up of a Mission would help in\n(a) achieving the targets of 12th Plan and energy generation from renewable energy as set under NAPCC, and\n(b) addressing the issues and challenges which the wind sector is faced with, such as precise resource assessment, effective grid integration, improvement in technology and manufacturing base, to maintain its comparative advantage in the wind sector.\n\n### 6.4. HYDRO POWER\n\nHydraulic power can be captured when water flows downward from a higher level to a lower level which is then used to turn the turbine, thereby converting the kinetic energy of water into mechanical energy to drive the generator.\nHydro power is cheapest, and cleanest source of energy but there are many environmental and social issues associated with big dams as seen in projects like Tehri, Narmada, etc. Small hydro power are free from these problems\n\n### 6.4.1 Types of hydro power stations\n\nThere are three types of hydropower facilities: impoundment, diversion, and pumped storage. Some hydropower plants use dams and some do not.\n\n## (1) Impoundment\n\nThe most common type of hydroelectric power plant is an impoundment facility. An impoundment facility, typically a large hydropower system, uses a dam to store river water in a reservoir. Water released from the reservoir flows through a turbine, spinning it, which in turn activates a generator to produce electricity.\n\n## (2) Diversion\n\nA diversion, sometimes called run-of-river facility, channels a portion of a river through a canal or penstock and then to flow through a turbine, spinning it, which in turn activates a generator to produce electricity.It may not require the use of a dam.\n\n## (3) Pumped storage\n\nIt works like a battery, storing the electricity generated by other power sources like solar, wind, and nuclear for later",
+    "source_url": null,
+    "book_name": "Environment by Shankar IAS Academy",
+    "created_at": "2025-07-02T02:54:43.469066",
+    "section_name": "Diagram in RENEWABLE ENERGY",
+    "metadata": {
+      "file_id": "Environment by Shankar IAS Academy",
+      "document_type": "text",
+      "short_description": "Diagram in RENEWABLE ENERGY",
+      "summary": "The study material discusses vertical-axis turbines, wind energy potential in India, offshore wind energy policy, and the proposed National Wind Energy Mission.",
+      "page_number": 86,
+      "subject": "Environment",
+      "class": "UPSC",
+      "chapter_name": "RENEWABLE ENERGY",
+      "chapter_number": 1,
+      "file_name": "Environment by Shankar IAS Academy",
+      "part": "Environmental Ecology",
+      "start_page": 83,
+      "end_page": 92,
+      "image_id": null,
+      "image_bbox": {
+        "top_left_x": 0,
+        "top_left_y": 0,
+        "bottom_right_x": 0,
+        "bottom_right_y": 0
+      },
+      "dimensions": {
+        "dpi": 200,
+        "height": 2339,
+        "width": 1653
+      },
+      "content_analysis": {
+        "chapter_name": null,
+        "chapter_number": null,
+        "summary": "2) Vertical-axis turbines has vertical blades that rotate in and out of the wind. The vertical axis turbine has its blades rotating on an axis perpendicular to the ground. This drag-type turbine turns...",
+        "content_type": "diagram",
+        "key_topics": [
+          "environment",
+          "development",
+          "water",
+          "energy",
+          "renewable"
+        ],
+        "is_front_matter": false,
+        "confidence": 0.0
+      },
+      "image_count": 0,
+      "integrated_content_length": 4117,
+      "topic_tags": [
+        "environment",
+        "development",
+        "water",
+        "energy",
+        "renewable"
+      ],
+      "key_concepts": [
+        "environment",
+        "development",
+        "water",
+        "energy",
+        "renewable"
+      ],
+      "keywords": [
+        "Vertical-axis turbines",
+        "wind energy potential",
+        "India",
+        "offshore wind energy policy",
+        "National Wind Energy Mission",
+        "hydro power",
+        "renewable energy",
+        "NIWE."
+      ],
+      "difficulty_level": "intermediate",
+      "learning_objectives": [],
+      "related_chapters": [],
+      "prerequisites": [],
+      "common_mistakes": []
+    }
+  },
+  {
+    "book_type": "UPSC",
+    "subject": "Environment",
+    "chapter_name": "RENEWABLE ENERGY",
+    "chapter_number": 1,
+    "page_number": 87,
+    "content": "use. When the demand for electricity is low, a pumped storage facility stores energy by pumping water from a lower reservoir to an upper reservoir. During periods of high electrical demand, the water is released back to the lower reservoir and turns a turbine, generating electricity.\n\n### 6.4.2 Small Hydro Power (SHP)\n\nSmall hydro is defined as any hydro power project which has an installed capacity of less than 25 MW. It is in most cases run-of-river, where a dam or barrage is quite small, usually just a weir with little or no water is stored. Therefore run-of-river installations do not have the same kind of adverse effect on the local environment as large-scale hydro projects. Small hydropower plants can serve the energy needs of remote rural areas independently.\nIndia and China are the major players of the SHP sector, holding the highest number of installed projects.\n\n### 6.4.3 Small Hydro Potential in India\n\n- An estimated 5,415 sites of small hydro have been identified with a potential of around 19,750 MW.\n- River based projects in the Himalayan states and irrigation canals in other states have massive potential for development of Small Hydro Projects.\n- According to the XIIth five year plan targets, capacity addition from Small Hydro Projects is targeted at 2.1 GW in 2011-17 period.\n- The Ministry of New and Renewable Energy is encouraging development of Small Hydro Projects in both the public and private sector and aims to exploit at least $50 \\%$ of the current potential in the next 10 years.\n\n\n### 6.4.4 Installed capacity\n\nThe cumulative installed capacity of Small Hydro Projects amount to 3726 MW.\n\n### 6.5 OCEAN THERMAL ENERGY\n\nLarge amounts of solar energy is stored in the oceans and seas. On an average, the 60 million square kilometre of the tropical seas absorb solar radiation equivalent to the heat content of 245 billion barrels of oil.\nThe process of harnessing this energy is called OTEC (ocean thermal energy conversion). It uses the temperature differences between the surface of the ocean and the depths of about 1000 m to operate a heat engine, which produces electric power\n\n## Wave energy\n\nWaves result from the interaction of the wind with the surface of the sea and represent a transfer of energy from the wind to the sea.\nThe first wave energy, project with a capacity of 150 MW , has been set up at Vizhinjam near Trivandrum.\n\n## Tidal energy\n\nEnergy can be extracted from tides by creating a reservoir or basin behind a barrage and then passing tidal waters through turbines in the barrage to generate electricity.\nA major tidal wave power project costing of Rs. 5000 crores, is proposed to be set up in the Hanthal Creek in the Gulf of Kutch in Gujarat.\n\n## Biomass\n\nBiomass is a renewable energy resource derived from the carbonaceous waste of various human and natural activities. It is derived from numerous sources, including the by-products from the timber industry, agricultural crops, grassy and woody plants, residues from agriculture or forestry, oil-rich algae, and the organic component of municipal and industrial wastes. Biomass is a good substitute for the conventional fossil fuels for heating and energy generation purposes.\nBurning biomass releases about the same amount of carbon dioxide as burning fossil fuels. However, fossil fuels release carbon dioxide captured by photosynthesis over its formative years. Biomass, on the other hand, releases carbon dioxide that is largely balanced by the carbon dioxide captured in its own growth (depending how much energy was used to grow, harvest, and process the fuel). Hence, Biomass does not add carbon dioxide to the atmosphere as it absorbs the same amount of carbon in growing as it releases when consumed as a fuel.\nChemical processes like gasification, combustion and pyrolysis convert biomass to useful products, combustion being the most common of them. Each of the technologies mentioned produces a major calorific end product and a mixture of by-products. The processing method is selected on the basis of nature and origin of feed stocks, their physiochemical state and application spectrum of fuel products derived from it.\n\n## Anaerobic Digestion/Biomethanation\n\nBiomethanation, or methanogenesis, is a scientific process whereby anaerobic microorganisms in an anaerobic environment decompose biodegradable matter producing",
+    "source_url": null,
+    "book_name": "Environment by Shankar IAS Academy",
+    "created_at": "2025-07-02T02:54:44.512467",
+    "section_name": "Environment, Development content in RENEWABLE ENERGY",
+    "metadata": {
+      "file_id": "Environment by Shankar IAS Academy",
+      "document_type": "text",
+      "short_description": "Environment, Development content in RENEWABLE ENERGY",
+      "summary": "The study material discusses various renewable energy sources such as small hydro power, ocean thermal energy, wave energy, tidal energy, and biomass.",
+      "page_number": 87,
+      "subject": "Environment",
+      "class": "UPSC",
+      "chapter_name": "RENEWABLE ENERGY",
+      "chapter_number": 1,
+      "file_name": "Environment by Shankar IAS Academy",
+      "part": "Environmental Ecology",
+      "start_page": 83,
+      "end_page": 92,
+      "image_id": null,
+      "image_bbox": {
+        "top_left_x": 0,
+        "top_left_y": 0,
+        "bottom_right_x": 0,
+        "bottom_right_y": 0
+      },
+      "dimensions": {
+        "dpi": 200,
+        "height": 2339,
+        "width": 1653
+      },
+      "content_analysis": {
+        "chapter_name": null,
+        "chapter_number": null,
+        "summary": "use. When the demand for electricity is low, a pumped storage facility stores energy by pumping water from a lower reservoir to an upper reservoir. During periods of high electrical demand, the water ...",
+        "content_type": "text",
+        "key_topics": [
+          "environment",
+          "development",
+          "natural",
+          "forest",
+          "atmosphere",
+          "water",
+          "energy",
+          "renewable",
+          "carbon"
+        ],
+        "is_front_matter": false,
+        "confidence": 0.0
+      },
+      "image_count": 0,
+      "integrated_content_length": 4359,
+      "topic_tags": [
+        "environment",
+        "development",
+        "natural",
+        "forest",
+        "atmosphere",
+        "water",
+        "energy",
+        "renewable",
+        "carbon"
+      ],
+      "key_concepts": [
+        "environment",
+        "development",
+        "natural",
+        "forest",
+        "atmosphere",
+        "water",
+        "energy",
+        "renewable",
+        "carbon"
+      ],
+      "keywords": [
+        "pumped storage facility",
+        "small hydro power",
+        "India",
+        "China",
+        "ocean thermal energy",
+        "OTEC",
+        "wave energy",
+        "tidal energy",
+        "biomass"
+      ],
+      "difficulty_level": "intermediate",
+      "learning_objectives": [],
+      "related_chapters": [],
+      "prerequisites": [],
+      "common_mistakes": []
+    }
+  },
+  {
+    "book_type": "UPSC",
+    "subject": "Environment",
+    "chapter_name": "RENEWABLE ENERGY",
+    "chapter_number": 1,
+    "page_number": 88,
+    "content": "methane-rich biogas and effluent. The three functions that take place sequentially are hydrolysis, acidogenosis and methanogenesis.\n\n## Combustion/Incineration\n\nIn this process, waste is directly burned in the presence of excess air (oxygen) at high temperatures (about $800^{\\circ} \\mathrm{C}$ ), liberating heat energy, inert gases and ash. Combustion results in transfer of $65-80 \\%$ of heat content of the organic matter to hot air, steam and hot water. The steam generated, in turn, can be used in steam turbines to generate power.\n\n## Pyrolysis/Gasification\n\nPyrolysis is a process of chemical decomposition of organic matter brought about by heat. In this process, the organic material is heated in the absence of air until the molecules thermally break down to become a gas comprising smaller molecules (known collectively as syngas).\nGasification can also take place as a result of partial combustion of organic matter in the presence of a restricted quantity of oxygen or air. The gas so produced is known as producer gas. The gases produced by pyrolysis mainly comprise carbon monoxide ( $25 \\%$ ), hydrogen and hydrocarbons ( $15 \\%$ ), and carbon dioxide and nitrogen ( $60 \\%$ ). The next step is to 'clean' the syngas or producer gas. Thereafter, the gas is burned in internal combustion (IC) engine generator sets or turbines to produce electricity.\n\n### 6.6 COGENERATION\n\nCo-generation is producing two forms of energy from one fuel. One of the forms of energy must always be heat and the other may be electricity or mechanical energy. In a conventional power plant, fuel is burnt in a boiler to generate high-pressure steam. This steam is used to drive a turbine, which in turn drives an alternator through a steam turbine to produce electric power. The exhaust steam is generally condensed to water which goes back to the boiler.\nAs the low-pressure steam has a large quantum of heat which is lost in the process of condensing, the efficiency of conventional power plants is only around $35 \\%$. In a cogeneration plant, the low-pressure exhaust steam coming out of the turbine is not condensed, but used for heating purposes in factories or houses and thus very high efficiency levels, in the range of $75 \\%-90 \\%$, can be reached.\nSince co-generation can meet both power and heat needs, it has other advantages as well in the form of significant\ncost savings for the plant and reduction in emissions of pollutants due to reduced fuel consumption.\nEven at conservative estimates, the potential of power generation from co-generation in India is more than 20,000 MW. Since India is the largest producer of sugar in the world, bagasse-based cogeneration is being promoted. The potential for cogeneration thus lies in facilities with joint requirement of heat and electricity, primarily sugar and rice mills, distilleries, petrochemical sector and industries such as fertilizers, steel, chemical, cement, pulp and paper, and aluminium.\n\n## Potential in India\n\n- Biomass energy is one of the most important sources of energy forming $32 \\%$ of the total primary energy usage in the country with more than $70 \\%$ of the Indian population dependent on it for its energy needs.\n- The current availability of biomass is estimated at about 450-500 million tonnes annually translating to a potential of around 18000 MW .\n- In addition, about 5000 MW additional power could be generated through bagasse based cogeneration in the country's 550 Sugar mills\n- It attracts over Rs 600 crore in investments annually creating rural employment of more than 10 million man days whilst generating more than 5000 million units of electricity.\n\n\n## Installed capacity in India\n\n- Approximately over 300 biomass power and cogeneration projects aggregating 3700 MW have been installed in the country for feeding power to the grid. Also, 30 biomass power projects aggregating about 350 MW are under different stages of implementation.\n- Andhra Pradesh, Tamil Nadu, Karnataka, Maharashtra and Uttar Pradesh are the leading states in the implementation of bagasse cogeneration projects.\n- In the biomass power projects, Andhra Pradesh, Chhattisgarh, Maharashtra, Madhya Pradesh, Gujarat and Tamil Nadu have taken leadership position.\n- The Government plans to meet $20 \\%$ of the countries diesel requirements by 2020 using biodiesel. Potential sources of biodiesel production have been identified in wild plants such as jatropha curcas, neem, mahua, karanj, Simarouba (exotic tree) etc.\n- Several incentive schemes have been introduced to rehabilitate waste lands through the cultivation of Jatropha.",
+    "source_url": null,
+    "book_name": "Environment by Shankar IAS Academy",
+    "created_at": "2025-07-02T02:54:46.490628",
+    "section_name": "Water, Energy content in RENEWABLE ENERGY",
+    "metadata": {
+      "file_id": "Environment by Shankar IAS Academy",
+      "document_type": "text",
+      "short_description": "Water, Energy content in RENEWABLE ENERGY",
+      "summary": "The content discusses different methods of waste management and energy generation, including combustion, pyrolysis/gasification, and cogeneration, emphasizing the efficiency and environmental benefits of cogeneration in India.",
+      "page_number": 88,
+      "subject": "Environment",
+      "class": "UPSC",
+      "chapter_name": "RENEWABLE ENERGY",
+      "chapter_number": 1,
+      "file_name": "Environment by Shankar IAS Academy",
+      "part": "Environmental Ecology",
+      "start_page": 83,
+      "end_page": 92,
+      "image_id": null,
+      "image_bbox": {
+        "top_left_x": 0,
+        "top_left_y": 0,
+        "bottom_right_x": 0,
+        "bottom_right_y": 0
+      },
+      "dimensions": {
+        "dpi": 200,
+        "height": 2339,
+        "width": 1653
+      },
+      "content_analysis": {
+        "chapter_name": null,
+        "chapter_number": null,
+        "summary": "methane-rich biogas and effluent. The three functions that take place sequentially are hydrolysis, acidogenosis and methanogenesis.",
+        "content_type": "text",
+        "key_topics": [
+          "water",
+          "energy",
+          "carbon"
+        ],
+        "is_front_matter": false,
+        "confidence": 0.0
+      },
+      "image_count": 0,
+      "integrated_content_length": 4597,
+      "topic_tags": [
+        "water",
+        "energy",
+        "carbon"
+      ],
+      "key_concepts": [
+        "water",
+        "energy",
+        "carbon"
+      ],
+      "keywords": [
+        "methane-rich biogas",
+        "hydrolysis",
+        "acidogenosis",
+        "methanogenesis",
+        "combustion",
+        "pyrolysis",
+        "gasification",
+        "cogeneration",
+        "efficiency",
+        "emissions",
+        "India",
+        "biomass energy"
+      ],
+      "difficulty_level": "intermediate",
+      "learning_objectives": [],
+      "related_chapters": [],
+      "prerequisites": [],
+      "common_mistakes": []
+    }
+  },
+  {
+    "book_type": "UPSC",
+    "subject": "Environment",
+    "chapter_name": "RENEWABLE ENERGY",
+    "chapter_number": 1,
+    "page_number": 89,
+    "content": "- Central Finance Assistance (CFA) is provided by the Ministry of New and Renewable Energy (MNRE) in the form of capital subsidy and financial incentives to biomass energy projects in India.\n\n\n### 6.7 WASTE TO ENERGY\n\nIn today's era, there are increasing quantities of waste due to urbanization, industrialization and changes in life patterns which are harmful to the environment. In the recent past, development of technology has helped to reduce the amount of waste for its safe disposal and to generate electricity from it.\nWaste-to-energy has the potential to divert waste from landfills and generate clean power without the emission of harmful greenhouse gas. This significantly reduces the volume of waste that needs to be disposed of and can generate power Pyrolysis and gasification are emerging technologies apart from the common incineration and biomethanation.\n\n### 6.7.1 Potential of waste-to-energy\n\n- There is an estimated potential of about 225 MW from all sewage and about 1460 MW from Municipal Solid Waste (MSW) in India totaling around 1700 MW of power.\n- There is current potential to recover 1,300 MW of power from industrial wastes, which is projected to increase to 2,000 MW by 2017.\n- The total installed capacity of grid interactive power from Waste to energy is 99.08 MW of grid power and about 115.07 MW of off-grid power.\n- MNRE is actively promoting the generation of energy from waste by providing incentives and subsidies on projects\n\n\n### 6.7.2. Major Constraints Faced by the Indian Waste to Energy Sector\n\n- Choice of technology - Waste-to-Energy is still a new concept in India. Most of the proven and commercial technologies in respect of urban wastes are required to be imported;\n- High costs - The costs of the projects especially based on biomethanation technology are high as critical equipment for a project is required to be imported.\n- Improper segregation - India lacks a source separated waste stream, owing to the low level of compliance of\n\nMunicipal Solid Waste (MSW) Rules 2000 by the Municipal Corporations/ Urban Local Bodies. The organic waste is mixed with the other types of waste. Hence the operations of the waste to energy techniques are hindered and a lack of smoothness causes the attempts to be short lived.\n\n- Lack of policy support - Lack of conducive policy guidelines from State Governments in respect of allotment of land, supply of garbage and power purchase / evacuation facilities.\n\n\n### 6.8 GEOTHERMAL ENERGY\n\nGeothermal generation refers to harnessing of the geothermal energy or the vast reservoir of heat stored in the earth's inner core. Below the earth's crust, there is a layer of hot and molten rock called 'magma'. Heat is continually produced there, mostly from the decay of naturally radioactive materials such as uranium and potassium.\n\n## How is it captured\n\nGeothermal systems can be found in regions with a normal or slightly above normal geothermal gradient (gradual change in temperature is known as the geothermal gradient, which expresses the increase in temperature with depth in the earth's crust. The average geothermal gradient is about $2.5-3{ }^{\\circ} \\mathrm{C} / 100 \\mathrm{~m}$.) and especially in regions around plate margins where the geothermal gradients may be significantly higher than the average value.\nThe most common current way of capturing the energy from geothermal sources is to tap into naturally occurring \"hydrothermal convection\" systems where cooler water seeps into the earth's crust, is heated up and then rises to the surface. When heated water is forced to the surface, it is a relatively easy to capture that steam and use it to drive electric generators.\n\n## Potential in India\n\nIndia has a potential for producing around 10,600 MW of power from geothermal resources. Although India was amongthe earliest countries to begin geothermal projects since the 1970's, at present there are no operational geothermal plants in India. 340 hot springs were identified across India. These have been grouped together and termed as different geothermal provinces based on their occurrence in specific geotectonic regions, geological and structural regions such as occurrence in orogenic belt regions, structural grabens, deep fault zones, active volcanic regions etc.",
+    "source_url": null,
+    "book_name": "Environment by Shankar IAS Academy",
+    "created_at": "2025-07-02T02:54:47.817903",
+    "section_name": "Environment, Development content in RENEWABLE ENERGY",
+    "metadata": {
+      "file_id": "Environment by Shankar IAS Academy",
+      "document_type": "text",
+      "short_description": "Environment, Development content in RENEWABLE ENERGY",
+      "summary": "MNRE provides Central Finance Assistance (CFA) for biomass energy projects in India, with a focus on waste-to-energy projects and geothermal energy generation.",
+      "page_number": 89,
+      "subject": "Environment",
+      "class": "UPSC",
+      "chapter_name": "RENEWABLE ENERGY",
+      "chapter_number": 1,
+      "file_name": "Environment by Shankar IAS Academy",
+      "part": "Environmental Ecology",
+      "start_page": 83,
+      "end_page": 92,
+      "image_id": null,
+      "image_bbox": {
+        "top_left_x": 0,
+        "top_left_y": 0,
+        "bottom_right_x": 0,
+        "bottom_right_y": 0
+      },
+      "dimensions": {
+        "dpi": 200,
+        "height": 2339,
+        "width": 1653
+      },
+      "content_analysis": {
+        "chapter_name": null,
+        "chapter_number": null,
+        "summary": "- Central Finance Assistance (CFA) is provided by the Ministry of New and Renewable Energy (MNRE) in the form of capital subsidy and financial incentives to biomass energy projects in India.",
+        "content_type": "text",
+        "key_topics": [
+          "environment",
+          "development",
+          "natural",
+          "resources",
+          "water",
+          "energy",
+          "renewable",
+          "greenhouse"
+        ],
+        "is_front_matter": false,
+        "confidence": 0.0
+      },
+      "image_count": 0,
+      "integrated_content_length": 4276,
+      "topic_tags": [
+        "environment",
+        "development",
+        "natural",
+        "resources",
+        "water",
+        "energy",
+        "renewable",
+        "greenhouse"
+      ],
+      "key_concepts": [
+        "environment",
+        "development",
+        "natural",
+        "resources",
+        "water",
+        "energy",
+        "renewable",
+        "greenhouse"
+      ],
+      "keywords": [
+        "MNRE",
+        "Central Finance Assistance",
+        "biomass energy",
+        "waste-to-energy",
+        "geothermal energy",
+        "potential",
+        "constraints",
+        "technology",
+        "incentives"
+      ],
+      "difficulty_level": "intermediate",
+      "learning_objectives": [],
+      "related_chapters": [],
+      "prerequisites": [],
+      "common_mistakes": []
+    }
+  },
+  {
+    "book_type": "UPSC",
+    "subject": "Environment",
+    "chapter_name": "RENEWABLE ENERGY",
+    "chapter_number": 1,
+    "page_number": 90,
+    "content": "## Orogenic regions:\n\n1. Himalayan geothermal province\n2. Naga-Lushai geothermal province\n3. Andaman-Nicobar Islands geothermal province\n\n## Non-orogenic regions:\n\n1. Cambay graben,\n2. Son-Narmada-Tapigraben,\n3. West coast,\n4. Damodar valley,\n5. Mahanadi valley,\n6. Godavari valley etc\n\n## Potential Sites:\n\n1. Puga Valley (J\\&K)\n2. Tattapani (Chhattisgarh)\n3. Godavari Basin Manikaran (Himachal Pradesh)\n4. Bakreshwar (West Bengal)\n5. Tuwa (Gujarat)\n6. Unai (Maharashtra)\n7. Jalgaon (Maharashtra)\n\n## Recent Developments:\n\nIn 2013,India's first geothermal power plant was announced to be set up in Chhattisgarh. The plant would be set up at Tattapani in the Balrampur district.\nSatellites like the IRS-1 have played an important role, through infrared photographs, in locating geothermal areas.\n\n## Challenges\n\n## High generation costs\n\nMost costs relating to geothermal power plants are incurred due to resource exploration and plant construction.\n\n## Drilling costs\n\nAlthough the cost of generating geothermal electricity has decreased by 25 percent during the last two decades, exploration and drilling remain expensive and risky. It is because rocks in geothermal areas are extremely hard and hot, developers must frequently replace drilling equipment.\n\n## Transmission barrier\n\nGeothermal power plants must be located near specific areas near a reservoir because it is not practical to trans-\nport steam or hot water over distances greater than two miles. Since many of the best geothermal resources are located in rural areas, developers may be limited by their ability to supply electricity to the grid. New power lines are expensive to construct and difficult to site. Many existing transmission lines are operating near capacity and may not be able to transmit electricity without significant upgrades. Consequently, any significant increase in the number of geothermal power plants will be limited by the plants ability to connect, upgrade or build new lines to access the power grid and whether the grid is able to deliver additional power to the market.\n\n## Accessibility\n\nSome areas may have sufficient hot rocks to supply hot water to a power station, but many of these areas are located in harsh areas or high up in mountains. This curbs the accessibility of geothermal resources adding on to the costs of development.\n\n## Execution challenges\n\nHarmful radioactive gases can escape from deep within the earth through the holes drilled by the constructors. The plant must be able to contain any leaked gases and ensure safe disposal of the same.\n\n### 6.9 FUEL CELLS\n\nFuel cells are electrochemical devices that convert the chemical energy of a fuel directly and very efficiently into electricity (DC) and heat, thus doing away with combustion. The most suitable fuel for such cells is hydrogen or a mixture of compounds containing hydrogen. A fuel cell consists of an electrolyte sandwiched between two electrodes. Oxygen passes over one electrode and hydrogen over the other, and they react electrochemically to generate electricity, water, and heat.\n\n## Fuel cells for automobile transport\n\nCompared to vehicles powered by the internal combustion engine, fuel-cell powered vehicles have very high energy conversion efficiency, and near-zero pollution, CO 2 and water vapour being the only emissions. Fuel-cell-powered EV's (electric vehicles) score over battery operated EV's in terms of increased efficiency and easier and faster refuelling.\nIn India, diesel run buses are a major means of transport and these emit significant quantities of SPM and SO2.Thus, fuel-cell powered buses and electric vehicles could be introduced with relative ease to dramatically reduce urban",
+    "source_url": null,
+    "book_name": "Environment by Shankar IAS Academy",
+    "created_at": "2025-07-02T02:54:49.048524",
+    "section_name": "Diagram in RENEWABLE ENERGY",
+    "metadata": {
+      "file_id": "Environment by Shankar IAS Academy",
+      "document_type": "text",
+      "short_description": "Diagram in RENEWABLE ENERGY",
+      "summary": "The content discusses different geothermal provinces, potential sites, recent developments, challenges, and fuel cells for electricity generation.",
+      "page_number": 90,
+      "subject": "Environment",
+      "class": "UPSC",
+      "chapter_name": "RENEWABLE ENERGY",
+      "chapter_number": 1,
+      "file_name": "Environment by Shankar IAS Academy",
+      "part": "Environmental Ecology",
+      "start_page": 83,
+      "end_page": 92,
+      "image_id": null,
+      "image_bbox": {
+        "top_left_x": 0,
+        "top_left_y": 0,
+        "bottom_right_x": 0,
+        "bottom_right_y": 0
+      },
+      "dimensions": {
+        "dpi": 200,
+        "height": 2339,
+        "width": 1653
+      },
+      "content_analysis": {
+        "chapter_name": "Himalayan Geothermal Province",
+        "chapter_number": 1,
+        "summary": "1. Himalayan geothermal province",
+        "content_type": "diagram",
+        "key_topics": [
+          "pollution",
+          "development",
+          "resources",
+          "water",
+          "energy"
+        ],
+        "is_front_matter": false,
+        "confidence": 0.9
+      },
+      "image_count": 0,
+      "integrated_content_length": 3690,
+      "topic_tags": [
+        "pollution",
+        "development",
+        "resources",
+        "water",
+        "energy"
+      ],
+      "key_concepts": [
+        "pollution",
+        "development",
+        "resources",
+        "water",
+        "energy"
+      ],
+      "keywords": [
+        "Orogenic regions",
+        "Non-orogenic regions",
+        "Potential Sites",
+        "Recent Developments",
+        "Challenges",
+        "Fuel cells",
+        "Geothermal power plants",
+        "Transmission barrier."
+      ],
+      "difficulty_level": "intermediate",
+      "learning_objectives": [],
+      "related_chapters": [],
+      "prerequisites": [],
+      "common_mistakes": []
+    }
+  },
+  {
+    "book_type": "UPSC",
+    "subject": "Environment",
+    "chapter_name": "RENEWABLE ENERGY",
+    "chapter_number": 1,
+    "page_number": 91,
+    "content": "air pollution and to make a positive impact on urban air quality.\n\n## Fuel cells for power generation\n\nConventional large-scale power plants use non-renewable fuels with significant adverse ecological and environmental impacts. Fuel cell systems are excellent candidates for small-scale decentralized power generation.\nFuel cells can supply combined heat and power to commercial buildings, hospitals, airports and military installation at remote locations. Fuel cells have efficiency levels up to $55 \\%$ as compared to $35 \\%$ of conventional power plants. The emissions are significantly lower ( $\\mathrm{CO}_{2}$ and water vapour being the only emissions). Fuel cell systems are modular (i.e. additional capacity can be added whenever required with relative ease) and can be set up wherever power is required.\n\n## Constraint\n\nHigh initial cost is the biggest hurdle in the widespread commercialization of fuel cells.\n\n## REN21\n\nREN21 is the global renewable energy policy multi-stakeholder network that connects a wide range of key actors from:\n\n- Governments\n- International organisations\n- Industry associations\n- Science and academia as well as civil society\n\nTo facilitate knowledge exchange, policy development and joint action towards a rapid global transition to renewable energy. REN21 promotes renewable energy to meet the needs of both industrialized and developing countries that are driven by climate change, energy security, development and poverty alleviation.\n\n## REN21 is an international non-profit association and committed to the following objectives:\n\n- Providing policy-relevant information and researchbased analysis on renewable energy to decision makers, multipliers and the public to catalyse policy change\n- Offering a platform for interconnection between multistakeholder actors working in the renewable energy field worldwide and identifying barriers as well as working to bridge existing gaps to increase the largescale deployment of renewable energy worldwide.\n\n\n## Conclusion\n\nEfficient use of renewable energy would reduce our dependence on non-renewable sources of energy, make us energy self-sufficient and make our environment cleaner.As more green power sources are developed - displacing conventional generation - the overall environmental impacts associated with electricity generation will be significantly reduced.",
+    "source_url": null,
+    "book_name": "Environment by Shankar IAS Academy",
+    "created_at": "2025-07-02T02:54:50.434834",
+    "section_name": "Environment, Pollution content in RENEWABLE ENERGY",
+    "metadata": {
+      "file_id": "Environment by Shankar IAS Academy",
+      "document_type": "text",
+      "short_description": "Environment, Pollution content in RENEWABLE ENERGY",
+      "summary": "The content discusses the use of fuel cells for decentralized power generation, the constraints faced in their commercialization, and the role of REN21 in promoting renewable energy policies globally.",
+      "page_number": 91,
+      "subject": "Environment",
+      "class": "UPSC",
+      "chapter_name": "RENEWABLE ENERGY",
+      "chapter_number": 1,
+      "file_name": "Environment by Shankar IAS Academy",
+      "part": "Environmental Ecology",
+      "start_page": 83,
+      "end_page": 92,
+      "image_id": null,
+      "image_bbox": {
+        "top_left_x": 0,
+        "top_left_y": 0,
+        "bottom_right_x": 0,
+        "bottom_right_y": 0
+      },
+      "dimensions": {
+        "dpi": 200,
+        "height": 2339,
+        "width": 1653
+      },
+      "content_analysis": {
+        "chapter_name": null,
+        "chapter_number": null,
+        "summary": "air pollution and to make a positive impact on urban air quality.",
+        "content_type": "text",
+        "key_topics": [
+          "environment",
+          "pollution",
+          "climate",
+          "development",
+          "water",
+          "energy",
+          "renewable"
+        ],
+        "is_front_matter": false,
+        "confidence": 0.0
+      },
+      "image_count": 0,
+      "integrated_content_length": 2357,
+      "topic_tags": [
+        "environment",
+        "pollution",
+        "climate",
+        "development",
+        "water",
+        "energy",
+        "renewable"
+      ],
+      "key_concepts": [
+        "environment",
+        "pollution",
+        "climate",
+        "development",
+        "water",
+        "energy",
+        "renewable"
+      ],
+      "keywords": [
+        "air pollution",
+        "urban air quality",
+        "fuel cells",
+        "power generation",
+        "decentralized",
+        "REN21",
+        "renewable energy",
+        "policy development",
+        "environmental impacts."
+      ],
+      "difficulty_level": "intermediate",
+      "learning_objectives": [],
+      "related_chapters": [],
+      "prerequisites": [],
+      "common_mistakes": []
+    }
+  },
+  {
+    "book_type": "UPSC",
+    "subject": "Environment",
+    "chapter_name": "RENEWABLE ENERGY",
+    "chapter_number": 1,
+    "page_number": 92,
+    "content": "SHANKAR IAS ACADEMY",
+    "source_url": null,
+    "book_name": "Environment by Shankar IAS Academy",
+    "created_at": "2025-07-02T02:54:51.504532",
+    "section_name": "Page 11 content in RENEWABLE ENERGY",
+    "metadata": {
+      "file_id": "Environment by Shankar IAS Academy",
+      "document_type": "text",
+      "short_description": "Page 11 content in RENEWABLE ENERGY",
+      "summary": "SHANKAR IAS ACADEMY is a renowned institute offering comprehensive study material for UPSC exam preparation.",
+      "page_number": 92,
+      "subject": "Environment",
+      "class": "UPSC",
+      "chapter_name": "RENEWABLE ENERGY",
+      "chapter_number": 1,
+      "file_name": "Environment by Shankar IAS Academy",
+      "part": "Environmental Ecology",
+      "start_page": 83,
+      "end_page": 92,
+      "image_id": null,
+      "image_bbox": {
+        "top_left_x": 0,
+        "top_left_y": 0,
+        "bottom_right_x": 0,
+        "bottom_right_y": 0
+      },
+      "dimensions": {
+        "dpi": 200,
+        "height": 2339,
+        "width": 1653
+      },
+      "content_analysis": {
+        "chapter_name": null,
+        "chapter_number": null,
+        "summary": null,
+        "content_type": "text",
+        "key_topics": [],
+        "is_front_matter": true,
+        "confidence": 0.1
+      },
+      "image_count": 0,
+      "integrated_content_length": 19,
+      "topic_tags": [],
+      "key_concepts": [],
+      "keywords": [
+        "SHANKAR IAS ACADEMY",
+        "institute",
+        "study material",
+        "UPSC exam",
+        "preparation."
+      ],
+      "difficulty_level": "intermediate",
+      "learning_objectives": [],
+      "related_chapters": [],
+      "prerequisites": [],
+      "common_mistakes": []
+    }
+  }
+]

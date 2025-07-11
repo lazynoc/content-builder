@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "extraction_date": "2025-07-06T14:40:00.000000",
+    "target_question": 48,
+    "pages": "60-61",
+    "extraction_method": "chunked_ocr_with_manual_correction",
+    "note": "Question 48 complete and corrected"
+  },
+  "questions": [
+    {
+      "question_number": "48",
+      "section": "Economics",
+      "question_text": "With reference to the Digital India Land Records Modernisation Programme, consider the following statements: 1. To implement the scheme, the Central Government provides 100% funding. 2. Under the Scheme, Cadastral Maps are digitized. 3. An initiative has been undertaken to transliterate the Records of Rights from local language to any of the languages recognized by the Constitution of India. Which of the statements given above are correct? (a) 1 and 2 only (b) 2 and 3 only (c) 1 and 3 only (d) 1, 2 and 3",
+      "correct_answer": "D",
+      "explanation": "Digital India Land Records Modernization Programme (erstwhile National Land Record Modernization Programme) was revamped and converted as a Central Sector Scheme with effect from 1st April, 2016 with 100% funding by the Centre. The objective of DILRMP is to develop a modern, comprehensive and transparent land record management system with the aim to develop an Integrated Land Information Management System. Hence statement 1 is correct. The basic components of the programme include Computerization of Land Records, digitization of Cadastral Maps, Computerization of Registration Offices, Integration of Sub Registrar offices(SROs) with Land Records etc. Hence statement 2 is correct. Some innovative initiatives under DILRMP: Unique Land Parcel Identification Number (ULPIN) or Bhu-Aadhar system is a 14 digit Alpha-numeric unique ID for each land parcel based on Geo-coordinates of vertices of the parcel which is of international standard and complies with Electronic Commerce Code Management Association (ECCMA) standard and Open Geospatial Consortium (OGC) standard, is being implemented across the country. Transliteration of Land Records in all languages of Schedule VIII in all States/UTs: In order to address the problem of linguistic barriers in land governance, the Government with the technical support of Centre for Development of Advanced Computing (C-DAC) Pune, has undertaken an initiative to transliterate the Records of Rights available in local language to any of the 22 Schedule VIII languages of the Constitution. Hence statement 3 is correct.",
+      "motivation": "Digital India Land Records Modernization Programme (DILRMP) is an important government scheme for land record management",
+      "difficulty_level": "M",
+      "question_nature": "FCA",
+      "source_material": "Digital India Land Records Modernization Programme (DILRMP)",
+      "source_type": "RM",
+      "test_series_reference": "",
+      "id": "c265484c-3951-4951-95a3-9c4ae0721ad8",
+      "extraction_order": 1,
+      "chunk_number": 1,
+      "extraction_method": "chunked_ocr_with_manual_correction",
+      "pages": "60-61"
+    }
+  ]
+} 

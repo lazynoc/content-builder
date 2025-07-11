@@ -1,0 +1,837 @@
+{
+  "metadata": {
+    "original_file": "GS Prelims 2024_ALL_enhanced_analysis.json",
+    "chunk_number": 3,
+    "total_chunks": 11,
+    "questions_in_chunk": 10,
+    "question_range": "21-30",
+    "processing_date": "2025-07-05 23:37:33",
+    "analysis_method": "OpenAI GPT-4o-mini (Enhanced)",
+    "processing_note": "Chunk 3 of 11 - Enhanced analysis with options separated"
+  },
+  "questions": [
+    {
+      "question_number": "21",
+      "section": "Current Affairs (Polity & Governance)",
+      "question_text": "Consider the following statements regarding 'Nari Shakti Vandan Adhiniyam': 1. Provisions will come into effect from the 18th Lok Sabh2. This will be in force for 15 years after becoming an Act. 3. There are provisions for the reservation of seats for Scheduled Castes Women within the quota reserved for the Scheduled Castes. Which of the statements given above are correct?",
+      "options": {
+        "A": "1, 2 and 3",
+        "B": "1 and 2 only",
+        "C": "2 and 3 only",
+        "D": "1 and 3 only"
+      },
+      "correct_answer": "C",
+      "explanation": "The Constitution (106th Amendment) Act, 2023, also known as 'Nari Shakti Adhiniyam' reserves one-third of all seats for women in Lok Sabha, State legislative assemblies, and the Legislative Assembly of the National Capital Territory of Delhi, including those reserved for SCs and STs.\n\nKey Provisions:\nWithin the 33% reservation for women, there will be sub-reservations for Scheduled Castes (SCs) and Scheduled Tribes (STs) in line with their proportion in the population. Hence, statement 3 is correct. The reservation will be in effect for a period of 15 years from the date of commencement of the legislation. Hence, statement 2 is correct. The bill does not propose any reservation for women in the Rajya Sabha (the upper house of India's Parliament) or the state legislative councils. The reservation will come into effect after the completion of the first delimitation exercise undertaken after the commencement of the bill, ensuring that constituencies are redrawn to reflect the population changes. Hence, statement 1 is not correct.",
+      "motivation": "Recently Parliament passed NARI SHAKTI VANDAN [CONSTITUTION (106TH AMENDMENT)] ACT, 2023",
+      "source_material": "https://www.thehindu.com/news/national/womens-reservation-bill-gets-presidents-assent/article67361561.ece, https://www.thehindu.com/news/national/womens-reservation-bill-govt-introduces-nari-shakti-vandan-adhiniyam-in-lok-sabha/article67322055.ece",
+      "source_type": "EN",
+      "test_series_reference": "PT 3652024 Polity: Article 6.1 NARI SHAKTI VANDAN [CONSTITUTION (106TH AMENDMENT)] ACT, 2023, VisionIAS /Open test/Abhyaas : Test 4359, Sandhan Vision IAS Prelims Test Series Initiative",
+      "id": "a8e6b932-0163-465b-88ab-2856f81900ec",
+      "extraction_order": 21,
+      "chunk_number": 999,
+      "question_nature": {
+        "primary_type": "Current Affairs",
+        "secondary_type": "Memory-based",
+        "difficulty_reason": "This question is medium in difficulty as it requires specific knowledge about recent legislative changes and their implications, which may not be common knowledge.",
+        "knowledge_requirement": "Dynamic and current affairs knowledge is required, particularly regarding recent amendments and policies related to women's reservation."
+      },
+      "examiner_thought_process": {
+        "testing_objective": "The examiner is testing the candidate's awareness of recent legislative changes and their implications on social policies.",
+        "question_design_strategy": "The question is designed to assess the candidate's understanding of the specific provisions of the 'Nari Shakti Vandan Adhiniyam' and their ability to discern correct statements from incorrect ones.",
+        "trap_setting": "The options include statements that may seem plausible but are incorrect, particularly the first statement, which is misleading regarding the effective date.",
+        "discrimination_potential": "This question can effectively differentiate between candidates who are well-versed in current affairs and those who are not, as it requires precise knowledge of a recent act."
+      },
+      "options_analysis": {
+        "A": {
+          "type": "silly_mistake",
+          "reason": "This option is incorrect because statement 1 is not true; the provisions do not come into effect from the 18th Lok Sabha.",
+          "trap": "Candidates might confuse the timing of the provisions with the legislative process.",
+          "elimination_strategy": "Recognize that the first statement is incorrect based on the knowledge of the act's provisions."
+        },
+        "B": {
+          "type": "close_call",
+          "reason": "This option is incorrect as it includes statement 1, which is false, despite statements 2 and 3 being correct.",
+          "trap": "Students may mistakenly believe that if two statements are correct, the option could still be valid.",
+          "elimination_strategy": "Identify the incorrect statement (1) to eliminate this option."
+        },
+        "C": {
+          "type": "correct_answer",
+          "reason": "This option is correct as it accurately reflects that statements 2 and 3 are true regarding the act.",
+          "trap": "",
+          "elimination_strategy": ""
+        },
+        "D": {
+          "type": "tricky_option",
+          "reason": "This option is incorrect because it includes statement 1, which is false, despite statement 3 being correct.",
+          "trap": "Candidates may focus on the correctness of statement 3 and overlook statement 1.",
+          "elimination_strategy": "Recognize that statement 1 is incorrect to eliminate this option."
+        }
+      },
+      "learning_insights": {
+        "key_concepts": [
+          "Nari Shakti Vandan Adhiniyam",
+          "Women Reservation Bill",
+          "Scheduled Castes and Scheduled Tribes provisions"
+        ],
+        "common_mistakes": [
+          "Not paying attention to the exact wording of statements, leading to misinterpretation.",
+          "Assuming all statements in an option are correct if one is true."
+        ],
+        "elimination_technique": "Read each statement carefully and cross-check with known facts about the act. Eliminate options based on the correctness of each statement.",
+        "memory_hooks": [
+          "Remember 'Nari Shakti' as a mnemonic for women's empowerment and reservation.",
+          "Use the phrase '15 years of change' to recall the duration of the act's enforcement."
+        ],
+        "related_topics": [
+          "Women empowerment policies in India",
+          "Reservation policies in India",
+          "Recent amendments to the Constitution"
+        ],
+        "current_affairs_connection": "This question connects to current affairs as it pertains to a recent legislative change aimed at enhancing women's representation in governance."
+      },
+      "difficulty_level": "Medium",
+      "time_management": "Candidates should spend about 1-2 minutes on this question to read and analyze the statements carefully.",
+      "confidence_calibration": "A well-prepared student should feel confident in answering this question correctly, provided they are updated on current legislative changes."
+    },
+    {
+      "question_number": "22",
+      "section": "Current Affairs (Internal Security)",
+      "question_text": "Which of the following statements about 'Exercise Mitra Shakti-2023' are correct? 1. This was a joint military exercise between India and Bangladesh. 2. It commenced in Aundh (Pune). 3. Joint response during counterterrorism operations",
+      "options": {
+        "A": "1 only",
+        "B": "2 only",
+        "C": "1 and 3",
+        "D": "2 and 3"
+      },
+      "correct_answer": "D",
+      "explanation": "The exercise was conducted between India and Sri Lanka from 16th to 29th November 2023... Hence option (d) is the correct answer.",
+      "motivation": "Exercise Mitra Shakti was conducted between India and Sri Lanka from 16th to 29th November 2023.",
+      "source_material": "https://pib.gov.in/PressReleasePage.aspx?PRID=1977339#:~:text=The%20ninth%20edition%20of%20Joint,the%20MARATHA%20LIGHT%20INFANTRY%20Regiment.",
+      "source_type": "E",
+      "test_series_reference": "Sandhan Vision IAS Prelims Test Series Initiative",
+      "id": "8157c822-0cd6-43bc-b3a2-74b0db941f8c",
+      "extraction_order": 1,
+      "chunk_number": 6,
+      "question_nature": {
+        "primary_type": "Current Affairs",
+        "secondary_type": "Memory-based",
+        "difficulty_reason": "The question is medium in difficulty as it requires specific knowledge about a recent event. Students must recall details about the exercise, which may not be widely known or remembered.",
+        "knowledge_requirement": "Dynamic/current affairs knowledge is required, particularly about military exercises between India and other countries."
+      },
+      "examiner_thought_process": {
+        "testing_objective": "The examiner aims to assess candidates' awareness of recent military collaborations and exercises, which are crucial for understanding India's defense relations.",
+        "question_design_strategy": "The question is designed to test specific knowledge about the exercise, including its participants, location, and purpose. It requires candidates to differentiate between similar-sounding exercises.",
+        "trap_setting": "The options include statements that may seem plausible but are incorrect, such as the location and the participating countries, which can mislead students who are not fully informed.",
+        "discrimination_potential": "This question has good discrimination potential as it can effectively differentiate between candidates who have a thorough understanding of current affairs and those who do not."
+      },
+      "options_analysis": {
+        "A": {
+          "type": "plausible_distractor",
+          "reason": "This option is incorrect because, while it correctly identifies the joint military exercise, it incorrectly states the participating country as Bangladesh instead of Sri Lanka.",
+          "trap": "Students may confuse Bangladesh with Sri Lanka due to the geographical proximity and historical context of military exercises in the region.",
+          "elimination_strategy": "Candidates should recall the specific countries involved in the exercise to eliminate this option."
+        },
+        "B": {
+          "type": "silly_mistake",
+          "reason": "This option is incorrect as it states the exercise commenced in Aundh (Pune), which is not true. The exercise took place in Sri Lanka.",
+          "trap": "Students may mistakenly remember the location as Pune due to previous exercises held there.",
+          "elimination_strategy": "Candidates should verify the location of the exercise against their knowledge of recent military exercises."
+        },
+        "C": {
+          "type": "tricky_option",
+          "reason": "This option is incorrect because, while it correctly identifies the joint military exercise between India and Sri Lanka, it incorrectly states that it began in Aundh (Pune).",
+          "trap": "The inclusion of the correct statement about counterterrorism operations can mislead students who remember only part of the information.",
+          "elimination_strategy": "Candidates should cross-check the details of both statements to eliminate this option."
+        },
+        "D": {
+          "type": "correct_answer",
+          "reason": "This option is correct as it accurately states that the exercise was a joint military exercise between India and Sri Lanka, commenced in Sri Lanka, and focused on counterterrorism operations.",
+          "trap": "",
+          "elimination_strategy": ""
+        }
+      },
+      "learning_insights": {
+        "key_concepts": [
+          "Joint military exercises",
+          "India-Sri Lanka defense relations",
+          "Counterterrorism operations"
+        ],
+        "common_mistakes": [
+          "Confusing the participating countries in military exercises",
+          "Misremembering the location of the exercise"
+        ],
+        "elimination_technique": "1. Identify the correct countries involved. 2. Verify the location of the exercise. 3. Confirm the focus of the exercise.",
+        "memory_hooks": [
+          "Remember 'Mitra Shakti' as a partnership exercise to connect with the idea of friendship and collaboration in defense."
+        ],
+        "related_topics": [
+          "India's defense partnerships",
+          "Recent military exercises in South Asia",
+          "Counterterrorism strategies in the region"
+        ],
+        "current_affairs_connection": "This question connects to current affairs as it highlights ongoing military collaborations and strategic partnerships in South Asia, which are vital for understanding regional security dynamics."
+      },
+      "difficulty_level": "Medium",
+      "time_management": "Students should spend about 1-2 minutes on this question to recall details and make an informed choice.",
+      "confidence_calibration": "A well-prepared student should feel confident in selecting the correct answer if they have kept up with current affairs related to defense and military exercises."
+    },
+    {
+      "question_number": "23",
+      "section": "Polity & Governance",
+      "question_text": "A Writ of Prohibition is an order issued by the Supreme Court or High Courts to :",
+      "options": {
+        "A": "a government officer prohibiting him from taking a particular action.",
+        "B": "the Parliament/ Legislative Assembly to pass a law on Prohibition.",
+        "C": "the lower court prohibiting continuation of proceedings in a case.",
+        "D": "the Government prohibiting it from following an unconstitutional policy."
+      },
+      "correct_answer": "C",
+      "explanation": "A writ of prohibition is issued by a Court to prohibit the lower courts, tribunals and other quasi-judicial authorities from doing something beyond their authority... Hence, option (c) is the correct answer.",
+      "motivation": "",
+      "source_material": "M Laxmikant chapter on Fundamental Rights",
+      "source_type": "E",
+      "test_series_reference": "Sandhan Vision IAS Prelims Test Series Initiative",
+      "id": "45a44b30-8e2d-49da-83e8-0c90d09ebaaa",
+      "extraction_order": 2,
+      "chunk_number": 6,
+      "question_nature": {
+        "primary_type": "Factual",
+        "secondary_type": "Memory-based",
+        "difficulty_reason": "This question is easy as it tests a fundamental concept of constitutional law that is often covered in basic polity studies. The concept of writs is a standard topic in UPSC preparation.",
+        "knowledge_requirement": "Static knowledge regarding the Indian Constitution and the types of writs."
+      },
+      "examiner_thought_process": {
+        "testing_objective": "The examiner aims to test the candidate's understanding of the judicial system and the specific function of writs in the Indian legal framework.",
+        "question_design_strategy": "The question is designed to assess the candidate's knowledge of legal terminology and the specific roles of different courts in the Indian judiciary.",
+        "trap_setting": "Options B and D are designed to mislead candidates who may confuse the functions of writs with legislative processes or government policies.",
+        "discrimination_potential": "This question can effectively differentiate between candidates who have a clear understanding of constitutional provisions and those who do not."
+      },
+      "options_analysis": {
+        "A": {
+          "type": "plausible_distractor",
+          "reason": "This option incorrectly suggests that a writ of prohibition can be issued to a government officer, which is not the case. Writs of prohibition are directed towards lower courts or tribunals.",
+          "trap": "Students may confuse the role of government officers with judicial processes.",
+          "elimination_strategy": "Recognize that a writ of prohibition is not aimed at individuals but at judicial bodies."
+        },
+        "B": {
+          "type": "silly_mistake",
+          "reason": "This option is incorrect as writs do not involve legislative actions or compel the Parliament to pass laws.",
+          "trap": "The use of the term 'prohibition' might mislead students to think it relates to legislative processes.",
+          "elimination_strategy": "Recall that writs are judicial orders, not legislative directives."
+        },
+        "C": {
+          "type": "correct_answer",
+          "reason": "This option correctly identifies that a writ of prohibition is issued to prevent lower courts from proceeding with cases that exceed their jurisdiction.",
+          "trap": "",
+          "elimination_strategy": ""
+        },
+        "D": {
+          "type": "plausible_distractor",
+          "reason": "This option is incorrect because a writ of prohibition does not address government policies directly, but rather the actions of lower courts.",
+          "trap": "Students may confuse the concept of judicial review with the prohibition of unconstitutional policies.",
+          "elimination_strategy": "Understand that writs focus on judicial authority rather than executive actions."
+        }
+      },
+      "learning_insights": {
+        "key_concepts": [
+          "Writ of Prohibition",
+          "Judicial Authority",
+          "Types of Writs in the Indian Constitution"
+        ],
+        "common_mistakes": [
+          "Confusing the functions of different writs",
+          "Misunderstanding the role of courts versus legislative bodies"
+        ],
+        "elimination_technique": "1. Identify the subject of the writ (it targets judicial bodies). 2. Recall the purpose of a writ of prohibition. 3. Eliminate options that do not pertain to judicial actions.",
+        "memory_hooks": [
+          "Remember the phrase 'Prohibit the Proceeding' to recall the function of a writ of prohibition."
+        ],
+        "related_topics": [
+          "Fundamental Rights",
+          "Judicial Review",
+          "Constitutional Remedies"
+        ],
+        "current_affairs_connection": "Understanding the role of the judiciary in upholding constitutional provisions is crucial, especially in light of recent landmark judgments."
+      },
+      "difficulty_level": "Easy",
+      "time_management": "Students should spend about 30 seconds to 1 minute on this question, as it requires recalling a specific definition.",
+      "confidence_calibration": "A well-prepared student should feel very confident in answering this question correctly."
+    },
+    {
+      "question_number": "24",
+      "section": "Polity & Governance",
+      "question_text": "Consider the following statements : 1. It is the Governor of the State who recognizes and declares any community of that State as a Scheduled Tribe. 2. A community declared as a Scheduled Tribe in a State need not to be so in another State. Which of the statements given above is/are correct ?",
+      "options": {
+        "A": "1 only",
+        "B": "2 only",
+        "C": "Both 1 and 2",
+        "D": "Neither 2 nor 2"
+      },
+      "correct_answer": "B",
+      "explanation": "342(1) states that the President may with respect to any State or Union Territory... Hence, statement 1 is not correct.\nClause (2) of the Article 342 empowers the Parliament to pass a law to include in or exclude from the List of Scheduled Tribes, any tribe or tribal community or parts of these. The List of Scheduled Tribes is State/UT specific and a community declared as a Scheduled Tribe in a state need not be so in another state/UT. Hence, statement 2 is correct.",
+      "motivation": "Rajya Sabha Passes Bills to Modify SC, ST list in States",
+      "source_material": "https://ncst.nic.in/content/frequently-asked-questions#:~:text=342(1)%20Scheduled%20Tribes%20%2D%2D,Scheduled%20Tribe%20in%20relation%20to",
+      "source_type": "RR",
+      "test_series_reference": "VisionIAS All India Prelims Test Series (2024): Test 4159",
+      "id": "85fb68b9-2b73-491d-b494-b9776f46c646",
+      "extraction_order": 3,
+      "chunk_number": 6,
+      "question_nature": {
+        "primary_type": "Factual",
+        "secondary_type": "Memory-based",
+        "difficulty_reason": "This question is medium in difficulty as it requires specific knowledge of constitutional provisions regarding Scheduled Tribes, which can be easily overlooked by candidates who do not have a thorough understanding of the Constitution.",
+        "knowledge_requirement": "Static knowledge regarding the Indian Constitution, specifically Article 342."
+      },
+      "examiner_thought_process": {
+        "testing_objective": "The examiner is testing the candidate's understanding of the constitutional provisions related to the recognition of Scheduled Tribes and the specific role of the Governor and the President in this context.",
+        "question_design_strategy": "The question is designed to assess both factual knowledge and the ability to interpret constitutional articles correctly.",
+        "trap_setting": "The first statement may mislead candidates into thinking that the Governor has the authority to declare Scheduled Tribes, which is incorrect. This could lead to confusion, especially if candidates are not clear on the roles of different constitutional authorities.",
+        "discrimination_potential": "This question has good discrimination potential as it can differentiate between candidates who have a clear understanding of the Constitution and those who do not."
+      },
+      "options_analysis": {
+        "A": {
+          "type": "plausible_distractor",
+          "reason": "This option is incorrect because it suggests that the Governor has the authority to declare a community as a Scheduled Tribe, which is not true as per Article 342.",
+          "trap": "Students may confuse the roles of the Governor and the President, leading them to choose this option.",
+          "elimination_strategy": "Candidates should recall that the President has the authority under Article 342, not the Governor."
+        },
+        "B": {
+          "type": "correct_answer",
+          "reason": "This option is correct as it accurately reflects the provisions of Article 342, which states that a community declared as a Scheduled Tribe in one state may not be recognized as such in another state.",
+          "trap": "",
+          "elimination_strategy": ""
+        },
+        "C": {
+          "type": "silly_mistake",
+          "reason": "This option is incorrect because it combines both statements, one of which is false. Candidates may mistakenly believe both statements are correct due to a lack of clarity on the roles of the Governor and President.",
+          "trap": "Candidates might think that if one statement is true, both must be true.",
+          "elimination_strategy": "Candidates should critically evaluate each statement independently before selecting an option."
+        },
+        "D": {
+          "type": "silly_mistake",
+          "reason": "This option is incorrect as it states that neither statement is correct. While the first statement is incorrect, the second statement is correct.",
+          "trap": "Students may misinterpret the question and assume both statements are false.",
+          "elimination_strategy": "Candidates should focus on the accuracy of each statement rather than dismissing both."
+        }
+      },
+      "learning_insights": {
+        "key_concepts": [
+          "Role of the President in declaring Scheduled Tribes",
+          "State-specific nature of Scheduled Tribes recognition"
+        ],
+        "common_mistakes": [
+          "Confusing the roles of the Governor and the President",
+          "Assuming that a community recognized in one state is recognized in all states"
+        ],
+        "elimination_technique": "Evaluate each statement based on constitutional knowledge: recall that only the President can declare Scheduled Tribes and that recognition is state-specific.",
+        "memory_hooks": [
+          "Remember 'P' for President and 'S' for Scheduled Tribes to associate the authority with the right constitutional figure."
+        ],
+        "related_topics": [
+          "Constitutional provisions regarding Scheduled Castes and Scheduled Tribes",
+          "Role of the President and Governor in Indian polity"
+        ],
+        "current_affairs_connection": "Understanding the recognition of Scheduled Tribes can connect to current discussions on tribal rights and policies in India."
+      },
+      "difficulty_level": "Medium",
+      "time_management": "Candidates should ideally spend 1-2 minutes on this question to ensure careful reading and understanding.",
+      "confidence_calibration": "A well-prepared student should feel confident in selecting option B, provided they have reviewed the relevant constitutional articles."
+    },
+    {
+      "question_number": "25",
+      "section": "Polity & Governance",
+      "question_text": "With reference to Union Budget, consider the following statements: 1. The Union Finance Minister on behalf of the Prime Minister lays the Annual Financial Statement before both the Houses of Parliament. 2. At the Union level, no demand for a grant can be made except on the recommendation of the President of IndiWhich of the statements given above is/are correct?",
+      "options": {
+        "A": "1 only",
+        "B": "2 only",
+        "C": "Both 1 and 2",
+        "D": "Neither 1 nor 2"
+      },
+      "correct_answer": "C",
+      "explanation": "Both statements are correct. The Union Finance Minister presents the budget on behalf of the President, not the Prime Minister. No demand for a grant can be made except on the recommendation of the President of India.",
+      "motivation": "Understanding the constitutional provisions related to the Union Budget.",
+      "source_material": "Constitution of India, Articles related to Union Budget.",
+      "source_type": "Constitutional Provisions",
+      "test_series_reference": "Not provided",
+      "id": "347c8db5-f86b-489b-b4b6-2c011868aa92",
+      "extraction_order": 1,
+      "chunk_number": 7,
+      "question_nature": {
+        "primary_type": "Factual",
+        "secondary_type": "Memory-based",
+        "difficulty_reason": "This question is considered easy because it tests basic knowledge of the Union Budget process, which is a fundamental aspect of Indian polity that candidates are expected to know.",
+        "knowledge_requirement": "Static knowledge regarding the Union Budget and the roles of the Finance Minister and the President of India."
+      },
+      "examiner_thought_process": {
+        "testing_objective": "The examiner aims to assess the candidate's understanding of the constitutional provisions related to the Union Budget and the roles of key figures in the process.",
+        "question_design_strategy": "The question is designed to test candidates' recall of specific roles and processes in the Union Budget, ensuring they understand the distinction between the roles of the Prime Minister and the Finance Minister.",
+        "trap_setting": "The phrasing of the first statement may confuse candidates who might incorrectly associate the presentation of the budget with the Prime Minister rather than the Finance Minister.",
+        "discrimination_potential": "This question has good discrimination potential as it can differentiate between candidates who have a clear understanding of the budget process and those who do not."
+      },
+      "options_analysis": {
+        "A": {
+          "type": "plausible_distractor",
+          "reason": "This option is incorrect because it states that only the first statement is correct, while both statements are actually correct.",
+          "trap": "Candidates may confuse the roles of the Prime Minister and Finance Minister, leading them to mistakenly select this option.",
+          "elimination_strategy": "Recognize that the Finance Minister, not the Prime Minister, lays the Annual Financial Statement before Parliament."
+        },
+        "B": {
+          "type": "silly_mistake",
+          "reason": "This option is incorrect as it claims only the second statement is correct, while both statements are indeed correct.",
+          "trap": "Students might misinterpret the role of the President in the budget process, leading to this selection.",
+          "elimination_strategy": "Recall that both statements are true; thus, this option can be eliminated."
+        },
+        "C": {
+          "type": "correct_answer",
+          "reason": "This option is correct as both statements accurately describe the process of laying the Annual Financial Statement and the necessity of the President's recommendation for grants.",
+          "trap": "",
+          "elimination_strategy": ""
+        },
+        "D": {
+          "type": "plausible_distractor",
+          "reason": "This option is incorrect as it states that neither statement is correct, which is false since both statements are accurate.",
+          "trap": "Candidates may incorrectly assume that both statements are misleading or incorrect due to their complexity.",
+          "elimination_strategy": "Evaluate the accuracy of both statements; if one is true, this option can be eliminated."
+        }
+      },
+      "learning_insights": {
+        "key_concepts": [
+          "Union Budget process",
+          "Roles of the Finance Minister and President of India",
+          "Annual Financial Statement"
+        ],
+        "common_mistakes": [
+          "Confusing the roles of the Prime Minister and Finance Minister",
+          "Misunderstanding the requirement of the President's recommendation for grants"
+        ],
+        "elimination_technique": "1. Read each statement carefully. 2. Verify the roles mentioned in each statement against known facts. 3. Eliminate options that contradict these facts.",
+        "memory_hooks": [
+          "Remember 'Finance Minister presents, President recommends' to recall the roles in the budget process."
+        ],
+        "related_topics": [
+          "Indian Constitution and its provisions",
+          "Parliamentary procedures",
+          "Budgetary processes in India"
+        ],
+        "current_affairs_connection": "Understanding the Union Budget is crucial for analyzing current economic policies and fiscal measures introduced by the government."
+      },
+      "difficulty_level": "Easy",
+      "time_management": "Candidates should spend about 30-45 seconds on this question, as it requires quick recall of factual information.",
+      "confidence_calibration": "A well-prepared student should feel very confident in answering this question correctly, given its foundational nature in the polity syllabus."
+    },
+    {
+      "question_number": "26",
+      "section": "Miscellaneous (General Awareness)",
+      "question_text": "Who of the following is the author of the books 'The India Way' and 'Why Bharat Matters'?",
+      "options": {
+        "A": "Bhupendra Yadav",
+        "B": "Nalin Mehta",
+        "C": "Shashi Tharoor",
+        "D": "Subrahmanyam Jaishankar"
+      },
+      "correct_answer": "D",
+      "explanation": "Subrahmanyam Jaishankar is the author of the books 'The India Way' and 'Why Bharat Matters'. He is an Indian politician and diplomat serving as the Minister of External Affairs.",
+      "motivation": "Knowledge of contemporary authors and their works.",
+      "source_material": "Various articles were published in leading newspapers on the book 'Why India Matters'",
+      "source_type": "Newspaper Articles",
+      "test_series_reference": "https://indianexpress.com/article/opinion/columns/jai-shankar-new-book-questions-nehru-foreign-policy-sparks-debate-9093256/",
+      "id": "5deab384-8912-41e4-bbe6-dd492f75a450",
+      "extraction_order": 2,
+      "chunk_number": 7,
+      "question_nature": {
+        "primary_type": "Factual",
+        "secondary_type": "Memory-based",
+        "difficulty_reason": "This question is considered easy as it tests straightforward factual knowledge about authorship of specific books, which can be memorized.",
+        "knowledge_requirement": "Static knowledge about Indian authors and their works."
+      },
+      "examiner_thought_process": {
+        "testing_objective": "The examiner aims to assess candidates' awareness of contemporary Indian authors and their contributions to literature and public discourse.",
+        "question_design_strategy": "The question is designed to assess specific knowledge regarding authorship, which is a common topic in general awareness sections.",
+        "trap_setting": "The options include names of notable politicians and authors, which may confuse candidates who are not well-versed in current literature.",
+        "discrimination_potential": "This question can effectively differentiate between candidates who have a good grasp of current affairs and those who do not."
+      },
+      "options_analysis": {
+        "A": {
+          "type": "plausible_distractor",
+          "reason": "Bhupendra Yadav is a prominent politician, but he is not known for writing these books.",
+          "trap": "Candidates may confuse him with other political figures who are authors.",
+          "elimination_strategy": "Candidates should recall that Bhupendra Yadav is not associated with these specific titles."
+        },
+        "B": {
+          "type": "plausible_distractor",
+          "reason": "Nalin Mehta is a known author, but he is not the author of the specified books.",
+          "trap": "Students might mistakenly associate him with contemporary political discourse.",
+          "elimination_strategy": "Candidates can eliminate this option by recalling the specific authorship of the mentioned books."
+        },
+        "C": {
+          "type": "plausible_distractor",
+          "reason": "Shashi Tharoor is a well-known author and politician, but he is not the author of these specific books.",
+          "trap": "His prominence in literature may lead candidates to mistakenly select him.",
+          "elimination_strategy": "Candidates should remember that Tharoor has authored different works and not the ones mentioned."
+        },
+        "D": {
+          "type": "correct_answer",
+          "reason": "Subrahmanyam Jaishankar is indeed the author of 'The India Way' and 'Why Bharat Matters'.",
+          "trap": "",
+          "elimination_strategy": ""
+        }
+      },
+      "learning_insights": {
+        "key_concepts": [
+          "Contemporary Indian authors",
+          "Political literature",
+          "Books on India's foreign policy"
+        ],
+        "common_mistakes": [
+          "Confusing authorship with other well-known political figures",
+          "Not keeping up with recent publications"
+        ],
+        "elimination_technique": "Candidates should recall the authors of specific books and eliminate options based on their familiarity with the titles.",
+        "memory_hooks": [
+          "Remember 'Jaishankar' as 'Jai' for 'India Way' and 'Bharat Matters' to link him to these titles."
+        ],
+        "related_topics": [
+          "Indian foreign policy literature",
+          "Recent political developments in India",
+          "Biographies of contemporary politicians"
+        ],
+        "current_affairs_connection": "The question connects to current affairs through the relevance of the authors in contemporary political discussions and their roles in government."
+      },
+      "difficulty_level": "Easy",
+      "time_management": "Candidates should ideally spend no more than 30 seconds on this question.",
+      "confidence_calibration": "A well-prepared student should feel very confident in selecting the correct answer if they are familiar with contemporary authors."
+    },
+    {
+      "question_number": "27",
+      "section": "Current Affairs (International Relations)",
+      "question_text": "Consider the following pairs : Country Reason for being in the news 1. Argentina Worst economic crisis 2. Sudan War between the country's regular and paramilitary forces 3. Turkey Rescinded its membership of NATO How many of the pairs given above are correctly matched?",
+      "options": {
+        "A": "Only one pair",
+        "B": "Only two pairs",
+        "C": "All three pairs",
+        "D": "None of the pairs"
+      },
+      "correct_answer": "B",
+      "explanation": "Argentina is facing its worst economic crisis. Sudan is suffering one of the worst humanitarian crises due to war. Turkey has not rescinded its membership of NATO. Hence, only two pairs are correctly matched.",
+      "motivation": "Awareness of current international events and their significance.",
+      "source_material": "In recent time, Argentina faced worsed economic crisis. Sudan was news due to War between the country's regular and paramilitary forces. Turkey is a member of NATO.",
+      "source_type": "News Articles",
+      "test_series_reference": "https://www.thehindu.com/business/messi-of-finance-argentina-economy-chief-faces-world-cup-of-crises/article67611139.ece https://www.thehindu.com/news/international/why-is-sudan-still-at-war-a-year-on-explained/article68057098.ece#:\"text=What%20triggered%20the%20violence%3F,Khartoum%20on%20April%2015%2C%202023.",
+      "id": "70f87c06-b3a9-4e0b-974b-1ba6738c4e94",
+      "extraction_order": 3,
+      "chunk_number": 7,
+      "question_nature": {
+        "primary_type": "Current Affairs",
+        "secondary_type": "Current Affairs-based",
+        "difficulty_reason": "This question is medium in difficulty as it requires up-to-date knowledge of international events and the ability to discern between correct and incorrect information.",
+        "knowledge_requirement": "Dynamic knowledge, specifically current affairs related to international relations."
+      },
+      "examiner_thought_process": {
+        "testing_objective": "The examiner aims to assess the candidate's awareness of recent international events and their ability to critically evaluate information.",
+        "question_design_strategy": "The question is designed to test not only recall of facts but also comprehension of the context surrounding those facts, requiring candidates to think critically about the pairs presented.",
+        "trap_setting": "The incorrect pairing of Turkey with NATO membership serves as a trap for candidates who may not be fully aware of recent geopolitical changes, leading them to assume all pairs are correct.",
+        "discrimination_potential": "This question has good discrimination potential as it can differentiate between candidates who are well-informed about current affairs and those who are not."
+      },
+      "options_analysis": {
+        "A": {
+          "type": "plausible_distractor",
+          "reason": "This option incorrectly suggests that only one pair is correct, which may appeal to candidates who are unsure about Turkey's NATO status.",
+          "trap": "Candidates might confuse the geopolitical context and mistakenly believe that only one pair is accurate.",
+          "elimination_strategy": "Candidates can eliminate this option by recalling that both Argentina and Sudan are indeed facing significant crises."
+        },
+        "B": {
+          "type": "correct_answer",
+          "reason": "This option is correct as it accurately reflects that Argentina and Sudan are in crises, while Turkey has not rescinded its NATO membership.",
+          "trap": "",
+          "elimination_strategy": ""
+        },
+        "C": {
+          "type": "silly_mistake",
+          "reason": "This option is incorrect because it implies that all pairs are correct, which is misleading due to Turkey's status.",
+          "trap": "Candidates may fall for this option if they misremember or misinterpret Turkey's relationship with NATO.",
+          "elimination_strategy": "Candidates should recall recent news regarding Turkey's NATO membership to eliminate this option."
+        },
+        "D": {
+          "type": "silly_mistake",
+          "reason": "This option is incorrect as it states that none of the pairs are correct, which is false.",
+          "trap": "Candidates might select this option if they are unsure about the accuracy of all pairs.",
+          "elimination_strategy": "Candidates can eliminate this option by confirming that at least two pairs are indeed accurate."
+        }
+      },
+      "learning_insights": {
+        "key_concepts": [
+          "Economic crises in Argentina",
+          "Civil conflict in Sudan",
+          "Turkey's NATO membership status"
+        ],
+        "common_mistakes": [
+          "Misunderstanding the current geopolitical context",
+          "Assuming all pairs are correct without verification",
+          "Overlooking recent news updates"
+        ],
+        "elimination_technique": "1. Verify each pair against recent news. 2. Identify which pairs are accurate. 3. Eliminate options based on the number of correct pairs.",
+        "memory_hooks": [
+          "Remember 'Argentina' for economic crisis with the phrase 'Argentine economy in crisis'.",
+          "For Sudan, think 'Sudan's struggle - war and humanitarian crisis'.",
+          "For Turkey, associate 'Turkey and NATO - still together'."
+        ],
+        "related_topics": [
+          "Global economic trends",
+          "Middle Eastern conflicts",
+          "NATO's role in international relations"
+        ],
+        "current_affairs_connection": "This question connects to ongoing discussions about international stability, economic crises, and military alliances, which are crucial for understanding global dynamics."
+      },
+      "difficulty_level": "Medium",
+      "time_management": "Candidates should spend about 1-2 minutes on this question to ensure adequate time for analysis and recall.",
+      "confidence_calibration": "A well-prepared student should feel confident in selecting option B, provided they are up-to-date with current affairs."
+    },
+    {
+      "question_number": "28",
+      "section": "Current Affairs (International Relations)",
+      "question_text": "Consider the following statements : Statement-I : Sumed pipeline is a strategic route for Persian Gulf oil and natural gas shipments to Europe. Statement-II : Sumed pipeline connects the Red Sea with the Mediterranean SeWhich one of the following is correct in respect of the above statements ?",
+      "options": {
+        "A": "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+        "B": "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I",
+        "C": "Statement-I is correct, but Statement-II is incorrect",
+        "D": "Statement-I is incorrect, but Statement-II is correct"
+      },
+      "correct_answer": "A",
+      "explanation": "Both statements are correct, and Statement-II explains Statement-I. The SUMED pipeline is a strategic route for oil and gas shipments and connects the Red Sea with the Mediterranean Sea.",
+      "motivation": "Understanding the geopolitical significance of oil and gas pipelines.",
+      "source_material": "Not provided",
+      "source_type": "News Articles",
+      "test_series_reference": "https://www.thehindu.com/data/attacks-in-the-red-sea-by-the-houthis-may-hit-indias-oil-tradedata/article67704710.ece https://www.eia.gov/todayinenergy/detail.php?id=61025",
+      "id": "b277a546-7aba-4bf7-b481-9b1a4ee85982",
+      "extraction_order": 4,
+      "chunk_number": 7,
+      "question_nature": {
+        "primary_type": "Factual",
+        "secondary_type": "Current Affairs-based",
+        "difficulty_reason": "This question is considered easy as it tests basic knowledge of a specific pipeline and its geographical significance, which is often covered in standard current affairs materials.",
+        "knowledge_requirement": "Dynamic knowledge, particularly current affairs related to international relations and energy routes."
+      },
+      "examiner_thought_process": {
+        "testing_objective": "The examiner aims to assess the candidate's awareness of important international energy routes and their geographical connections.",
+        "question_design_strategy": "The question is designed to evaluate both factual knowledge and the ability to understand the relationship between two statements, which is a common requirement in UPSC exams.",
+        "trap_setting": "The options are crafted to test the candidate's understanding of the relationship between the two statements, with potential confusion arising from the explanation aspect.",
+        "discrimination_potential": "This question has good discrimination potential as it can differentiate candidates who have a solid understanding of international energy routes from those who do not."
+      },
+      "options_analysis": {
+        "A": {
+          "type": "correct_answer",
+          "reason": "Both statements are factually correct and Statement-II indeed explains the significance of Statement-I as it describes the pipeline's geographical connection.",
+          "trap": "",
+          "elimination_strategy": "N/A"
+        },
+        "B": {
+          "type": "plausible_distractor",
+          "reason": "While both statements are correct, the assertion that Statement-II does not explain Statement-I is incorrect, as it does provide context for the strategic importance of the pipeline.",
+          "trap": "Students may misinterpret the relationship between the two statements, thinking they are independent.",
+          "elimination_strategy": "Recognize that Statement-II directly relates to the strategic importance mentioned in Statement-I."
+        },
+        "C": {
+          "type": "silly_mistake",
+          "reason": "This option incorrectly states that Statement-II is incorrect, which is factually wrong as it is a well-known fact.",
+          "trap": "Students may confuse the geographical details or misremember facts about the pipeline.",
+          "elimination_strategy": "Recall the established facts about the SUMED pipeline and its connection."
+        },
+        "D": {
+          "type": "silly_mistake",
+          "reason": "This option incorrectly claims that Statement-I is incorrect, which is not true; the SUMED pipeline is indeed a strategic route.",
+          "trap": "Candidates may second-guess their knowledge based on the wording of the statements.",
+          "elimination_strategy": "Verify the factual accuracy of both statements before making a choice."
+        }
+      },
+      "learning_insights": {
+        "key_concepts": [
+          "SUMED pipeline",
+          "Geographical significance of energy routes",
+          "Persian Gulf oil shipments"
+        ],
+        "common_mistakes": [
+          "Misunderstanding the relationship between statements",
+          "Confusing the pipeline's geographical connections"
+        ],
+        "elimination_technique": "Evaluate each statement for factual accuracy and then analyze the relationship between them to determine the correct option.",
+        "memory_hooks": [
+          "Remember 'SUMED' as 'Strategic Undersea Mediterranean Energy Delivery' to link the pipeline's significance."
+        ],
+        "related_topics": [
+          "International energy security",
+          "Geopolitics of oil and gas",
+          "Middle Eastern energy routes"
+        ],
+        "current_affairs_connection": "The relevance of the SUMED pipeline in current geopolitical discussions surrounding energy security and trade routes."
+      },
+      "difficulty_level": "Easy",
+      "time_management": "Candidates should spend about 30 seconds to 1 minute on this question, allowing time for careful consideration of the statements.",
+      "confidence_calibration": "A well-prepared student should feel very confident in answering this question correctly, assuming they have kept up with current affairs."
+    },
+    {
+      "question_number": "29",
+      "section": "Geography",
+      "question_text": "Consider the following statements : 1. The Red Sea receives very little precipitation in any form. 2. No water enters the Red Sea from rivers. Which of the statements given above is/are correct ?",
+      "options": {
+        "A": "1 only",
+        "B": "2 only",
+        "C": "Both 1 and 2",
+        "D": "Neither 1 nor 2"
+      },
+      "correct_answer": "A",
+      "explanation": "The Red Sea receives very little precipitation, but there are small rivulets that flow into it. Hence, statement 1 is correct, and statement 2 is incorrect.",
+      "motivation": "Knowledge of geographical features and climate conditions.",
+      "source_material": "Not provided",
+      "source_type": "Geographical Studies",
+      "test_series_reference": "Not provided",
+      "id": "48ed3c0b-af65-48c9-bbb4-c0bae86f4c08",
+      "extraction_order": 5,
+      "chunk_number": 7,
+      "question_nature": {
+        "primary_type": "Factual",
+        "secondary_type": "Memory-based",
+        "difficulty_reason": "This question is considered easy as it tests basic geographical knowledge about the Red Sea, which is commonly covered in school-level geography.",
+        "knowledge_requirement": "Static knowledge about geographical features and climate patterns."
+      },
+      "examiner_thought_process": {
+        "testing_objective": "The examiner aims to assess the candidate's understanding of geographical concepts related to water bodies and their climatic conditions.",
+        "question_design_strategy": "The question is designed to evaluate the candidate's ability to recall factual information and distinguish between correct and incorrect statements.",
+        "trap_setting": "The second statement may mislead candidates who are not aware of minor water inflows into the Red Sea, leading them to incorrectly assume it is entirely devoid of riverine input.",
+        "discrimination_potential": "This question has good discrimination potential as it can differentiate between candidates who have a solid grasp of geographical facts and those who do not."
+      },
+      "options_analysis": {
+        "A": {
+          "type": "correct_answer",
+          "reason": "Statement 1 is correct as the Red Sea receives very little precipitation, while statement 2 is incorrect because there are small rivulets that flow into it.",
+          "trap": "",
+          "elimination_strategy": "N/A"
+        },
+        "B": {
+          "type": "plausible_distractor",
+          "reason": "This option suggests that only statement 2 is correct, which is misleading as statement 1 is indeed correct.",
+          "trap": "Candidates may focus on the second statement without considering the first, leading to confusion.",
+          "elimination_strategy": "Recognize that statement 1 is a well-known fact about the Red Sea's climate."
+        },
+        "C": {
+          "type": "silly_mistake",
+          "reason": "This option incorrectly states that both statements are correct, which is false due to the inaccuracy of statement 2.",
+          "trap": "Candidates may mistakenly think both statements are true if they are not familiar with the details of the Red Sea.",
+          "elimination_strategy": "Assess each statement individually; if one is incorrect, this option can be eliminated."
+        },
+        "D": {
+          "type": "silly_mistake",
+          "reason": "This option claims that neither statement is correct, which is incorrect as statement 1 is true.",
+          "trap": "Students might misinterpret the question or lack knowledge about the Red Sea, leading them to choose this option.",
+          "elimination_strategy": "Identify that statement 1 is a factual statement about precipitation in the Red Sea."
+        }
+      },
+      "learning_insights": {
+        "key_concepts": [
+          "Geographical features of the Red Sea",
+          "Climate and precipitation patterns",
+          "Riverine systems and their impact on water bodies"
+        ],
+        "common_mistakes": [
+          "Overlooking the details of geographical statements",
+          "Assuming all water bodies are fed by major rivers"
+        ],
+        "elimination_technique": "1. Read both statements carefully. 2. Identify known facts about the Red Sea. 3. Eliminate options based on the correctness of each statement.",
+        "memory_hooks": [
+          "Remember 'Red Sea, dry spree' to recall its low precipitation."
+        ],
+        "related_topics": [
+          "Geography of the Middle East",
+          "Hydrology and water bodies",
+          "Climate zones and their characteristics"
+        ],
+        "current_affairs_connection": "While not directly related to current affairs, understanding geographical features can help in comprehending geopolitical issues in the region."
+      },
+      "difficulty_level": "Easy",
+      "time_management": "Candidates should spend no more than 30 seconds on this question to maintain overall pacing.",
+      "confidence_calibration": "A well-prepared student should feel very confident answering this question correctly."
+    },
+    {
+      "question_number": "30",
+      "section": "Current Affairs (Environment)",
+      "question_text": "According to the Environmental Protection Agency (EP, which one of the following is the largest source of sulphur dioxide emissions ?",
+      "options": {
+        "A": "Locomotives using fossil fuels",
+        "B": "Ships using fossil fuels",
+        "C": "Extraction of metals from ores",
+        "D": "Power plants using fossil fuels"
+      },
+      "correct_answer": "D",
+      "explanation": "EPA's national ambient air quality standards for SO2 are designed to protect against exposure to the entire group of sulfur oxides (SOx). According to EPA, the largest source of SO2 in the atmosphere is the burning of fossil fuels by power plants and other industrial facilities. Smaller sources of SO2 emissions include: industrial processes such as extracting metal from ore; natural sources such as volcanoes; and locomotives, ships and other vehicles and heavy equipment that burn fuel with a high sulfur content. Hence option (d) is the correct answer.",
+      "motivation": "About EPA: The Environmental Protection Agency is an independent agency of the United States government tasked with environmental protection matters.",
+      "source_material": "https://www.epa.gov/so2-pollution/sulfur-dioxide-basics#what%20is%20so2",
+      "source_type": "R\nM",
+      "test_series_reference": "News Today: June 2023, Only 5% of india's coalbased thermal power capacity meets so2 emissions norms: centre for science and environment (cse) Report\nSandhan Vision IAS Prelims Test Series Initiative",
+      "id": "58a75c18-31c1-49b2-81c4-a3ee0b6b49b9",
+      "extraction_order": 1,
+      "chunk_number": 8,
+      "question_nature": {
+        "primary_type": "Factual",
+        "secondary_type": "Current Affairs-based",
+        "difficulty_reason": "The question is straightforward, requiring recall of specific information regarding sulfur dioxide emissions, which is a well-documented topic in environmental studies.",
+        "knowledge_requirement": "Dynamic knowledge, specifically related to current environmental regulations and sources of pollution."
+      },
+      "examiner_thought_process": {
+        "testing_objective": "The examiner aims to assess the candidate's understanding of environmental issues, specifically the sources of sulfur dioxide emissions as per the EPA.",
+        "question_design_strategy": "The question is designed to evaluate the candidate's ability to recall factual information and apply it to a specific context, which is crucial for environmental science.",
+        "trap_setting": "Options A, B, and C may seem plausible due to their association with fossil fuel use and industrial processes, which can mislead candidates who do not have a clear understanding of the primary source of SO2 emissions.",
+        "discrimination_potential": "This question can effectively differentiate between candidates who have a solid grasp of environmental issues and those who do not, as it requires specific knowledge rather than general understanding."
+      },
+      "options_analysis": {
+        "A": {
+          "type": "plausible_distractor",
+          "reason": "While locomotives using fossil fuels do emit sulfur dioxide, they are not the largest source compared to power plants.",
+          "trap": "Students may confuse the emissions from transportation with those from industrial sources, leading to incorrect selection.",
+          "elimination_strategy": "Recall that power plants are the major contributors to SO2 emissions and compare the scale of emissions from locomotives."
+        },
+        "B": {
+          "type": "plausible_distractor",
+          "reason": "Ships using fossil fuels contribute to SO2 emissions, but again, they are not the largest source.",
+          "trap": "Candidates might misinterpret the significance of shipping emissions in relation to power plants.",
+          "elimination_strategy": "Consider the scale of emissions from power generation versus maritime transport."
+        },
+        "C": {
+          "type": "plausible_distractor",
+          "reason": "The extraction of metals does produce SO2, but it is a smaller contributor compared to fossil fuel combustion in power plants.",
+          "trap": "Students may think of industrial processes as significant sources without recognizing the dominance of power plants.",
+          "elimination_strategy": "Evaluate the relative contributions of industrial processes against fossil fuel combustion in power generation."
+        },
+        "D": {
+          "type": "correct_answer",
+          "reason": "Power plants using fossil fuels are the largest source of sulfur dioxide emissions, as confirmed by the EPA.",
+          "trap": "",
+          "elimination_strategy": ""
+        }
+      },
+      "learning_insights": {
+        "key_concepts": [
+          "Sources of sulfur dioxide emissions",
+          "Environmental Protection Agency (EPA) regulations",
+          "Impact of fossil fuel combustion on air quality"
+        ],
+        "common_mistakes": [
+          "Confusing different sources of emissions",
+          "Overlooking the scale of emissions from various sectors"
+        ],
+        "elimination_technique": "1. Identify the context of the question (sources of SO2). 2. Recall major sources based on EPA data. 3. Compare the scale of emissions from each option.",
+        "memory_hooks": [
+          "SO2 = S from Oil (fossil fuels) + 2 (2 from combustion processes)",
+          "Remember: Power plants are the 'power' behind SO2 emissions."
+        ],
+        "related_topics": [
+          "Air quality standards",
+          "Environmental policies",
+          "Impact of industrial activities on health"
+        ],
+        "current_affairs_connection": "This question connects to ongoing discussions about air pollution and regulatory measures to control emissions, which are frequently in the news."
+      },
+      "difficulty_level": "Easy",
+      "time_management": "Candidates should spend about 30 seconds to 1 minute on this question, as it requires quick recall of factual information.",
+      "confidence_calibration": "A well-prepared student should feel very confident in answering this question correctly, provided they have studied environmental issues thoroughly."
+    }
+  ]
+}

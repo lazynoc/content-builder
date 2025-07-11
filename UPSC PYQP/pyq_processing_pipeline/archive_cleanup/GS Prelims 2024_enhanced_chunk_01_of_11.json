@@ -1,0 +1,838 @@
+{
+  "metadata": {
+    "original_file": "GS Prelims 2024_ALL_enhanced_analysis.json",
+    "chunk_number": 1,
+    "total_chunks": 11,
+    "questions_in_chunk": 10,
+    "question_range": "1-10",
+    "processing_date": "2025-07-05 23:37:33",
+    "analysis_method": "OpenAI GPT-4o-mini (Enhanced)",
+    "processing_note": "Chunk 1 of 11 - Enhanced analysis with options separated"
+  },
+  "questions": [
+    {
+      "question_number": "1",
+      "section": "Polity & Governance",
+      "question_text": "How many Delimitation Commissions have been constituted by the Government of India till December 2023?",
+      "options": {
+        "A": "One",
+        "B": "Two",
+        "C": "Three",
+        "D": "Four"
+      },
+      "correct_answer": "D",
+      "explanation": "Delimitation literally means the act or process of fixing limits or boundaries of territorial constituencies in a country or a province having a legislative body. The job of delimitation is assigned to a high power body. Such a body is known as Delimitation Commission or a Boundary Commission. In India, such Delimitation Commissions have been constituted 4 times - in 1952 under the Delimitation Commission Act, 1952, in 1963 under Delimitation Commission Act, 1962, in 1973 under Delimitation Act, 1972 and in 2002 under Delimitation Act, 2002. Hence, option (d) is the correct answer. The Delimitation Commission in India is a high power body whose orders have the force of law and cannot be called in question before any court. These orders come into force on a date to be specified by the President of India in this behalf. The copies of its orders are laid before the House of the People and the State Legislative Assembly concerned, but no modifications are permissible therein by them.",
+      "motivation": "Delimitation in J&K was in news",
+      "source_material": "M Laxmikant Chapter on Parliament",
+      "source_type": "EM",
+      "test_series_reference": "PT 3652024 Polity: Article 7.2 DELIMITATION COMMISSION; News Today: Nov 25, 2023 Supreme Court(SC) asks Centre to set up a fresh Delimitation Commission Sandhan Vision IAS Prelims Test Series Initiative Consider the following statements regarding the Delimitation Commission: 1. It demarcates the boundaries of both the Parliamentary Constituencies and Assembly constituencies. 2. Till now, there have been only 10 delimitation commissions constituted so far. 3. It is chaired by the sitting or a retired Judge of the Supreme Court. Which of the statements given above are correct? VisionIAS All India Test Series (2024) Test 4127: Consider the following statements: 1. The Election Commission of India is empowered to determine the manner in which Lok Sabha seats are allotted to each state. 2. The 87th Amendment Act of 2003 provided for the delimitation of constituencies on the basis of the 1991 census.",
+      "id": "8e7bffe5-6e2a-42ed-894f-62e7d3acc9eb",
+      "extraction_order": 1,
+      "chunk_number": 1,
+      "question_nature": {
+        "primary_type": "Factual",
+        "secondary_type": "Memory-based",
+        "difficulty_reason": "The question is considered easy as it tests a specific fact regarding the number of Delimitation Commissions in India, which is a well-documented aspect of Indian polity.",
+        "knowledge_requirement": "Static knowledge is needed, specifically regarding the historical context and legislative framework of Delimitation Commissions in India."
+      },
+      "examiner_thought_process": {
+        "testing_objective": "The examiner aims to test the candidate's knowledge of Indian political institutions and their historical evolution.",
+        "question_design_strategy": "The question is designed to assess recall of specific historical facts related to Delimitation Commissions, which are critical for understanding electoral processes in India.",
+        "trap_setting": "The options are structured to include plausible distractors that may confuse candidates who are unsure about the exact number of commissions.",
+        "discrimination_potential": "This question has high discrimination potential as it can effectively differentiate between candidates who have a solid grasp of Indian polity and those who do not."
+      },
+      "options_analysis": {
+        "A": {
+          "type": "plausible_distractor",
+          "reason": "Incorrect as only one Delimitation Commission was constituted, which is misleading. This option might appeal to students who confuse the concept with other commissions.",
+          "trap": "Students may confuse the number of commissions with other political bodies or commissions, leading to this incorrect choice.",
+          "elimination_strategy": "Candidates should recall the historical context of Delimitation Commissions and recognize that there have been multiple commissions."
+        },
+        "B": {
+          "type": "plausible_distractor",
+          "reason": "Incorrect as there have been more than two commissions. This option may mislead students who remember only a few commissions.",
+          "trap": "This option may confuse students who might think of the two major acts related to delimitation.",
+          "elimination_strategy": "Candidates should eliminate this option by recalling the specific years and acts associated with each commission."
+        },
+        "C": {
+          "type": "plausible_distractor",
+          "reason": "Incorrect as three commissions were not constituted; this may mislead students who are unsure of the exact number.",
+          "trap": "Students might mistakenly remember three commissions due to confusion with other political events.",
+          "elimination_strategy": "Candidates should verify against their knowledge of the four commissions and eliminate this option."
+        },
+        "D": {
+          "type": "correct_answer",
+          "reason": "Correct as there have been four Delimitation Commissions constituted in India, as outlined in the explanation.",
+          "trap": "",
+          "elimination_strategy": ""
+        }
+      },
+      "learning_insights": {
+        "key_concepts": [
+          "Delimitation Commissions",
+          "Electoral Boundaries",
+          "Legislative Framework in India"
+        ],
+        "common_mistakes": [
+          "Confusing the number of Delimitation Commissions with other commissions or bodies.",
+          "Misremembering the years or acts associated with each commission."
+        ],
+        "elimination_technique": "Candidates should recall the historical context and the specific acts that established each commission to eliminate incorrect options.",
+        "memory_hooks": [
+          "Mnemonic: '1952, 1963, 1973, 2002' - Remember the years of the commissions in chronological order."
+        ],
+        "related_topics": [
+          "Indian Electoral System",
+          "Constitutional Provisions related to Delimitation",
+          "Political Geography of India"
+        ],
+        "current_affairs_connection": "While this question is primarily static, understanding the implications of delimitation on current electoral politics can be beneficial."
+      },
+      "difficulty_level": "Easy",
+      "time_management": "Candidates should spend about 30 seconds to 1 minute on this question, as it requires quick recall of factual information.",
+      "confidence_calibration": "A well-prepared student should feel very confident in selecting option D, given the straightforward nature of the question."
+    },
+    {
+      "question_number": "2",
+      "section": "Polity & Governance",
+      "question_text": "The Constitution (71st Amendment) Act, 1992 amends the Eighth Schedule to the Constitution to include which of the following languages? 1. Konkani 2. Manipuri 3. Nepali 4. Maithili Select the correction answer using the code given below :",
+      "options": {
+        "A": "1, 2 and 3",
+        "B": "1, 2 and 4",
+        "C": "1, 3 and 4",
+        "D": "2, 3 and 4"
+      },
+      "correct_answer": "A",
+      "explanation": "The 71st Amendment, enacted in 1992, included three more languages, i.e. Konkani, Meitei (Manipuri) and Nepali. The 92nd Amendment, added Bodo, Dogri, Santhali and Maithali in 2003, raising the total number of languages to 22 . Hence, option (a) is the correct answer.",
+      "motivation": "Demand for the inclusion of KUI language in the 8th Schedule of the Constitution",
+      "source_material": "M Laxmikant Chapter on official Language",
+      "source_type": "EM",
+      "test_series_reference": "VisionIAS All India Test Series (2024) Test 4140: With reference to the Eighth Schedule of the Constitution, consider the following statements: 1. Parliament can add a language to the Eighth Schedule by a simple majority. 2. Kannada, Konkani, and Malayalam were among the fourteen languages included in the Eighth Schedule of the original Constitution. Which of the statements given above is/are correct? (a) 1 only (b) 2 only (c) Both 1 and 2 (d) Neither 1 nor 2 Sandhan Vision IAS Prelims Test Series Initiative Which of the following languages were added through an amendment to the Eighth Schedule of the Indian Constitution? 1. Santhali 2. Sindhi 3. Maithili 4. Konkani Select the correct answer using the code given below PT 3652024 Polity: Article 1.8 8th Schedule of Constitution News Today: Jul 12, 2023 INCLUSION OF KUI LANGUAGE IN 8TH SCHEDULE OF CONSTITUTION",
+      "id": "330b41a2-e1ba-432c-a3b9-92487b525c7e",
+      "extraction_order": 2,
+      "chunk_number": 1,
+      "question_nature": {
+        "primary_type": "Factual",
+        "secondary_type": "Memory-based",
+        "difficulty_reason": "This question is considered easy as it tests specific knowledge about the Constitution and its amendments, which is a fundamental topic in Polity & Governance. Students who have studied the Eighth Schedule will find it straightforward.",
+        "knowledge_requirement": "Static knowledge about the Constitution and its amendments."
+      },
+      "examiner_thought_process": {
+        "testing_objective": "The examiner is testing the candidate's knowledge of the Constitution, specifically the amendments related to the Eighth Schedule and the languages included therein.",
+        "question_design_strategy": "The question is designed to assess recall of specific factual information regarding the 71st Amendment, requiring candidates to remember which languages were added.",
+        "trap_setting": "The options include languages that are either related to the amendments or commonly confused, which can mislead students who are not fully confident in their knowledge.",
+        "discrimination_potential": "This question can effectively differentiate between candidates who have a solid understanding of the Constitution and those who do not, as it requires precise knowledge."
+      },
+      "options_analysis": {
+        "A": {
+          "type": "correct_answer",
+          "reason": "This option correctly lists the languages added by the 71st Amendment: Konkani, Meitei (Manipuri), and Nepali.",
+          "trap": "",
+          "elimination_strategy": ""
+        },
+        "B": {
+          "type": "plausible_distractor",
+          "reason": "This option incorrectly includes Maithili, which was added by the 92nd Amendment, not the 71st.",
+          "trap": "Students may confuse the timing of the amendments and mistakenly believe Maithili was included in the 71st Amendment.",
+          "elimination_strategy": "Recognize that Maithili was added later and check the timeline of amendments."
+        },
+        "C": {
+          "type": "plausible_distractor",
+          "reason": "This option incorrectly includes Maithili, which was not part of the 71st Amendment.",
+          "trap": "The inclusion of Nepali and Manipuri may mislead students who remember these languages but forget the specific amendment details.",
+          "elimination_strategy": "Recall the specific languages added by the 71st Amendment and eliminate based on incorrect inclusion."
+        },
+        "D": {
+          "type": "plausible_distractor",
+          "reason": "This option includes languages that were not part of the 71st Amendment, leading to incorrect selection.",
+          "trap": "Students may confuse the languages with those added in other amendments.",
+          "elimination_strategy": "Eliminate based on knowledge of which languages were included in the 71st Amendment."
+        }
+      },
+      "learning_insights": {
+        "key_concepts": [
+          "Eighth Schedule of the Constitution",
+          "71st Amendment of the Constitution",
+          "Languages recognized in India"
+        ],
+        "common_mistakes": [
+          "Confusing the languages added by different amendments",
+          "Not remembering the exact year of amendments"
+        ],
+        "elimination_technique": "1. Recall the languages added by the 71st Amendment. 2. Identify any options that include languages not part of that amendment. 3. Cross-check with known facts about the 92nd Amendment.",
+        "memory_hooks": [
+          "Mnemonic for 71st Amendment languages: 'K-M-N' (Konkani, Manipuri, Nepali)"
+        ],
+        "related_topics": [
+          "Other amendments to the Constitution",
+          "Constitutional provisions regarding languages",
+          "Polity and Governance framework in India"
+        ],
+        "current_affairs_connection": "Understanding the linguistic diversity in India is relevant in discussions about cultural policies and educational frameworks."
+      },
+      "difficulty_level": "Easy",
+      "time_management": "Students should spend no more than 30 seconds on this question, as it requires quick recall of factual information.",
+      "confidence_calibration": "A well-prepared student should feel very confident in answering this question correctly."
+    },
+    {
+      "question_number": "3",
+      "section": "Post Independence",
+      "question_text": "Consider the following pairs : Party Its Leader 1. Bhartiya Jana Sangh Dr. Shyama Prasad Mukherjee 2. Socialist PartyRajagopalachari 3. Congress for Democracy Jagjivan Ram 4. Swatantra Party Acharya Narendra Dev How many of the above are correctly matched?",
+      "options": {
+        "A": "Only one",
+        "B": "Only two",
+        "C": "Only three",
+        "D": "All four"
+      },
+      "correct_answer": "B",
+      "explanation": "The Bharatiya Jana Sangh was an Indian nationalist political party. This party was established on 21 October 1951 in Delhi, that existed from 1951 to 1977. Its three founding members were Shyama Prasad Mukherjee, Balraj Madhok and Deendayal Upadhyaya. Hence pair 1 is correctly matched.\nC. Rajagopalachari was the founder of the Swatantra Party, not the Socialist Party. The Socialist Party was associated with leaders like Ram Manohar Lohia and Jayaprakash Narayan. Hence pair 2 is not correctly matched.\nThe Congress for Democracy (CFD) was an Indian political party founded in 1977 by Jagjivan Ram. It was formed after Jagjivan Ram, Hemavati Nandan Bahuguna, and Nandini Satpathy left the Indian National Congress of Indira Gandhi and denounced her rule during the Indian Emergency. Hence pair 3 is correctly matched.\nThe Swatantra Party was an Indian classical liberal political party that existed from 1959 to 1974. It was founded by C. Rajagopalachari in reaction to what he felt was the Jawaharlal Nehru-dominated Indian National Congress's increasingly socialist and statist outlook. Hence pair 4 is not correctly matched.\nHence option (b) is the correct answer.",
+      "motivation": "D",
+      "source_material": "NCERT CLASS XII Politics in India since Independence Page no 34, 39, 119",
+      "source_type": "E",
+      "test_series_reference": "M",
+      "id": "505863d8-901f-4678-8c25-2511b327c2de",
+      "extraction_order": 1,
+      "chunk_number": 2,
+      "question_nature": {
+        "primary_type": "Factual",
+        "secondary_type": "Memory-based",
+        "difficulty_reason": "This question is medium in difficulty as it requires specific knowledge about historical political parties and their leaders in India. Candidates need to recall accurate information about multiple pairs, which can be challenging without thorough preparation.",
+        "knowledge_requirement": "Static knowledge about Indian political history post-independence."
+      },
+      "examiner_thought_process": {
+        "testing_objective": "The examiner aims to test candidates' knowledge of Indian political history and their ability to match political parties with their respective leaders accurately.",
+        "question_design_strategy": "The question is designed to assess the depth of knowledge regarding Indian political parties and their leaders, focusing on both well-known and lesser-known figures.",
+        "trap_setting": "The incorrect pairs (2 and 4) are designed to mislead candidates who may confuse the leaders or their associations, particularly Rajagopalachari's role.",
+        "discrimination_potential": "This question has good discrimination potential as it can differentiate between candidates who have a solid grasp of historical facts and those who do not."
+      },
+      "options_analysis": {
+        "A": {
+          "type": "plausible_distractor",
+          "reason": "Candidates might think only one pair is correct due to confusion regarding the Socialist Party and its leaders.",
+          "trap": "Candidates may misremember Rajagopalachari's association with the Socialist Party, leading them to select this option.",
+          "elimination_strategy": "Recall the correct leaders associated with each party to eliminate this option."
+        },
+        "B": {
+          "type": "correct_answer",
+          "reason": "This option is correct as pairs 1 and 3 are accurately matched, while pairs 2 and 4 are not.",
+          "trap": "",
+          "elimination_strategy": "Confirm the correctness of pairs 1 and 3 while recognizing the inaccuracies in pairs 2 and 4."
+        },
+        "C": {
+          "type": "silly_mistake",
+          "reason": "Candidates may mistakenly believe that three pairs are correct due to confusion about the leaders associated with the parties.",
+          "trap": "The presence of two correct pairs may lead candidates to overestimate their knowledge.",
+          "elimination_strategy": "Review each pair carefully to identify the incorrect matches."
+        },
+        "D": {
+          "type": "silly_mistake",
+          "reason": "This option is incorrect as all four pairs are not matched correctly.",
+          "trap": "Candidates may assume all pairs are correct if they have a general understanding of Indian politics but lack specific details.",
+          "elimination_strategy": "Cross-check each pair against known historical facts to eliminate this option."
+        }
+      },
+      "learning_insights": {
+        "key_concepts": [
+          "Political parties in post-independence India",
+          "Founders of major Indian political parties",
+          "Historical context of Indian politics"
+        ],
+        "common_mistakes": [
+          "Confusing leaders with similar political ideologies",
+          "Assuming all pairs are correct without verification",
+          "Overlooking lesser-known political figures"
+        ],
+        "elimination_technique": "1. Identify the known leaders for each party. 2. Cross-reference with historical records. 3. Eliminate options based on incorrect pairings.",
+        "memory_hooks": [
+          "Mnemonic for remembering party leaders: 'Bharatiya Jana Sangh - Shyama, Swatantra - Rajagopalachari, Congress for Democracy - Jagjivan, Socialist - Lohia'."
+        ],
+        "related_topics": [
+          "History of Indian political parties",
+          "Major political movements in India post-independence",
+          "Key figures in Indian politics"
+        ],
+        "current_affairs_connection": "Understanding the historical context of political parties can provide insights into current political dynamics and party alignments in India."
+      },
+      "difficulty_level": "Medium",
+      "time_management": "Candidates should spend about 1-2 minutes on this question to ensure they analyze each pair carefully.",
+      "confidence_calibration": "A well-prepared student should feel confident in selecting option B if they have studied Indian political history thoroughly."
+    },
+    {
+      "question_number": "4",
+      "section": "Polity & Governance",
+      "question_text": "With reference to the 'Swatantra Party', consider the following statements: 1. It strongly supported the socialistic pattern of society in opposition to a market-based economy for Indi",
+      "options": {
+        "A": "2. It emerged as the second largest party in the Lok Sabha after the fourth general elections of 1967.\n3. It was merged with the Bharatiya Janata Party in 1974.\nWhich of the statements given above is/are correct?"
+      },
+      "correct_answer": "",
+      "explanation": "Swatantra Party was founded in the year 1959 by leaders opposing the socialistic policies of the Congress government. Some of the prominent leaders of the time including C Rajagopalachari, Minoo Masani and N G Ranga collaborated to form a liberal and conservative party. The party stood for a market-based economy and the dismantling of the license raj",
+      "motivation": "",
+      "source_material": "All India 2024 Prelims Test Series: Test 4139",
+      "source_type": "",
+      "test_series_reference": "",
+      "id": "7512198c-72fa-43d9-a12e-a529b3945ffa",
+      "extraction_order": 2,
+      "chunk_number": 2,
+      "question_nature": {
+        "primary_type": "Factual",
+        "secondary_type": "Memory-based",
+        "difficulty_reason": "This question is medium in difficulty as it requires specific knowledge about the Swatantra Party and its historical context. Candidates may confuse its policies with those of other parties.",
+        "knowledge_requirement": "Static knowledge about Indian political history and party ideologies."
+      },
+      "examiner_thought_process": {
+        "testing_objective": "The examiner aims to assess the candidate's knowledge of Indian political history, specifically the ideologies and historical significance of the Swatantra Party.",
+        "question_design_strategy": "The question is designed to test recall of specific facts and the ability to differentiate between the ideologies of various political parties in India.",
+        "trap_setting": "The first statement is misleading as it incorrectly attributes a socialistic stance to the Swatantra Party, which is known for its opposition to socialism.",
+        "discrimination_potential": "This question has good discrimination potential as it can differentiate between candidates who have a clear understanding of the Swatantra Party and those who do not."
+      },
+      "options_analysis": {
+        "A": {
+          "type": "silly_mistake",
+          "reason": "The statement is incorrect as the Swatantra Party opposed the socialistic pattern of society.",
+          "trap": "Students may mistakenly believe that the party supported socialism due to the phrasing of the statement.",
+          "elimination_strategy": "Recognize that the Swatantra Party was founded in opposition to socialism, which directly contradicts this statement."
+        },
+        "B": {
+          "type": "plausible_distractor",
+          "reason": "This statement is incorrect; the Swatantra Party did not emerge as the second largest party in the Lok Sabha after the 1967 elections.",
+          "trap": "Candidates might confuse election results or misremember the party's standing in the Lok Sabha.",
+          "elimination_strategy": "Cross-check with historical election results to confirm the party's position."
+        },
+        "C": {
+          "type": "silly_mistake",
+          "reason": "This statement is incorrect; the Swatantra Party was not merged with the Bharatiya Janata Party in 1974.",
+          "trap": "Students may confuse the timeline of party mergers and alliances.",
+          "elimination_strategy": "Recall the history of the Bharatiya Janata Party and its formation, which occurred later."
+        },
+        "D": {
+          "type": "correct_answer",
+          "reason": "This option correctly states that the Swatantra Party was founded in 1959 by leaders opposing the Congress's socialistic policies.",
+          "trap": "",
+          "elimination_strategy": "Confirm the founding year and the party's ideological stance."
+        }
+      },
+      "learning_insights": {
+        "key_concepts": [
+          "Swatantra Party's ideology",
+          "Historical context of Indian political parties",
+          "Role of the Swatantra Party in post-independence India"
+        ],
+        "common_mistakes": [
+          "Confusing the Swatantra Party's ideology with that of the Congress Party",
+          "Misremembering the timeline of political events and party formations"
+        ],
+        "elimination_technique": "1. Identify the ideological stance of the Swatantra Party. 2. Cross-reference historical timelines. 3. Eliminate options that contradict known facts.",
+        "memory_hooks": [
+          "Remember 'Swatantra' means 'freedom' in Hindi, indicating its liberal stance against socialism."
+        ],
+        "related_topics": [
+          "History of Indian political parties",
+          "Post-independence Indian politics",
+          "Economic policies in India post-1950"
+        ],
+        "current_affairs_connection": "Understanding the historical context of political parties can provide insights into current political dynamics and party ideologies."
+      },
+      "difficulty_level": "Medium",
+      "time_management": "Candidates should spend about 1-2 minutes on this question to analyze and recall relevant information.",
+      "confidence_calibration": "A well-prepared student should feel moderately confident, provided they have studied the historical context of Indian political parties."
+    },
+    {
+      "question_number": "5",
+      "section": "Polity & Governance",
+      "question_text": "Which of the following statements are correct about the Constitution of India? 1. Powers of the Municipalities are given in Part IX A of the Constitution. 2. Emergency provisions are given in Part XVIII of the Constitution. 3. Provisions related to the amendment of the Constitution are given in Part XX of the",
+      "options": {
+        "A": "1 and 2 only",
+        "B": "2 and 3 only",
+        "C": "1 and 3 only",
+        "D": "1, 2 and 3"
+      },
+      "correct_answer": "D",
+      "explanation": "Indian costitution is the world's lengthiest written constitution had 395 articles in 22 parts and 8 schedules at the time of commencement. Now the Constitution of India has 448 articles in 25 parts and 12 schedules.\nPart IX-A of the Indian constitution deals with municipalities, its composition, powers, etc. It was added by the 74th amendment act of the Indian Constitution. The 74th amendment act was introduced in 1992. It came into force on 1st June 1993. Hence, statement 1 is correct.\nPart XVIII of the Indian constitution envisages the following three emergencies: General Emergency (also called national emergency) Breakdown of constitutional machinery in the states -(also called state emergency) Financial Emergency. Hence, statement 2 is correct.\nThe procedure of amendment in the constitution is laid down in Part XX (Article 368) of the Constitution of India. Hence, statement 3 is correct.",
+      "motivation": "E",
+      "source_material": "M laxmikant Chapter on Salient Features of the Constitution",
+      "source_type": "E",
+      "test_series_reference": "M",
+      "id": "1dd434fd-2cdf-4a13-a644-5fccb65a8b31",
+      "extraction_order": 3,
+      "chunk_number": 2,
+      "question_nature": {
+        "primary_type": "Factual",
+        "secondary_type": "Memory-based",
+        "difficulty_reason": "This question is considered easy as it tests basic knowledge of the Indian Constitution, which is a fundamental topic in the UPSC syllabus. The statements are straightforward and can be answered with a clear understanding of the Constitution.",
+        "knowledge_requirement": "Static knowledge is required, specifically regarding the structure and content of the Indian Constitution."
+      },
+      "examiner_thought_process": {
+        "testing_objective": "The examiner aims to assess the candidate's knowledge of the specific parts of the Indian Constitution and their understanding of municipal powers, emergency provisions, and amendment procedures.",
+        "question_design_strategy": "The question is designed to evaluate the candidate's recall ability and understanding of the Constitution's structure, which is essential for governance and polity sections in the UPSC syllabus.",
+        "trap_setting": "The options are structured to include combinations that may mislead candidates who are unsure about specific parts of the Constitution, particularly regarding the amendments and emergency provisions.",
+        "discrimination_potential": "This question has high discrimination potential as it can effectively differentiate between candidates who have a thorough understanding of the Constitution and those who do not."
+      },
+      "options_analysis": {
+        "A": {
+          "type": "plausible_distractor",
+          "reason": "This option is incorrect because while statement 1 is correct, statement 2 and 3 are also correct, making this option incomplete.",
+          "trap": "Candidates might mistakenly believe that only one statement can be true, leading them to choose this option.",
+          "elimination_strategy": "Recognize that all statements are correct, thus eliminating this option."
+        },
+        "B": {
+          "type": "plausible_distractor",
+          "reason": "This option is incorrect as it suggests that only statements 2 and 3 are correct, while statement 1 is also correct.",
+          "trap": "Students may misinterpret the emergency provisions and overlook the correct statement about municipalities.",
+          "elimination_strategy": "Check the correctness of all statements; since statement 1 is true, this option can be eliminated."
+        },
+        "C": {
+          "type": "plausible_distractor",
+          "reason": "This option is incorrect because it claims that statements 1 and 3 are correct, but statement 2 is also correct, making this option incomplete.",
+          "trap": "Candidates might confuse the parts of the Constitution, leading to the selection of this option.",
+          "elimination_strategy": "Verify the correctness of all statements; since statement 2 is true, this option can be eliminated."
+        },
+        "D": {
+          "type": "correct_answer",
+          "reason": "This option is correct as all three statements about the Constitution are accurate.",
+          "trap": "",
+          "elimination_strategy": ""
+        }
+      },
+      "learning_insights": {
+        "key_concepts": [
+          "Part IX-A: Municipalities",
+          "Part XVIII: Emergency Provisions",
+          "Part XX: Amendment Procedures"
+        ],
+        "common_mistakes": [
+          "Misremembering the parts of the Constitution related to municipalities and emergency provisions.",
+          "Overlooking the fact that multiple statements can be correct."
+        ],
+        "elimination_technique": "1. Read each statement carefully. 2. Recall the relevant parts of the Constitution. 3. Identify the correct statements before selecting the answer.",
+        "memory_hooks": [
+          "Mnemonic for remembering parts: 'Municipalities in IX-A, Emergencies in XVIII, Amendments in XX.'"
+        ],
+        "related_topics": [
+          "Local Governance in India",
+          "Emergency Provisions in the Constitution",
+          "Constitutional Amendments"
+        ],
+        "current_affairs_connection": "Understanding the Constitution is crucial for interpreting current events related to governance and legal reforms in India."
+      },
+      "difficulty_level": "Easy",
+      "time_management": "This question should take no more than 30 seconds to a minute to analyze and answer.",
+      "confidence_calibration": "A well-prepared student should feel highly confident in answering this question correctly."
+    },
+    {
+      "question_number": "6",
+      "section": "Polity & Governance",
+      "question_text": "With reference to the Constitution of India, which of the following parts of the constitution comes first?",
+      "options": {
+        "A": "Emergency Provisions",
+        "B": "The Scheduled and Tribal Areas"
+      },
+      "correct_answer": "",
+      "explanation": "The Constitution of India at present has 25 parts:\nPart IX-A The Municipalities (Articles 243-P to 243-ZG)\nPart XV Elections (Articles 324 to 329- A)\nPart XVI Special Provisions relating to Certain Classes (Articles 330 to 342- A)\nPart XVII Official Language (Articles 343 to 351- A)\nPart XVIII Emergency Provisions (Articles 352 to 360)\nPart XX Amendment of the Constitution (Article 368)\nPart XXII Short title, Commencement, Authoritative Text in Hindi and Repeals (Articles 393 to 395)",
+      "motivation": "",
+      "source_material": "",
+      "source_type": "",
+      "test_series_reference": "",
+      "id": "1c23d146-d261-4e3a-8fec-07c4a7e7448b",
+      "extraction_order": 4,
+      "chunk_number": 2,
+      "question_nature": {
+        "primary_type": "Factual",
+        "secondary_type": "Memory-based",
+        "difficulty_reason": "This question is considered easy as it tests straightforward knowledge of the Constitution's structure, which is a fundamental aspect of Indian polity.",
+        "knowledge_requirement": "Static knowledge is required, specifically regarding the parts of the Constitution of India."
+      },
+      "examiner_thought_process": {
+        "testing_objective": "The examiner aims to assess the candidate's familiarity with the structure and content of the Constitution of India, particularly the order of its parts.",
+        "question_design_strategy": "The question is designed to directly assess recall of factual information regarding the Constitution, which is a key area in the UPSC syllabus.",
+        "trap_setting": "The options provided are both related to the Constitution, which may lead students to second-guess their knowledge, especially if they are not fully confident about the order of parts.",
+        "discrimination_potential": "This question has good discrimination potential as it can differentiate between candidates who have a solid grasp of the Constitution and those who do not."
+      },
+      "options_analysis": {
+        "A": {
+          "type": "correct_answer",
+          "reason": "Emergency Provisions (Part XVIII) is indeed one of the parts of the Constitution and is positioned before The Scheduled and Tribal Areas.",
+          "trap": "",
+          "elimination_strategy": ""
+        },
+        "B": {
+          "type": "plausible_distractor",
+          "reason": "The Scheduled and Tribal Areas (Part X) is a legitimate part of the Constitution but comes after Emergency Provisions, which may confuse students who are unsure of the order.",
+          "trap": "Students might confuse their knowledge of the content of Part B with its order, leading them to incorrectly choose this option.",
+          "elimination_strategy": "Recognize that Part X is not as high in the order of parts as Part XVIII, which is explicitly about emergency provisions."
+        },
+        "C": {
+          "type": "correct_answer/tricky_option/close_call/silly_mistake",
+          "reason": "Not applicable as there are only two options provided.",
+          "trap": "",
+          "elimination_strategy": ""
+        },
+        "D": {
+          "type": "correct_answer/tricky_option/close_call/silly_mistake",
+          "reason": "Not applicable as there are only two options provided.",
+          "trap": "",
+          "elimination_strategy": ""
+        }
+      },
+      "learning_insights": {
+        "key_concepts": [
+          "Structure of the Constitution of India",
+          "Order of the parts of the Constitution",
+          "Emergency Provisions"
+        ],
+        "common_mistakes": [
+          "Confusing the order of parts",
+          "Overlooking the specific articles associated with each part"
+        ],
+        "elimination_technique": "Recall the sequence of parts in the Constitution; if unsure, eliminate based on known parts that come before or after.",
+        "memory_hooks": [
+          "Mnemonic devices such as 'E for Emergency' to remember that Emergency Provisions come before other parts."
+        ],
+        "related_topics": [
+          "Fundamental Rights",
+          "Directive Principles of State Policy",
+          "Federal Structure of India"
+        ],
+        "current_affairs_connection": "Understanding the Constitution's provisions is crucial for interpreting current events related to governance and law."
+      },
+      "difficulty_level": "Easy",
+      "time_management": "Students should ideally spend no more than 30 seconds on this question, as it requires quick recall of factual information.",
+      "confidence_calibration": "A well-prepared student should feel very confident in answering this question correctly."
+    },
+    {
+      "question_number": "7",
+      "section": "Polity & Governance",
+      "question_text": "Which one of the following statements is correct as per the Constitution of India?",
+      "options": {
+        "A": "Inter-State trade and commerce is a State subject under the State List.",
+        "B": "Inter-State migration is a State subject under the State List.",
+        "C": "Inter-State quarantine is a Union subject under the",
+        "D": "Corporation tax is a State subject under the State List."
+      },
+      "correct_answer": "C",
+      "explanation": "The Seventh Schedule to the Constitution of India under Article 246 specifies the allocation of powers and functions between the Union and the State legislatures. Presently, the Union List contains 98 subjects (originally 97), the State List contains 59 subjects (originally 66) and the Concurrent List contains 52 subjects (originally 47).\nInter-State trade and commerce finds itself in the Union list of the seventh schedule.\nInter-state migration as entry 42.\nEntry 81 of the Union List mentions Inter-State migration and inter-State quarantine.\nCorporation Tax is entry 85 in the Union List. Hence, option (c) is the correct answer.",
+      "motivation": "M",
+      "source_material": "M Laxmikant Appendix II Subjects of Union, State and Concurrent Lists",
+      "source_type": "E",
+      "test_series_reference": "M",
+      "id": "f40ecc39-d69a-4d56-9bbf-9804c996b72e",
+      "extraction_order": 5,
+      "chunk_number": 2,
+      "question_nature": {
+        "primary_type": "Factual",
+        "secondary_type": "Memory-based",
+        "difficulty_reason": "This question is medium in difficulty as it requires specific knowledge of the Constitution and the Seventh Schedule, which may not be immediately recalled by all candidates.",
+        "knowledge_requirement": "Static knowledge regarding the Constitution of India and its provisions."
+      },
+      "examiner_thought_process": {
+        "testing_objective": "The examiner aims to assess the candidate's understanding of the distribution of powers between the Union and State legislatures as outlined in the Constitution.",
+        "question_design_strategy": "The question is designed to evaluate the candidate's ability to recall specific entries from the Seventh Schedule, testing both memory and comprehension of constitutional provisions.",
+        "trap_setting": "Options A, B, and D are designed to mislead candidates who may confuse the subjects listed in the Union and State Lists, thus testing their precise knowledge of constitutional entries.",
+        "discrimination_potential": "This question has good discrimination potential as it can differentiate between candidates who have a strong grasp of constitutional provisions and those who do not."
+      },
+      "options_analysis": {
+        "A": {
+          "type": "plausible_distractor",
+          "reason": "Inter-State trade and commerce is actually a Union subject under the Union List, not a State subject.",
+          "trap": "Candidates may confuse trade and commerce with other state subjects, leading them to incorrectly select this option.",
+          "elimination_strategy": "Recall that inter-state trade is explicitly mentioned in the Union List, which can help eliminate this option."
+        },
+        "B": {
+          "type": "plausible_distractor",
+          "reason": "Inter-State migration is indeed a State subject, but it is not the correct answer as it does not pertain to the Union List.",
+          "trap": "Students may misinterpret migration as a significant issue and thus select this option without verifying its constitutional basis.",
+          "elimination_strategy": "Understanding that migration is not a Union subject can help eliminate this option."
+        },
+        "C": {
+          "type": "correct_answer",
+          "reason": "Inter-State quarantine is correctly classified as a Union subject under Entry 81 of the Union List.",
+          "trap": "",
+          "elimination_strategy": ""
+        },
+        "D": {
+          "type": "plausible_distractor",
+          "reason": "Corporation tax is a Union subject, not a State subject, which makes this option incorrect.",
+          "trap": "Candidates may confuse taxation subjects and mistakenly consider this option as correct.",
+          "elimination_strategy": "Knowledge of tax classifications in the Constitution can help eliminate this option."
+        }
+      },
+      "learning_insights": {
+        "key_concepts": [
+          "Seventh Schedule of the Constitution",
+          "Union List vs State List",
+          "Inter-State trade and commerce",
+          "Inter-State migration",
+          "Corporation tax"
+        ],
+        "common_mistakes": [
+          "Confusing Union and State subjects",
+          "Misunderstanding the entries in the Seventh Schedule",
+          "Overlooking the specific wording of the options"
+        ],
+        "elimination_technique": "1. Identify the subject matter of each option. 2. Recall the correct classification of each subject in the Union and State Lists. 3. Eliminate options that do not match the correct classification.",
+        "memory_hooks": [
+          "Mnemonic for remembering the Union List: 'TIC' (Tax, Inter-State trade, Commerce)",
+          "Visualize the Seventh Schedule as a table with clear distinctions between Union and State subjects."
+        ],
+        "related_topics": [
+          "Fundamental Rights and Duties",
+          "Directive Principles of State Policy",
+          "Federal structure of India"
+        ],
+        "current_affairs_connection": "Understanding the distribution of powers is crucial in the context of ongoing debates about federalism and state rights in India."
+      },
+      "difficulty_level": "Medium",
+      "time_management": "Candidates should spend about 30 seconds to 1 minute on this question to ensure careful consideration of options.",
+      "confidence_calibration": "A well-prepared student should feel confident in selecting the correct answer if they have studied the Constitution thoroughly."
+    },
+    {
+      "question_number": "8",
+      "section": "Polity & Governance",
+      "question_text": "Under which of the following Articles of the Constitution of India, has the Supreme Court of India places the Right to Privacy?",
+      "options": {
+        "A": "Article 15",
+        "B": "Article 16",
+        "C": "Article 19",
+        "D": "Article 21"
+      },
+      "correct_answer": "D",
+      "explanation": "The Supreme Court of India in Justice K.S. Puttaswamy (Retd) vs Union of India has declared that the Right to Privacy is a fundamental right under Article 21. In doing so, the Supreme Court has overruled verdicts given in the M.P. Sharma case in 1958 and the Kharak Singh case in 1961, both of which said that the right to privacy is not protected under the Indian constitution. Hence, option (d) is the correct answer.",
+      "motivation": "Delhi High Court granted protection to personality rights of a famous Bollywood actor",
+      "source_material": "M Laxmikant Chapter on Fundamental Rights",
+      "source_type": "E",
+      "test_series_reference": "M",
+      "id": "4544cda9-a5b2-4885-8e43-de521603d250",
+      "extraction_order": 6,
+      "chunk_number": 2,
+      "question_nature": {
+        "primary_type": "Factual",
+        "secondary_type": "Memory-based",
+        "difficulty_reason": "This question is considered easy because it tests a fundamental aspect of constitutional law that is widely discussed in academic and competitive settings. The Right to Privacy is a prominent topic, especially following the landmark judgment in 2017.",
+        "knowledge_requirement": "Static knowledge regarding the Constitution of India and landmark Supreme Court judgments."
+      },
+      "examiner_thought_process": {
+        "testing_objective": "The examiner aims to assess the candidate's understanding of constitutional provisions and landmark judicial interpretations, particularly regarding fundamental rights.",
+        "question_design_strategy": "The question is designed to test not only the knowledge of the specific Article but also the understanding of the context in which the Right to Privacy was recognized as a fundamental right.",
+        "trap_setting": "Options A, B, and C are included as plausible distractors, as they represent other Articles related to rights but not the Right to Privacy, which can confuse candidates who may not be fully confident.",
+        "discrimination_potential": "This question has high discrimination potential as it can effectively differentiate between candidates who have a solid grasp of constitutional law and those who do not."
+      },
+      "options_analysis": {
+        "A": {
+          "type": "plausible_distractor",
+          "reason": "Article 15 prohibits discrimination on grounds of religion, race, caste, sex, or place of birth. While important, it is unrelated to the Right to Privacy.",
+          "trap": "Candidates may confuse Article 15 with rights related to personal liberty.",
+          "elimination_strategy": "Recognize that Article 15 deals with discrimination, not privacy."
+        },
+        "B": {
+          "type": "plausible_distractor",
+          "reason": "Article 16 provides for equality of opportunity in matters of public employment, which does not pertain to privacy.",
+          "trap": "Some candidates might confuse employment rights with personal rights.",
+          "elimination_strategy": "Recall that Article 16 is specifically about public employment, not individual rights."
+        },
+        "C": {
+          "type": "plausible_distractor",
+          "reason": "Article 19 guarantees certain freedoms, such as speech and expression, but does not explicitly mention privacy.",
+          "trap": "Candidates may incorrectly associate freedom of expression with privacy rights.",
+          "elimination_strategy": "Understand that while Article 19 relates to freedoms, it does not encompass privacy."
+        },
+        "D": {
+          "type": "correct_answer",
+          "reason": "Article 21 guarantees the right to life and personal liberty, which the Supreme Court has interpreted to include the Right to Privacy.",
+          "trap": "",
+          "elimination_strategy": ""
+        }
+      },
+      "learning_insights": {
+        "key_concepts": [
+          "Fundamental Rights",
+          "Right to Privacy",
+          "Article 21 of the Constitution",
+          "Landmark Supreme Court Judgments"
+        ],
+        "common_mistakes": [
+          "Confusing Articles related to rights",
+          "Overlooking the context of landmark cases",
+          "Misunderstanding the scope of fundamental rights"
+        ],
+        "elimination_technique": "Identify the core subject of each Article: Article 15 (discrimination), Article 16 (employment), Article 19 (freedoms), and recognize that only Article 21 pertains to personal liberty.",
+        "memory_hooks": [
+          "Remember '21 is the key to life and liberty' to associate Article 21 with fundamental rights."
+        ],
+        "related_topics": [
+          "Judicial Interpretation of the Constitution",
+          "Recent Supreme Court Judgments",
+          "Fundamental Rights vs. Directive Principles"
+        ],
+        "current_affairs_connection": "The Right to Privacy has been a significant topic in discussions about data protection and surveillance, especially in light of recent technological advancements and legislative proposals."
+      },
+      "difficulty_level": "Easy",
+      "time_management": "Candidates should spend no more than 30 seconds on this question, given its straightforward nature.",
+      "confidence_calibration": "A well-prepared student should feel very confident about answering this question correctly."
+    },
+    {
+      "question_number": "9",
+      "section": "Current Affairs (Polity & Governance)",
+      "question_text": "What are the duties of the Chief of Defence Staff (CDS) as Head of the Department of Military Affairs? 1. Permanent Chairman of Chiefs of Staff Committee. 2. Exercise military command over the three Service Chiefs. 3. Principal Military Advisor to Defence Minister on all triservice matters. Select the correct answer using the code given below.",
+      "options": {
+        "A": "1, 2 and 3",
+        "B": "1 and 2 only",
+        "C": "2 and 3 only",
+        "D": "1 and 3 only"
+      },
+      "correct_answer": "D",
+      "explanation": "The duties and functions of the Chief of Defence Staff (CDS) include the following:\nTo head the Department of Military Affairs in Ministry of Defence and function as its Secretary.\nTo act as the Principal Military Advisor to Hon'ble Raksha Mantri on all Tri-Service matters.\nTo function as the Permanent Chairman of the Chiefs of Staff Committee\nTo administer the Tri-Service organizations/agencies/commands.\nTo be a member of Defence Acquisition Council chaired by Hon'ble Raksha Mantri.\nTo function as the Military Advisor to the Nuclear Command Authority.\nTo bring about jointness in operation, logistics, transport, training, support services, communications, repairs and maintenance, etc of the three Services. To ensure optimal utilisation of infrastructure and rationalise it through jointness among the Services.\nTo implement Five-Year Defence Capital Acquisition Plan and Two-Year roll-on Annual Acquisition Plans, as a follow up of Integrated Capability Development Plan.\nTo assign inter-services prioritisation to capital acquisition proposals based on the anticipated budget.\nTo bring about reforms in the functioning of three Services with the aim to augment combat capabilities of the Armed Forces by reducing wasteful expenditure.\nThe CDS does not exercise military command over the three services. Hence, option (d) is the correct answer.",
+      "motivation": "",
+      "source_material": "https://pib.gov.in/newsite/PrintRelease.aspx?relid=198899 / https://www.thehindu.com/news/national/it-general-anil-chauhan-appointed-as-new-cds/article65946805.ece",
+      "source_type": "E",
+      "test_series_reference": "N",
+      "id": "2db4575d-b3d4-491f-a0c3-bc84384cbea2",
+      "extraction_order": 7,
+      "chunk_number": 2,
+      "question_nature": {
+        "primary_type": "Current Affairs",
+        "secondary_type": "Memory-based",
+        "difficulty_reason": "The question is medium in difficulty as it requires specific knowledge of the roles and responsibilities of the Chief of Defence Staff (CDS), which may not be commonly known to all candidates.",
+        "knowledge_requirement": "Dynamic knowledge of current affairs related to the Indian Defence structure and the role of the CDS."
+      },
+      "examiner_thought_process": {
+        "testing_objective": "To assess candidates' understanding of the specific duties of the Chief of Defence Staff and their ability to discern between correct and incorrect statements.",
+        "question_design_strategy": "The question is designed to test factual recall and comprehension of the CDS's role, with a focus on distinguishing between duties that are actually performed versus those that are commonly assumed.",
+        "trap_setting": "Options include duties that sound plausible but are incorrect, such as exercising military command over the three Service Chiefs, which can mislead candidates who are not well-versed in the specifics.",
+        "discrimination_potential": "This question can effectively differentiate between candidates who have a solid grasp of current affairs and those who do not, as it requires precise knowledge."
+      },
+      "options_analysis": {
+        "A": {
+          "type": "plausible_distractor",
+          "reason": "This option includes all three statements, which may seem correct to candidates who are not aware that the CDS does not exercise military command over the three services.",
+          "trap": "Candidates may confuse the role of CDS with that of a traditional military leader, leading them to select this option.",
+          "elimination_strategy": "Candidates should recall that the CDS does not exercise military command and eliminate this option based on that knowledge."
+        },
+        "B": {
+          "type": "plausible_distractor",
+          "reason": "This option includes the first two statements, which may appear correct but incorrectly assumes military command is part of the CDS's duties.",
+          "trap": "The presence of the first statement may mislead candidates into thinking this option is correct.",
+          "elimination_strategy": "Candidates should focus on the incorrect assumption of military command and eliminate this option."
+        },
+        "C": {
+          "type": "silly_mistake",
+          "reason": "This option includes only the last two statements, which are misleading since the second statement is incorrect.",
+          "trap": "Candidates may mistakenly believe that the CDS has military command over the services, leading to this choice.",
+          "elimination_strategy": "Recognizing that the second statement is incorrect should help candidates eliminate this option."
+        },
+        "D": {
+          "type": "correct_answer",
+          "reason": "This option correctly identifies the duties of the CDS as the Permanent Chairman of the Chiefs of Staff Committee and Principal Military Advisor to the Defence Minister, both of which are accurate.",
+          "trap": "",
+          "elimination_strategy": "Candidates should confirm their understanding of the CDS's role and select this option confidently."
+        }
+      },
+      "learning_insights": {
+        "key_concepts": [
+          "Chief of Defence Staff (CDS)",
+          "Department of Military Affairs",
+          "Roles and responsibilities of CDS",
+          "Tri-Service operations"
+        ],
+        "common_mistakes": [
+          "Assuming the CDS has military command over the three services",
+          "Confusing the roles of different military leadership positions"
+        ],
+        "elimination_technique": "1. Identify the duties of the CDS. 2. Cross-check each option against known facts. 3. Eliminate options that include incorrect duties.",
+        "memory_hooks": [
+          "CDS = Chief of Defence Staff, remember 'Chairman' and 'Advisor' roles to recall key responsibilities."
+        ],
+        "related_topics": [
+          "Indian Defence Structure",
+          "Military Reforms in India",
+          "Roles of Service Chiefs"
+        ],
+        "current_affairs_connection": "The question connects to ongoing discussions about military reforms and the evolving role of the CDS in India's defence strategy."
+      },
+      "difficulty_level": "Medium",
+      "time_management": "Candidates should spend about 1-2 minutes on this question to ensure careful consideration of the options.",
+      "confidence_calibration": "A well-prepared student should feel confident in selecting the correct answer if they have studied the role of the CDS thoroughly."
+    },
+    {
+      "question_number": "10",
+      "section": "Current Affairs (Polity & Governance)",
+      "question_text": "Which of the following statements about the Ethics Committee in the Lok Sabha are correct? 1. Initially it was an ad-hoc Committee. 2. Only a Member of the Lok Sabha can make a complaint relating to unethical conduct of a member of the Lok Sabh3. This Committee cannot take up any matter which is sub-judice. Select the correct answer using the code given below:",
+      "options": {
+        "A": "1 and 2 only",
+        "B": "2 and 3 only",
+        "C": "1 and 3 only",
+        "D": "1, 2 and 3"
+      },
+      "correct_answer": "C",
+      "explanation": "The Ethics Committee of the Lok Sabha and its History:\nThe genesis of the formation of the Ethics Committee in Parliament can be traced to a resolution adopted at the Presiding Officers Conference held in New Delhi in October 1996 which desired the legislatures to explore the possibility of constituting an Ethics Committee. It is in pursuance of this resolution that the endeavour for setting up of the Ethics Committee in Indian Legislatures began in earnest.\nThen Vice President (and Rajya Sabha Chairman) K R Narayanan constituted the Ethics Committee of the Upper House on March 4, 1997, and it was inaugurated that May to oversee the moral and ethical conduct of members and examine cases of misconduct referred to it. The Rules applicable to the Committee of Privileges also apply to the ethics panel.\nIn the case of Lok Sabha, a study group of the House Committee of Privileges, after visiting Australia, the UK, and the US in 1997 to look into practices pertaining to the conduct and ethics of legislators, recommended the constitution of an Ethics Committee, but it could not be taken up by Lok Sabha. The Committee of Privileges finally recommended the constitution of an Ethics Committee during the 13th Lok Sabha. The late Speaker, G M C Balayogi, constituted an ad hoc Ethics Committee in 2000, which became a permanent part of the House only in 2015. Hence, statement 1 is correct.\nAny person can complain against a Member through another Lok Sabha MP, along with evidence of the alleged misconduct, and an affidavit stating that the complaint is not \"false, frivolous, or vexatious\". If the Member himself complains, the affidavit is not needed. The Speaker can refer to the Committee any complaint against an MP. Hence, statement 2 is not correct.\nThe Committee does not entertain complaints based only on media reports or on matters that are sub judice. The Committee makes a prima facie inquiry before deciding to examine a complaint. It makes its recommendations after evaluating the complaint. Hence, statement 3 is correct.",
+      "motivation": "Recently, a Lok Sabha MP was accused of cash for query scam and the Lok Sabha Ethics Committee took up the investigation against the MP.",
+      "source_material": "https://indianexpress.com/article/explained/Is-ethics-committee-its-constitution-members-8999613/\nhttps://loksabhadocs.nic.in/LSSCOMMITTEE/Ethics/Intraduction/Intraduction%20Ethics%20Committee.pdf",
+      "source_type": "E\nN",
+      "test_series_reference": "VisionIAS All India Prelims Test Series (2024): Test 4145",
+      "id": "8acbaa6c-1614-43ed-b127-b243e33f0e65",
+      "extraction_order": 3,
+      "chunk_number": 3,
+      "question_nature": {
+        "primary_type": "Factual",
+        "secondary_type": "Memory-based",
+        "difficulty_reason": "The question requires specific knowledge about the Ethics Committee of the Lok Sabha, which may not be commonly known, making it medium in difficulty for those unfamiliar with parliamentary procedures.",
+        "knowledge_requirement": "Static knowledge about the structure and functioning of the Lok Sabha and its committees."
+      },
+      "examiner_thought_process": {
+        "testing_objective": "To assess the candidate's understanding of the Ethics Committee's formation, its operational rules, and the nature of complaints that can be filed against members.",
+        "question_design_strategy": "The question is designed to test not only recall of facts but also comprehension of the procedural nuances of the Ethics Committee.",
+        "trap_setting": "The inclusion of statement 2, which is incorrect, serves as a trap for those who may not fully understand the complaint process, potentially leading to incorrect selections.",
+        "discrimination_potential": "The question can effectively differentiate between candidates who have a deeper understanding of parliamentary ethics and those who rely solely on rote memorization."
+      },
+      "options_analysis": {
+        "A": {
+          "type": "plausible_distractor",
+          "reason": "This option includes statement 1, which is correct, but statement 2 is incorrect, leading to an incorrect overall answer.",
+          "trap": "Students may mistakenly believe that only MPs can file complaints, which is a common misconception.",
+          "elimination_strategy": "Recognize that statement 2 is incorrect based on knowledge of the complaint process."
+        },
+        "B": {
+          "type": "plausible_distractor",
+          "reason": "This option includes statement 2, which is incorrect, thus making the entire option incorrect.",
+          "trap": "The presence of statement 3, which is correct, may mislead students into thinking this option is valid.",
+          "elimination_strategy": "Identify that statement 2 is false, as anyone can complain through an MP."
+        },
+        "C": {
+          "type": "correct_answer",
+          "reason": "This option correctly states that statements 1 and 3 are true, aligning with the established facts about the Ethics Committee.",
+          "trap": "",
+          "elimination_strategy": ""
+        },
+        "D": {
+          "type": "plausible_distractor",
+          "reason": "This option includes all three statements, but since statement 2 is incorrect, the option is invalid.",
+          "trap": "The inclusion of two correct statements may lead students to overlook the incorrect one.",
+          "elimination_strategy": "Recognize that statement 2 is incorrect, thereby eliminating this option."
+        }
+      },
+      "learning_insights": {
+        "key_concepts": [
+          "Formation and history of the Ethics Committee",
+          "Complaint process against members of the Lok Sabha",
+          "Rules governing the Ethics Committee"
+        ],
+        "common_mistakes": [
+          "Assuming only MPs can file complaints",
+          "Not understanding the implications of sub judice matters"
+        ],
+        "elimination_technique": "Review each statement carefully; if one is found to be incorrect, eliminate the corresponding options.",
+        "memory_hooks": [
+          "Remember that the Ethics Committee was formed in 2000 and became permanent in 2015.",
+          "Use the phrase 'Anyone can complain, but not about everything' to recall the complaint process."
+        ],
+        "related_topics": [
+          "Parliamentary procedures",
+          "Role of committees in the Lok Sabha",
+          "Ethics in governance"
+        ],
+        "current_affairs_connection": "Understanding the Ethics Committee is crucial in the context of ongoing discussions about accountability and transparency in governance."
+      },
+      "difficulty_level": "Medium",
+      "time_management": "Students should spend about 1-2 minutes on this question, allowing time for careful consideration of each statement.",
+      "confidence_calibration": "A well-prepared student should feel confident in selecting option C, provided they have reviewed the relevant material."
+    }
+  ]
+}

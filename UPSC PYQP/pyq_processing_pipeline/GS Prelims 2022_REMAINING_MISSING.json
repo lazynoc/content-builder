@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "pdf_name": "GS Prelims 2022.pdf",
+    "extraction_date": "2025-07-06T20:39:15",
+    "total_questions": 4,
+    "extraction_method": "remaining_missing_questions_2022",
+    "note": "Extracted remaining missing questions that weren't found in first extraction"
+  },
+  "questions": [
+    {
+      "question_number": "53",
+      "section": "Modern History",
+      "question_text": "Consider the following freedom fighters: <br> 1. Barindra Kumar Ghosh <br> 2. Jogesh Chandra Chatterjee <br> 3. Rash Behari Bose Who of the above was/were actively associated with the Ghadar Party? <br> (a) 1 and 2 <br> (b) 2 only <br> (c) 1 and 3 <br> (d) 3 only",
+      "correct_answer": "D",
+      "explanation": "Hindustan Republican Association/Army or HRA (later renamed Hindustan Socialist Republican Association or HSRA). The HRA was founded in October 1924 in Kanpur by Ramprasad Bismil, Jogesh Chandra Chatterjee and Sachin Sanyal. <br> The first revolutionary groups in Bengal were organised in 1902 in Midnapore (under Jnanendranath Basu) and in Calcutta (the Anushilan Samiti founded by Promotha Mitter, and including Jatindranath Banerjee, Barindra Kumar Ghosh and others.) <br> Rash Behari Bose was one of the most prominent leaders of the Indian National Movement, especially during the extremist phase. He was one of the masterminds behind the Delhi conspiracy case, participated in the Ghadar movement, and established the Indian Independence league while in Japan.",
+      "motivation": "This question seeks to test the fundamental knowledge.",
+      "difficulty_level": "M",
+      "question_nature": "F",
+      "source_material": "Pg 245-246, Old NCERT (Bipin Chandra) <br> A Brief History of India Pg 284",
+      "source_type": "E <br> M",
+      "test_series_reference": "",
+      "id": "c1f3a9f3-d33e-4aaf-a565-8322e5ee84b9",
+      "extraction_order": 1,
+      "chunk_number": 1,
+      "page_range": "50-50"
+    },
+    {
+      "question_number": "63",
+      "section": "Economics",
+      "question_text": "Consider the following statements:\n1. In India, credit rating agencies are regulated by Reserve Bank of India.\n2. The rating agency popularly known as ICRA is a public limited company.\n3. Brickwork Ratings is an Indian credit rating agency.\nWhich of the statements given above are correct.\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+      "correct_answer": "D",
+      "explanation": "Credit rating agencies in India are regulated by SEBI. The SEBI (Credit Rating Agencies) Regulations, 1999 govern the credit rating agencies and provide for eligibility criteria for registration of credit rating agencies, monitoring and review of ratings, requirements for a proper rating process, avoidance of conflict of interest and inspection of rating agencies by SEBI, amongst other things. Hence statement 1 is correct.\nICRA Limited (formerly Investment Information and Credit Rating Agency of India Limited) was set up in 1991 by leading financial/investment institutions, commercial banks and financial services companies as an independent and professional investment Information and Credit Rating Agency. Today, ICRA and its subsidiaries together form the ICRA Group of Companies (Group ICRA). ICRA is a Public Limited Company, with its shares listed on the Bombay Stock Exchange and the National Stock Exchange. Hence statement 2 is correct.\nBrickwork Ratings (BWR), is a SEBI registered Indian Credit Rating Agency founded by bankers, credit rating professionals, former regulators as well as professors, is committed to promoting Financial Literacy. Brickwork Ratings has Canara Bank, a leading Public Sector Bank, as its promoter and strategic partner. Hence statement 3 is correct.",
+      "motivation": "Recently, SAT sets aside Rs 1cr penalty imposed on Brickwork Ratings by Sebi",
+      "difficulty_level": "M",
+      "question_nature": "FCA",
+      "source_material": "Monthly Current Affairs Magazine March 2022 page no 27",
+      "source_type": "N",
+      "test_series_reference": "",
+      "id": "5b303e0b-1366-4012-a92d-9633717291a5",
+      "extraction_order": 1,
+      "chunk_number": 1,
+      "page_range": "59-60"
+    },
+    {
+      "question_number": "64",
+      "section": "Economics",
+      "question_text": "With reference to the 'Banks Board Bureau (BBB)', which of the following statements are correct?\n1. The Governor of RBI is the Chairman of BBB.\n2. BBB recommends for the selection of heads of Public Sector Banks.\n3. BBB helps the Public Sector Banks in developing strategies and capital raising plans.\nSelect the correct answer using the code given below:\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+      "correct_answer": "B",
+      "explanation": "Central Government notified the amendment to the Nationalised Banks (Management and Miscellaneous Provisions) Scheme, 1980 providing the legal framework for composition and functions of the Banks Board Bureau on March 23, 2016. The Bureau accordingly started functioning from April 01, 2016 as an autonomous recommendatory body.\nThe board comprises the Chairman, three ex-officio members i.e. Secretary, Department of Public Enterprises, Secretary of the Department of Financial Services and Deputy Governor of the Reserve Bank of India and three expert members. The Governor of RBI is not its chairman. Hence statement 1 is not correct.\nThe Banks Board Bureau is mandated to select and appointment Board members for various financial institutions in public sector like Public sector banks, insurance companies. It is also required to undertake activities in the sphere of governance in these institutions. The functions of the Bureau outlined in the Section 7(C) of the Scheme and in subsequent amendments as per orders of Appointment Committee of the Cabinet are :-\na) To recommend the selection and appointment of Board of Directors in Mandated Institutions (Whole Time Directors and Chairman). Hence statement 2 is correct.\nb) To advise the Central Government on matters relating to appointments, confirmation or extension of tenure and termination of services of the Directors of mandated institutions.\nc) To advise the Central Government on the desired management structure of mandated institutions, at the level of Board of Directors and senior management.\nd) To advise the Central Government on a suitable performance appraisal system for mandated institutions.\ne) To build a data bank containing data relating to the performance of mandated institutions and its officers.\nf) To advise the Central Government on the formulation and enforcement of a code of conduct and ethics for managerial personnel in mandated institutions.\ng) To advise the Central Government on evolving suitable training and development programs for managerial personnel in mandated institutions.\nh) To help the banks in terms of developing business strategies and capital raising plan. Hence statement 3 is correct.\ni) Any other work assigned by the Government in consultation with Reserve Bank of India.",
+      "motivation": "Restructuring of Banks Board Bureau was in news as its members extended two-year term concluded on April 10.",
+      "difficulty_level": "E",
+      "question_nature": "FCA",
+      "source_material": "All India Test Series: Test 3504",
+      "source_type": "N",
+      "test_series_reference": "",
+      "id": "b6c2999d-b4f8-47dd-8ce2-bfb1a6ad2437",
+      "extraction_order": 2,
+      "chunk_number": 1,
+      "page_range": "59-60"
+    },
+    {
+      "question_number": "72",
+      "section": "Polity & Governance",
+      "question_text": "In India, what is the role of the Coal Controller's Organization (CCO)? 1. CCO is the major source of Coal Statistics in Government of India. 2. It monitors progress of development of Captive Coal/Lignite blocks. 3. It hears any objection to the Government's notification relating to acquisition of coalbearing areas. 4. It ensures that coal mining companies deliver the coal to end users in the prescribed time. Select the correct answer using the code given below: (a) 1, 2 and 3 (b) 3 and 4 only (c) 1 and 2 only (d) 1, 2 and 4",
+      "correct_answer": "A",
+      "explanation": "Coal controller organization (earlier Coal Commissioner), established in 1916, is one of the oldest offices in Indian Coal sector. Main aim behind setting up this office was to have Government control to adequately meet the coal requirement during First World War. Acute scarcity of coal necessitated promulgation of Colliery Control Order, 1944 for effective control on production, distribution and pricing of coal. Subsequently, it was revised by a more comprehensive order in 1945. Later in 1996, distribution and pricing of coal was deregulated. Thereafter, Colliery Control Order, 2000 superseded the previous order. Finally, the Colliery Control Rules, 2004, was published by Government of India in August, 2004. Functions of Coal Controller's Organization (i) Under Colliery Control Rules, 2004: (a) To lay down procedure and standard for sampling of coal. (b) Inspection of collieries so as to ensure the correctness of the class, grade or size of coal. (c) To issue directives for the purpose of declaration and maintenance of grades of coal of a seam mined in a colliery. (d) To act as the appellate authority in case of dispute between consumers and owner arising out of declaration of grade and size of coal. (e) To regulate disposal of stock of coal or the expected output of coal in the colliery. (f) Quality surveillance with respect to maintenance of grade, loading of coal in wagons/ trucks according to laid down procedures regarding grades and sizes. (g) To grant opening / re-opening permission of coal mine, seam or a section of seam or to subdivide a mine. (ii) Under Collection of Statistics Act, 2008: (a) Coal Controller has been made the statistical authority with respect to coal and lignite statistics. Hence statement 1 is correct. (b) Entrusted the responsibility of carrying out Annual Coal & Lignite survey and publishing of Provisional Coal Statistics and Coal Directory of India. (c) Submission of monthly coal data to different ministries of central and state Govt., national and international organization. (d) Collection of Statistics relating to coal washeries. (iii) Under Coal Bearing Area (Acquisition and Development) Act, 1957: Coal Controller is the competent authority under this act to hear any objection to the Central Government's Notification relating to acquisition of coal bearing land and to furnish his reports to Central Govt. Hence statement 3 is correct. (iv) Under Coal Mines (Conservation & Development) Act, 1974 and Coal Mines (Conservation and Development) Amendment Rules, 2011:",
+      "motivation": "Ministry of Coal.",
+      "difficulty_level": "D",
+      "question_nature": "FA",
+      "source_material": "http://www.coalcontroller.gov.in/pages/display/5-functionsresponsibilities https://energy.economictimes.indiatimes.com/news/coal/extended-office-ofcoal-controllersorganizationinaugurated/89",
+      "source_type": "EN",
+      "test_series_reference": "",
+      "id": "c371a33d-ad03-45e1-83fd-90786f567019",
+      "extraction_order": 2,
+      "chunk_number": 1,
+      "page_range": "66-67"
+    }
+  ]
+}

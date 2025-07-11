@@ -1,0 +1,2428 @@
+{
+  "metadata": {
+    "original_file": "GS Prelims 2024 _complete_questions.json",
+    "processing_date": "2025-07-05 23:37:33",
+    "total_questions": 30,
+    "processing_note": "Filtered: 101 -> 30 questions (removed 71 test series questions)",
+    "analysis_method": "OpenAI GPT-4o-mini (Enhanced)",
+    "processing_time": "Completed processing 101 questions"
+  },
+  "questions": [
+    {
+      "question_number": "1",
+      "section": "Post Independence",
+      "question_text": "Consider the following pairs : Party Its Leader 1. Bhartiya Jana Sangh Dr. Shyama Prasad Mukherjee 2. Socialist PartyRajagopalachari 3. Congress for Democracy Jagjivan Ram 4. Swatantra Party Acharya Narendra Dev How many of the above are correctly matched?",
+      "options": {
+        "A": "Only one",
+        "B": "Only two",
+        "C": "Only three",
+        "D": "All four"
+      },
+      "correct_answer": "B",
+      "explanation": "The Bharatiya Jana Sangh was an Indian nationalist political party. This party was established on 21 October 1951 in Delhi, that existed from 1951 to 1977. Its three founding members were Shyama Prasad Mukherjee, Balraj Madhok and Deendayal Upadhyaya. Hence pair 1 is correctly matched.\nC. Rajagopalachari was the founder of the Swatantra Party, not the Socialist Party. The Socialist Party was associated with leaders like Ram Manohar Lohia and Jayaprakash Narayan. Hence pair 2 is not correctly matched.\nThe Congress for Democracy (CFD) was an Indian political party founded in 1977 by Jagjivan Ram. It was formed after Jagjivan Ram, Hemavati Nandan Bahuguna, and Nandini Satpathy left the Indian National Congress of Indira Gandhi and denounced her rule during the Indian Emergency. Hence pair 3 is correctly matched.\nThe Swatantra Party was an Indian classical liberal political party that existed from 1959 to 1974. It was founded by C. Rajagopalachari in reaction to what he felt was the Jawaharlal Nehru-dominated Indian National Congress's increasingly socialist and statist outlook. Hence pair 4 is not correctly matched.\nHence option (b) is the correct answer.",
+      "motivation": "D",
+      "source_material": "NCERT CLASS XII Politics in India since Independence Page no 34, 39, 119",
+      "source_type": "E",
+      "test_series_reference": "M",
+      "id": "505863d8-901f-4678-8c25-2511b327c2de",
+      "extraction_order": 1,
+      "chunk_number": 2,
+      "question_nature": {
+        "primary_type": "Factual",
+        "secondary_type": "Memory-based",
+        "difficulty_reason": "This question is medium in difficulty as it requires specific knowledge about historical political parties and their leaders in India. Candidates need to recall accurate information about multiple pairs, which can be challenging without thorough preparation.",
+        "knowledge_requirement": "Static knowledge about Indian political history post-independence."
+      },
+      "examiner_thought_process": {
+        "testing_objective": "The examiner aims to test candidates' knowledge of Indian political history and their ability to match political parties with their respective leaders accurately.",
+        "question_design_strategy": "The question is designed to assess the depth of knowledge regarding Indian political parties and their leaders, focusing on both well-known and lesser-known figures.",
+        "trap_setting": "The incorrect pairs (2 and 4) are designed to mislead candidates who may confuse the leaders or their associations, particularly Rajagopalachari's role.",
+        "discrimination_potential": "This question has good discrimination potential as it can differentiate between candidates who have a solid grasp of historical facts and those who do not."
+      },
+      "options_analysis": {
+        "A": {
+          "type": "plausible_distractor",
+          "reason": "Candidates might think only one pair is correct due to confusion regarding the Socialist Party and its leaders.",
+          "trap": "Candidates may misremember Rajagopalachari's association with the Socialist Party, leading them to select this option.",
+          "elimination_strategy": "Recall the correct leaders associated with each party to eliminate this option."
+        },
+        "B": {
+          "type": "correct_answer",
+          "reason": "This option is correct as pairs 1 and 3 are accurately matched, while pairs 2 and 4 are not.",
+          "trap": "",
+          "elimination_strategy": "Confirm the correctness of pairs 1 and 3 while recognizing the inaccuracies in pairs 2 and 4."
+        },
+        "C": {
+          "type": "silly_mistake",
+          "reason": "Candidates may mistakenly believe that three pairs are correct due to confusion about the leaders associated with the parties.",
+          "trap": "The presence of two correct pairs may lead candidates to overestimate their knowledge.",
+          "elimination_strategy": "Review each pair carefully to identify the incorrect matches."
+        },
+        "D": {
+          "type": "silly_mistake",
+          "reason": "This option is incorrect as all four pairs are not matched correctly.",
+          "trap": "Candidates may assume all pairs are correct if they have a general understanding of Indian politics but lack specific details.",
+          "elimination_strategy": "Cross-check each pair against known historical facts to eliminate this option."
+        }
+      },
+      "learning_insights": {
+        "key_concepts": [
+          "Political parties in post-independence India",
+          "Founders of major Indian political parties",
+          "Historical context of Indian politics"
+        ],
+        "common_mistakes": [
+          "Confusing leaders with similar political ideologies",
+          "Assuming all pairs are correct without verification",
+          "Overlooking lesser-known political figures"
+        ],
+        "elimination_technique": "1. Identify the known leaders for each party. 2. Cross-reference with historical records. 3. Eliminate options based on incorrect pairings.",
+        "memory_hooks": [
+          "Mnemonic for remembering party leaders: 'Bharatiya Jana Sangh - Shyama, Swatantra - Rajagopalachari, Congress for Democracy - Jagjivan, Socialist - Lohia'."
+        ],
+        "related_topics": [
+          "History of Indian political parties",
+          "Major political movements in India post-independence",
+          "Key figures in Indian politics"
+        ],
+        "current_affairs_connection": "Understanding the historical context of political parties can provide insights into current political dynamics and party alignments in India."
+      },
+      "difficulty_level": "Medium",
+      "time_management": "Candidates should spend about 1-2 minutes on this question to ensure they analyze each pair carefully.",
+      "confidence_calibration": "A well-prepared student should feel confident in selecting option B if they have studied Indian political history thoroughly."
+    },
+    {
+      "question_number": "2",
+      "section": "Polity & Governance",
+      "question_text": "With reference to the Constitution of India, which of the following parts of the constitution comes first?",
+      "options": {
+        "A": "Emergency Provisions",
+        "B": "The Scheduled and Tribal Areas"
+      },
+      "correct_answer": "",
+      "explanation": "The Constitution of India at present has 25 parts:\nPart IX-A The Municipalities (Articles 243-P to 243-ZG)\nPart XV Elections (Articles 324 to 329- A)\nPart XVI Special Provisions relating to Certain Classes (Articles 330 to 342- A)\nPart XVII Official Language (Articles 343 to 351- A)\nPart XVIII Emergency Provisions (Articles 352 to 360)\nPart XX Amendment of the Constitution (Article 368)\nPart XXII Short title, Commencement, Authoritative Text in Hindi and Repeals (Articles 393 to 395)",
+      "motivation": "",
+      "source_material": "",
+      "source_type": "",
+      "test_series_reference": "",
+      "id": "1c23d146-d261-4e3a-8fec-07c4a7e7448b",
+      "extraction_order": 2,
+      "chunk_number": 2,
+      "question_nature": {
+        "primary_type": "Factual",
+        "secondary_type": "Memory-based",
+        "difficulty_reason": "This question is considered easy as it tests straightforward knowledge of the Constitution's structure, which is a fundamental aspect of Indian polity.",
+        "knowledge_requirement": "Static knowledge is required, specifically regarding the parts of the Constitution of India."
+      },
+      "examiner_thought_process": {
+        "testing_objective": "The examiner aims to assess the candidate's familiarity with the structure and content of the Constitution of India, particularly the order of its parts.",
+        "question_design_strategy": "The question is designed to directly assess recall of factual information regarding the Constitution, which is a key area in the UPSC syllabus.",
+        "trap_setting": "The options provided are both related to the Constitution, which may lead students to second-guess their knowledge, especially if they are not fully confident about the order of parts.",
+        "discrimination_potential": "This question has good discrimination potential as it can differentiate between candidates who have a solid grasp of the Constitution and those who do not."
+      },
+      "options_analysis": {
+        "A": {
+          "type": "correct_answer",
+          "reason": "Emergency Provisions (Part XVIII) is indeed one of the parts of the Constitution and is positioned before The Scheduled and Tribal Areas.",
+          "trap": "",
+          "elimination_strategy": ""
+        },
+        "B": {
+          "type": "plausible_distractor",
+          "reason": "The Scheduled and Tribal Areas (Part X) is a legitimate part of the Constitution but comes after Emergency Provisions, which may confuse students who are unsure of the order.",
+          "trap": "Students might confuse their knowledge of the content of Part B with its order, leading them to incorrectly choose this option.",
+          "elimination_strategy": "Recognize that Part X is not as high in the order of parts as Part XVIII, which is explicitly about emergency provisions."
+        },
+        "C": {
+          "type": "correct_answer/tricky_option/close_call/silly_mistake",
+          "reason": "Not applicable as there are only two options provided.",
+          "trap": "",
+          "elimination_strategy": ""
+        },
+        "D": {
+          "type": "correct_answer/tricky_option/close_call/silly_mistake",
+          "reason": "Not applicable as there are only two options provided.",
+          "trap": "",
+          "elimination_strategy": ""
+        }
+      },
+      "learning_insights": {
+        "key_concepts": [
+          "Structure of the Constitution of India",
+          "Order of the parts of the Constitution",
+          "Emergency Provisions"
+        ],
+        "common_mistakes": [
+          "Confusing the order of parts",
+          "Overlooking the specific articles associated with each part"
+        ],
+        "elimination_technique": "Recall the sequence of parts in the Constitution; if unsure, eliminate based on known parts that come before or after.",
+        "memory_hooks": [
+          "Mnemonic devices such as 'E for Emergency' to remember that Emergency Provisions come before other parts."
+        ],
+        "related_topics": [
+          "Fundamental Rights",
+          "Directive Principles of State Policy",
+          "Federal Structure of India"
+        ],
+        "current_affairs_connection": "Understanding the Constitution's provisions is crucial for interpreting current events related to governance and law."
+      },
+      "difficulty_level": "Easy",
+      "time_management": "Students should ideally spend no more than 30 seconds on this question, as it requires quick recall of factual information.",
+      "confidence_calibration": "A well-prepared student should feel very confident in answering this question correctly."
+    },
+    {
+      "question_number": "3",
+      "section": "Polity & Governance",
+      "question_text": "Which one of the following statements is correct as per the Constitution of India?",
+      "options": {
+        "A": "Inter-State trade and commerce is a State subject under the State List.",
+        "B": "Inter-State migration is a State subject under the State List.",
+        "C": "Inter-State quarantine is a Union subject under the",
+        "D": "Corporation tax is a State subject under the State List."
+      },
+      "correct_answer": "C",
+      "explanation": "The Seventh Schedule to the Constitution of India under Article 246 specifies the allocation of powers and functions between the Union and the State legislatures. Presently, the Union List contains 98 subjects (originally 97), the State List contains 59 subjects (originally 66) and the Concurrent List contains 52 subjects (originally 47).\nInter-State trade and commerce finds itself in the Union list of the seventh schedule.\nInter-state migration as entry 42.\nEntry 81 of the Union List mentions Inter-State migration and inter-State quarantine.\nCorporation Tax is entry 85 in the Union List. Hence, option (c) is the correct answer.",
+      "motivation": "M",
+      "source_material": "M Laxmikant Appendix II Subjects of Union, State and Concurrent Lists",
+      "source_type": "E",
+      "test_series_reference": "M",
+      "id": "f40ecc39-d69a-4d56-9bbf-9804c996b72e",
+      "extraction_order": 3,
+      "chunk_number": 2,
+      "question_nature": {
+        "primary_type": "Factual",
+        "secondary_type": "Memory-based",
+        "difficulty_reason": "This question is medium in difficulty as it requires specific knowledge of the Constitution and the Seventh Schedule, which may not be immediately recalled by all candidates.",
+        "knowledge_requirement": "Static knowledge regarding the Constitution of India and its provisions."
+      },
+      "examiner_thought_process": {
+        "testing_objective": "The examiner aims to assess the candidate's understanding of the distribution of powers between the Union and State legislatures as outlined in the Constitution.",
+        "question_design_strategy": "The question is designed to evaluate the candidate's ability to recall specific entries from the Seventh Schedule, testing both memory and comprehension of constitutional provisions.",
+        "trap_setting": "Options A, B, and D are designed to mislead candidates who may confuse the subjects listed in the Union and State Lists, thus testing their precise knowledge of constitutional entries.",
+        "discrimination_potential": "This question has good discrimination potential as it can differentiate between candidates who have a strong grasp of constitutional provisions and those who do not."
+      },
+      "options_analysis": {
+        "A": {
+          "type": "plausible_distractor",
+          "reason": "Inter-State trade and commerce is actually a Union subject under the Union List, not a State subject.",
+          "trap": "Candidates may confuse trade and commerce with other state subjects, leading them to incorrectly select this option.",
+          "elimination_strategy": "Recall that inter-state trade is explicitly mentioned in the Union List, which can help eliminate this option."
+        },
+        "B": {
+          "type": "plausible_distractor",
+          "reason": "Inter-State migration is indeed a State subject, but it is not the correct answer as it does not pertain to the Union List.",
+          "trap": "Students may misinterpret migration as a significant issue and thus select this option without verifying its constitutional basis.",
+          "elimination_strategy": "Understanding that migration is not a Union subject can help eliminate this option."
+        },
+        "C": {
+          "type": "correct_answer",
+          "reason": "Inter-State quarantine is correctly classified as a Union subject under Entry 81 of the Union List.",
+          "trap": "",
+          "elimination_strategy": ""
+        },
+        "D": {
+          "type": "plausible_distractor",
+          "reason": "Corporation tax is a Union subject, not a State subject, which makes this option incorrect.",
+          "trap": "Candidates may confuse taxation subjects and mistakenly consider this option as correct.",
+          "elimination_strategy": "Knowledge of tax classifications in the Constitution can help eliminate this option."
+        }
+      },
+      "learning_insights": {
+        "key_concepts": [
+          "Seventh Schedule of the Constitution",
+          "Union List vs State List",
+          "Inter-State trade and commerce",
+          "Inter-State migration",
+          "Corporation tax"
+        ],
+        "common_mistakes": [
+          "Confusing Union and State subjects",
+          "Misunderstanding the entries in the Seventh Schedule",
+          "Overlooking the specific wording of the options"
+        ],
+        "elimination_technique": "1. Identify the subject matter of each option. 2. Recall the correct classification of each subject in the Union and State Lists. 3. Eliminate options that do not match the correct classification.",
+        "memory_hooks": [
+          "Mnemonic for remembering the Union List: 'TIC' (Tax, Inter-State trade, Commerce)",
+          "Visualize the Seventh Schedule as a table with clear distinctions between Union and State subjects."
+        ],
+        "related_topics": [
+          "Fundamental Rights and Duties",
+          "Directive Principles of State Policy",
+          "Federal structure of India"
+        ],
+        "current_affairs_connection": "Understanding the distribution of powers is crucial in the context of ongoing debates about federalism and state rights in India."
+      },
+      "difficulty_level": "Medium",
+      "time_management": "Candidates should spend about 30 seconds to 1 minute on this question to ensure careful consideration of options.",
+      "confidence_calibration": "A well-prepared student should feel confident in selecting the correct answer if they have studied the Constitution thoroughly."
+    },
+    {
+      "question_number": "4",
+      "section": "Polity & Governance",
+      "question_text": "Under which of the following Articles of the Constitution of India, has the Supreme Court of India places the Right to Privacy?",
+      "options": {
+        "A": "Article 15",
+        "B": "Article 16",
+        "C": "Article 19",
+        "D": "Article 21"
+      },
+      "correct_answer": "D",
+      "explanation": "The Supreme Court of India in Justice K.S. Puttaswamy (Retd) vs Union of India has declared that the Right to Privacy is a fundamental right under Article 21. In doing so, the Supreme Court has overruled verdicts given in the M.P. Sharma case in 1958 and the Kharak Singh case in 1961, both of which said that the right to privacy is not protected under the Indian constitution. Hence, option (d) is the correct answer.",
+      "motivation": "Delhi High Court granted protection to personality rights of a famous Bollywood actor",
+      "source_material": "M Laxmikant Chapter on Fundamental Rights",
+      "source_type": "E",
+      "test_series_reference": "M",
+      "id": "4544cda9-a5b2-4885-8e43-de521603d250",
+      "extraction_order": 4,
+      "chunk_number": 2,
+      "question_nature": {
+        "primary_type": "Factual",
+        "secondary_type": "Memory-based",
+        "difficulty_reason": "This question is considered easy because it tests a fundamental aspect of constitutional law that is widely discussed in academic and competitive settings. The Right to Privacy is a prominent topic, especially following the landmark judgment in 2017.",
+        "knowledge_requirement": "Static knowledge regarding the Constitution of India and landmark Supreme Court judgments."
+      },
+      "examiner_thought_process": {
+        "testing_objective": "The examiner aims to assess the candidate's understanding of constitutional provisions and landmark judicial interpretations, particularly regarding fundamental rights.",
+        "question_design_strategy": "The question is designed to test not only the knowledge of the specific Article but also the understanding of the context in which the Right to Privacy was recognized as a fundamental right.",
+        "trap_setting": "Options A, B, and C are included as plausible distractors, as they represent other Articles related to rights but not the Right to Privacy, which can confuse candidates who may not be fully confident.",
+        "discrimination_potential": "This question has high discrimination potential as it can effectively differentiate between candidates who have a solid grasp of constitutional law and those who do not."
+      },
+      "options_analysis": {
+        "A": {
+          "type": "plausible_distractor",
+          "reason": "Article 15 prohibits discrimination on grounds of religion, race, caste, sex, or place of birth. While important, it is unrelated to the Right to Privacy.",
+          "trap": "Candidates may confuse Article 15 with rights related to personal liberty.",
+          "elimination_strategy": "Recognize that Article 15 deals with discrimination, not privacy."
+        },
+        "B": {
+          "type": "plausible_distractor",
+          "reason": "Article 16 provides for equality of opportunity in matters of public employment, which does not pertain to privacy.",
+          "trap": "Some candidates might confuse employment rights with personal rights.",
+          "elimination_strategy": "Recall that Article 16 is specifically about public employment, not individual rights."
+        },
+        "C": {
+          "type": "plausible_distractor",
+          "reason": "Article 19 guarantees certain freedoms, such as speech and expression, but does not explicitly mention privacy.",
+          "trap": "Candidates may incorrectly associate freedom of expression with privacy rights.",
+          "elimination_strategy": "Understand that while Article 19 relates to freedoms, it does not encompass privacy."
+        },
+        "D": {
+          "type": "correct_answer",
+          "reason": "Article 21 guarantees the right to life and personal liberty, which the Supreme Court has interpreted to include the Right to Privacy.",
+          "trap": "",
+          "elimination_strategy": ""
+        }
+      },
+      "learning_insights": {
+        "key_concepts": [
+          "Fundamental Rights",
+          "Right to Privacy",
+          "Article 21 of the Constitution",
+          "Landmark Supreme Court Judgments"
+        ],
+        "common_mistakes": [
+          "Confusing Articles related to rights",
+          "Overlooking the context of landmark cases",
+          "Misunderstanding the scope of fundamental rights"
+        ],
+        "elimination_technique": "Identify the core subject of each Article: Article 15 (discrimination), Article 16 (employment), Article 19 (freedoms), and recognize that only Article 21 pertains to personal liberty.",
+        "memory_hooks": [
+          "Remember '21 is the key to life and liberty' to associate Article 21 with fundamental rights."
+        ],
+        "related_topics": [
+          "Judicial Interpretation of the Constitution",
+          "Recent Supreme Court Judgments",
+          "Fundamental Rights vs. Directive Principles"
+        ],
+        "current_affairs_connection": "The Right to Privacy has been a significant topic in discussions about data protection and surveillance, especially in light of recent technological advancements and legislative proposals."
+      },
+      "difficulty_level": "Easy",
+      "time_management": "Candidates should spend no more than 30 seconds on this question, given its straightforward nature.",
+      "confidence_calibration": "A well-prepared student should feel very confident about answering this question correctly."
+    },
+    {
+      "question_number": "5",
+      "section": "Art & Culture",
+      "question_text": "Sanghabhuti, an Indian Buddhist monk, who travelled to China at the end of the fourth century AD, was the author of a commentary on :",
+      "options": {
+        "A": "Prajnaparamita Sutra",
+        "B": "Visuddhimagga",
+        "C": "Sarvastivada Vinaya",
+        "D": "Lalitavistara"
+      },
+      "correct_answer": "C",
+      "explanation": "India developed cultural relations with China through the propagation of Buddhism there. In the first century B.C. the Buddhist monks, Dharmaratna and Kasyapa Matanga, went to China and spent the rest of their lives there translating Buddhist texts into Chinese and preaching Buddhism among the people. By the third or the fourth century A.D., Buddhism became a widely popular religion in China. Afterwards too many Buddhist missionaries like Kumarajiva, Sangabhuti. Gyanabhadra, Buddhbhadra, Jiva Gupta, Dharma Gupta, Prabhakaramitra, Sudhakarasingha, etc., went to China. The same way, many Chinese pilgrims came to India, the most important of them being Fa-Hien, Hiuen-Tsang and I- tsing. Sangabhuti was the author of the commentary on the Sarvastivada Vinaya.",
+      "motivation": "D",
+      "source_material": "Upinder Singh: A History of Ancient and Early Medieval India: From the Stone Age to the 12th Century",
+      "source_type": "R M",
+      "test_series_reference": "",
+      "id": "f0ae6e16-5b3b-4641-ba4c-bb0625233a71",
+      "extraction_order": 5,
+      "chunk_number": 4,
+      "question_nature": {
+        "primary_type": "Factual",
+        "secondary_type": "Memory-based",
+        "difficulty_reason": "This question is considered easy as it tests specific historical knowledge about Indian Buddhist monks and their contributions, which is a common topic in UPSC CSE Prelims.",
+        "knowledge_requirement": "Static knowledge about historical figures and texts related to Buddhism."
+      },
+      "examiner_thought_process": {
+        "testing_objective": "The examiner aims to assess the candidate's knowledge of historical figures in Buddhism and their contributions, particularly in the context of cultural exchanges between India and China.",
+        "question_design_strategy": "The question is designed to require recall of specific details about a historical figure and their works, which is a common format in UPSC exams.",
+        "trap_setting": "The options include plausible distractors that may confuse candidates who are not well-versed in Buddhist texts, as they may confuse similar-sounding or related works.",
+        "discrimination_potential": "This question can effectively differentiate between candidates who have a solid understanding of Buddhist history and those who do not."
+      },
+      "options_analysis": {
+        "A": {
+          "type": "plausible_distractor",
+          "reason": "The Prajnaparamita Sutra is a significant Buddhist text, but it is not authored by Sanghabhuti.",
+          "trap": "Students may confuse the importance of the Prajnaparamita Sutra with Sanghabhuti's works.",
+          "elimination_strategy": "Candidates should recall that Sanghabhuti is specifically associated with the Sarvastivada Vinaya."
+        },
+        "B": {
+          "type": "plausible_distractor",
+          "reason": "Visuddhimagga is a well-known text in Theravada Buddhism, but it is not related to Sanghabhuti.",
+          "trap": "Students familiar with Buddhist texts may mistakenly associate Sanghabhuti with this text due to its prominence.",
+          "elimination_strategy": "Candidates should focus on the specific contributions of Sanghabhuti to eliminate this option."
+        },
+        "C": {
+          "type": "correct_answer",
+          "reason": "Sanghabhuti is indeed the author of a commentary on the Sarvastivada Vinaya, making this the correct answer.",
+          "trap": "",
+          "elimination_strategy": ""
+        },
+        "D": {
+          "type": "plausible_distractor",
+          "reason": "Lalitavistara is another important Buddhist text but is not authored by Sanghabhuti.",
+          "trap": "The similarity in the names of Buddhist texts may confuse students.",
+          "elimination_strategy": "Candidates should recall that Lalitavistara is associated with other figures in Buddhism, not Sanghabhuti."
+        }
+      },
+      "learning_insights": {
+        "key_concepts": [
+          "Sanghabhuti's contributions to Buddhism",
+          "Cultural exchanges between India and China",
+          "Major Buddhist texts and their authors"
+        ],
+        "common_mistakes": [
+          "Confusing authorship of Buddhist texts",
+          "Overlooking the historical context of figures like Sanghabhuti"
+        ],
+        "elimination_technique": "Candidates should first identify the known works of Sanghabhuti and eliminate options that do not align with his contributions.",
+        "memory_hooks": [
+          "Mnemonic: 'Sangha's Sarvastivada' to remember Sanghabhuti's association with Sarvastivada Vinaya."
+        ],
+        "related_topics": [
+          "History of Buddhism in India",
+          "Cultural exchanges between India and China",
+          "Buddhist texts and their significance"
+        ],
+        "current_affairs_connection": "While this question is historical, understanding the cultural exchanges can provide context for current discussions on India-China relations."
+      },
+      "difficulty_level": "Easy",
+      "time_management": "Candidates should ideally spend no more than 30 seconds on this question, as it requires quick recall of factual information.",
+      "confidence_calibration": "A well-prepared student should feel very confident in answering this question correctly."
+    },
+    {
+      "question_number": "6",
+      "section": "Geography",
+      "question_text": "Consider the following countries : 1. Italy 2. Japan 3. Nigeria 4. South Korea 5. South Africa Which of the above countries are frequently mentioned in the media for their low birth rates, or ageing population of declining population ?",
+      "options": {
+        "A": "1,2 and 4",
+        "B": "1,3 and 5",
+        "C": "2 and 4 only",
+        "D": "3 and 5 only"
+      },
+      "correct_answer": "A",
+      "explanation": "- Japan's population will more than halve, from a peak of 128 million in 2017 to less than 53 million by the end of the century. Japan already has the world's oldest population and the highest rate of people over the age of 100 . - The Italian population is also expected to more than halve, from 61 million in 2017 to 28 million by the end of the century. Like Japan, Italy is known for its ageing population. More than $23 \\%$ of people there were over the age of 65 in 2019, according to World Bank data. - Nigeria and other countries in Africa are bucking the trend of population decline. Nigeria will become the world's second most populous country, with 791 million people. The new study predicts that Nigeria will have one of the largest working-age populations in the world by 2100 and see big increases in GDP. - South Korea's demographic crisis has become the top risk to economic growth and the social welfare system, with the country's population of 51 million on track to halve by the end of this century. South Korea has previously projected its fertility rate is likely to fall further to 0.68 in 2024. Hence option (a) is the correct answer.",
+      "motivation": "D",
+      "source_material": "https://www.bbc.com/news/world53424726",
+      "source_type": "E N",
+      "test_series_reference": "",
+      "id": "1d7262d8-12d4-42e3-a8ae-ea1cea4b689f",
+      "extraction_order": 6,
+      "chunk_number": 4,
+      "question_nature": {
+        "primary_type": "Factual",
+        "secondary_type": "Memory-based",
+        "difficulty_reason": "This question is considered medium difficulty because it requires specific knowledge about demographic trends in various countries, which may not be commonly known or recalled by all candidates.",
+        "knowledge_requirement": "Static knowledge about demographic statistics and trends, as well as current affairs related to population studies."
+      },
+      "examiner_thought_process": {
+        "testing_objective": "The examiner aims to assess the candidates' awareness of global demographic issues, particularly low birth rates and aging populations.",
+        "question_design_strategy": "The question is designed to test both recall of specific facts and the ability to apply that knowledge to identify trends among the listed countries.",
+        "trap_setting": "The options include countries that are not typically associated with low birth rates or aging populations (e.g., Nigeria), which may mislead candidates who do not have a clear understanding of demographic trends.",
+        "discrimination_potential": "This question has good discrimination potential as it can differentiate between candidates who are well-informed about global demographics and those who are not."
+      },
+      "options_analysis": {
+        "A": {
+          "type": "correct_answer",
+          "reason": "Japan, Italy, and South Korea are frequently mentioned in media for their low birth rates and aging populations. They are well-documented cases of demographic decline.",
+          "trap": "",
+          "elimination_strategy": ""
+        },
+        "B": {
+          "type": "plausible_distractor",
+          "reason": "While Italy is correctly included, Nigeria does not fit the criteria of low birth rates or aging population, which makes this option incorrect.",
+          "trap": "Candidates may confuse Italy's demographic challenges with Nigeria's growing population, leading to the incorrect choice.",
+          "elimination_strategy": "Recognize that Nigeria is experiencing population growth rather than decline."
+        },
+        "C": {
+          "type": "silly_mistake",
+          "reason": "This option only includes Japan and South Korea, omitting Italy, which is also relevant, making it incorrect.",
+          "trap": "Candidates might mistakenly think that only two countries are sufficient to answer the question, leading to this option.",
+          "elimination_strategy": "Recall that all three countries mentioned in option A are relevant to the question."
+        },
+        "D": {
+          "type": "silly_mistake",
+          "reason": "This option includes Nigeria and South Africa, both of which are not known for low birth rates or aging populations, making it incorrect.",
+          "trap": "Candidates may incorrectly associate South Africa with demographic decline due to its socio-economic challenges.",
+          "elimination_strategy": "Recognize that both countries are experiencing population growth rather than decline."
+        }
+      },
+      "learning_insights": {
+        "key_concepts": [
+          "Demographic transition",
+          "Aging population",
+          "Low birth rates",
+          "Population growth trends"
+        ],
+        "common_mistakes": [
+          "Confusing countries with growing populations for those with declining populations",
+          "Overlooking the importance of specific demographic data"
+        ],
+        "elimination_technique": "1. Identify countries known for low birth rates and aging populations. 2. Cross-reference with the options provided. 3. Eliminate options that include countries with opposite demographic trends.",
+        "memory_hooks": [
+          "Mnemonic for remembering countries with low birth rates: 'JIS' (Japan, Italy, South Korea)"
+        ],
+        "related_topics": [
+          "Global population trends",
+          "Economic implications of aging populations",
+          "Comparative demographics of countries"
+        ],
+        "current_affairs_connection": "This question connects to ongoing discussions in media about the implications of aging populations on economies and social systems, particularly in developed nations."
+      },
+      "difficulty_level": "Medium",
+      "time_management": "Candidates should spend about 1-2 minutes on this question to recall relevant information and analyze the options.",
+      "confidence_calibration": "A well-prepared student should feel confident in selecting option A, given the clarity of demographic trends associated with the countries listed."
+    },
+    {
+      "question_number": "7",
+      "section": "Current Affairs (Economics)",
+      "question_text": "Consider the following statements : Statement-I : If the United States of America (USwere to default on its debt, holders of US Treasury Bonds will not be able to exercise their claims to receive payment. Statement-II : The USA Government debt is not backed by any hard assets, but only by the faith of the Government. Which one of the following is correct in respect of the above statements ?",
+      "options": {
+        "A": "Both Statement-I and Statement-II are correct and StatementII explains Statement-I",
+        "B": "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I",
+        "C": "Statement-I is correct, but Statement-II is incorrect",
+        "D": "Statement-I is incorrect, but Statement-II is correct"
+      },
+      "correct_answer": "A",
+      "explanation": "As the national debt has soared, the U.S. Treasury Department has had to borrow more money to pay for government spending by revoking the Debt ceiling. The debt ceiling sets the maximum amount of outstanding federal debt the U.S. government can incur.\nRaising or suspending the debt ceiling by US Congress becomes necessary when the government needs to borrow more money to pay its debts than is federally authorized. If Congress fails to lift the debt ceiling before the due date when the Treasury will run out of cash—the federal government will not be able to pay its obligations. Further, if United States of America (USA) were to default on its debt, holders of US Treasury Bonds will not be able to exercise their claims to receive payment. Hence statement-I is correct.\nFurther, the Currencies like US dollars are fiat currency. Fiat money is a government-issued currency that is not backed by a physical commodity, such as gold or silver, but rather by the government that issued it. The value of fiat money is derived from the relationship between supply and demand and the stability of the issuing government, rather than the worth of a commodity backing it. Furthermore, if people lose faith in a nation's currency, the money will no longer hold value. So, Treasury Bonds issued by US government are not backed by any hard assets but based on only faith of the government and if government fails to repay the debt taken, then bond holders would not have right to exercise their claims to receive payment. Hence statement-II is correct and it is the correct explanation of statement-I.",
+      "motivation": "Recent context: In 2023, The U.S. Senate passed legislation that lifts the government's $31.4 trillion debt",
+      "source_material": "https://www.morningstar.com/markets/what-happens-if-debt-ceiling-isnt-raised\nhttps://www.ft.com/content/e4639f71-\nb69f-4d99-867d-dffd1733779d\nhttps://www.nytimes.com/2023/05/18/business/default-debt-what-happens-next.html\nhttps://www.investopedia.com/terms/f/fiatmoney.asp",
+      "source_type": "R\nM",
+      "test_series_reference": "",
+      "id": "f6ff503e-2ab2-4e76-9530-cb93d6eda67f",
+      "extraction_order": 7,
+      "chunk_number": 8,
+      "question_nature": {
+        "primary_type": "Current Affairs",
+        "secondary_type": "Application-based",
+        "difficulty_reason": "The question requires an understanding of economic principles related to government debt and the implications of a potential default, which may be challenging for students who are not well-versed in current economic affairs.",
+        "knowledge_requirement": "Dynamic/current affairs knowledge is needed, particularly regarding the U.S. Treasury Bonds and the nature of fiat currency."
+      },
+      "examiner_thought_process": {
+        "testing_objective": "The examiner aims to assess the candidate's understanding of government debt, the implications of defaulting on debt, and the nature of fiat currency.",
+        "question_design_strategy": "The question is designed to evaluate both factual knowledge and the ability to analyze the relationship between the two statements, requiring candidates to apply their understanding of economic concepts.",
+        "trap_setting": "The examiner has set traps by providing two statements that are closely related, which may confuse candidates who do not fully grasp the implications of each statement.",
+        "discrimination_potential": "This question has high discrimination potential as it can differentiate between candidates who have a solid understanding of economic principles and those who do not."
+      },
+      "options_analysis": {
+        "A": {
+          "type": "correct_answer",
+          "reason": "Both statements are correct; Statement-II explains Statement-I by clarifying that the U.S. government debt is based on faith rather than hard assets.",
+          "trap": "",
+          "elimination_strategy": ""
+        },
+        "B": {
+          "type": "plausible_distractor",
+          "reason": "While both statements are correct, the assertion that Statement-II does not explain Statement-I is incorrect, as it does provide an explanation.",
+          "trap": "Students may misinterpret the relationship between the statements and choose this option if they do not fully understand the explanation.",
+          "elimination_strategy": "Recognize that Statement-II directly relates to the implications of Statement-I, thus eliminating this option."
+        },
+        "C": {
+          "type": "silly_mistake",
+          "reason": "This option incorrectly states that Statement-II is incorrect, which is false; both statements are correct.",
+          "trap": "Students may confuse the nature of the statements and mistakenly believe that one is incorrect.",
+          "elimination_strategy": "Confirm that both statements are accurate based on current economic understanding."
+        },
+        "D": {
+          "type": "silly_mistake",
+          "reason": "This option incorrectly claims that Statement-I is incorrect; however, it is indeed correct.",
+          "trap": "Students may misinterpret the implications of a government default and choose this option.",
+          "elimination_strategy": "Evaluate the correctness of both statements based on knowledge of U.S. Treasury Bonds."
+        }
+      },
+      "learning_insights": {
+        "key_concepts": [
+          "U.S. Treasury Bonds",
+          "Government Debt",
+          "Fiat Currency",
+          "Economic Implications of Default"
+        ],
+        "common_mistakes": [
+          "Misunderstanding the relationship between the two statements",
+          "Confusing the nature of fiat currency with commodity-backed currency"
+        ],
+        "elimination_technique": "1. Assess the correctness of each statement individually. 2. Determine if Statement-II logically explains Statement-I. 3. Eliminate options that contradict the established facts.",
+        "memory_hooks": [
+          "Remember that 'fiat' means 'let it be done,' emphasizing the role of government faith in currency value."
+        ],
+        "related_topics": [
+          "Monetary Policy",
+          "Fiscal Policy",
+          "Global Economic Trends"
+        ],
+        "current_affairs_connection": "This question connects to ongoing discussions about U.S. debt management, fiscal responsibility, and the implications of potential defaults in the context of global economics."
+      },
+      "difficulty_level": "Medium",
+      "time_management": "Students should spend about 1-2 minutes analyzing and answering this question.",
+      "confidence_calibration": "A well-prepared student should feel confident in selecting the correct answer, provided they have a solid grasp of current economic affairs."
+    },
+    {
+      "question_number": "8",
+      "section": "Current Affairs (Economics)",
+      "question_text": "Consider the following statements : Statement-I : Syndicated lending spreads the risk of borrower default across multiple lenders. Statement-II : The syndicated loan can be a fixed amount/lump sum of funds, but cannot be a credit line. Which one of the following is correct in respect of the above statements ?",
+      "options": {
+        "A": "Both Statement-I and Statement-II are correct and StatementII explains Statement-I",
+        "B": "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I",
+        "C": "Statement-I is correct, but Statement-II is incorrect",
+        "D": "Statement-I is incorrect, but Statement-II is correct"
+      },
+      "correct_answer": "C",
+      "explanation": "Recent Context: In 2023, Country's largest lender State Bank of India (SBI) concluded a $1 billion syndicated social loan facility. Shriram Finance raised multi-currency loan of $468 million via ECB in January, 2024. This is the largest widely syndicated loan transaction for a private NBFC from India in recent years. A syndicated loan is a form of financing that is offered by a group of lenders. Syndicated loans arise when a project requires too large a loan for a single lender or when a project needs a specialized lender with expertise in a specific asset class. Syndicating allows lenders to spread risk and take part in financial opportunities that may be too large for their individual capital base. Syndicated loans involve large sums, which allows the risk to be spread out among several financial institutions to mitigate the risk in case the borrower defaults. Lenders are referred to as a syndicate, which works together to provide funds for a single borrower. Hence statement-I is correct. The borrower can be a corporation, a large project, or a sovereign government. The loan can involve a fixed amount of funds, a credit line, or a combination of the two. Hence statement-II is not correct.",
+      "motivation": "In 2023, State Bank of India (SBI) concluded a $1 billion syndicated social loan facility. Further, in 2024, Shriram Finance raised multi-currency loan of $468 million, largest widely syndicated loan transaction for a private NBFC from India in recent years.",
+      "source_material": "https://www.investopedia.com/terms/s/syndicatedloan.asp#:~:text=Lenders%20are%20referred%20to%20as,a%20combination%20of%20the%20two.\nhttps://www.thehindu.com/business/shrir",
+      "source_type": "",
+      "test_series_reference": "",
+      "id": "787ff48a-9104-4223-8122-38f5b332a64d",
+      "extraction_order": 8,
+      "chunk_number": 8,
+      "question_nature": {
+        "primary_type": "Blend",
+        "secondary_type": "Current Affairs-based",
+        "difficulty_reason": "This question requires understanding of both the concept of syndicated loans and current developments in the financial sector. The statements are straightforward, but the nuances of the definitions can confuse students.",
+        "knowledge_requirement": "Dynamic and current affairs knowledge is needed, particularly in finance and economics."
+      },
+      "examiner_thought_process": {
+        "testing_objective": "The examiner aims to assess the candidate's understanding of financial concepts and their ability to differentiate between correct and incorrect statements.",
+        "question_design_strategy": "The question is designed to test knowledge of both the definition of syndicated loans and their characteristics, requiring candidates to apply their understanding to evaluate the statements.",
+        "trap_setting": "The second statement is misleading as it suggests a limitation that does not exist in reality, which can confuse students who may not have in-depth knowledge of the topic.",
+        "discrimination_potential": "This question can effectively differentiate between candidates who have a solid grasp of financial concepts and those who do not."
+      },
+      "options_analysis": {
+        "A": {
+          "type": "plausible_distractor",
+          "reason": "This option incorrectly states that both statements are correct and that Statement-II explains Statement-I, which is not true.",
+          "trap": "Students may be misled by the wording 'both are correct' without realizing the inaccuracy in Statement-II.",
+          "elimination_strategy": "Recognize that Statement-II incorrectly limits the nature of syndicated loans, which can include credit lines."
+        },
+        "B": {
+          "type": "plausible_distractor",
+          "reason": "This option also incorrectly claims both statements are correct but fails to recognize the incorrectness of Statement-II.",
+          "trap": "Students might think that since both statements seem plausible, this option is valid.",
+          "elimination_strategy": "Focus on the definitions and characteristics of syndicated loans to identify the flaw in Statement-II."
+        },
+        "C": {
+          "type": "correct_answer",
+          "reason": "This option correctly identifies Statement-I as correct and Statement-II as incorrect, aligning with the definitions of syndicated loans.",
+          "trap": "",
+          "elimination_strategy": "Confirm the accuracy of Statement-I and the inaccuracy of Statement-II based on knowledge of financial instruments."
+        },
+        "D": {
+          "type": "silly_mistake",
+          "reason": "This option incorrectly states that Statement-I is incorrect, which is not true as it accurately describes the risk-sharing aspect of syndicated loans.",
+          "trap": "Students might misinterpret the nature of risk-sharing in loans and mistakenly choose this option.",
+          "elimination_strategy": "Review the fundamental principles of syndicated lending to confirm the correctness of Statement-I."
+        }
+      },
+      "learning_insights": {
+        "key_concepts": [
+          "Syndicated lending",
+          "Risk distribution among lenders",
+          "Characteristics of syndicated loans"
+        ],
+        "common_mistakes": [
+          "Assuming all statements in a question are correct without verifying each one",
+          "Misunderstanding the definitions of financial terms"
+        ],
+        "elimination_technique": "1. Assess Statement-I for correctness regarding risk-sharing. 2. Evaluate Statement-II against known characteristics of syndicated loans. 3. Eliminate options that claim both statements are correct.",
+        "memory_hooks": [
+          "Remember that syndicated loans involve multiple lenders to spread risk, akin to a team effort in sports."
+        ],
+        "related_topics": [
+          "Financial instruments",
+          "Corporate finance",
+          "Risk management in finance"
+        ],
+        "current_affairs_connection": "The question connects to recent developments in the financial sector, highlighting the relevance of understanding syndicated loans in current economic contexts."
+      },
+      "difficulty_level": "Medium",
+      "time_management": "Students should spend about 1-2 minutes analyzing the question and options before selecting an answer.",
+      "confidence_calibration": "A well-prepared student should feel confident in selecting option C, provided they have a solid understanding of the topic."
+    },
+    {
+      "question_number": "9",
+      "section": "Current Affairs (Art & Culture)",
+      "question_text": "Which one of the following was the latest inclusion in the Intangible Cultural Heritage List of UNESCO ?",
+      "options": {
+        "A": "Chhau dance",
+        "B": "Durga Puja",
+        "C": "Garba dance",
+        "D": "Kumbh mela"
+      },
+      "correct_answer": "C",
+      "explanation": "Garba, a traditional dance form from Gujarat, was the latest inclusion in the UNESCO Intangible Cultural Heritage list in December 2023. Hence option (c) is the correct answer.",
+      "motivation": "Recently, 'Garba of Gujarat' has been inscribed in the Representative List of Intangible",
+      "source_material": "https://ich.unesco.org/en/state/indiaIN?info=elements-on-thelists",
+      "source_type": "E",
+      "test_series_reference": "N",
+      "id": "72d9d918-74a0-41ed-84ae-9ea41742380f",
+      "extraction_order": 9,
+      "chunk_number": 10,
+      "question_nature": {
+        "primary_type": "Current Affairs",
+        "secondary_type": "Memory-based",
+        "difficulty_reason": "This question is considered easy for candidates who keep up with current affairs, particularly in the realm of culture and heritage. However, it may be medium for those who do not regularly follow updates from UNESCO.",
+        "knowledge_requirement": "Dynamic knowledge, specifically current affairs related to cultural heritage."
+      },
+      "examiner_thought_process": {
+        "testing_objective": "The examiner aims to assess the candidate's awareness of recent inclusions in the UNESCO Intangible Cultural Heritage List, which reflects their engagement with current cultural developments.",
+        "question_design_strategy": "The question is designed to test specific knowledge of cultural heritage and recent events, requiring candidates to recall or recognize recent updates.",
+        "trap_setting": "The options include popular cultural elements that are well-known, which may lead candidates to second-guess their knowledge if they are not updated on the latest inclusions.",
+        "discrimination_potential": "This question can effectively differentiate between candidates who are well-informed about current affairs and those who are not, as it requires specific recent knowledge."
+      },
+      "options_analysis": {
+        "A": {
+          "type": "plausible_distractor",
+          "reason": "Chhau dance is a recognized cultural dance form but was included in the UNESCO list earlier and not in December 2023.",
+          "trap": "Candidates may confuse the popularity of Chhau dance with its recent inclusion.",
+          "elimination_strategy": "Candidates should recall the timeline of UNESCO inclusions and recognize that Chhau dance was not the latest."
+        },
+        "B": {
+          "type": "plausible_distractor",
+          "reason": "Durga Puja is a significant cultural event but was included in the UNESCO list prior to December 2023.",
+          "trap": "The cultural significance of Durga Puja may mislead candidates into thinking it is the latest inclusion.",
+          "elimination_strategy": "Candidates should verify the dates of UNESCO inclusions and note that Durga Puja was recognized earlier."
+        },
+        "C": {
+          "type": "correct_answer",
+          "reason": "Garba dance was officially included in the UNESCO Intangible Cultural Heritage list in December 2023, making it the latest addition.",
+          "trap": "",
+          "elimination_strategy": ""
+        },
+        "D": {
+          "type": "plausible_distractor",
+          "reason": "Kumbh Mela is a major religious festival recognized by UNESCO but was included earlier than December 2023.",
+          "trap": "The prominence of Kumbh Mela may lead candidates to mistakenly believe it is the latest inclusion.",
+          "elimination_strategy": "Candidates should recall the timeline of UNESCO recognitions and recognize that Kumbh Mela is not the most recent."
+        }
+      },
+      "learning_insights": {
+        "key_concepts": [
+          "UNESCO Intangible Cultural Heritage List",
+          "Recent cultural recognitions",
+          "Significance of cultural heritage in global context"
+        ],
+        "common_mistakes": [
+          "Confusing the dates of inclusion for various cultural elements",
+          "Assuming popularity equates to recent recognition"
+        ],
+        "elimination_technique": "Candidates should first eliminate options based on their knowledge of the timeline of UNESCO inclusions, focusing on the most recent events.",
+        "memory_hooks": [
+          "Remember the acronym 'GDC' for Garba, Durga, Chhau to recall the latest inclusion."
+        ],
+        "related_topics": [
+          "UNESCO's role in cultural preservation",
+          "Indian dance forms and their significance",
+          "Recent cultural events in India"
+        ],
+        "current_affairs_connection": "This question connects to current affairs by highlighting recent developments in cultural heritage, which is crucial for understanding India's cultural landscape."
+      },
+      "difficulty_level": "Easy",
+      "time_management": "Candidates should ideally spend no more than 30 seconds on this question, given its straightforward nature.",
+      "confidence_calibration": "A well-prepared student should feel very confident in answering this question correctly, provided they stay updated with current affairs."
+    },
+    {
+      "question_number": "10",
+      "section": "Polity & Governance",
+      "question_text": "With reference to the Speaker of the Lok Sabha, consider the following statements: While any resolution for the removal of the Speaker of the Lok Sabha is under consideration 1. He/She shall not preside. 2. He/She shall not have the right to speak 3. He/She shall not be entitled to vote on the resolution in the first instance. Which of the statements given above is/are correct ?",
+      "options": {
+        "A": "1 only",
+        "B": "1 and 2 only",
+        "C": "2 and 3 only",
+        "D": "1, 2 and 3"
+      },
+      "correct_answer": "A",
+      "explanation": "When a resolution for the removal of the Speaker is under consideration of the House, he cannot preside at the sitting of the House, though he may be present...",
+      "motivation": "",
+      "source_material": "",
+      "source_type": "",
+      "test_series_reference": "",
+      "id": "3fcc8618-9df6-4681-9752-11445c393582",
+      "extraction_order": 10,
+      "chunk_number": 11,
+      "question_nature": {
+        "primary_type": "Factual",
+        "secondary_type": "Memory-based",
+        "difficulty_reason": "This question is considered easy as it tests specific knowledge about the procedural rules regarding the Speaker of the Lok Sabha, which is a fundamental aspect of Indian polity.",
+        "knowledge_requirement": "Static knowledge about the Indian parliamentary system and the role of the Speaker."
+      },
+      "examiner_thought_process": {
+        "testing_objective": "The examiner is trying to assess the candidate's understanding of the procedural rules governing the Speaker of the Lok Sabha, specifically in the context of removal.",
+        "question_design_strategy": "The question is designed to evaluate the candidate's recall of specific provisions related to the Speaker's role during a resolution for removal, which is a clear-cut factual aspect.",
+        "trap_setting": "The options include statements that may seem plausible but are incorrect, particularly regarding the Speaker's rights during the removal process, which can confuse students who are not clear on the specifics.",
+        "discrimination_potential": "This question has good discrimination potential as it can differentiate between candidates who have a clear understanding of parliamentary procedures and those who do not."
+      },
+      "options_analysis": {
+        "A": {
+          "type": "correct_answer",
+          "reason": "This option is correct because the Speaker does not preside over the House when a resolution for their removal is under consideration, as per parliamentary procedure.",
+          "trap": "",
+          "elimination_strategy": "N/A"
+        },
+        "B": {
+          "type": "plausible_distractor",
+          "reason": "This option incorrectly suggests that the Speaker cannot speak, which is not true. The Speaker can be present and speak but cannot preside.",
+          "trap": "Students may confuse the Speaker's ability to speak with their ability to preside, leading to this incorrect choice.",
+          "elimination_strategy": "Recognize that the Speaker can still participate in discussions but not in a presiding capacity."
+        },
+        "C": {
+          "type": "silly_mistake",
+          "reason": "This option is incorrect because it states that the Speaker cannot vote in the first instance, which is misleading. The Speaker does not vote unless there is a tie.",
+          "trap": "Students may misinterpret the voting rights of the Speaker in the context of a removal resolution.",
+          "elimination_strategy": "Recall that the Speaker's voting rights are conditional and not absolute in this scenario."
+        },
+        "D": {
+          "type": "silly_mistake",
+          "reason": "This option is incorrect as it combines all statements, including the incorrect ones about the Speaker's rights to speak and vote.",
+          "trap": "The presence of multiple statements may lead students to assume that if one is correct, the others might be too.",
+          "elimination_strategy": "Evaluate each statement individually to confirm their accuracy."
+        }
+      },
+      "learning_insights": {
+        "key_concepts": [
+          "Role of the Speaker in the Lok Sabha",
+          "Procedures for removal of the Speaker",
+          "Voting rights of the Speaker"
+        ],
+        "common_mistakes": [
+          "Confusing the Speaker's ability to speak with their ability to preside",
+          "Misunderstanding the voting rights of the Speaker during removal proceedings"
+        ],
+        "elimination_technique": "1. Identify the context of the question (removal of Speaker). 2. Recall the specific rules regarding the Speaker's role during this process. 3. Eliminate options based on factual inaccuracies.",
+        "memory_hooks": [
+          "Remember that the Speaker is like a referee who cannot play the game when their own removal is being discussed."
+        ],
+        "related_topics": [
+          "Parliamentary procedures in India",
+          "Roles and responsibilities of the Speaker",
+          "Constitutional provisions related to the Lok Sabha"
+        ],
+        "current_affairs_connection": "While this question is primarily factual, understanding the Speaker's role can connect to current events involving parliamentary debates and resolutions."
+      },
+      "difficulty_level": "Easy",
+      "time_management": "This question should take no more than 30 seconds to a minute to analyze and answer.",
+      "confidence_calibration": "A well-prepared student should feel confident in answering this question correctly, as it tests fundamental knowledge of Indian polity."
+    },
+    {
+      "question_number": "11",
+      "section": "Polity & Governance",
+      "question_text": "With reference to the Parliament of India, consider the following statements : 1. Prorogation of a House by the President of India does not require the advice of the Council of Ministers. 2. Prorogation of a House is generally done after the House is adjourned sine die but there is no bar to the President of India prorogating the House Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "A": "1 only",
+        "B": "2 only",
+        "C": "Both 1 and 2",
+        "D": "Neither 1 nor 2"
+      },
+      "correct_answer": "C",
+      "explanation": "Under Article 85(2) of the Constitution, the President may from time to time prorogue Houses or either House of Parliament...",
+      "motivation": "M",
+      "source_material": "MLaxmikant Chapter on Parliament",
+      "source_type": "",
+      "test_series_reference": "",
+      "id": "d6008a5a-c846-4b79-b520-8b80b0fbeddd",
+      "extraction_order": 11,
+      "chunk_number": 11,
+      "question_nature": {
+        "primary_type": "Factual",
+        "secondary_type": "Memory-based",
+        "difficulty_reason": "This question is considered medium difficulty as it requires specific knowledge of constitutional provisions regarding the Parliament, which may not be commonly remembered by all candidates.",
+        "knowledge_requirement": "Static knowledge of the Indian Constitution, specifically Article 85 regarding the prorogation of Parliament."
+      },
+      "examiner_thought_process": {
+        "testing_objective": "The examiner aims to test the candidate's understanding of the constitutional provisions related to the functioning of the Parliament of India.",
+        "question_design_strategy": "The question is designed to assess both factual knowledge and the ability to interpret constitutional provisions correctly.",
+        "trap_setting": "The options are designed to mislead candidates who may have partial knowledge or misconceptions about the role of the President in proroguing Parliament.",
+        "discrimination_potential": "This question has high discrimination potential as it can effectively differentiate between candidates who have a clear understanding of constitutional provisions and those who do not."
+      },
+      "options_analysis": {
+        "A": {
+          "type": "plausible_distractor",
+          "reason": "This option is incorrect because it misinterprets the role of the President in prorogation, which does not require the advice of the Council of Ministers.",
+          "trap": "Candidates may confuse prorogation with adjournment and mistakenly believe that the President's role is limited.",
+          "elimination_strategy": "Candidates should recall that Article 85(2) specifies the President's authority to prorogue without needing advice."
+        },
+        "B": {
+          "type": "plausible_distractor",
+          "reason": "This option is incorrect because while prorogation can occur after adjournment sine die, it is not limited to that condition.",
+          "trap": "Students may misinterpret the conditions under which prorogation can occur, leading them to choose this option.",
+          "elimination_strategy": "Candidates should remember that prorogation can happen at any time as per the President's discretion."
+        },
+        "C": {
+          "type": "correct_answer",
+          "reason": "This option is correct as both statements accurately reflect the provisions of Article 85 of the Constitution.",
+          "trap": "",
+          "elimination_strategy": ""
+        },
+        "D": {
+          "type": "plausible_distractor",
+          "reason": "This option is incorrect as it suggests that both statements are false, which is not the case.",
+          "trap": "Candidates might misinterpret the statements and think both are incorrect due to confusion about the terms used.",
+          "elimination_strategy": "Candidates should analyze each statement carefully and refer to their constitutional knowledge."
+        }
+      },
+      "learning_insights": {
+        "key_concepts": [
+          "Prorogation of Parliament",
+          "Role of the President in legislative processes",
+          "Article 85 of the Indian Constitution"
+        ],
+        "common_mistakes": [
+          "Confusing prorogation with adjournment",
+          "Misunderstanding the President's powers without the Council of Ministers' advice"
+        ],
+        "elimination_technique": "1. Identify the key terms in each statement. 2. Recall the relevant constitutional articles. 3. Assess the accuracy of each statement based on constitutional knowledge.",
+        "memory_hooks": [
+          "Remember 'P' for President and 'P' for Prorogation to link their roles."
+        ],
+        "related_topics": [
+          "Legislative procedures in India",
+          "Functions of the President",
+          "Differences between prorogation and adjournment"
+        ],
+        "current_affairs_connection": "Understanding the role of Parliament and the President is crucial for analyzing current political events and legislative changes."
+      },
+      "difficulty_level": "Medium",
+      "time_management": "Candidates should spend about 1-2 minutes on this question, allowing time to think critically about the statements.",
+      "confidence_calibration": "A well-prepared student should feel confident in selecting option C, provided they have a solid grasp of constitutional provisions."
+    },
+    {
+      "question_number": "12",
+      "section": "Geography",
+      "question_text": "Consider the following statements: Statement-I: The atmosphere is heated more by incoming solar radiation than by terrestrial radiation. Statement-II: Carbon dioxide and other greenhouse gases in the atmosphere are good absorbers of long wave radiation. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "A": "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+        "B": "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I",
+        "C": "Statement-I is correct, but Statement-II is incorrect",
+        "D": "Statement-I is incorrect, but Statement-II is correct"
+      },
+      "correct_answer": "D",
+      "explanation": "The long wave radiation is absorbed by the atmospheric gases particularly by carbon dioxide and the other green house gases. Thus, the atmosphere is indirectly heated by the earth's radiation. Hence Statement-I is incorrect, but Statement-II is correct.",
+      "motivation": "E",
+      "source_material": "NCERT, Class XI: Fundamentals of Physical Geography, Page No. 68-69",
+      "source_type": "NCERT",
+      "test_series_reference": "",
+      "id": "35653783-9dd6-4039-95b1-5b7a9778da5e",
+      "extraction_order": 12,
+      "chunk_number": 13,
+      "question_nature": {
+        "primary_type": "Conceptual",
+        "secondary_type": "Memory-based",
+        "difficulty_reason": "This question is medium in difficulty as it requires understanding of atmospheric science concepts, specifically the roles of solar and terrestrial radiation. Candidates must recall specific knowledge about greenhouse gases and their effects.",
+        "knowledge_requirement": "Static knowledge about atmospheric science and the greenhouse effect."
+      },
+      "examiner_thought_process": {
+        "testing_objective": "The examiner aims to test candidates' understanding of atmospheric heating processes and the role of greenhouse gases.",
+        "question_design_strategy": "The question is designed to assess both factual knowledge and the ability to analyze relationships between statements, particularly in the context of environmental science.",
+        "trap_setting": "The examiner sets traps by including statements that may seem correct at first glance but require deeper understanding to evaluate their accuracy.",
+        "discrimination_potential": "This question has high discrimination potential as it can differentiate between candidates who have a solid grasp of atmospheric science and those who do not."
+      },
+      "options_analysis": {
+        "A": {
+          "type": "plausible_distractor",
+          "reason": "This option suggests both statements are correct and that Statement-II explains Statement-I, which is incorrect. Statement-I is actually incorrect.",
+          "trap": "Candidates may confuse the correctness of both statements due to their interrelated nature.",
+          "elimination_strategy": "Recognize that Statement-I is incorrect based on knowledge of how the atmosphere is heated."
+        },
+        "B": {
+          "type": "plausible_distractor",
+          "reason": "This option claims both statements are correct but that Statement-II does not explain Statement-I. However, Statement-I is actually incorrect.",
+          "trap": "Candidates may misinterpret the relationship between the statements and incorrectly assume both are valid.",
+          "elimination_strategy": "Identify that Statement-I is incorrect, thus eliminating this option."
+        },
+        "C": {
+          "type": "plausible_distractor",
+          "reason": "This option states that Statement-I is correct, which is false. This may confuse students who are unsure about the heating processes of the atmosphere.",
+          "trap": "Students might mistakenly believe that the atmosphere is primarily heated by solar radiation without considering the role of terrestrial radiation.",
+          "elimination_strategy": "Recognize that Statement-I is incorrect, leading to the elimination of this option."
+        },
+        "D": {
+          "type": "correct_answer",
+          "reason": "This option correctly identifies that Statement-I is incorrect and Statement-II is correct regarding the absorption of long wave radiation by greenhouse gases.",
+          "trap": "",
+          "elimination_strategy": ""
+        }
+      },
+      "learning_insights": {
+        "key_concepts": [
+          "Atmospheric heating processes",
+          "Solar radiation vs. terrestrial radiation",
+          "Role of greenhouse gases in the atmosphere"
+        ],
+        "common_mistakes": [
+          "Confusing the roles of solar and terrestrial radiation",
+          "Assuming both statements are correct without critical evaluation"
+        ],
+        "elimination_technique": "1. Assess the correctness of Statement-I based on knowledge of atmospheric science. 2. If Statement-I is incorrect, eliminate options A, B, and C. 3. Confirm the correctness of Statement-II to select option D.",
+        "memory_hooks": [
+          "Remember 'Greenhouse gases trap heat' to recall their role in atmospheric heating."
+        ],
+        "related_topics": [
+          "Climate change and its impact",
+          "Basic principles of meteorology",
+          "Environmental science and ecology"
+        ],
+        "current_affairs_connection": "Understanding greenhouse gases is crucial in the context of climate change discussions and international agreements like the Paris Agreement."
+      },
+      "difficulty_level": "Medium",
+      "time_management": "Allocate about 1-2 minutes to analyze and answer this question, as it requires careful consideration of the statements.",
+      "confidence_calibration": "A well-prepared student should feel confident in selecting option D, provided they have a solid understanding of atmospheric science."
+    },
+    {
+      "question_number": "13",
+      "section": "Geography",
+      "question_text": "Consider the following statements: Statement-I: Thickness of the troposphere at the equator is much greater as compared to poles. Statement-II: At the equator, heat is transported to great heights by strong convectional currents. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "A": "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+        "B": "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I",
+        "C": "Statement-I is correct, but Statement-II is incorrect",
+        "D": "Statement-I is incorrect, but Statement-II is correct"
+      },
+      "correct_answer": "A",
+      "explanation": "The troposphere is the lowermost layer of the atmosphere. Its average height is 13 km and extends roughly to a height of 8 km near the poles and about 18 km at the equator. Thickness of the troposphere is greatest at the equator because heat is transported to great heights by strong convectional currents. Hence option (a) is the correct answer. This layer contains dust particles and water vapour. All changes in climate and weather take place in this layer. The temperature in this layer decreases at the rate of $1^{\\circ} \\mathrm{C}$ for every 165 m of height. This is the most important layer for all biological activity.",
+      "motivation": "E",
+      "source_material": "NCERT, Class XI: Fundamentals of Physical Geography, Page No. 65",
+      "source_type": "NCERT",
+      "test_series_reference": "",
+      "id": "341c6f86-16e9-4b94-8d94-ad8799e5b6c8",
+      "extraction_order": 13,
+      "chunk_number": 13,
+      "question_nature": {
+        "primary_type": "Conceptual",
+        "secondary_type": "Memory-based",
+        "difficulty_reason": "The question is relatively easy as it requires basic knowledge of atmospheric layers and their characteristics, which is a common topic in Geography.",
+        "knowledge_requirement": "Static knowledge about atmospheric science and geography."
+      },
+      "examiner_thought_process": {
+        "testing_objective": "The examiner aims to test the candidate's understanding of atmospheric layers, specifically the troposphere, and the processes that affect its characteristics.",
+        "question_design_strategy": "The question is designed to assess the candidate's ability to connect two related statements and evaluate their correctness and explanatory relationship.",
+        "trap_setting": "The examiner has set traps by providing options that could mislead candidates who may not fully understand the relationship between the statements.",
+        "discrimination_potential": "This question has good discrimination potential as it requires candidates to not only know facts but also to understand the implications of those facts."
+      },
+      "options_analysis": {
+        "A": {
+          "type": "correct_answer",
+          "reason": "Both statements are correct; the thickness of the troposphere is indeed greater at the equator due to strong convectional currents that transport heat.",
+          "trap": "",
+          "elimination_strategy": ""
+        },
+        "B": {
+          "type": "plausible_distractor",
+          "reason": "While both statements are correct, the assertion that Statement-II does not explain Statement-I is incorrect; Statement-II does explain why Statement-I is true.",
+          "trap": "Candidates may misinterpret the relationship between the two statements, thinking they are independent.",
+          "elimination_strategy": "Recognize that Statement-II directly supports the explanation of Statement-I."
+        },
+        "C": {
+          "type": "silly_mistake",
+          "reason": "This option incorrectly states that Statement-II is incorrect; in fact, it is correct and supports Statement-I.",
+          "trap": "Students may confuse the effects of convection currents and their relation to the troposphere's thickness.",
+          "elimination_strategy": "Recall that convection currents are a fundamental concept in understanding atmospheric layers."
+        },
+        "D": {
+          "type": "silly_mistake",
+          "reason": "This option incorrectly claims Statement-I is incorrect; it is a well-established fact that the troposphere is thicker at the equator.",
+          "trap": "Candidates may misremember facts about atmospheric layers.",
+          "elimination_strategy": "Review basic atmospheric science to confirm the facts about the troposphere."
+        }
+      },
+      "learning_insights": {
+        "key_concepts": [
+          "Troposphere characteristics",
+          "Convection currents",
+          "Atmospheric layers",
+          "Temperature gradient in the troposphere"
+        ],
+        "common_mistakes": [
+          "Misunderstanding the relationship between the two statements",
+          "Confusing the characteristics of different atmospheric layers"
+        ],
+        "elimination_technique": "1. Assess the correctness of each statement independently. 2. Evaluate the explanatory relationship between the statements. 3. Eliminate options that misrepresent this relationship.",
+        "memory_hooks": [
+          "Remember 'Tropical Troposphere' for thickness at the equator due to heat",
+          "Visualize convection currents as 'heat elevators' in the atmosphere"
+        ],
+        "related_topics": [
+          "Weather patterns and climate",
+          "Heat transfer in the atmosphere",
+          "Global atmospheric circulation"
+        ],
+        "current_affairs_connection": "Understanding atmospheric layers can relate to current discussions on climate change and weather phenomena."
+      },
+      "difficulty_level": "Easy",
+      "time_management": "Candidates should spend about 1-2 minutes on this question, as it requires quick recall of facts.",
+      "confidence_calibration": "A well-prepared student should feel very confident in answering this question correctly."
+    },
+    {
+      "question_number": "14",
+      "section": "Current Affairs (Geography)",
+      "question_text": "Which of the following countries are well known as the two largest cocoa producers in the world ?",
+      "options": {
+        "A": "Algeria and Morocco",
+        "B": "Botswana and Namibia",
+        "C": "Cote d'Ivoire and Ghana",
+        "D": "Madagascar and Mozambique"
+      },
+      "correct_answer": "C",
+      "explanation": "Cocoa beans are produced in tropical zones around the Equator... Hence option (c) is the correct answer.",
+      "motivation": "M",
+      "source_material": "",
+      "source_type": "",
+      "test_series_reference": "",
+      "id": "a1362c4a-cfc3-4da4-accc-46eae50d0f44",
+      "extraction_order": 14,
+      "chunk_number": 14,
+      "question_nature": {
+        "primary_type": "Factual",
+        "secondary_type": "Memory-based",
+        "difficulty_reason": "This question is considered easy as it tests basic factual knowledge about cocoa production, which is a well-known topic in geography and current affairs.",
+        "knowledge_requirement": "Static knowledge about cocoa production and its geographical distribution."
+      },
+      "examiner_thought_process": {
+        "testing_objective": "The examiner aims to test the candidate's knowledge of global agricultural production, specifically cocoa, which is relevant in the context of geography and economy.",
+        "question_design_strategy": "The question is designed to assess the candidate's recall ability regarding major cocoa-producing countries, which is a common topic in current affairs and geography.",
+        "trap_setting": "The examiner has included plausible distractors (options A, B, and D) that may confuse candidates who are not well-versed in the subject matter.",
+        "discrimination_potential": "This question has good discrimination potential as it can differentiate between candidates who have a solid grasp of agricultural geography and those who do not."
+      },
+      "options_analysis": {
+        "A": {
+          "type": "plausible_distractor",
+          "reason": "Algeria and Morocco are not known for cocoa production; they are more associated with other agricultural products.",
+          "trap": "Students may confuse North African countries with cocoa production due to their prominence in other crops.",
+          "elimination_strategy": "Candidates can eliminate this option by recalling that cocoa is primarily produced in tropical regions, not in North Africa."
+        },
+        "B": {
+          "type": "plausible_distractor",
+          "reason": "Botswana and Namibia are known for other agricultural products but are not significant cocoa producers.",
+          "trap": "Candidates might mistakenly associate these countries with agriculture due to their agricultural sectors.",
+          "elimination_strategy": "Eliminate by recognizing that cocoa production is concentrated in West Africa, not Southern Africa."
+        },
+        "C": {
+          "type": "correct_answer",
+          "reason": "Cote d'Ivoire and Ghana are the two largest cocoa producers in the world, accounting for a significant percentage of global cocoa production.",
+          "trap": "",
+          "elimination_strategy": ""
+        },
+        "D": {
+          "type": "plausible_distractor",
+          "reason": "Madagascar and Mozambique are not known for cocoa production; they are more recognized for vanilla and other crops.",
+          "trap": "Candidates may confuse Madagascar's reputation for vanilla with cocoa production.",
+          "elimination_strategy": "Eliminate by recalling that cocoa is not a major crop in these countries."
+        }
+      },
+      "learning_insights": {
+        "key_concepts": [
+          "Cocoa production and its geographical distribution",
+          "Major agricultural products of different countries",
+          "Economic significance of cocoa in global trade"
+        ],
+        "common_mistakes": [
+          "Confusing countries based on their agricultural reputation rather than specific crops",
+          "Not being aware of the leading countries in cocoa production"
+        ],
+        "elimination_technique": "Candidates should first identify the regions where cocoa is predominantly grown (West Africa) and eliminate options that do not fit this geographical criterion.",
+        "memory_hooks": [
+          "Remember 'Cote d'Ivoire and Ghana' as the 'Cocoa Giants' to help recall their significance in cocoa production."
+        ],
+        "related_topics": [
+          "Global agricultural trade",
+          "Tropical agriculture",
+          "Economic geography"
+        ],
+        "current_affairs_connection": "Cocoa production is often discussed in the context of global trade, sustainability, and economic development, making it relevant to current affairs."
+      },
+      "difficulty_level": "Easy",
+      "time_management": "Candidates should spend about 30 seconds to 1 minute on this question, as it requires quick recall of factual information.",
+      "confidence_calibration": "A well-prepared student should feel very confident in selecting option C, given the straightforward nature of the question."
+    },
+    {
+      "question_number": "15",
+      "section": "Geography",
+      "question_text": "How many of the above countries have a border with the North Sea ?",
+      "options": {
+        "A": "Only one",
+        "B": "Only two",
+        "C": "Only three",
+        "D": "All four"
+      },
+      "correct_answer": "B",
+      "explanation": "North sea in northern Europe is part of the Atlantic ocean. It is bordered by the United Kingdom and Norway to the west, Denmark to the south, Germany, the Netherlands, Belgium, and France to the east, and the Faroe Islands and Norway's Svalbard archipelago to the north. The North Sea connects to the Atlantic Ocean via the English Channel in the southwest and the Baltic Sea in the east via the Kattegat and Skagerrak straits. Hence option (b) is the correct answer.",
+      "motivation": "",
+      "source_material": "",
+      "source_type": "",
+      "test_series_reference": "",
+      "id": "e80c28fb-2af7-4e80-b2e0-35128fabe1a5",
+      "extraction_order": 15,
+      "chunk_number": 15,
+      "question_nature": {
+        "primary_type": "Factual",
+        "secondary_type": "Memory-based",
+        "difficulty_reason": "This question is considered easy as it tests basic geographical knowledge regarding the countries bordering the North Sea, which is a well-known fact in geography.",
+        "knowledge_requirement": "Static knowledge is required, specifically knowledge of European geography and the countries that have coastlines on the North Sea."
+      },
+      "examiner_thought_process": {
+        "testing_objective": "The examiner aims to assess the candidate's knowledge of European geography and the ability to identify countries that share borders with specific bodies of water.",
+        "question_design_strategy": "The question is designed to be straightforward, requiring candidates to recall specific geographical information without the need for complex reasoning.",
+        "trap_setting": "The options are structured to mislead candidates who may not be fully confident in their geographical knowledge, particularly those who might overthink the question or confuse the number of bordering countries.",
+        "discrimination_potential": "This question has good discrimination potential as it can differentiate between candidates who have a solid grasp of geography and those who do not."
+      },
+      "options_analysis": {
+        "A": {
+          "type": "plausible_distractor",
+          "reason": "This option is incorrect because it suggests that only one country borders the North Sea, which is misleading as there are multiple countries involved.",
+          "trap": "Students may choose this option if they recall only one country, such as the UK, without considering others.",
+          "elimination_strategy": "Candidates should recall the list of countries bordering the North Sea and recognize that more than one country is involved."
+        },
+        "B": {
+          "type": "correct_answer",
+          "reason": "This option is correct as it identifies the two countries that border the North Sea, which are the United Kingdom and Norway.",
+          "trap": "",
+          "elimination_strategy": "Candidates should confirm their knowledge of the countries bordering the North Sea and recognize that only two are correct."
+        },
+        "C": {
+          "type": "plausible_distractor",
+          "reason": "This option is incorrect as it overstates the number of countries bordering the North Sea, potentially confusing students who may think of additional countries.",
+          "trap": "Students may mistakenly include countries that are geographically close but do not have a coastline on the North Sea.",
+          "elimination_strategy": "Candidates should carefully consider the geographical definitions and only count countries with direct access to the North Sea."
+        },
+        "D": {
+          "type": "silly_mistake",
+          "reason": "This option is incorrect as it suggests that all four countries mentioned border the North Sea, which is factually incorrect.",
+          "trap": "This option may confuse students who misinterpret the question or do not remember the exact number of bordering countries.",
+          "elimination_strategy": "Candidates should recall the specific countries and eliminate this option based on their knowledge of geography."
+        }
+      },
+      "learning_insights": {
+        "key_concepts": [
+          "Geographical boundaries of the North Sea",
+          "Countries bordering major European seas",
+          "Basic European geography"
+        ],
+        "common_mistakes": [
+          "Confusing countries that are geographically close but do not border the North Sea",
+          "Underestimating the number of countries that border the North Sea"
+        ],
+        "elimination_technique": "1. Recall the countries bordering the North Sea; 2. Count them accurately; 3. Cross-check with the options provided.",
+        "memory_hooks": [
+          "Mnemonic for remembering the countries: 'UK, Norway, Denmark, Germany, Netherlands, Belgium, France' - perhaps using the first letters: 'U, N, D, G, N, B, F'."
+        ],
+        "related_topics": [
+          "Geography of Europe",
+          "Marine geography",
+          "International borders"
+        ],
+        "current_affairs_connection": "While this question is primarily static, understanding the geopolitical significance of these countries can connect to current affairs discussions regarding trade and maritime laws."
+      },
+      "difficulty_level": "Easy",
+      "time_management": "Candidates should spend no more than 30 seconds on this question, as it requires straightforward recall of factual information.",
+      "confidence_calibration": "A well-prepared student should feel very confident in answering this question correctly, given the foundational nature of the knowledge required."
+    },
+    {
+      "question_number": "16",
+      "section": "Geography",
+      "question_text": "In how many of the above rows is the information correctly matched ?",
+      "options": {
+        "A": "Only one",
+        "B": "Only two",
+        "C": "Only three",
+        "D": "All four"
+      },
+      "correct_answer": "",
+      "explanation": "Region 1 Europe Hence information given in row 1 is not correctly matched. 2 Europe 3 North America 4 South America Name of the mountain range Vosges Alps Appalachians Andes Type of Mountain Vosges Block mountain Fold mountain Fold mountain",
+      "motivation": "",
+      "source_material": "Certificate Geography by GC Leong, Page No. 15-16",
+      "source_type": "M",
+      "test_series_reference": "",
+      "id": "f84c51ac-802d-4bf5-8d2e-d644f07108c6",
+      "extraction_order": 16,
+      "chunk_number": 15,
+      "question_nature": {
+        "primary_type": "Factual",
+        "secondary_type": "Memory-based",
+        "difficulty_reason": "This question is medium in difficulty as it requires specific knowledge of geographical features and their classifications. Candidates must recall specific mountain ranges and their types, which can be challenging without thorough preparation.",
+        "knowledge_requirement": "Static knowledge about geographical features, specifically mountain ranges and their classifications."
+      },
+      "examiner_thought_process": {
+        "testing_objective": "The examiner aims to assess the candidate's knowledge of geography, specifically the classification of mountain ranges and their geographical locations.",
+        "question_design_strategy": "The question is designed to require candidates to match information accurately, testing both recall and understanding of geographical concepts.",
+        "trap_setting": "The options are designed to mislead candidates who may not have a clear understanding of the geographical classifications, as they can easily confuse the number of correct matches.",
+        "discrimination_potential": "This question has good discrimination potential as it can differentiate between candidates who have a solid grasp of geographical knowledge and those who do not."
+      },
+      "options_analysis": {
+        "A": {
+          "type": "plausible_distractor",
+          "reason": "This option suggests that only one match is correct, which is incorrect as there are two correct matches.",
+          "trap": "Candidates may choose this option if they misinterpret the information or remember only one correct match.",
+          "elimination_strategy": "Candidates should verify the matches in their mind and count the correct ones before selecting this option."
+        },
+        "B": {
+          "type": "correct_answer",
+          "reason": "This option correctly identifies that only two matches are accurate based on the provided information.",
+          "trap": "",
+          "elimination_strategy": "Candidates should confirm the accuracy of the matches and count them to validate this option."
+        },
+        "C": {
+          "type": "plausible_distractor",
+          "reason": "This option incorrectly states that three matches are correct, which is misleading as only two are.",
+          "trap": "Candidates may fall for this option if they have partial knowledge or misremember the classifications.",
+          "elimination_strategy": "Candidates should carefully analyze each row and ensure they are not overestimating the number of correct matches."
+        },
+        "D": {
+          "type": "silly_mistake",
+          "reason": "This option is incorrect as it suggests that all four matches are correct, which they are not.",
+          "trap": "Students may choose this option if they are unsure and assume all matches could be correct.",
+          "elimination_strategy": "Candidates should cross-check each row against their knowledge of geography to eliminate this option."
+        }
+      },
+      "learning_insights": {
+        "key_concepts": [
+          "Classification of mountain ranges",
+          "Geographical locations of major mountain ranges",
+          "Types of mountains (block, fold, etc.)"
+        ],
+        "common_mistakes": [
+          "Misidentifying the type of mountain ranges",
+          "Overlooking geographical locations",
+          "Confusing similar-sounding mountain ranges"
+        ],
+        "elimination_technique": "1. Read each row carefully. 2. Verify the geographical location and type of mountain. 3. Count the correct matches. 4. Eliminate options based on the count.",
+        "memory_hooks": [
+          "Use acronyms like 'BFF' for Block, Fold, and Fault mountains to remember types.",
+          "Visual aids like maps to associate mountain ranges with their locations."
+        ],
+        "related_topics": [
+          "Physical geography",
+          "Continental landforms",
+          "Geological formations"
+        ],
+        "current_affairs_connection": "Understanding geographical features can connect to current events related to climate change, natural disasters, and geopolitical issues."
+      },
+      "difficulty_level": "Medium",
+      "time_management": "Candidates should spend about 1-2 minutes analyzing this question to ensure they make an informed choice.",
+      "confidence_calibration": "A well-prepared student should feel moderately confident in answering this question, provided they have studied geographical classifications thoroughly."
+    },
+    {
+      "question_number": "17",
+      "section": "Environment",
+      "question_text": "Consider the following statements : Statement-I : Many chewing gums found in the market are considered a source of environmental pollution. Statement-II: Many chewing gums contain plastic as gum base. Which one of the following is correct in respect of the above statements ?",
+      "options": {
+        "A": "Both Statement-I and Statement-II are correct and StatementII explains Statement-I",
+        "B": "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I",
+        "C": "Statement-I is correct, but Statement-II is incorrect",
+        "D": "Statement-I is incorrect, but Statement-II is correct"
+      },
+      "correct_answer": "A",
+      "explanation": "Statement I is correct: Modern chewing gum is made up of four groups of ingredients that give gum its distinction flavor, texture, and bounce... Statement II is correct: Regular chewing gum has a substance called PVA (polyvinyl acetate), which is used to make tyres and glue... Hence statement II is the correct explanation of statement I.",
+      "motivation": "Two Bengaluru-based brothers, launched their startup Gud Gum to provide a biodegradable and healthier alternative to regular chewing gum, which pollutes the earth with plastic.",
+      "source_material": "https://www.thebetterindia.com/314893/bengaluru-startupbiodegradable -gud-chewing-gum-helps-cut-plasticpollution/\nhttps://www.treehugger.com/is-chewing-gumbiodegradable -5187955",
+      "source_type": "RR",
+      "test_series_reference": "",
+      "id": "e9c87683-f9b4-4c5a-a0d2-3a609ff4e826",
+      "extraction_order": 17,
+      "chunk_number": 16,
+      "question_nature": {
+        "primary_type": "Factual",
+        "secondary_type": "Memory-based",
+        "difficulty_reason": "This question is considered easy as it tests basic knowledge about environmental pollution and the composition of chewing gum, which are commonly discussed topics in environmental science.",
+        "knowledge_requirement": "Static knowledge about environmental science and materials used in consumer products."
+      },
+      "examiner_thought_process": {
+        "testing_objective": "The examiner aims to assess the candidate's understanding of environmental issues related to consumer products, specifically chewing gum, and their ability to analyze the relationship between two statements.",
+        "question_design_strategy": "The question is designed to evaluate both factual knowledge and the ability to interpret the relationship between statements, which is a common requirement in UPSC exams.",
+        "trap_setting": "Options are structured to test the candidate's comprehension of the statements and their interrelation, potentially confusing those who may not fully understand the implications of the statements.",
+        "discrimination_potential": "This question has good discrimination potential as it can differentiate between candidates who have a clear understanding of environmental issues and those who do not."
+      },
+      "options_analysis": {
+        "A": {
+          "type": "correct_answer",
+          "reason": "Both statements are correct, and Statement-II provides a clear explanation for Statement-I, as the presence of plastic in chewing gum contributes to environmental pollution.",
+          "trap": "",
+          "elimination_strategy": "N/A"
+        },
+        "B": {
+          "type": "plausible_distractor",
+          "reason": "While both statements are correct, the assertion that Statement-II does not explain Statement-I is incorrect, as it does provide a valid explanation.",
+          "trap": "Students may misinterpret the relationship between the statements and mistakenly believe that Statement-II is merely an additional fact rather than an explanation.",
+          "elimination_strategy": "Recognize that if both statements are true, the explanation relationship must be evaluated."
+        },
+        "C": {
+          "type": "silly_mistake",
+          "reason": "This option incorrectly states that Statement-II is incorrect, which is false; thus, it misrepresents the facts presented.",
+          "trap": "Students may confuse the materials used in chewing gum with other products, leading to this incorrect choice.",
+          "elimination_strategy": "Confirm the correctness of both statements before making a choice."
+        },
+        "D": {
+          "type": "silly_mistake",
+          "reason": "This option incorrectly states that Statement-I is incorrect, which is false; thus, it misrepresents the facts presented.",
+          "trap": "Students may not have a clear understanding of the environmental impact of chewing gum, leading to this incorrect choice.",
+          "elimination_strategy": "Evaluate the factual basis of both statements before selecting an option."
+        }
+      },
+      "learning_insights": {
+        "key_concepts": [
+          "Environmental pollution",
+          "Composition of consumer products",
+          "Impact of plastics on the environment"
+        ],
+        "common_mistakes": [
+          "Misunderstanding the relationship between statements",
+          "Confusing the materials used in different products",
+          "Overlooking the environmental implications of everyday items"
+        ],
+        "elimination_technique": "1. Read both statements carefully. 2. Determine the correctness of each statement. 3. Assess the relationship between the statements. 4. Eliminate options that misrepresent this relationship.",
+        "memory_hooks": [
+          "Remember that 'gum' and 'plastic' can be linked through environmental discussions; think of 'Gum = Garbage' to recall its impact."
+        ],
+        "related_topics": [
+          "Waste management",
+          "Recycling and biodegradable materials",
+          "Environmental policies related to consumer products"
+        ],
+        "current_affairs_connection": "The question connects to ongoing discussions about plastic pollution and environmental sustainability, which are frequently highlighted in current affairs."
+      },
+      "difficulty_level": "Easy",
+      "time_management": "Students should spend about 1-2 minutes on this question to read, analyze, and select the correct option.",
+      "confidence_calibration": "A well-prepared student should feel very confident in selecting the correct answer, as it relies on basic environmental knowledge."
+    },
+    {
+      "question_number": "18",
+      "section": "Environment",
+      "question_text": "Consider the following pairs : Country Animal found in its natural habitat 1. Brazil Indri 2. Indonesia Elk 3. Madagascar Bonobo How many of the pairs given above are correctly matched ?",
+      "options": {
+        "A": "Only one",
+        "B": "Only two",
+        "C": "All three",
+        "D": "None"
+      },
+      "correct_answer": "D",
+      "explanation": "Option 1 is not correct: The indri also called the babakoto, is one of the largest living lemurs... Option 2 is not correct: The elk is the second largest species within the deer family... Option 3 is not correct: The bonobo also historically called the pygmy chimpanzee...",
+      "motivation": "",
+      "source_material": "https://animal diversity.org/accounts/Indri_indri/\nhttps://animals.sandiegozoo.org/animals/bonobo",
+      "source_type": "RR",
+      "test_series_reference": "",
+      "id": "220ae59b-deab-4279-a537-8b75052cd2b1",
+      "extraction_order": 18,
+      "chunk_number": 16,
+      "question_nature": {
+        "primary_type": "Factual",
+        "secondary_type": "Memory-based",
+        "difficulty_reason": "This question is considered medium difficulty as it requires specific knowledge about animal habitats which may not be commonly known. Candidates must recall facts about three different animals and their respective countries.",
+        "knowledge_requirement": "Static knowledge about geography and zoology, specifically regarding animal species and their natural habitats."
+      },
+      "examiner_thought_process": {
+        "testing_objective": "The examiner aims to test the candidate's factual knowledge of animal species and their geographical distribution.",
+        "question_design_strategy": "The question is designed to assess the candidate's ability to recall specific information and recognize incorrect pairings, which requires a good understanding of biodiversity.",
+        "trap_setting": "The pairs may seem plausible at first glance, which can mislead candidates who are not well-versed in the subject matter. The inclusion of familiar animals may create a false sense of security.",
+        "discrimination_potential": "This question has a high discrimination potential as it can effectively differentiate between candidates who have a solid understanding of animal geography and those who do not."
+      },
+      "options_analysis": {
+        "A": {
+          "type": "plausible_distractor",
+          "reason": "This option suggests that only one pair is correct, which is incorrect as all pairs are wrong.",
+          "trap": "Candidates may recall that one animal is associated with its country and mistakenly select this option.",
+          "elimination_strategy": "Candidates should verify each pair against their knowledge and recognize that all are incorrect."
+        },
+        "B": {
+          "type": "plausible_distractor",
+          "reason": "This option suggests that two pairs are correct, which is incorrect as all pairs are wrong.",
+          "trap": "Some candidates might confuse the animals with their respective countries due to partial knowledge.",
+          "elimination_strategy": "Candidates should critically analyze each pair and confirm that none are correctly matched."
+        },
+        "C": {
+          "type": "plausible_distractor",
+          "reason": "This option suggests that all three pairs are correct, which is incorrect.",
+          "trap": "Candidates may mistakenly believe that the names of the animals are correctly matched with their countries based on familiarity.",
+          "elimination_strategy": "Candidates should recall specific facts about each animal's habitat to eliminate this option."
+        },
+        "D": {
+          "type": "correct_answer",
+          "reason": "This option is correct as none of the pairs are accurately matched with their respective countries.",
+          "trap": "",
+          "elimination_strategy": ""
+        }
+      },
+      "learning_insights": {
+        "key_concepts": [
+          "Animal habitats",
+          "Geographical distribution of species",
+          "Biodiversity"
+        ],
+        "common_mistakes": [
+          "Assuming familiarity with an animal means correct pairing with its country",
+          "Overlooking the need for precise knowledge in zoology and geography"
+        ],
+        "elimination_technique": "Candidates should individually assess each pair, recalling specific facts about the animals and their natural habitats, leading to the conclusion that all pairs are incorrect.",
+        "memory_hooks": [
+          "Mnemonic devices to remember animals and their habitats, such as associating the first letter of the animal with the country."
+        ],
+        "related_topics": [
+          "Conservation biology",
+          "Endangered species",
+          "Ecology"
+        ],
+        "current_affairs_connection": "This question may connect to current discussions on wildlife conservation and habitat protection, which are prevalent in environmental news."
+      },
+      "difficulty_level": "Medium",
+      "time_management": "Candidates should aim to spend about 1-2 minutes on this question, allowing time to recall and verify knowledge.",
+      "confidence_calibration": "A well-prepared student should feel confident in identifying that all pairs are incorrect, provided they have studied animal geography."
+    },
+    {
+      "question_number": "19",
+      "section": "Current Affairs (Environment)",
+      "question_text": "Which one of the following is the correct description of \"100 Million Farmers\" ?It is a platform for accelerating the transition towards food and water systems that are net-zero (carbon), nature-positive and that aims to increase farmer resilience.",
+      "options": {
+        "B": "It is an international alliance and a network of individuals and farming organisations",
+        "C": "It is a digital platform fully integrated with service providers and built on blockchain that lets buyers, sellers and third parties trade fertilizers quickly and securely.",
+        "D": "It is a platform with the mission of encouraging the farmers to form Farmer Product Organisations or Agribusiness Consortiums, thus facilitating the access to global open markets to sell their products."
+      },
+      "correct_answer": "A",
+      "explanation": "100 Million Farmers is a platform supporting private and public leaders to position food and farmers as central pillars on the global climate and nature agenda... Hence option (a) is the correct answer.",
+      "motivation": "100 Million Farmers is a platform launched by the World Economic Forum.",
+      "source_material": "https://initiatives.weforum.org/100-million-farmers/home",
+      "source_type": "RR",
+      "test_series_reference": "",
+      "id": "d8a653b8-0f5b-4746-8a36-a6e2828f7ce5",
+      "extraction_order": 19,
+      "chunk_number": 16,
+      "question_nature": {
+        "primary_type": "Current Affairs",
+        "secondary_type": "Current Affairs-based",
+        "difficulty_reason": "The question is medium in difficulty as it requires specific knowledge about a contemporary initiative related to agriculture and climate change, which may not be widely known.",
+        "knowledge_requirement": "Dynamic and current affairs knowledge is needed, particularly related to environmental initiatives and agricultural policies."
+      },
+      "examiner_thought_process": {
+        "testing_objective": "The examiner is testing the candidate's awareness of current global initiatives in agriculture and their implications for climate change.",
+        "question_design_strategy": "The question is designed to assess not only recall of facts but also understanding of the broader context of agricultural sustainability and climate action.",
+        "trap_setting": "The options are designed to include plausible distractors that could mislead candidates who have a superficial understanding of the topic.",
+        "discrimination_potential": "This question has good discrimination potential as it can differentiate between candidates who are well-informed about current affairs and those who are not."
+      },
+      "options_analysis": {
+        "A": {
+          "type": "correct_answer",
+          "reason": "This option accurately describes the '100 Million Farmers' initiative, emphasizing its focus on sustainability and farmer resilience.",
+          "trap": "",
+          "elimination_strategy": "N/A"
+        },
+        "B": {
+          "type": "plausible_distractor",
+          "reason": "While it mentions an alliance and network, it does not capture the specific focus on sustainability and resilience that defines the initiative.",
+          "trap": "Candidates may confuse the concept of an alliance with the actual mission of '100 Million Farmers'.",
+          "elimination_strategy": "Recognize that the initiative is more focused on sustainability rather than just being a network."
+        },
+        "C": {
+          "type": "silly_mistake",
+          "reason": "This option describes a digital platform involving blockchain technology, which is not relevant to the '100 Million Farmers' initiative.",
+          "trap": "Students may be drawn to the modern technology aspect, thinking it relates to current agricultural practices.",
+          "elimination_strategy": "Identify that the question is about sustainability and climate action, not technology-driven trading platforms."
+        },
+        "D": {
+          "type": "close_call",
+          "reason": "This option suggests a mission to encourage farmers to form organizations, which is somewhat related but does not capture the essence of the initiative's focus on climate and nature.",
+          "trap": "The mention of farmer organizations may mislead candidates into thinking it aligns with the initiative's goals.",
+          "elimination_strategy": "Focus on the core mission of the initiative, which is about sustainability rather than just forming organizations."
+        }
+      },
+      "learning_insights": {
+        "key_concepts": [
+          "Sustainable agriculture",
+          "Climate change initiatives",
+          "Farmer resilience",
+          "Global food systems"
+        ],
+        "common_mistakes": [
+          "Confusing similar-sounding initiatives",
+          "Overlooking the specific focus of the initiative",
+          "Focusing on technology rather than sustainability"
+        ],
+        "elimination_technique": "1. Read all options carefully. 2. Identify keywords related to sustainability. 3. Eliminate options that do not directly address the core mission of the initiative.",
+        "memory_hooks": [
+          "Think of '100 Million Farmers' as a bridge between farmers and climate action."
+        ],
+        "related_topics": [
+          "Climate change and agriculture",
+          "Sustainable development goals",
+          "Global food security initiatives"
+        ],
+        "current_affairs_connection": "This question connects to ongoing discussions about climate change and sustainable agriculture, which are critical in current global policy debates."
+      },
+      "difficulty_level": "Medium",
+      "time_management": "Candidates should spend about 1-2 minutes on this question to read and analyze the options carefully.",
+      "confidence_calibration": "A well-prepared student should feel moderately confident if they are familiar with current agricultural initiatives and their implications for sustainability."
+    },
+    {
+      "question_number": "20",
+      "section": "Environment",
+      "question_text": "Consider the following: 1. Battery storage 2. Biomass generators 3. Fuel cells 4. Rooftop solar photovoltaic units How many of the above are considered \"Distributed Energy Resources\"",
+      "options": {
+        "A": "Only one",
+        "B": "Only two",
+        "C": "Only three",
+        "D": "All four"
+      },
+      "correct_answer": "D",
+      "explanation": "Distributed energy resources (DER) refers to often smaller generation units that are located on the consumer's side of the meter... Hence option (d) is the correct answer.",
+      "motivation": "",
+      "source_material": "https://ev chargingsummit.com/blog/what-are-distributed-energy-resources-ders-and-how-do-they-work/",
+      "source_type": "RM",
+      "test_series_reference": "",
+      "id": "4cf6d42b-8156-4041-837f-16b741767342",
+      "extraction_order": 20,
+      "chunk_number": 16,
+      "question_nature": {
+        "primary_type": "Factual",
+        "secondary_type": "Memory-based",
+        "difficulty_reason": "The question is straightforward as it tests basic knowledge of distributed energy resources, which is a well-defined concept in environmental studies. Most students familiar with renewable energy sources should find it easy.",
+        "knowledge_requirement": "Static knowledge about energy resources and their classifications."
+      },
+      "examiner_thought_process": {
+        "testing_objective": "To assess the candidate's understanding of distributed energy resources and their examples.",
+        "question_design_strategy": "The question is designed to require recognition of specific examples of distributed energy resources, ensuring that students not only memorize definitions but also understand practical applications.",
+        "trap_setting": "The options are designed to mislead students who may not have a clear understanding of all four examples or confuse them with similar terms.",
+        "discrimination_potential": "This question can effectively differentiate between candidates who have a solid grasp of the topic and those who do not, as it requires specific knowledge rather than general understanding."
+      },
+      "options_analysis": {
+        "A": {
+          "type": "plausible_distractor",
+          "reason": "This option incorrectly suggests that only one of the listed items qualifies as a distributed energy resource, which is misleading.",
+          "trap": "Students may confuse the term 'distributed energy resources' with other energy generation types and mistakenly believe only one fits.",
+          "elimination_strategy": "Recognize that multiple items listed are commonly classified as distributed energy resources."
+        },
+        "B": {
+          "type": "plausible_distractor",
+          "reason": "This option implies that only two items qualify, which is incorrect as all four do.",
+          "trap": "Students might misinterpret the definitions or examples, leading them to believe that some items do not fit the criteria.",
+          "elimination_strategy": "Recall the definitions of each item and confirm that all are indeed distributed energy resources."
+        },
+        "C": {
+          "type": "plausible_distractor",
+          "reason": "This option suggests that three items qualify, which is misleading as all four are valid examples.",
+          "trap": "Students may overthink the question and eliminate one item based on misconceptions about its classification.",
+          "elimination_strategy": "Review the definitions of distributed energy resources and check each option against them."
+        },
+        "D": {
+          "type": "correct_answer",
+          "reason": "All four options are indeed considered distributed energy resources, as they are smaller generation units located on the consumer's side of the meter.",
+          "trap": "",
+          "elimination_strategy": ""
+        }
+      },
+      "learning_insights": {
+        "key_concepts": [
+          "Distributed Energy Resources (DER)",
+          "Examples of DER",
+          "Renewable energy technologies"
+        ],
+        "common_mistakes": [
+          "Confusing distributed energy resources with centralized energy systems",
+          "Misidentifying examples of DER"
+        ],
+        "elimination_technique": "1. Identify each option as a DER. 2. Cross-check definitions. 3. Eliminate options that do not fit the criteria.",
+        "memory_hooks": [
+          "Remember the acronym 'BFRS' for Battery, Fuel cells, Rooftop solar, and Biomass to recall the examples."
+        ],
+        "related_topics": [
+          "Renewable energy sources",
+          "Energy storage technologies",
+          "Sustainable energy systems"
+        ],
+        "current_affairs_connection": "The increasing focus on renewable energy and sustainability in global policies makes understanding DERs relevant to current energy discussions."
+      },
+      "difficulty_level": "Easy",
+      "time_management": "Students should spend no more than 30 seconds on this question, given its straightforward nature.",
+      "confidence_calibration": "A well-prepared student should feel very confident in answering this question correctly."
+    },
+    {
+      "question_number": "21",
+      "section": "Environment",
+      "question_text": "Consider the following : 1. Butterflies 2. Fish 3. Frogs How many of the above have poisonous species among them ?",
+      "options": {
+        "A": "Only one",
+        "B": "Only two",
+        "C": "All three",
+        "D": "None"
+      },
+      "correct_answer": "C",
+      "explanation": "Option 1 is correct: Papilio antimachus, also called African giant swallowtail, is the most poisonous butterfly in the world... Option 2 is correct: Venomous fish are species of fish which produce strong mixtures of toxins harmful to humans...",
+      "motivation": "",
+      "source_material": "https://www.nhm.ac.uk/discover/can-frogs-be-venomous.html",
+      "source_type": "RR",
+      "test_series_reference": "",
+      "id": "5ab74839-bc8e-4e50-9dfd-0db521cf7e03",
+      "extraction_order": 21,
+      "chunk_number": 16,
+      "question_nature": {
+        "primary_type": "Factual",
+        "secondary_type": "Memory-based",
+        "difficulty_reason": "This question is considered medium difficulty as it requires specific knowledge about the poisonous nature of different species, which may not be commonly known to all candidates.",
+        "knowledge_requirement": "Static knowledge about environmental biology and species characteristics."
+      },
+      "examiner_thought_process": {
+        "testing_objective": "The examiner aims to test the candidate's knowledge of biodiversity and the characteristics of different animal species, particularly their poisonous or venomous nature.",
+        "question_design_strategy": "The question is designed to assess the candidate's recall of specific examples of poisonous species within a diverse group of animals, which requires both memorization and understanding of biological classifications.",
+        "trap_setting": "The options are structured to include plausible distractors that may lead candidates to underestimate the number of poisonous species, particularly if they are not familiar with the specific examples provided.",
+        "discrimination_potential": "This question has good discrimination potential as it can differentiate between candidates who have a solid understanding of environmental biology and those who do not."
+      },
+      "options_analysis": {
+        "A": {
+          "type": "plausible_distractor",
+          "reason": "This option suggests that only one species is poisonous, which may mislead candidates who are unaware of the poisonous nature of both butterflies and fish.",
+          "trap": "Students may confuse the term 'poisonous' with 'venomous' and mistakenly believe that only one species qualifies.",
+          "elimination_strategy": "Candidates should recall that both butterflies and fish have known poisonous species, thus eliminating this option."
+        },
+        "B": {
+          "type": "plausible_distractor",
+          "reason": "This option implies that two species are poisonous, which may appeal to candidates who remember only one of the examples correctly.",
+          "trap": "Candidates might remember the poisonous nature of fish but forget about butterflies, leading to this incorrect choice.",
+          "elimination_strategy": "Candidates should verify their knowledge of all three groups, realizing that both butterflies and fish are poisonous."
+        },
+        "C": {
+          "type": "correct_answer",
+          "reason": "This option is correct as all three groups (butterflies, fish, and frogs) have species that are known to be poisonous.",
+          "trap": "",
+          "elimination_strategy": ""
+        },
+        "D": {
+          "type": "silly_mistake",
+          "reason": "This option incorrectly states that none of the species are poisonous, which is false and reflects a lack of knowledge about biodiversity.",
+          "trap": "Candidates may mistakenly believe that these animals are all safe, leading to this incorrect choice.",
+          "elimination_strategy": "Candidates should recall specific examples of poisonous species from each group to eliminate this option."
+        }
+      },
+      "learning_insights": {
+        "key_concepts": [
+          "Biodiversity",
+          "Poisonous vs. Venomous species",
+          "Specific examples of poisonous animals"
+        ],
+        "common_mistakes": [
+          "Confusing poisonous with venomous",
+          "Overlooking less common species in general knowledge"
+        ],
+        "elimination_technique": "Candidates should mentally check each group for known poisonous species, recalling examples to eliminate incorrect options.",
+        "memory_hooks": [
+          "Remember 'Papilio' for poisonous butterflies and 'Pufferfish' for poisonous fish."
+        ],
+        "related_topics": [
+          "Ecology",
+          "Animal behavior",
+          "Conservation biology"
+        ],
+        "current_affairs_connection": "This question connects to ongoing discussions in environmental conservation and biodiversity, especially regarding the impact of habitat loss on species survival."
+      },
+      "difficulty_level": "Medium",
+      "time_management": "Candidates should spend about 30 seconds to 1 minute on this question, ensuring they recall the necessary information without overthinking.",
+      "confidence_calibration": "A well-prepared student should feel confident in selecting the correct answer if they have reviewed the relevant biological concepts."
+    },
+    {
+      "question_number": "22",
+      "section": "Current Affairs (Economics)",
+      "question_text": "Consider the following airports: 1. Donyi Polo Airport 2. Kushinagar International Airport 3. Vijayawada International Airport In the recent past, which of the above have been constructed as Greenfield projects?",
+      "options": {
+        "A": "1 and 2 only",
+        "B": "2 and 3 only",
+        "C": "1 and 3 only",
+        "D": "1, 2 and 3"
+      },
+      "correct_answer": "A",
+      "explanation": "Government of India has formulated a Greenfield Airports (GFA) Policy, 2008 for development of new Greenfield airports in the country...\nHence option (a) is the correct answer.",
+      "motivation": "In July 2023, the Minister of State in the Ministry of Civil Aviation gave written reply to a question asked in Lok Sabha about Greenfields airports in India.",
+      "source_material": "https://pib.gov.in/PressReleasePage.aspx?PRID=1943211#:\"text=Out%20of%20these%2C%2011%20Green https://pib.gov.in/PressReleasePage.aspx?PRID=1906346",
+      "source_type": "",
+      "test_series_reference": "",
+      "id": "cda2be67-3554-43ad-a13e-28524ee60be5",
+      "extraction_order": 22,
+      "chunk_number": 17,
+      "question_nature": {
+        "primary_type": "Current Affairs",
+        "secondary_type": "Memory-based",
+        "difficulty_reason": "This question is considered easy as it tests recent knowledge about specific airports and their development status, which is straightforward for candidates who keep up with current affairs.",
+        "knowledge_requirement": "Dynamic knowledge, specifically related to recent developments in airport infrastructure in India."
+      },
+      "examiner_thought_process": {
+        "testing_objective": "The examiner aims to assess the candidates' awareness of recent infrastructure projects in India, particularly in the context of Greenfield airport developments.",
+        "question_design_strategy": "The question is designed to evaluate both factual recall and understanding of the concept of Greenfield projects, requiring candidates to connect specific airports with their development status.",
+        "trap_setting": "The options are structured to include plausible distractors that may confuse candidates who are not fully aware of the status of each airport, particularly those who might confuse Greenfield with Brownfield projects.",
+        "discrimination_potential": "This question has good discrimination potential as it can differentiate between candidates who are well-informed about recent developments and those who are not."
+      },
+      "options_analysis": {
+        "A": {
+          "type": "correct_answer",
+          "reason": "Donyi Polo Airport and Kushinagar International Airport are indeed Greenfield projects, while Vijayawada International Airport was not developed as a Greenfield project.",
+          "trap": "",
+          "elimination_strategy": "N/A"
+        },
+        "B": {
+          "type": "plausible_distractor",
+          "reason": "This option incorrectly includes Vijayawada International Airport, which is not a Greenfield project, thus misleading candidates who may not be clear on the definitions.",
+          "trap": "Candidates may confuse the status of Vijayawada International Airport due to its international designation.",
+          "elimination_strategy": "Candidates should recall that Vijayawada was an existing airport upgraded rather than a new Greenfield project."
+        },
+        "C": {
+          "type": "plausible_distractor",
+          "reason": "This option includes Vijayawada International Airport, which is incorrect, leading to confusion for candidates who might not be fully aware of the definitions.",
+          "trap": "The presence of Donyi Polo Airport may mislead candidates who are unsure about the status of Vijayawada.",
+          "elimination_strategy": "Candidates should verify the status of each airport, remembering that only newly constructed airports qualify as Greenfield."
+        },
+        "D": {
+          "type": "silly_mistake",
+          "reason": "This option is incorrect as it includes all three airports, misleading candidates who may not have a clear understanding of the Greenfield concept.",
+          "trap": "Candidates may mistakenly think all listed airports are Greenfield due to their recent developments.",
+          "elimination_strategy": "Candidates should focus on the definition of Greenfield projects and recall which airports were newly constructed."
+        }
+      },
+      "learning_insights": {
+        "key_concepts": [
+          "Greenfield vs. Brownfield airport projects",
+          "Recent developments in Indian airport infrastructure",
+          "Government policies related to aviation"
+        ],
+        "common_mistakes": [
+          "Confusing Greenfield projects with Brownfield projects",
+          "Not keeping up with recent infrastructure developments",
+          "Misremembering the status of specific airports"
+        ],
+        "elimination_technique": "1. Recall the definition of Greenfield projects. 2. Verify the status of each airport mentioned. 3. Eliminate options that include incorrect airports.",
+        "memory_hooks": [
+          "Remember 'Greenfield' as 'new ground' to associate with newly constructed airports."
+        ],
+        "related_topics": [
+          "Infrastructure development in India",
+          "Aviation policies of the Government of India",
+          "Current affairs related to transportation"
+        ],
+        "current_affairs_connection": "This question connects to ongoing discussions about infrastructure development and government initiatives in the aviation sector."
+      },
+      "difficulty_level": "Easy",
+      "time_management": "Candidates should spend no more than 30 seconds on this question, as it requires quick recall of recent facts.",
+      "confidence_calibration": "A well-prepared student should feel very confident in answering this question correctly, provided they are up-to-date with current affairs."
+    },
+    {
+      "question_number": "23",
+      "section": "Geography",
+      "question_text": "With reference to \"water vapour\", which of the following statements is/are correct? 1. It is a gas, the amount of which decreases with altitude. 2. Its percentage is maximum at the poles. Select the answer using the code given below:",
+      "options": {
+        "A": "1 only",
+        "B": "2 only",
+        "C": "Both 1 and 2",
+        "D": "Neither 1 nor 2"
+      },
+      "correct_answer": "A",
+      "explanation": "Water vapour is also a variable gas in the atmosphere, which decreases with altitude...\nHence statements 1 is correct and 2 is not correct.",
+      "motivation": "",
+      "source_material": "NCERT, Class XI: Fundamentals of Physical Geography, Page No. 64",
+      "source_type": "E M",
+      "test_series_reference": "",
+      "id": "27374438-2d2c-4a68-b621-77630a8b30ae",
+      "extraction_order": 23,
+      "chunk_number": 17,
+      "question_nature": {
+        "primary_type": "Factual",
+        "secondary_type": "Memory-based",
+        "difficulty_reason": "This question is considered easy as it tests basic knowledge of atmospheric science, which is usually covered in standard geography textbooks and is a fundamental concept in understanding meteorology.",
+        "knowledge_requirement": "Static knowledge about atmospheric composition and properties."
+      },
+      "examiner_thought_process": {
+        "testing_objective": "The examiner aims to assess the candidate's understanding of the properties of water vapour in the atmosphere, particularly its behavior with altitude and geographical distribution.",
+        "question_design_strategy": "The question is designed to test both factual recall and the ability to discern correct statements about a common atmospheric component, ensuring that candidates are familiar with basic meteorological concepts.",
+        "trap_setting": "The second statement is misleading as it suggests a geographical misconception about water vapour concentration, which can confuse students who may not have a clear understanding of atmospheric science.",
+        "discrimination_potential": "This question has good discrimination potential as it can differentiate between candidates who have a solid grasp of atmospheric concepts and those who do not."
+      },
+      "options_analysis": {
+        "A": {
+          "type": "correct_answer",
+          "reason": "Statement 1 is correct as water vapour concentration decreases with altitude due to lower temperatures and pressures at higher elevations.",
+          "trap": "",
+          "elimination_strategy": ""
+        },
+        "B": {
+          "type": "silly_mistake",
+          "reason": "Statement 2 is incorrect; water vapour concentration is generally higher in warmer regions and lower at the poles, where cold air holds less moisture.",
+          "trap": "Students may confuse geographical moisture distribution with temperature, thinking that poles would have higher humidity.",
+          "elimination_strategy": "Recognize that colder regions typically have lower humidity and water vapour content."
+        },
+        "C": {
+          "type": "silly_mistake",
+          "reason": "This option is incorrect because it combines one correct statement with an incorrect one, misleading students who may not critically evaluate each statement.",
+          "trap": "The combination of both statements may lead students to assume that if one is correct, the other must be too.",
+          "elimination_strategy": "Evaluate each statement independently; if one is false, the entire option is incorrect."
+        },
+        "D": {
+          "type": "silly_mistake",
+          "reason": "This option is incorrect as it dismisses the correct statement about water vapour decreasing with altitude.",
+          "trap": "Students may overlook the correctness of statement 1 due to the incorrectness of statement 2.",
+          "elimination_strategy": "Focus on the accuracy of each statement before concluding that both are incorrect."
+        }
+      },
+      "learning_insights": {
+        "key_concepts": [
+          "Water vapour as a variable gas",
+          "Altitude effects on atmospheric composition",
+          "Geographical distribution of atmospheric moisture"
+        ],
+        "common_mistakes": [
+          "Confusing temperature with humidity levels",
+          "Assuming all geographical areas have similar moisture content"
+        ],
+        "elimination_technique": "1. Read both statements carefully. 2. Identify the correct statement (1). 3. Recognize the incorrectness of statement 2. 4. Choose the option that reflects only the correct statement.",
+        "memory_hooks": [
+          "Remember: 'Higher altitude, drier air' to recall that water vapour decreases with altitude."
+        ],
+        "related_topics": [
+          "Climate zones and their characteristics",
+          "Basic principles of meteorology",
+          "Humidity and its measurement"
+        ],
+        "current_affairs_connection": "Understanding atmospheric composition is crucial in discussions about climate change and weather patterns, which are frequently in the news."
+      },
+      "difficulty_level": "Easy",
+      "time_management": "Candidates should spend about 30 seconds to 1 minute on this question, as it requires quick recall of basic concepts.",
+      "confidence_calibration": "A well-prepared student should feel very confident in selecting option A, as this is a fundamental concept in geography."
+    },
+    {
+      "question_number": "24",
+      "section": "Geography",
+      "question_text": "Consider the following description: 1. Annual and daily range of temperatures is low. 2. Precipitation occurs throughout the year. 3. Precipitation varies between $50 \\mathrm{~cm}-250$ cm. What is this type of climate?",
+      "options": {
+        "A": "Equatorial climate",
+        "B": "China type climate",
+        "C": "Humid subtropical climate",
+        "D": "Marine West coast climate"
+      },
+      "correct_answer": "D",
+      "explanation": "The marine west coast climate (British type) is found along a relatively narrow strip of coastal Oregon, Washington, British Columbia, and southern Alaska in North America...\nHence option (d) is the correct answer.",
+      "motivation": "",
+      "source_material": "Certificate eography by GC Leong Chapter 22",
+      "source_type": "E M",
+      "test_series_reference": "",
+      "id": "d166946c-f0ef-48d8-9626-a1965d37e087",
+      "extraction_order": 24,
+      "chunk_number": 17,
+      "question_nature": {
+        "primary_type": "Factual",
+        "secondary_type": "Memory-based",
+        "difficulty_reason": "This question is medium in difficulty as it requires specific knowledge about climate types and their characteristics, which may not be commonly memorized by all students.",
+        "knowledge_requirement": "Static knowledge is needed, particularly in climatology and geography."
+      },
+      "examiner_thought_process": {
+        "testing_objective": "The examiner aims to assess the candidate's understanding of different climate types and their characteristics.",
+        "question_design_strategy": "The question is designed to test the ability to recall specific climatic features and match them with the correct climate type.",
+        "trap_setting": "Options A, B, and C may confuse students who have a superficial understanding of climate types, as they also include climates with some overlapping characteristics.",
+        "discrimination_potential": "This question has a high potential to differentiate between candidates who have in-depth knowledge of climate classifications and those who do not."
+      },
+      "options_analysis": {
+        "A": {
+          "type": "plausible_distractor",
+          "reason": "Equatorial climate features high annual and daily temperature ranges and significant rainfall, which does not match the question's description.",
+          "trap": "Students may confuse the consistent precipitation of equatorial climates with the year-round precipitation mentioned.",
+          "elimination_strategy": "Recognize that equatorial climates have high temperatures and do not fit the low temperature range described."
+        },
+        "B": {
+          "type": "silly_mistake",
+          "reason": "China type climate is characterized by distinct seasons and does not align with the low temperature range and consistent precipitation.",
+          "trap": "Students may mistakenly associate China type climate with high precipitation due to its geographical diversity.",
+          "elimination_strategy": "Eliminate based on the understanding that China type climates have significant seasonal variation."
+        },
+        "C": {
+          "type": "plausible_distractor",
+          "reason": "Humid subtropical climate has high precipitation but typically features more seasonal temperature variation than described.",
+          "trap": "Students might confuse the term 'humid' with consistent precipitation without considering temperature ranges.",
+          "elimination_strategy": "Identify that humid subtropical climates have more pronounced seasonal temperature variations."
+        },
+        "D": {
+          "type": "correct_answer",
+          "reason": "Marine West Coast climate is characterized by low temperature range and consistent precipitation throughout the year, fitting the description perfectly.",
+          "trap": "",
+          "elimination_strategy": ""
+        }
+      },
+      "learning_insights": {
+        "key_concepts": [
+          "Characteristics of Marine West Coast climate",
+          "Differences between various climate types",
+          "Impact of geographical location on climate"
+        ],
+        "common_mistakes": [
+          "Confusing similar climate types",
+          "Overlooking specific temperature and precipitation characteristics",
+          "Relying on vague memory rather than detailed understanding"
+        ],
+        "elimination_technique": "1. Identify key characteristics of each climate type. 2. Match these with the question's description. 3. Eliminate options that do not fit the criteria.",
+        "memory_hooks": [
+          "Remember 'Marine' for 'Moist' and 'Mild' to recall Marine West Coast climate characteristics."
+        ],
+        "related_topics": [
+          "Climatology",
+          "Geographical distribution of climate types",
+          "Impact of climate on ecosystems"
+        ],
+        "current_affairs_connection": "Understanding climate types is crucial in discussions about climate change impacts and environmental policies."
+      },
+      "difficulty_level": "Medium",
+      "time_management": "Students should spend about 1-2 minutes on this question to analyze the options carefully.",
+      "confidence_calibration": "A well-prepared student should feel confident in answering this question correctly, assuming they have studied climate types thoroughly."
+    },
+    {
+      "question_number": "25",
+      "section": "Geography",
+      "question_text": "With reference to \"Coriolis force\", which of the following statements is/are correct? 1. It increases with increase in wind velocity. 2. It is maximum at the poles and is absent at the equator. Select the answer using the code given below:",
+      "options": {
+        "A": "1 only",
+        "B": "2 only",
+        "C": "Both 1 and 2",
+        "D": "Neither 1 nor 2"
+      },
+      "correct_answer": "C",
+      "explanation": "The rotation of the earth about its axis affects the direction of the wind...\nHence statement 1 is correct.\nThe Coriolis force is directly proportional to the angle of latitude...\nHence statement 2 is correct.",
+      "motivation": "",
+      "source_material": "NCERT; Class XI: Fundamentals of Physical Geography, Page No. 7879",
+      "source_type": "E M",
+      "test_series_reference": "",
+      "id": "0053c296-7569-43bd-832c-cea1e5561800",
+      "extraction_order": 25,
+      "chunk_number": 17,
+      "question_nature": {
+        "primary_type": "Conceptual",
+        "secondary_type": "Memory-based",
+        "difficulty_reason": "This question is considered medium difficulty as it requires understanding of the Coriolis force and its implications, which may not be common knowledge for all students.",
+        "knowledge_requirement": "Static knowledge about physical geography and forces affecting wind patterns."
+      },
+      "examiner_thought_process": {
+        "testing_objective": "The examiner aims to test the candidate's understanding of fundamental concepts in physical geography, specifically the Coriolis force and its characteristics.",
+        "question_design_strategy": "The question is designed to assess both factual knowledge and the ability to apply that knowledge to specific statements regarding the Coriolis force.",
+        "trap_setting": "The statements are designed to test common misconceptions about the Coriolis force, particularly regarding its relationship with wind velocity and geographical location.",
+        "discrimination_potential": "This question has good discrimination potential as it can differentiate between candidates who have a solid understanding of the topic and those who do not."
+      },
+      "options_analysis": {
+        "A": {
+          "type": "silly_mistake",
+          "reason": "Statement 1 is incorrect because the Coriolis force does not increase with wind velocity; it is a function of the earth's rotation and the velocity of the moving object.",
+          "trap": "Students may confuse the effect of wind velocity with the Coriolis effect, leading them to mistakenly select this option.",
+          "elimination_strategy": "Recognize that the Coriolis force is independent of wind speed and is determined by the rotation of the Earth."
+        },
+        "B": {
+          "type": "silly_mistake",
+          "reason": "Statement 2 is incorrect because while the Coriolis force is maximum at the poles, it is not entirely absent at the equator; it is zero only at the equator.",
+          "trap": "Students may misinterpret the statement to mean that the Coriolis force is completely absent at the equator, leading to confusion.",
+          "elimination_strategy": "Understand that the Coriolis force decreases to zero at the equator but does not imply its complete absence."
+        },
+        "C": {
+          "type": "correct_answer",
+          "reason": "Both statements are correct in the context provided; the Coriolis force is maximum at the poles and increases with the latitude, while it is absent at the equator.",
+          "trap": "",
+          "elimination_strategy": ""
+        },
+        "D": {
+          "type": "silly_mistake",
+          "reason": "This option is incorrect as it states that neither statement is correct, which contradicts the correct understanding of the Coriolis force.",
+          "trap": "Students may mistakenly believe both statements are incorrect due to misunderstanding the nature of the Coriolis force.",
+          "elimination_strategy": "Recognize that at least one statement is true based on knowledge of the Coriolis effect."
+        }
+      },
+      "learning_insights": {
+        "key_concepts": [
+          "Coriolis force",
+          "Earth's rotation",
+          "Wind patterns",
+          "Latitude effects on Coriolis force"
+        ],
+        "common_mistakes": [
+          "Confusing the relationship between wind velocity and Coriolis force",
+          "Misunderstanding the geographical implications of the Coriolis force"
+        ],
+        "elimination_technique": "1. Analyze each statement for factual accuracy based on knowledge of physical geography. 2. Discard options that contain incorrect statements.",
+        "memory_hooks": [
+          "Remember: 'Coriolis at the poles, zero at the equator' to recall the geographical effects."
+        ],
+        "related_topics": [
+          "Atmospheric circulation",
+          "Weather patterns",
+          "Geophysical forces"
+        ],
+        "current_affairs_connection": "Understanding the Coriolis force can be relevant in discussions about climate change and weather patterns, especially in the context of extreme weather events."
+      },
+      "difficulty_level": "Medium",
+      "time_management": "Candidates should spend about 1-2 minutes on this question to ensure careful consideration of each statement.",
+      "confidence_calibration": "A well-prepared student should feel confident in selecting the correct answer, provided they have a solid grasp of the concepts involved."
+    },
+    {
+      "question_number": "26",
+      "section": "Environment",
+      "question_text": "Consider the following : 1. Carabid beetles 2. Centipedes 3. Flies 4. Termites 5. Wasps Parasitoid species are found how many of the above kind of organisms?",
+      "options": {
+        "A": "Only two",
+        "B": "Only three",
+        "C": "Only four",
+        "D": "All Five"
+      },
+      "correct_answer": "B",
+      "explanation": "In evolutionary ecology, a parasitoid is an organism that lives in close association with its host at the host's expense...",
+      "motivation": "",
+      "source_material": "https://extension.umd.edu/resource/parasitoids",
+      "source_type": "RR",
+      "test_series_reference": "",
+      "id": "a18e107e-4133-4b18-8065-c4204c531a69",
+      "extraction_order": 26,
+      "chunk_number": 18,
+      "question_nature": {
+        "primary_type": "Factual",
+        "secondary_type": "Memory-based",
+        "difficulty_reason": "This question is medium in difficulty as it requires specific knowledge about various organisms and their ecological roles, particularly understanding which of them are classified as parasitoids.",
+        "knowledge_requirement": "Static knowledge about ecology and specific biological classifications."
+      },
+      "examiner_thought_process": {
+        "testing_objective": "The examiner aims to assess the candidate's understanding of ecological concepts, specifically the classification of organisms and their interactions.",
+        "question_design_strategy": "The question is designed to test recall of specific biological terms and concepts, requiring candidates to differentiate between various organisms based on their ecological roles.",
+        "trap_setting": "The options are designed to include plausible distractors that may confuse students who have a superficial understanding of the topic.",
+        "discrimination_potential": "This question has good discrimination potential as it can differentiate between candidates who have a deeper understanding of ecology versus those who rely on rote memorization."
+      },
+      "options_analysis": {
+        "A": {
+          "type": "plausible_distractor",
+          "reason": "This option is incorrect because it underestimates the number of parasitoid species present among the listed organisms.",
+          "trap": "Students might confuse the term 'parasitoid' with other ecological roles, leading to an undercount.",
+          "elimination_strategy": "Candidates can eliminate this option by recalling that more than two of the listed organisms are known to have parasitoid species."
+        },
+        "B": {
+          "type": "correct_answer",
+          "reason": "This option is correct as it accurately reflects that three of the listed organisms (Flies, Wasps, and Termites) have known parasitoid species.",
+          "trap": "Students may overthink and second-guess their knowledge, leading them to doubt this option.",
+          "elimination_strategy": "Candidates should confidently identify the three organisms that are known to have parasitoid species based on their ecological knowledge."
+        },
+        "C": {
+          "type": "plausible_distractor",
+          "reason": "This option is incorrect because it overestimates the number of organisms that have parasitoid species.",
+          "trap": "Students may mistakenly include Carabid beetles and Centipedes based on a misunderstanding of their ecological roles.",
+          "elimination_strategy": "Candidates can eliminate this option by recalling that not all listed organisms are parasitoids."
+        },
+        "D": {
+          "type": "silly_mistake",
+          "reason": "This option is incorrect as it suggests that all five organisms have parasitoid species, which is factually incorrect.",
+          "trap": "Students may choose this option if they are unsure and think that all organisms might have some form of parasitoid relationship.",
+          "elimination_strategy": "Candidates should eliminate this option by recalling specific examples of organisms that do not have parasitoid species."
+        }
+      },
+      "learning_insights": {
+        "key_concepts": [
+          "Parasitoid species",
+          "Ecological roles of insects",
+          "Classification of organisms based on their interactions"
+        ],
+        "common_mistakes": [
+          "Confusing parasitoids with other ecological roles such as predators or parasites.",
+          "Overgeneralizing the term 'insects' without specific knowledge of their classifications."
+        ],
+        "elimination_technique": "1. Identify known parasitoid species. 2. Cross-reference with the options. 3. Eliminate options based on knowledge of ecological roles.",
+        "memory_hooks": [
+          "Mnemonic for remembering parasitoid insects: 'Frogs Will Terminate Flies' (Flies, Wasps, Termites)."
+        ],
+        "related_topics": [
+          "Insect ecology",
+          "Biodiversity and conservation",
+          "Food webs and ecological interactions"
+        ],
+        "current_affairs_connection": "Understanding ecological roles is crucial in discussions about biodiversity loss and conservation efforts, which are often highlighted in current environmental policies."
+      },
+      "difficulty_level": "Medium",
+      "time_management": "Candidates should spend about 1-2 minutes on this question, ensuring they read the options carefully.",
+      "confidence_calibration": "A well-prepared student should feel confident in selecting option B, provided they have a solid understanding of ecological classifications."
+    },
+    {
+      "question_number": "27",
+      "section": "Economics",
+      "question_text": "Consider the following: 1. Exchange-Traded Funds (ETF) 2. Motor vehicles 3. Currency swap Which of the above",
+      "options": {},
+      "correct_answer": "D",
+      "explanation": "A financial instrument is a real or virtual document representing a legal agreement involving any kind of monetary value. Financial instruments may also be divided according to an asset class, which depends on whether they are debt-based or equity-based. Foreign exchange instruments comprise a third, unique type of",
+      "motivation": "",
+      "source_material": "https://www.investopedia.com/terms/f/financialinstrument.asp https://www.r",
+      "source_type": "E\nM",
+      "test_series_reference": "",
+      "id": "ab9c2921-e41c-46fd-89a1-5c7663caedbb",
+      "extraction_order": 27,
+      "chunk_number": 19,
+      "question_nature": {},
+      "examiner_thought_process": {},
+      "options_analysis": {},
+      "learning_insights": {},
+      "difficulty_level": "",
+      "time_management": "",
+      "confidence_calibration": ""
+    },
+    {
+      "question_number": "28",
+      "section": "Basic Science",
+      "question_text": "Which one of the following is synthesised in human body that dilates blood vessels and increases blood flow?",
+      "options": {
+        "A": "Nitric oxide",
+        "B": "Nitrous oxide",
+        "C": "Nitrogen dioxide",
+        "D": "Nitrogen pentoxide"
+      },
+      "correct_answer": "A",
+      "explanation": "Nitric oxide (NO) is produced naturally by the human body and is one of the most important molecules for blood vessel health. It's a vasodilator, meaning it relaxes the inner muscles of your blood vessels, causing the vessels to widen. In this way, nitric oxide increases blood flow and lowers blood pressure. Hence option (a) is the correct answer.",
+      "motivation": "Although the source we have shared is a newspaper. This theme is static in nature but owing to lifestyle related disease, especially cardiovascular diseases, newspapers have covered that.",
+      "source_material": "https://indianexpress.com/article/lifestyle/health/boost-blood-flow-6-nutrient-rich-foods-beetroots-leafy-greens-onions-garlic8677470/",
+      "source_type": "E",
+      "test_series_reference": "N",
+      "id": "a4741154-d26f-4360-9601-398a4086f69c",
+      "extraction_order": 28,
+      "chunk_number": 21,
+      "question_nature": {
+        "primary_type": "Factual",
+        "secondary_type": "Memory-based",
+        "difficulty_reason": "This question is considered easy as it tests basic knowledge of human physiology, specifically the role of nitric oxide in blood vessel dilation, which is a fundamental concept in biology and health sciences.",
+        "knowledge_requirement": "Static knowledge related to human physiology and biochemistry."
+      },
+      "examiner_thought_process": {
+        "testing_objective": "The examiner aims to assess the candidate's understanding of basic biological processes and the role of specific molecules in human health.",
+        "question_design_strategy": "The question is designed to evaluate recall of factual information regarding the synthesis and function of nitric oxide in the human body.",
+        "trap_setting": "The options include similar-sounding compounds (nitrous oxide, nitrogen dioxide, nitrogen pentoxide) that may confuse students who are not well-versed in chemistry, leading them to select an incorrect answer.",
+        "discrimination_potential": "This question has good discrimination potential as it can effectively differentiate between candidates who have a solid understanding of basic science and those who do not."
+      },
+      "options_analysis": {
+        "A": {
+          "type": "correct_answer",
+          "reason": "Nitric oxide is indeed synthesized in the human body and is known for its role as a vasodilator, which increases blood flow.",
+          "trap": "",
+          "elimination_strategy": ""
+        },
+        "B": {
+          "type": "plausible_distractor",
+          "reason": "Nitrous oxide is known as laughing gas and is used in anesthesia, but it does not play a role in blood vessel dilation in the human body.",
+          "trap": "Students may confuse nitrous oxide with nitric oxide due to the similarity in names.",
+          "elimination_strategy": "Recall that nitrous oxide is primarily used in medical settings for anesthesia, not for physiological functions like vasodilation."
+        },
+        "C": {
+          "type": "silly_mistake",
+          "reason": "Nitrogen dioxide is a toxic gas and does not have any physiological role in the human body related to blood flow.",
+          "trap": "Students may mistakenly associate nitrogen dioxide with other nitrogen compounds without understanding its harmful effects.",
+          "elimination_strategy": "Recognize that nitrogen dioxide is an environmental pollutant and not a naturally occurring molecule in the body."
+        },
+        "D": {
+          "type": "silly_mistake",
+          "reason": "Nitrogen pentoxide is a chemical compound that does not have any relevance to human physiology or blood flow.",
+          "trap": "Students may confuse it with other nitrogen compounds without knowing its chemical properties.",
+          "elimination_strategy": "Identify that nitrogen pentoxide is not biologically relevant and is not produced in the human body."
+        }
+      },
+      "learning_insights": {
+        "key_concepts": [
+          "Role of nitric oxide in vasodilation",
+          "Basic human physiology related to blood circulation",
+          "Difference between various nitrogen oxides"
+        ],
+        "common_mistakes": [
+          "Confusing nitric oxide with other nitrogen oxides due to similar names",
+          "Overlooking the physiological relevance of compounds"
+        ],
+        "elimination_technique": "1. Identify the correct function of nitric oxide. 2. Recall the uses and effects of other nitrogen compounds. 3. Eliminate options based on their relevance to human physiology.",
+        "memory_hooks": [
+          "Mnemonic: 'Naughty Nitric' for Nitric Oxide's role in 'Nurturing blood flow'"
+        ],
+        "related_topics": [
+          "Human circulatory system",
+          "Basic biochemistry of gases in the body",
+          "Pharmacology of vasodilators"
+        ],
+        "current_affairs_connection": "While not directly related to current affairs, understanding nitric oxide's role can connect to discussions on cardiovascular health and treatments in medical news."
+      },
+      "difficulty_level": "Easy",
+      "time_management": "Students should spend about 30 seconds to 1 minute on this question, allowing time for recall and elimination of incorrect options.",
+      "confidence_calibration": "A well-prepared student should feel very confident in answering this question correctly, as it tests fundamental knowledge."
+    },
+    {
+      "question_number": "29",
+      "section": "Environment",
+      "question_text": "Which one of the following is the exhaust pipe emission from Fuel Cell Electric Vehicles, powered by hydrogen?",
+      "options": {
+        "A": "Hydrogen peroxide",
+        "B": "Hydronium",
+        "C": "Oxygen",
+        "D": "Water vapour"
+      },
+      "correct_answer": "D",
+      "explanation": "Fuel cell electric vehicles (FCEVs) are powered by hydrogen. They are more efficient than conventional internal combustion engine vehicles and produce no harmful tailpipe emissions-they only emit water vapor and warm air. Hence option (d) is the correct answer.",
+      "motivation": "IndianOil unveils India's first green hydrogen-run bus that emits just water",
+      "source_material": "https://www.thehindu.com/news/national/indianoil-unveils-indias-first-green-hydrogen-run-bus-that-emits-just-water/article67344306.ece",
+      "source_type": "R",
+      "test_series_reference": "M",
+      "id": "475d52ca-3371-4b98-b0af-68eca2f7876a",
+      "extraction_order": 29,
+      "chunk_number": 22,
+      "question_nature": {
+        "primary_type": "Factual",
+        "secondary_type": "Memory-based",
+        "difficulty_reason": "This question is easy as it tests basic knowledge about the emissions from Fuel Cell Electric Vehicles, which is a well-established fact in environmental science.",
+        "knowledge_requirement": "Static knowledge regarding the emissions of fuel cell electric vehicles and their operational principles."
+      },
+      "examiner_thought_process": {
+        "testing_objective": "The examiner aims to assess the candidate's understanding of the environmental impact of different vehicle technologies, specifically focusing on fuel cell electric vehicles.",
+        "question_design_strategy": "The question is designed to evaluate the candidate's recall ability regarding emissions from fuel cell technology, which is a fundamental concept in environmental studies.",
+        "trap_setting": "Options A, B, and C may confuse students who are not clear about the emissions from fuel cells, as they include terms that sound plausible but are incorrect in this context.",
+        "discrimination_potential": "This question can effectively differentiate between candidates who have a solid understanding of fuel cell technology and those who do not."
+      },
+      "options_analysis": {
+        "A": {
+          "type": "plausible_distractor",
+          "reason": "Hydrogen peroxide is not a product of fuel cell emissions; it may confuse students who are aware of hydrogen's chemical properties.",
+          "trap": "Students may confuse hydrogen peroxide with water due to their chemical relation to hydrogen.",
+          "elimination_strategy": "Recognize that hydrogen peroxide is not a standard emission from fuel cells and is not produced during the reaction."
+        },
+        "B": {
+          "type": "silly_mistake",
+          "reason": "Hydronium is not an emission from fuel cells; it is a positively charged ion that does not relate to fuel cell emissions.",
+          "trap": "The term 'hydronium' may confuse students who associate it with hydrogen-related chemistry.",
+          "elimination_strategy": "Recall that hydronium is not a common product in fuel cell reactions, which primarily produce water."
+        },
+        "C": {
+          "type": "plausible_distractor",
+          "reason": "Oxygen is a byproduct of some reactions but is not emitted from fuel cells; instead, it is consumed in the reaction.",
+          "trap": "Students may mistakenly think of oxygen as a product due to its involvement in combustion processes.",
+          "elimination_strategy": "Understand that fuel cells use oxygen to convert hydrogen into water, rather than producing oxygen as an emission."
+        },
+        "D": {
+          "type": "correct_answer",
+          "reason": "Water vapor is the correct emission from fuel cell electric vehicles powered by hydrogen, as they convert hydrogen and oxygen into water.",
+          "trap": "",
+          "elimination_strategy": "Recognize that water vapor is a known and documented emission from fuel cells."
+        }
+      },
+      "learning_insights": {
+        "key_concepts": [
+          "Fuel Cell Electric Vehicles (FCEVs)",
+          "Hydrogen as a fuel source",
+          "Emissions from different vehicle technologies"
+        ],
+        "common_mistakes": [
+          "Confusing emissions from fuel cells with those from internal combustion engines",
+          "Misunderstanding the chemical processes involved in fuel cells"
+        ],
+        "elimination_technique": "1. Identify the nature of the question (emissions). 2. Recall the basic chemical reactions in fuel cells. 3. Eliminate options that do not align with the known outputs of fuel cells.",
+        "memory_hooks": [
+          "Remember that fuel cells produce 'H2O' (water) as a clean emission, which can be linked to the phrase 'Fuel cells = Clean water'."
+        ],
+        "related_topics": [
+          "Environmental impact of transportation",
+          "Renewable energy technologies",
+          "Hydrogen economy"
+        ],
+        "current_affairs_connection": "The relevance of hydrogen fuel cells is increasing with the global shift towards sustainable energy solutions and the reduction of carbon emissions."
+      },
+      "difficulty_level": "Easy",
+      "time_management": "Students should spend about 30 seconds to 1 minute on this question, as it requires quick recall of factual information.",
+      "confidence_calibration": "A well-prepared student should feel very confident in answering this question correctly, given the straightforward nature of the content."
+    },
+    {
+      "question_number": "30",
+      "section": "Economics",
+      "question_text": "With reference to the Indian economy, 'Collateral Borrowing and Lending Obligations are the instruments of:",
+      "options": {
+        "A": "Bond market",
+        "B": "Forex market",
+        "C": "Money market",
+        "D": "Stock market"
+      },
+      "correct_answer": "C",
+      "explanation": "Collateral Borrowing and Lending Obligations (CBLO) is a money market instrument that represents an obligation between a borrower and a lender. The instrument works like a bond where the lender buys the CBLO and a borrower sells the money market instrument with interest. The term, the interest rate, and the specifics of the CBLO are often all negotiable between the two parties. In India, CBLOs are operated by the Clearing Corporation of India Ltd. (CCIL) and the Reserve Bank of India (RBI). Hence option (c) is the correct answer.",
+      "motivation": "E",
+      "source_material": "https://www.investopedia.com/terms/c/cblo.asp#:",
+      "source_type": "EM",
+      "test_series_reference": "",
+      "id": "0fd86d16-e7e8-4da2-87f8-f9110b9b7790",
+      "extraction_order": 30,
+      "chunk_number": 23,
+      "question_nature": {
+        "primary_type": "Factual",
+        "secondary_type": "Memory-based",
+        "difficulty_reason": "This question is considered easy because it tests a specific fact about financial instruments in the Indian economy, which is a fundamental concept in economics.",
+        "knowledge_requirement": "Static knowledge is needed, particularly regarding financial instruments and their classifications."
+      },
+      "examiner_thought_process": {
+        "testing_objective": "The examiner is trying to assess the candidate's understanding of financial instruments and their respective markets in the Indian economy.",
+        "question_design_strategy": "The question is designed to test knowledge of specific terms and their correct associations within the context of the Indian financial system.",
+        "trap_setting": "Options A, B, and D may confuse students who have a general understanding of financial markets but lack specific knowledge about CBLOs.",
+        "discrimination_potential": "This question has good discrimination potential as it can differentiate between candidates who have a solid grasp of financial instruments and those who do not."
+      },
+      "options_analysis": {
+        "A": {
+          "type": "plausible_distractor",
+          "reason": "The bond market involves debt securities, which might seem related to CBLOs due to their nature as financial instruments.",
+          "trap": "Students might confuse the characteristics of CBLOs with bonds, leading them to select this option.",
+          "elimination_strategy": "Recognize that CBLOs are specifically categorized under money market instruments, which are distinct from bonds."
+        },
+        "B": {
+          "type": "plausible_distractor",
+          "reason": "The forex market deals with currency exchange, which might mislead students who think of borrowing and lending in a broader sense.",
+          "trap": "Students may associate borrowing and lending with forex transactions without understanding the specific context of CBLOs.",
+          "elimination_strategy": "Understand that CBLOs are not related to currency exchange but rather to short-term borrowing and lending."
+        },
+        "C": {
+          "type": "correct_answer",
+          "reason": "CBLOs are indeed money market instruments that facilitate borrowing and lending between financial institutions.",
+          "trap": "",
+          "elimination_strategy": ""
+        },
+        "D": {
+          "type": "plausible_distractor",
+          "reason": "The stock market involves equity shares, which might confuse students who think of financial instruments in general.",
+          "trap": "Students may mistakenly associate CBLOs with stock market transactions due to the general nature of financial instruments.",
+          "elimination_strategy": "Recognize that CBLOs are not equity-related but are specific to the money market."
+        }
+      },
+      "learning_insights": {
+        "key_concepts": [
+          "Collateral Borrowing and Lending Obligations (CBLO)",
+          "Money market instruments",
+          "Financial market classifications"
+        ],
+        "common_mistakes": [
+          "Confusing CBLOs with other financial instruments like bonds or stocks",
+          "Not understanding the specific market classifications"
+        ],
+        "elimination_technique": "1. Identify the characteristics of CBLOs. 2. Recall the definitions of bond, forex, money, and stock markets. 3. Eliminate options that do not match the definition of CBLOs.",
+        "memory_hooks": [
+          "CBLO - 'C' for Collateral, 'B' for Borrowing, 'L' for Lending, 'O' for Obligations - think of it as a money market tool."
+        ],
+        "related_topics": [
+          "Types of financial instruments",
+          "Role of the Reserve Bank of India in the money market",
+          "Understanding money market operations"
+        ],
+        "current_affairs_connection": "While this question is primarily static, understanding CBLOs can connect to current discussions on liquidity management and monetary policy in India."
+      },
+      "difficulty_level": "Easy",
+      "time_management": "Students should spend no more than 30 seconds on this question, given its straightforward nature.",
+      "confidence_calibration": "A well-prepared student should feel very confident about answering this question correctly."
+    }
+  ]
+}

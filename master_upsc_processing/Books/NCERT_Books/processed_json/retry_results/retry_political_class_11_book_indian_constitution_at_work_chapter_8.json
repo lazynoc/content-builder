@@ -1,0 +1,1459 @@
+[
+  {
+    "book_type": "UPSC-NCERT",
+    "subject": "Political Science",
+    "chapter_name": "Chapter 8",
+    "chapter_number": 8,
+    "page_number": 1,
+    "content": "# Chapter Eight LOCAL GOVERNMENTS \n\n\n\n**[IMAGE: A QR code image used for data representation and quick access to information.]**\n\n\n\n11102 CH08\n\n## INTRODUCTION\n\nIn a democracy, it is not sufficient to have an elected government at the centre and at the State level. It is also necessary that even at the local level, there should be an elected government to look after local affairs. In this chapter, you will study the structure of local government in our country. You will also study the importance of the local governments and ways to give them independent powers. After studying this chapter, you will know:\n\n* the importance of local government bodies;\n* the provisions made by the $73^{\\text {rd }}$ and $74^{\\text {th }}$ amendments; and\n* functions and responsibilities of the local government bodies.",
+    "source_url": null,
+    "book_name": "indian constitution at work",
+    "created_at": "2025-07-03T11:33:40.744922",
+    "section_name": "A QR code image used for data representation and quick access to information.",
+    "metadata": {
+      "file_id": "political_class_11_book_indian_constitution_at_work_chapter_8",
+      "document_type": "image",
+      "short_description": "A QR code image used for data representation and quick access to information.",
+      "summary": "This chapter discusses the significance of local governments in a democracy, their structure, the constitutional provisions from the 73rd and 74th amendments, and their functions and responsibilities in managing local affairs.",
+      "page_number": 1,
+      "subject": "Political Science",
+      "class": "11",
+      "chapter_name": "Chapter 8",
+      "chapter_number": 8,
+      "file_name": "indian constitution at work",
+      "part": "Political Science",
+      "start_page": null,
+      "end_page": null,
+      "image_id": "img-0.jpeg",
+      "image_bbox": {
+        "top_left_x": 291,
+        "top_left_y": 773,
+        "bottom_right_x": 506,
+        "bottom_right_y": 988
+      },
+      "dimensions": {
+        "dpi": 200,
+        "height": 1900,
+        "width": 1350
+      },
+      "content_analysis": {
+        "chapter_name": null,
+        "chapter_number": null,
+        "summary": null,
+        "content_type": "text",
+        "key_topics": [],
+        "is_front_matter": true,
+        "confidence": 0.1
+      },
+      "image_count": 1,
+      "integrated_content_length": 809,
+      "topic_tags": [],
+      "key_concepts": [],
+      "keywords": [
+        "local government",
+        "democracy",
+        "73rd amendment",
+        "74th amendment",
+        "elected bodies",
+        "local affairs",
+        "functions",
+        "responsibilities"
+      ],
+      "difficulty_level": "intermediate",
+      "learning_objectives": [],
+      "related_chapters": [],
+      "prerequisites": [],
+      "common_mistakes": []
+    }
+  },
+  {
+    "book_type": "UPSC-NCERT",
+    "subject": "Political Science",
+    "chapter_name": "Chapter 8",
+    "chapter_number": 8,
+    "page_number": 2,
+    "content": "## Why Local Governments?\n\nGeeta Rathore belongs to Jamonia Talab Gram Panchayat, Sehore district, Madhya Pradesh. She was elected Sarpanch in 1995 from a reserved seat; but in 2000, the village people rewarded her for her admirable work by electing her again - this time from a non-reserved seat. From a housewife, Geeta has grown into a leader displaying political farsightedness - she has harnessed the collective energy of her Panchayat to renovate water tanks, build a school building, construct village roads, fight against domestic violence and atrocities against women, create environmental awareness, and encourage afforestation and water management in her village. -Panchayati Raj Update, Vol. XI, No. 3, February 2004.\n\nThere is another story of yet another woman achiever. She was the President (Sarpanch) of a Gram Panchayat of Vengaivasal village in Tamil Nadu. In 1997, the Tamil Nadu government allotted two hectares of land to 71 government employees. This piece of land fell within the vicinity of this Gram Panchayat. On the instructions of higher authorities the District Collector of Kancheepuram directed the President of the Gram Panchayat to pass a resolution endorsing the allotment of the said land for the purpose already decided. The President and the Gram Panchayat refused to pass such an order and the Collector issued an order to acquire the land. The Gram Panchayat filed a writ petition in the Madras High Court against the Collector's action. The single judge bench of the High Court upheld the Collector's order and ruled that there was no need to take the Panchayat's consent. The Panchayat appealed to the Division bench against the single judge's order. In its order, the Division Bench reversed the order of the single judge. The judges held that the government order amounted to not only infringement of the powers of the Panchayats but a gross violation of the constitutional status of the Panchayats. - Panchayati Raj Update, Vol. XII, June 2005.\n\nBoth these stories are not isolated incidents. They are representative of a larger transformation that is taking place across India especially after constitutional status was accorded to local government institutions in 1993.\n\n\n**[IMAGE: A diagram illustrating a geographical concept.]**\n\n\n\nButaren't there cases of male members of the village panchayat harassing the woman Sarpanch in some places? Why are men not happy when women assume positions of responsibility?",
+    "source_url": null,
+    "book_name": "indian constitution at work",
+    "created_at": "2025-07-03T11:33:42.667874",
+    "section_name": "A diagram illustrating a geographical concept.",
+    "metadata": {
+      "file_id": "political_class_11_book_indian_constitution_at_work_chapter_8",
+      "document_type": "diagram",
+      "short_description": "A diagram illustrating a geographical concept.",
+      "summary": "The content highlights the empowering role of local governments in India through the stories of women leaders like Geeta Rathore and a Gram Panchayat President in Tamil Nadu, showcasing their contributions to community development and the legal challenges they face in asserting their authority against bureaucratic overreach.",
+      "page_number": 2,
+      "subject": "Political Science",
+      "class": "11",
+      "chapter_name": "Chapter 8",
+      "chapter_number": 8,
+      "file_name": "indian constitution at work",
+      "part": "Political Science",
+      "start_page": null,
+      "end_page": null,
+      "image_id": "img-1.jpeg",
+      "image_bbox": {
+        "top_left_x": 990,
+        "top_left_y": 324,
+        "bottom_right_x": 1246,
+        "bottom_right_y": 1451
+      },
+      "dimensions": {
+        "dpi": 200,
+        "height": 1900,
+        "width": 1350
+      },
+      "content_analysis": {
+        "chapter_name": null,
+        "chapter_number": null,
+        "summary": "## Why Local Governments?",
+        "content_type": "text",
+        "key_topics": [
+          "environment",
+          "forest",
+          "water",
+          "energy"
+        ],
+        "is_front_matter": false,
+        "confidence": 0.0
+      },
+      "image_count": 1,
+      "integrated_content_length": 2458,
+      "topic_tags": [
+        "environment",
+        "forest",
+        "water",
+        "energy"
+      ],
+      "key_concepts": [
+        "environment",
+        "forest",
+        "water",
+        "energy"
+      ],
+      "keywords": [
+        "local governments",
+        "women leaders",
+        "Gram Panchayat",
+        "community development",
+        "constitutional status",
+        "political empowerment",
+        "legal challenges",
+        "Panchayati Raj"
+      ],
+      "difficulty_level": "intermediate",
+      "learning_objectives": [],
+      "related_chapters": [],
+      "prerequisites": [],
+      "common_mistakes": []
+    }
+  },
+  {
+    "book_type": "UPSC-NCERT",
+    "subject": "Political Science",
+    "chapter_name": "Chapter 8",
+    "chapter_number": 178,
+    "page_number": 3,
+    "content": "\n\n**[IMAGE: An illustration of a student holding a book and pointing towards something.]**\n\n\n\nIs it possible that we only had governments at the local level and'a coordinating body at the national level? I think Mahatma Gandhi advocated some ideas along these lines.\n\n178\n\nLocal government is government at the village and district level. Local government is about government closest to the common people. Local government is about government that involves the day-to-day life and problems of ordinary citizens. Local government believes that local knowledge and local interest are essential ingredients for democratic decision making. They are also necessary for efficient and people-friendly administration. The advantage of local government is that it is so near the people. It is convenient for the people to approach the local government for solving their problems both quickly and with minimum cost. In the story of Geeta Rathore, we noticed that she was able to bring about a significant change in Jamonia Talab because of her pro-active role as Sarpanch of the Gram Panchayat. Vengaivasal village is able to still retain its land and the right to decide what to do with it because of the relentless efforts of its Gram Panchayat President and members. So, local governments can be very effective in protecting the local interests of the people.\n\nDemocracy is about meaningful participation. It is also about accountability. Strong and vibrant local governments ensure both active participation and purposeful accountability. Geeta Rathore's story is one of committed participation. Vengaivasal village Gram Panchayat's relentless efforts to secure its rights over its own land were an example of a mission to ensure accountability. It is at the level of local government that common citizens can be involved in decision making concerning their lives, their needs and above all their development.\n\nIt is necessary that in a democracy, tasks, which can be performed locally, should be left in the hands of the local people and their representatives. Common people are more familiar with their local government than with the government at the State or national level. They are also more concerned with what local government does or has failed to do as it has a direct bearing and impact on",
+    "source_url": null,
+    "book_name": "indian constitution at work",
+    "created_at": "2025-07-03T11:33:44.587156",
+    "section_name": "An illustration of a student holding a book and pointing towards something.",
+    "metadata": {
+      "file_id": "political_class_11_book_indian_constitution_at_work_chapter_8",
+      "document_type": "image",
+      "short_description": "An illustration of a student holding a book and pointing towards something.",
+      "summary": "The text emphasizes the importance of local government in fostering democracy through active citizen participation, accountability, and addressing local issues effectively, as illustrated by the examples of Geeta Rathore and Vengaivasal village.",
+      "page_number": 3,
+      "subject": "Political Science",
+      "class": "11",
+      "chapter_name": "Chapter 8",
+      "chapter_number": 178,
+      "file_name": "indian constitution at work",
+      "part": "Political Science",
+      "start_page": null,
+      "end_page": null,
+      "image_id": "img-2.jpeg",
+      "image_bbox": {
+        "top_left_x": 102,
+        "top_left_y": 942,
+        "bottom_right_x": 317,
+        "bottom_right_y": 1210
+      },
+      "dimensions": {
+        "dpi": 200,
+        "height": 1900,
+        "width": 1350
+      },
+      "content_analysis": {
+        "chapter_name": "Local Government Is Government At The Village And District Level",
+        "chapter_number": 178,
+        "summary": "![img-2.jpeg](img-2.jpeg)",
+        "content_type": "text",
+        "key_topics": [
+          "development"
+        ],
+        "is_front_matter": false,
+        "confidence": 0.5
+      },
+      "image_count": 1,
+      "integrated_content_length": 2294,
+      "topic_tags": [
+        "development"
+      ],
+      "key_concepts": [
+        "development"
+      ],
+      "keywords": [
+        "local government",
+        "democracy",
+        "citizen participation",
+        "accountability",
+        "Gram Panchayat",
+        "local interests",
+        "decision making",
+        "community development"
+      ],
+      "difficulty_level": "intermediate",
+      "learning_objectives": [],
+      "related_chapters": [],
+      "prerequisites": [],
+      "common_mistakes": []
+    }
+  },
+  {
+    "book_type": "UPSC-NCERT",
+    "subject": "Political Science",
+    "chapter_name": "Chapter 8",
+    "chapter_number": 178,
+    "page_number": 4,
+    "content": "their day-to-day life. Thus, strengthening local government is like strengthening democratic processes.\n\n# Check your progress \n\n* How does local government strengthen democracy?\n* In the example given above, what do you think the Government of Tamil Nadu should have done?\n\n\n## Growth of Local Government in India\n\nLet us now discuss how local government has grown in India and what our Constitution says about it. It is believed that self-governing village communities existed in India from the earliest times in the form of 'sabhas' (village assemblies). In the course of time, these village bodies took the shape of Panchayats (an assembly of five persons) and these Panchayats resolved issues at the village level. Their role and functions kept on changing at different points of time.\n\nIn modern times, elected local government bodies were created after 1882. Lord Rippon, who was the Viceroy of India at that time, took the initiative in creating these bodies. They were called the local boards. However, due to slow progress in this regard, the Indian National Congress urged the government to take necessary steps to make all local bodies more effective. Following the Government of India Act 1919, village panchayats were established in a number of provinces. This trend continued after the Government of India Act of 1935.\n\nDuring India's freedom movement, Mahatma Gandhi had strongly pleaded for decentralisation of economic and political power. He believed that strengthening village panchayats was a means of effective decentralisation. All development initiatives must have local involvement in\n\n\n**[IMAGE: An illustration of a person communicating or expressing surprise.]**\n\n\n\nI don't know about the past, but I suspect that a non-elected village panchayat would naturally be dominated by the village elders, the rich and men from upper strata.",
+    "source_url": null,
+    "book_name": "indian constitution at work",
+    "created_at": "2025-07-03T11:33:46.091189",
+    "section_name": "An illustration of a person communicating or expressing surprise.",
+    "metadata": {
+      "file_id": "political_class_11_book_indian_constitution_at_work_chapter_8",
+      "document_type": "image",
+      "short_description": "An illustration of a person communicating or expressing surprise.",
+      "summary": "The growth of local government in India has evolved from traditional village assemblies to modern elected bodies, emphasizing the importance of decentralization and local involvement in governance as a means to strengthen democracy.",
+      "page_number": 4,
+      "subject": "Political Science",
+      "class": "11",
+      "chapter_name": "Chapter 8",
+      "chapter_number": 178,
+      "file_name": "indian constitution at work",
+      "part": "Political Science",
+      "start_page": null,
+      "end_page": null,
+      "image_id": "img-3.jpeg",
+      "image_bbox": {
+        "top_left_x": 1054,
+        "top_left_y": 1235,
+        "bottom_right_x": 1240,
+        "bottom_right_y": 1480
+      },
+      "dimensions": {
+        "dpi": 200,
+        "height": 1900,
+        "width": 1350
+      },
+      "content_analysis": {
+        "chapter_name": null,
+        "chapter_number": null,
+        "summary": "their day-to-day life. Thus, strengthening local government is like strengthening democratic processes.",
+        "content_type": "text",
+        "key_topics": [
+          "development",
+          "natural"
+        ],
+        "is_front_matter": false,
+        "confidence": 0.0
+      },
+      "image_count": 1,
+      "integrated_content_length": 1861,
+      "topic_tags": [
+        "development",
+        "natural"
+      ],
+      "key_concepts": [
+        "development",
+        "natural"
+      ],
+      "keywords": [
+        "local government",
+        "democracy",
+        "Panchayats",
+        "decentralization",
+        "Mahatma Gandhi",
+        "village assemblies",
+        "Government of India Act",
+        "self-governing communities"
+      ],
+      "difficulty_level": "intermediate",
+      "learning_objectives": [],
+      "related_chapters": [],
+      "prerequisites": [],
+      "common_mistakes": []
+    }
+  },
+  {
+    "book_type": "UPSC-NCERT",
+    "subject": "Political Science",
+    "chapter_name": "Chapter 8",
+    "chapter_number": 2,
+    "page_number": 5,
+    "content": "order to be successful. Panchayats therefore were looked upon as instruments of decentralisation and participatory democracy. Our national movement was concerned about the enormous concentration of powers in the hands of the Governor General sitting at Delhi. Therefore, for our leaders, independence meant an assurance that there will be decentralisation of decision making, executive and administrative powers.\n\nThe independence of India should mean the independence of the whole of India...Independence must begin at the bottom. Thus every village will be a republic... It follows therefore that every village has to be self-sustained and capable of managing its affairs. In this structure composed of innumerable villages, there will be everwidening, ever-ascending circles. Life will be a pyramid with the apex sustained by the bottom - Mahatma Gandhi\n\nWhen the Constitution was prepared, the subject of local government was assigned to the States. It was also mentioned in the Directive Principles as one of the policy directives to all governments in the country. As you have read in Chapter 2, being a part of the Directive Principles of State Policy, this provision of the Constitution was non-justiciable and primarily advisory in its nature.\n\nIt is felt that the subject of local government including panchayats did not receive adequate importance in the Constitution. Do you know why this happened? A few reasons can be advanced here. Firstly, the turmoil due to the Partition resulted in a strong unitary inclination in the Constitution. Nehru himself looked upon extreme localism as a threat to unity and integration of the nation. Secondly, there was a powerful voice in the Constituent Assembly led by Dr. B.R. Ambedkar which felt that the faction and caste-ridden nature of rural society would defeat the noble purpose of local government at the rural level.\n\nHowever, nobody denied the importance of people's participation in development planning. Many members of the Constituent Assembly wanted Village Panchayats to be the basis of democracy",
+    "source_url": null,
+    "book_name": "indian constitution at work",
+    "created_at": "2025-07-03T11:33:48.072129",
+    "section_name": "Development content in Chapter 8",
+    "metadata": {
+      "file_id": "political_class_11_book_indian_constitution_at_work_chapter_8",
+      "document_type": "image",
+      "short_description": "Development content in Chapter 8",
+      "summary": "The content discusses the significance of Panchayati Raj as a means of decentralization and participatory democracy in India, highlighting the historical context of local governance, the influence of leaders like Mahatma Gandhi, and the challenges faced during the Constitution's formation regarding local self-governance.",
+      "page_number": 5,
+      "subject": "Political Science",
+      "class": "11",
+      "chapter_name": "Chapter 8",
+      "chapter_number": 2,
+      "file_name": "indian constitution at work",
+      "part": "Political Science",
+      "start_page": null,
+      "end_page": null,
+      "image_id": null,
+      "image_bbox": {
+        "top_left_x": 0,
+        "top_left_y": 0,
+        "bottom_right_x": 0,
+        "bottom_right_y": 0
+      },
+      "dimensions": {
+        "dpi": 200,
+        "height": 1900,
+        "width": 1350
+      },
+      "content_analysis": {
+        "chapter_name": ", Being A Part Of The Directive Principles Of State Policy, This Provision Of The Constitution Was N",
+        "chapter_number": 2,
+        "summary": "order to be successful. Panchayats therefore were looked upon as instruments of decentralisation and participatory democracy. Our national movement was concerned about the enormous concentration of po...",
+        "content_type": "text",
+        "key_topics": [
+          "development"
+        ],
+        "is_front_matter": false,
+        "confidence": 0.5
+      },
+      "image_count": 0,
+      "integrated_content_length": 2061,
+      "topic_tags": [
+        "development"
+      ],
+      "key_concepts": [
+        "development"
+      ],
+      "keywords": [
+        "Panchayati Raj",
+        "decentralization",
+        "participatory democracy",
+        "Mahatma Gandhi",
+        "Directive Principles",
+        "local government",
+        "Constituent Assembly",
+        "rural society"
+      ],
+      "difficulty_level": "intermediate",
+      "learning_objectives": [],
+      "related_chapters": [],
+      "prerequisites": [],
+      "common_mistakes": []
+    }
+  },
+  {
+    "book_type": "UPSC-NCERT",
+    "subject": "Political Science",
+    "chapter_name": "Chapter 8",
+    "chapter_number": 2,
+    "page_number": 6,
+    "content": "in India but they were concerned about factionalism and many other ills present in the villages.\n\"... in the interests of democracy, the villages maybe trained in the art of self-government, even autonomy... We must be able to reform the villages and introduce democratic principles of government there...\"\n\nAnanthasayanam Ayyangar, CAD, Vol. VII, p. 428, 17 November 1948\n\n# Local Governments in Independent India \n\nLocal governments got a fillip after the $73^{\\text {rd }}$ and $74^{\\text {th }}$ Constitution Amendment Acts. But even before that, some efforts in the direction of developing local government bodies had already taken place. First in the line was the Community Development Programme in 1952, which sought to promote people's participation in local development in a range of activities. In this background, a three-tier Panchayati Raj system of local government was recommended for the rural areas. Some States (like Gujarat, Maharashtra) adopted the system of elected local bodies around 1960. But in many States those local bodies did not have enough powers and functions to look after the local development. They were very much dependent on the State and central governments for financial assistance. Many States did not think it necessary to establish elected local bodies. In many instances, local bodies were dissolved and the local government was handed over to government officers. Many States had indirect elections to most local bodies. In many States, elections to the local bodies were postponed from time to time.\n\n\n**[IMAGE: A cartoon image of a student carrying a large pencil.]**\n\n\n\nWhy are people afraid of factionalism at the village level when all the political parties and organisations or even my class has factions? Are groups and factions always so bad?",
+    "source_url": null,
+    "book_name": "indian constitution at work",
+    "created_at": "2025-07-03T11:33:49.859002",
+    "section_name": "A cartoon image of a student carrying a large pencil.",
+    "metadata": {
+      "file_id": "political_class_11_book_indian_constitution_at_work_chapter_8",
+      "document_type": "image",
+      "short_description": "A cartoon image of a student carrying a large pencil.",
+      "summary": "The development of local governments in India, particularly after the 73rd and 74th Constitutional Amendments, aimed to enhance democratic principles in rural areas through a three-tier Panchayati Raj system, although challenges like factionalism and insufficient powers for local bodies persisted.",
+      "page_number": 6,
+      "subject": "Political Science",
+      "class": "11",
+      "chapter_name": "Chapter 8",
+      "chapter_number": 2,
+      "file_name": "indian constitution at work",
+      "part": "Political Science",
+      "start_page": null,
+      "end_page": null,
+      "image_id": "img-4.jpeg",
+      "image_bbox": {
+        "top_left_x": 1054,
+        "top_left_y": 1200,
+        "bottom_right_x": 1252,
+        "bottom_right_y": 1483
+      },
+      "dimensions": {
+        "dpi": 200,
+        "height": 1900,
+        "width": 1350
+      },
+      "content_analysis": {
+        "chapter_name": null,
+        "chapter_number": null,
+        "summary": "in India but they were concerned about factionalism and many other ills present in the villages.",
+        "content_type": "text",
+        "key_topics": [
+          "development"
+        ],
+        "is_front_matter": false,
+        "confidence": 0.0
+      },
+      "image_count": 1,
+      "integrated_content_length": 1794,
+      "topic_tags": [
+        "development"
+      ],
+      "key_concepts": [
+        "development"
+      ],
+      "keywords": [
+        "local government",
+        "Panchayati Raj",
+        "democracy",
+        "community development",
+        "73rd Amendment",
+        "74th Amendment",
+        "factionalism",
+        "rural development"
+      ],
+      "difficulty_level": "intermediate",
+      "learning_objectives": [],
+      "related_chapters": [],
+      "prerequisites": [],
+      "common_mistakes": []
+    }
+  },
+  {
+    "book_type": "UPSC-NCERT",
+    "subject": "Political Science",
+    "chapter_name": "Chapter 8",
+    "chapter_number": 2,
+    "page_number": 7,
+    "content": "After 1987, a thorough review of the functioning of local government institutions was initiated. In 1989 the P.K.Thungon Committee recommended constitutional recognition for the local government bodies. A constitutional amendment to provide for periodic elections to local government institutions, and enlistment of appropriate functions to them, along with funds, was recommended.\n\n# Check your progress \n\n* Both Nehru and Dr. Ambedkar were not very enthusiastic about local government bodies. Did they have similar objections to local governments?\n* What was the constitutional provision about local governments before 1992?\n* Which were the States that had established local government during the 1960s and 1970s?\n\n\n## $73^{\\text {nd }}$ and $74^{\\text {th }}$ Amendments\n\nIn 1989, the central government introduced two constitutional amendments. These amendments aimed at strengthening local governments and ensuring an element of uniformity in their structure and functioning across the country.\n\nThe Constitution of Brazil has created States, Federal Districts and Municipal Councils. Each of these is assigned independent powers and jurisdiction. Just as the Republic cannot interfere in the affairs of the States (except on grounds provided by the constitution), states are prohibited from interfering in the affairs of the municipal councils. This provision protects the powers of the local government.\n\nLater in 1992, the $73^{\\text {rd }}$ and $74^{\\text {th }}$ constitutional amendments were passed by the Parliament. The $73^{\\text {rd }}$ Amendment is about rural local governments (which are also known as Panchayati Raj Institutions",
+    "source_url": null,
+    "book_name": "indian constitution at work",
+    "created_at": "2025-07-03T11:33:52.481691",
+    "section_name": "Table in Chapter 8",
+    "metadata": {
+      "file_id": "political_class_11_book_indian_constitution_at_work_chapter_8",
+      "document_type": "image",
+      "short_description": "Table in Chapter 8",
+      "summary": "The review of local government institutions post-1987 led to the P.K. Thungon Committee's recommendations for constitutional recognition and periodic elections, culminating in the 73rd and 74th Amendments in 1992, which strengthened local governance in India.",
+      "page_number": 7,
+      "subject": "Political Science",
+      "class": "11",
+      "chapter_name": "Chapter 8",
+      "chapter_number": 2,
+      "file_name": "indian constitution at work",
+      "part": "Political Science",
+      "start_page": null,
+      "end_page": null,
+      "image_id": null,
+      "image_bbox": {
+        "top_left_x": 0,
+        "top_left_y": 0,
+        "bottom_right_x": 0,
+        "bottom_right_y": 0
+      },
+      "dimensions": {
+        "dpi": 200,
+        "height": 1900,
+        "width": 1350
+      },
+      "content_analysis": {
+        "chapter_name": null,
+        "chapter_number": null,
+        "summary": "After 1987, a thorough review of the functioning of local government institutions was initiated. In 1989 the P.K.Thungon Committee recommended constitutional recognition for the local government bodie...",
+        "content_type": "table",
+        "key_topics": [],
+        "is_front_matter": false,
+        "confidence": 0.0
+      },
+      "image_count": 0,
+      "integrated_content_length": 1649,
+      "topic_tags": [],
+      "key_concepts": [],
+      "keywords": [
+        "local government",
+        "P.K. Thungon Committee",
+        "constitutional amendments",
+        "73rd Amendment",
+        "74th Amendment",
+        "Panchayati Raj",
+        "periodic elections",
+        "governance structure"
+      ],
+      "difficulty_level": "intermediate",
+      "learning_objectives": [],
+      "related_chapters": [],
+      "prerequisites": [],
+      "common_mistakes": []
+    }
+  },
+  {
+    "book_type": "UPSC-NCERT",
+    "subject": "Political Science",
+    "chapter_name": "Chapter 8",
+    "chapter_number": 2,
+    "page_number": 8,
+    "content": "or PRIs) and the $74^{\\text {th }}$ amendment made the provisions relating to urban local government (Nagarpalikas). The 73rd and $74^{\\text {th }}$ Amendments came into force in 1993.\n\nWe have noticed earlier that local government is a 'State subject'. States are free to make their own laws on this subject. But once the Constitution was amended, the States had to change their laws about local bodies in order to bring these in conformity with the amended Constitution. They were given one year's time for making necessary changes in their respective State laws in the light of these amendments.\n\n## $73^{\\text {rd }}$ Amendment\n\nLet us now examine the changes brought about by the $73^{\\text {rd }}$ amendment in Panchayati Raj institutions.\n\n## Three Tier Structure\n\nAll States now have a uniform three tier Panchayati Raj structure. At the base is the 'Gram Panchayat'. A Gram Panchayat covers a village or group of villages. The intermediary level is the Mandal (also referred to as Block or Taluka). These bodies are called Mandal or Taluka Panchayats. The intermediary level body need not be constituted in smaller States. At the apex is the Zilla Panchayat covering the entire rural area of the District.\n\nThe amendment also made a provision\n\n\n**[IMAGE: An illustration depicting environmental pollution with a person surrounded by black dots representing pollutants.]**\n\n\n\nDoes a Gram sabha mean the democratic forum of the entire village? Do Gram sabhas actually meet regularfy?\nfor the mandatory creation of the Gram Sabha. The Gram Sabha would comprise all the adult members registered as voters in the Panchayat area. Its role and functions are decided by State legislation.\n\n## Elections\n\nAll the three levels of Panchayati Raj institutions are elected directly by the people. The term of each Panchayat body is five years. If the State government dissolves the Panchayat before the end of its five year term,",
+    "source_url": null,
+    "book_name": "indian constitution at work",
+    "created_at": "2025-07-03T11:33:54.230950",
+    "section_name": "An illustration depicting environmental pollution with a person surrounded by black dots representing pollutants.",
+    "metadata": {
+      "file_id": "political_class_11_book_indian_constitution_at_work_chapter_8",
+      "document_type": "image",
+      "short_description": "An illustration depicting environmental pollution with a person surrounded by black dots representing pollutants.",
+      "summary": "The 73rd and 74th Amendments to the Indian Constitution established a framework for local self-governance through Panchayati Raj institutions and urban local bodies, mandating a three-tier structure and the creation of Gram Sabhas, with elections held every five years.",
+      "page_number": 8,
+      "subject": "Political Science",
+      "class": "11",
+      "chapter_name": "Chapter 8",
+      "chapter_number": 2,
+      "file_name": "indian constitution at work",
+      "part": "Political Science",
+      "start_page": null,
+      "end_page": null,
+      "image_id": "img-5.jpeg",
+      "image_bbox": {
+        "top_left_x": 126,
+        "top_left_y": 1227,
+        "bottom_right_x": 375,
+        "bottom_right_y": 1527
+      },
+      "dimensions": {
+        "dpi": 200,
+        "height": 1900,
+        "width": 1350
+      },
+      "content_analysis": {
+        "chapter_name": null,
+        "chapter_number": null,
+        "summary": "or PRIs) and the $74^{\\text {th }}$ amendment made the provisions relating to urban local government (Nagarpalikas). The 73rd and $74^{\\text {th }}$ Amendments came into force in 1993.",
+        "content_type": "text",
+        "key_topics": [],
+        "is_front_matter": false,
+        "confidence": 0.0
+      },
+      "image_count": 1,
+      "integrated_content_length": 1925,
+      "topic_tags": [],
+      "key_concepts": [],
+      "keywords": [
+        "73rd Amendment",
+        "74th Amendment",
+        "Panchayati Raj",
+        "Gram Panchayat",
+        "Zilla Panchayat",
+        "Gram Sabha",
+        "local government",
+        "elections"
+      ],
+      "difficulty_level": "intermediate",
+      "learning_objectives": [],
+      "related_chapters": [],
+      "prerequisites": [],
+      "common_mistakes": []
+    }
+  },
+  {
+    "book_type": "UPSC-NCERT",
+    "subject": "Political Science",
+    "chapter_name": "Chapter 8",
+    "chapter_number": 2,
+    "page_number": 9,
+    "content": "\n\n**[IMAGE: A diagram representing a wavy line and a smiling face.]**\n\n\n\nWe read in the chapter on Elections that the bill for reservations for women in the Assemblies and in the Parliament could not be passed. How come women's reservations in local bodies were accepted so easily?\nfresh elections must be held within six months of such dissolution. This is an important provision that ensures the existence of elected local bodies. Before the 73rd amendment, in many States, there used to be indirect elections to the district bodies and there was no provision for immediate elections after dissolution.\n\n## Reservations\n\nOne third of the positions in all panchayat institutions are reserved for women. Reservations for Scheduled Castes and Scheduled Tribes are also provided for at all the three levels, in proportion to their population. If the States find it necessary, they can also provide for reservations for the other backward classes (OBCs).\n\nIt is important to note that these reservations apply not merely to ordinary members in Panchayats but also to the positions of Chairpersons or 'Adhyakshas' at all the three levels. Further, reservation of one-third of the seats for women is not merely in the general category of seats but also within the seats reserved for Scheduled Castes, Scheduled Tribes and backward castes. This means that a seat may be reserved simultaneously for a woman candidate and one belonging to the Scheduled Castes or Scheduled Tribes. Thus, a Sarpanch would have to be a Dalit woman or an Adivasi woman.\n\n## Transfer of Subjects\n\nTwenty-nine subjects, which were earlier in the State list of subjects, are identified and listed in the Eleventh Schedule of the Constitution. These subjects are to be transferred to the Panchayati Raj institutions. These subjects were mostly linked to development and welfare functions at the local level. The actual transfer of these functions depends upon the State legislation. Each State decides how many of these twenty-nine subjects would be transferred to the local bodies.",
+    "source_url": null,
+    "book_name": "indian constitution at work",
+    "created_at": "2025-07-03T11:33:55.712332",
+    "section_name": "A diagram representing a wavy line and a smiling face.",
+    "metadata": {
+      "file_id": "political_class_11_book_indian_constitution_at_work_chapter_8",
+      "document_type": "diagram",
+      "short_description": "A diagram representing a wavy line and a smiling face.",
+      "summary": "The content discusses the provisions for women's reservations in local bodies following the 73rd amendment, highlighting the reservation of one-third of seats for women and the transfer of specific subjects to Panchayati Raj institutions for local governance.",
+      "page_number": 9,
+      "subject": "Political Science",
+      "class": "11",
+      "chapter_name": "Chapter 8",
+      "chapter_number": 2,
+      "file_name": "indian constitution at work",
+      "part": "Political Science",
+      "start_page": null,
+      "end_page": null,
+      "image_id": "img-6.jpeg",
+      "image_bbox": {
+        "top_left_x": 103,
+        "top_left_y": 0,
+        "bottom_right_x": 359,
+        "bottom_right_y": 834
+      },
+      "dimensions": {
+        "dpi": 200,
+        "height": 1900,
+        "width": 1350
+      },
+      "content_analysis": {
+        "chapter_name": null,
+        "chapter_number": null,
+        "summary": "![img-6.jpeg](img-6.jpeg)",
+        "content_type": "table",
+        "key_topics": [
+          "development"
+        ],
+        "is_front_matter": false,
+        "confidence": 0.0
+      },
+      "image_count": 1,
+      "integrated_content_length": 2050,
+      "topic_tags": [
+        "development"
+      ],
+      "key_concepts": [
+        "development"
+      ],
+      "keywords": [
+        "women's reservations",
+        "Panchayati Raj",
+        "73rd amendment",
+        "local bodies",
+        "Scheduled Castes",
+        "Scheduled Tribes",
+        "OBCs",
+        "Eleventh Schedule"
+      ],
+      "difficulty_level": "intermediate",
+      "learning_objectives": [],
+      "related_chapters": [],
+      "prerequisites": [],
+      "common_mistakes": []
+    }
+  },
+  {
+    "book_type": "UPSC-NCERT",
+    "subject": "Political Science",
+    "chapter_name": "Chapter 8",
+    "chapter_number": 1,
+    "page_number": 10,
+    "content": "Article 243G. Powers, authority and responsibilities of Panchayats.-........., the Legislature of a State may, by law, endow the Panchayats with such powers and authority....... ...with respect to-......the matters listed in the Eleventh Schedule.\n\n# Some subjects listed in the eleventh schedule \n\n1. Agriculture, ...\n2. Minor irrigation, water management and watershed development.\n3. Small scale industries, including food processing industries.\n4. Rural housing.\n5. Drinking water.\n6. Roads, culverts,....\n7. Rural electrification....\n8. Poverty alleviation programme.\n9. Education, including primary and secondary schools.\n10. Technical training and vocational education.\n11. Adult and non-formal education.\n12. Libraries.\n13. Cultural activities.\n14. Markets and fairs.\n15. Health and sanitation, including hospitals, primary health centres and dispensaries.\n16. Family welfare.\n17. Women and child development.\n18. Social welfare, ...\n19. Welfare of the weaker sections, and in particular, of the Scheduled Castes and the Scheduled Tribes.\n20. Public distribution system.\n\n\n**[IMAGE: A cartoon image of a student thinking, likely representing the challenges and preparation involved in UPSC exams.]**\n\n\n\nWhy are subjects only from State list to be transferred? Why can't we transfer some subjects from the Union List also?",
+    "source_url": null,
+    "book_name": "indian constitution at work",
+    "created_at": "2025-07-03T11:33:57.307516",
+    "section_name": "A cartoon image of a student thinking, likely representing the challenges and preparation involved in UPSC exams.",
+    "metadata": {
+      "file_id": "political_class_11_book_indian_constitution_at_work_chapter_8",
+      "document_type": "image",
+      "short_description": "A cartoon image of a student thinking, likely representing the challenges and preparation involved in UPSC exams.",
+      "summary": "Article 243G empowers State Legislatures to assign specific responsibilities to Panchayats concerning matters listed in the Eleventh Schedule, which includes various sectors such as agriculture, education, health, and rural development.",
+      "page_number": 10,
+      "subject": "Political Science",
+      "class": "11",
+      "chapter_name": "Chapter 8",
+      "chapter_number": 1,
+      "file_name": "indian constitution at work",
+      "part": "Political Science",
+      "start_page": null,
+      "end_page": null,
+      "image_id": "img-7.jpeg",
+      "image_bbox": {
+        "top_left_x": 1026,
+        "top_left_y": 1303,
+        "bottom_right_x": 1254,
+        "bottom_right_y": 1512
+      },
+      "dimensions": {
+        "dpi": 200,
+        "height": 1900,
+        "width": 1350
+      },
+      "content_analysis": {
+        "chapter_name": "Agriculture,",
+        "chapter_number": 1,
+        "summary": "Article 243G. Powers, authority and responsibilities of Panchayats.-........., the Legislature of a State may, by law, endow the Panchayats with such powers and authority....... ...with respect to-......",
+        "content_type": "table",
+        "key_topics": [
+          "development",
+          "water"
+        ],
+        "is_front_matter": false,
+        "confidence": 0.9
+      },
+      "image_count": 1,
+      "integrated_content_length": 1329,
+      "topic_tags": [
+        "development",
+        "water"
+      ],
+      "key_concepts": [
+        "development",
+        "water"
+      ],
+      "keywords": [
+        "Panchayats",
+        "Eleventh Schedule",
+        "State Legislature",
+        "agriculture",
+        "rural development",
+        "education",
+        "health",
+        "social welfare"
+      ],
+      "difficulty_level": "intermediate",
+      "learning_objectives": [],
+      "related_chapters": [],
+      "prerequisites": [],
+      "common_mistakes": []
+    }
+  },
+  {
+    "book_type": "UPSC-NCERT",
+    "subject": "Political Science",
+    "chapter_name": "Chapter 8",
+    "chapter_number": 186,
+    "page_number": 11,
+    "content": "\n\n**[IMAGE: An illustration of a person in a blue vest, possibly representing a guide or mentor.]**\n\n\n\nState governments themselves are poor. In the last chapter we read that they ask for money from the Central government. How can they give money to the localgovernment?\n\n186\n\nThe provisions of the $73^{\\text {rd }}$ amendment were not made applicable to the areas inhabited by the Adivasi populations in many States of India. In 1996, a separate act was passed extending the provisions of the Panchayat system to these areas. Many Adivasi communities have their traditional customs of managing common resources such as forests and small water reservoirs, etc. Therefore, the new act protects the rights of these communities to manage their resources in ways acceptable to them. For this purpose, more powers are given to the Gram Sabhas of these areas and elected village panchayats have to get the consent of the Gram Sabha in many respects. The idea behind this act is that local traditions of self government should be protected while introducing modern elected bodies. This is only consistent with the spirit of diversity and decentralisation.\n\n## State Election Commissioners\n\nThe State government is required to appoint a State Election Commissioner who would be responsible for conducting elections to the Panchayati Raj institutions. Earlier, this task was performed by the State administration which was under the control of the State government. Now, the office of the State Election Commissioner is autonomous like the Election Commissioner of India. However, the State Election Commissioner is an independent officer and is not linked to nor is this officer under the control of the Election Commission of India.\n\n## State Finance Commission\n\nThe State government is also required to appoint a State Finance Commission once in five years. This Commission would examine the financial position of the local governments in the State. It would also review the distribution of revenues between the State and local governments on the one hand and between rural and urban local governments on the other. This innovation ensures that allocation of funds to the rural local governments will not be a political matter.",
+    "source_url": null,
+    "book_name": "indian constitution at work",
+    "created_at": "2025-07-03T11:33:59.233738",
+    "section_name": "An illustration of a person in a blue vest, possibly representing a guide or mentor.",
+    "metadata": {
+      "file_id": "political_class_11_book_indian_constitution_at_work_chapter_8",
+      "document_type": "image",
+      "short_description": "An illustration of a person in a blue vest, possibly representing a guide or mentor.",
+      "summary": "The content discusses the financial challenges faced by state governments in India, the extension of Panchayat provisions to Adivasi areas, the establishment of autonomous State Election Commissioners, and the role of the State Finance Commission in reviewing local government finances and revenue distribution.",
+      "page_number": 11,
+      "subject": "Political Science",
+      "class": "11",
+      "chapter_name": "Chapter 8",
+      "chapter_number": 186,
+      "file_name": "indian constitution at work",
+      "part": "Political Science",
+      "start_page": null,
+      "end_page": null,
+      "image_id": "img-8.jpeg",
+      "image_bbox": {
+        "top_left_x": 113,
+        "top_left_y": 965,
+        "bottom_right_x": 317,
+        "bottom_right_y": 1255
+      },
+      "dimensions": {
+        "dpi": 200,
+        "height": 1900,
+        "width": 1350
+      },
+      "content_analysis": {
+        "chapter_name": "The Provisions Of The",
+        "chapter_number": 186,
+        "summary": "![img-8.jpeg](img-8.jpeg)",
+        "content_type": "table",
+        "key_topics": [
+          "resources",
+          "forest",
+          "water"
+        ],
+        "is_front_matter": false,
+        "confidence": 0.9
+      },
+      "image_count": 1,
+      "integrated_content_length": 2222,
+      "topic_tags": [
+        "resources",
+        "forest",
+        "water"
+      ],
+      "key_concepts": [
+        "resources",
+        "forest",
+        "water"
+      ],
+      "keywords": [
+        "Panchayat system",
+        "Adivasi communities",
+        "Gram Sabha",
+        "State Election Commissioner",
+        "State Finance Commission",
+        "decentralization",
+        "local governance",
+        "resource management"
+      ],
+      "difficulty_level": "intermediate",
+      "learning_objectives": [],
+      "related_chapters": [],
+      "prerequisites": [],
+      "common_mistakes": []
+    }
+  },
+  {
+    "book_type": "UPSC-NCERT",
+    "subject": "Political Science",
+    "chapter_name": "Chapter 8",
+    "chapter_number": 186,
+    "page_number": 12,
+    "content": "\n\n**[IMAGE: An image of a hand made with basic shapes.]**\n\n\n\n## Activity\n\n- Identify some of the powers that your State government has delegated to panchayats.\n\n\n## $74^{\\text {th }}$ Amendment\n\nAs we mentioned earlier, the $74^{\\text {th }}$ amendment dealt with urban local bodies or Nagarpalikas.\n\nWhat is an urban area? It is very easy to identify a big city like Mumbai or Kolkata, but it is not so easy to say this about some very small urban areas that are somewhere between a village and a town. The Census of India defines an urban area as having: (i) a minimum population of 5,000 ; (ii) at least 75 per cent of male working population engaged in non-agricultural occupations and (iii) a density of population of at least 400 persons per sq. km. As per the 2011 Census, about $31 \\%$ of India's population lives in urban areas.\n\nIn many ways the $74^{\\text {th }}$ amendment is a repetition of the $73^{\\text {rd }}$ amendment, except that it applies to urban areas. All the provisions of the $73^{\\text {rd }}$ amendment relating to direct elections, reservations, transfer of subjects, State Election Commission and State Finance Commission are incorporated in the $74^{\\text {th }}$ amendment also and thus apply to Nagarpalikas. The Constitution also mandated the transfer of a list of functions from the State government to the urban local bodies. These functions have been listed in the Twelfth Schedule of the Constitution.\n\n## Implementation of $73^{\\text {rd }}$ and $74^{\\text {th }}$ Amendments\n\nAll States have now passed a legislation to implement the provisions of the $73^{\\text {rd }}$ and $74^{\\text {th }}$ amendments. During the ten years since these amendments came into force (19942004) most States have had at least two rounds of elections to the local bodies. States like Madhya Pradesh, Rajasthan and a few others have in fact held three elections so far.\n\n\n**[IMAGE: A diagram illustrating a person sitting on a chair with a wavy line next to them.]**\n\n\n\nCan I hope that these urban local bodies will do something for better housing for the slum dwellers? Or at least provide them toilets?",
+    "source_url": null,
+    "book_name": "indian constitution at work",
+    "created_at": "2025-07-03T11:34:01.897289",
+    "section_name": "An image of a hand made with basic shapes.",
+    "metadata": {
+      "file_id": "political_class_11_book_indian_constitution_at_work_chapter_8",
+      "document_type": "image",
+      "short_description": "An image of a hand made with basic shapes.",
+      "summary": "The $74^{\\text{th}}$ Amendment of the Indian Constitution focuses on urban local bodies, defining urban areas and mandating the transfer of powers from State governments to these bodies, similar to the $73^{\\text{rd}}$ Amendment for rural governance.",
+      "page_number": 12,
+      "subject": "Political Science",
+      "class": "11",
+      "chapter_name": "Chapter 8",
+      "chapter_number": 186,
+      "file_name": "indian constitution at work",
+      "part": "Political Science",
+      "start_page": null,
+      "end_page": null,
+      "image_id": "img-9.jpeg",
+      "image_bbox": {
+        "top_left_x": 126,
+        "top_left_y": 309,
+        "bottom_right_x": 344,
+        "bottom_right_y": 492
+      },
+      "dimensions": {
+        "dpi": 200,
+        "height": 1900,
+        "width": 1350
+      },
+      "content_analysis": {
+        "chapter_name": null,
+        "chapter_number": null,
+        "summary": "![img-9.jpeg](img-9.jpeg)",
+        "content_type": "table",
+        "key_topics": [],
+        "is_front_matter": false,
+        "confidence": 0.0
+      },
+      "image_count": 2,
+      "integrated_content_length": 2124,
+      "topic_tags": [],
+      "key_concepts": [],
+      "keywords": [
+        "$74^{\\text{th}}$ Amendment",
+        "urban local bodies",
+        "Nagarpalikas",
+        "urban area definition",
+        "State government powers",
+        "Twelfth Schedule",
+        "local body elections",
+        "housing for slum dwellers."
+      ],
+      "difficulty_level": "intermediate",
+      "learning_objectives": [],
+      "related_chapters": [],
+      "prerequisites": [],
+      "common_mistakes": []
+    }
+  },
+  {
+    "book_type": "UPSC-NCERT",
+    "subject": "Political Science",
+    "chapter_name": "Chapter 8",
+    "chapter_number": 186,
+    "page_number": 13,
+    "content": "\n\n**[IMAGE: A black and white photograph of a flag with Hindi text, likely from the Indian Independence Movement.]**\n\n\n\nThis flag is a symbol of the expectations of the people about local governments. People don't want only formal laws. They want genuine implementation of those laws. Write briefly what you think about this slogan We are the government here in the village!\n\nToday there are more than 600 Zilla Panchayats, about 6,000 block or intermediary Panchayats, and 2,40,000 Gram Panchayats in rural India and over 100 city Corporations, 1400 town Municipalities and over 2000 Nagar Panchayats in urban India. More than 32 lakh members are elected to these bodies every five years. Of these, at least 13 lakhs are women. In the State Assemblies and Parliament put together we have less than 5000 elected representatives. With local bodies, the number of elected representatives has increased significantly.\n\nThe $73^{\\text {rd }}$ and $74^{\\text {th }}$ amendments have created uniformity in the structures of Panchayati Raj and Nagarpalika institutions across the country. The presence of these local institutions is by itself a significant achievement and would create an atmosphere and platform for people's participation in government.\n\nThe provision for reservation for women at the Panchayats and Nagarpalikas has ensured the presence of a significant number of women in local bodies. As this reservation is also applicable for the positions of Sarpanch and Adhyaksha, a large number of women elected representatives have come to occupy these positions. There are at least 200 women Adhyakshas in Zilla Panchayats, another 2000 women who are Presidents of the block or taluka panchayats and more than 80,000 women Sarpanchas in Gram Panchayats.",
+    "source_url": null,
+    "book_name": "indian constitution at work",
+    "created_at": "2025-07-03T11:34:03.873811",
+    "section_name": "A black and white photograph of a flag with Hindi text, likely from the Indian Independence Movement.",
+    "metadata": {
+      "file_id": "political_class_11_book_indian_constitution_at_work_chapter_8",
+      "document_type": "photo",
+      "short_description": "A black and white photograph of a flag with Hindi text, likely from the Indian Independence Movement.",
+      "summary": "The content highlights the significance of local governance in India, emphasizing the role of elected representatives in Panchayati Raj and urban local bodies, particularly the impact of the 73rd and 74th amendments in enhancing women's participation and ensuring genuine implementation of laws.",
+      "page_number": 13,
+      "subject": "Political Science",
+      "class": "11",
+      "chapter_name": "Chapter 8",
+      "chapter_number": 186,
+      "file_name": "indian constitution at work",
+      "part": "Political Science",
+      "start_page": null,
+      "end_page": null,
+      "image_id": "img-11.jpeg",
+      "image_bbox": {
+        "top_left_x": 74,
+        "top_left_y": 87,
+        "bottom_right_x": 745,
+        "bottom_right_y": 991
+      },
+      "dimensions": {
+        "dpi": 200,
+        "height": 1900,
+        "width": 1350
+      },
+      "content_analysis": {
+        "chapter_name": null,
+        "chapter_number": null,
+        "summary": "![img-11.jpeg](img-11.jpeg)",
+        "content_type": "text",
+        "key_topics": [
+          "atmosphere"
+        ],
+        "is_front_matter": false,
+        "confidence": 0.0
+      },
+      "image_count": 1,
+      "integrated_content_length": 1758,
+      "topic_tags": [
+        "atmosphere"
+      ],
+      "key_concepts": [
+        "atmosphere"
+      ],
+      "keywords": [
+        "local governance",
+        "Panchayati Raj",
+        "73rd amendment",
+        "74th amendment",
+        "women representation",
+        "elected representatives",
+        "Gram Panchayats",
+        "Zilla Panchayats"
+      ],
+      "difficulty_level": "intermediate",
+      "learning_objectives": [],
+      "related_chapters": [],
+      "prerequisites": [],
+      "common_mistakes": []
+    }
+  },
+  {
+    "book_type": "UPSC-NCERT",
+    "subject": "Political Science",
+    "chapter_name": "Chapter 8",
+    "chapter_number": 186,
+    "page_number": 14,
+    "content": "# Panchayati raj only in name in Lakshadweep: Minister\n\n## An action plan to revive the movement on the anvil\n\n### A Correspondent\n\n**MEDUMMATIST:** Unser Minister Dr. Nayakumar, Minister of Finance and Penchayati Raj Man, Shastri, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panchayati Raj, Minister of Finance, Panch",
+    "source_url": null,
+    "book_name": "indian constitution at work",
+    "created_at": "2025-07-03T11:34:05.152651",
+    "section_name": "Page 15 content in Chapter 8",
+    "metadata": {
+      "file_id": "political_class_11_book_indian_constitution_at_work_chapter_8",
+      "document_type": "photo",
+      "short_description": "Page 15 content in Chapter 8",
+      "summary": "The Minister of Finance and Panchayati Raj in Lakshadweep emphasizes the need to revitalize the Panchayati Raj system, which currently exists only nominally in the region.",
+      "page_number": 14,
+      "subject": "Political Science",
+      "class": "11",
+      "chapter_name": "Chapter 8",
+      "chapter_number": 186,
+      "file_name": "indian constitution at work",
+      "part": "Political Science",
+      "start_page": null,
+      "end_page": null,
+      "image_id": null,
+      "image_bbox": {
+        "top_left_x": 0,
+        "top_left_y": 0,
+        "bottom_right_x": 0,
+        "bottom_right_y": 0
+      },
+      "dimensions": {
+        "dpi": 200,
+        "height": 1900,
+        "width": 1350
+      },
+      "content_analysis": {
+        "chapter_name": null,
+        "chapter_number": null,
+        "summary": "# Panchayati raj only in name in Lakshadweep: Minister",
+        "content_type": "text",
+        "key_topics": [],
+        "is_front_matter": false,
+        "confidence": 0.0
+      },
+      "image_count": 0,
+      "integrated_content_length": 49468,
+      "topic_tags": [],
+      "key_concepts": [],
+      "keywords": [
+        "Panchayati Raj",
+        "Lakshadweep",
+        "Minister of Finance",
+        "revival",
+        "governance",
+        "local self-government",
+        "action plan",
+        "decentralization"
+      ],
+      "difficulty_level": "intermediate",
+      "learning_objectives": [],
+      "related_chapters": [],
+      "prerequisites": [],
+      "common_mistakes": []
+    }
+  },
+  {
+    "book_type": "UPSC-NCERT",
+    "subject": "Political Science",
+    "chapter_name": "Chapter 8",
+    "chapter_number": 186,
+    "page_number": 15,
+    "content": "We also have more than 30 women Mayors in Corporations, over 500 women Adhyakshas of Town Municipalities and nearly 650 Nagar Panchayats headed by women. Women have gained more power and confidence by asserting control over resources. Their presence in these institutions has given many women a greater understanding of the working of politics. In many cases, they have brought a new perspective and a greater sensitivity to discussions at local bodies. In many cases, women were unable to assert their presence or were mere proxies for the male members of their family who sponsored their election. Such instances, however are becoming fewer.\n\n\n**[IMAGE: A group of people gathered, possibly discussing or planning during the Indian Independence Movement.]**\n\n\n\nLook at this photograph. The local Sarkar is sitting out in the sun. Is there any other feature that strikes you?\n\nWhile reservations for Scheduled Castes and Tribes are mandated by the constitutional amendment, most States have also made a provision to reserve seats for Backward Castes. As the Indian population has 16.2 per cent Scheduled Castes and 8.2 per cent Scheduled Tribes, about 6.6 lakh elected members in the urban and local bodies hail from these two communities. This has",
+    "source_url": null,
+    "book_name": "indian constitution at work",
+    "created_at": "2025-07-03T11:34:07.037003",
+    "section_name": "A group of people gathered, possibly discussing or planning during the Indian Independence Movement.",
+    "metadata": {
+      "file_id": "political_class_11_book_indian_constitution_at_work_chapter_8",
+      "document_type": "photo",
+      "short_description": "A group of people gathered, possibly discussing or planning during the Indian Independence Movement.",
+      "summary": "The increasing representation of women in local governance, including over 30 women Mayors and numerous women leaders in municipalities, highlights their growing empowerment and influence in politics, although some still face challenges of being proxies for male relatives. Additionally, constitutional reservations for Scheduled Castes, Scheduled Tribes, and Backward Castes have led to significant representation from these communities in urban local bodies.",
+      "page_number": 15,
+      "subject": "Political Science",
+      "class": "11",
+      "chapter_name": "Chapter 8",
+      "chapter_number": 186,
+      "file_name": "indian constitution at work",
+      "part": "Political Science",
+      "start_page": null,
+      "end_page": null,
+      "image_id": "img-12.jpeg",
+      "image_bbox": {
+        "top_left_x": 279,
+        "top_left_y": 666,
+        "bottom_right_x": 1212,
+        "bottom_right_y": 1278
+      },
+      "dimensions": {
+        "dpi": 200,
+        "height": 1900,
+        "width": 1350
+      },
+      "content_analysis": {
+        "chapter_name": null,
+        "chapter_number": null,
+        "summary": "We also have more than 30 women Mayors in Corporations, over 500 women Adhyakshas of Town Municipalities and nearly 650 Nagar Panchayats headed by women. Women have gained more power and confidence by...",
+        "content_type": "diagram",
+        "key_topics": [
+          "resources"
+        ],
+        "is_front_matter": false,
+        "confidence": 0.0
+      },
+      "image_count": 1,
+      "integrated_content_length": 1249,
+      "topic_tags": [
+        "resources"
+      ],
+      "key_concepts": [
+        "resources"
+      ],
+      "keywords": [
+        "women empowerment",
+        "local governance",
+        "Mayors",
+        "Scheduled Castes",
+        "Scheduled Tribes",
+        "Backward Castes",
+        "political representation",
+        "proxies"
+      ],
+      "difficulty_level": "intermediate",
+      "learning_objectives": [],
+      "related_chapters": [],
+      "prerequisites": [],
+      "common_mistakes": []
+    }
+  },
+  {
+    "book_type": "UPSC-NCERT",
+    "subject": "Political Science",
+    "chapter_name": "Chapter 8",
+    "chapter_number": 186,
+    "page_number": 16,
+    "content": "significantly altered the social profile of local bodies. These bodies have thus become more representative of the social reality they operate within. Sometimes this leads to tensions. The dominant social groups which controlled the village earlier do not wish to give up their power. This leads to intensification of struggle for power. But tension and struggle is not always bad. Whenever there is an attempt to make democracy more meaningful and give power to those who did not enjoy it earlier, there is bound to be some conflict and tension in society.\n\nThe Constitutional amendments assigned as many as 29 subjects to the local governments. All these subjects are related to functions linked to local welfare and development needs. The experience with the functioning of local government in the past decade has shown that local governments in India enjoy limited autonomy to perform the functions assigned to them. Many States have not transferred most of the subjects to the local bodies. This means that the local bodies cannot really function in an effective manner. Therefore, the entire exercise of electing so many representatives becomes somewhat symbolic. Some people criticise the formation of the local bodies because this has not changed the way in which decisions are taken at the central and the State level. People at the local level do not enjoy much powers of choosing welfare programmes or allocation of resources.\n\nBolivia is frequently cited as one of the most successful cases of democratic decentralisation in Latin America. In 1994, the Popular Participation Law decentralised power to the local level, allowing for the popular election of mayors, dividing the country into municipalities, and crafting a system of automatic fiscal transfers to the new municipalities. Bolivia is divided into 314 municipal governments. These governments in Bolivia are headed by popularly-elected mayors (presidente municipal) and a municipal council (cabildo). Local elections occur nationwide every five years.",
+    "source_url": null,
+    "book_name": "indian constitution at work",
+    "created_at": "2025-07-03T11:34:10.400253",
+    "section_name": "Development, Resources content in Chapter 8",
+    "metadata": {
+      "file_id": "political_class_11_book_indian_constitution_at_work_chapter_8",
+      "document_type": "photo",
+      "short_description": "Development, Resources content in Chapter 8",
+      "summary": "The social profile of local bodies in India has become more representative, leading to power struggles as dominant groups resist change; however, this tension can be a necessary part of deepening democracy. Local governments face challenges due to limited autonomy and insufficient power to influence welfare programs, contrasting with successful democratic decentralization examples like Bolivia.",
+      "page_number": 16,
+      "subject": "Political Science",
+      "class": "11",
+      "chapter_name": "Chapter 8",
+      "chapter_number": 186,
+      "file_name": "indian constitution at work",
+      "part": "Political Science",
+      "start_page": null,
+      "end_page": null,
+      "image_id": null,
+      "image_bbox": {
+        "top_left_x": 0,
+        "top_left_y": 0,
+        "bottom_right_x": 0,
+        "bottom_right_y": 0
+      },
+      "dimensions": {
+        "dpi": 200,
+        "height": 1900,
+        "width": 1350
+      },
+      "content_analysis": {
+        "chapter_name": null,
+        "chapter_number": null,
+        "summary": "significantly altered the social profile of local bodies. These bodies have thus become more representative of the social reality they operate within. Sometimes this leads to tensions. The dominant so...",
+        "content_type": "text",
+        "key_topics": [
+          "development",
+          "resources"
+        ],
+        "is_front_matter": false,
+        "confidence": 0.0
+      },
+      "image_count": 0,
+      "integrated_content_length": 2024,
+      "topic_tags": [
+        "development",
+        "resources"
+      ],
+      "key_concepts": [
+        "development",
+        "resources"
+      ],
+      "keywords": [
+        "local bodies",
+        "social profile",
+        "power struggle",
+        "democracy",
+        "constitutional amendments",
+        "limited autonomy",
+        "welfare programs",
+        "Bolivia"
+      ],
+      "difficulty_level": "intermediate",
+      "learning_objectives": [],
+      "related_chapters": [],
+      "prerequisites": [],
+      "common_mistakes": []
+    }
+  },
+  {
+    "book_type": "UPSC-NCERT",
+    "subject": "Political Science",
+    "chapter_name": "Chapter 8",
+    "chapter_number": 186,
+    "page_number": 17,
+    "content": "Bolivian local governments have been entrusted with building local health and education facilities, as well as maintenance of this infrastructure. In Bolivia, 20\\% of nationwide tax collections are distributed among municipalities on a per capita basis. While these municipalities may levy taxes on motor vehicles, urban property, and large agricultural properties, fiscal transfers provide the bulk of the operating budget for these units.\n\nLocal bodies have very little funds of their own. The dependence of local bodies on the State and central governments for financial support has greatly eroded their capacity to operate effectively. While rural local bodies raise $0.24 \\%$ of the total revenues collected, they account for $4 \\%$ of the total expenditure made by the government. So they earn much less than they spend. That makes them dependent on those who give them grants.\n\n# Conclusion \n\nThis experience suggests that local governments continue to be agencies implementing the welfare and development schemes of the central and State government. Giving more power to local government means that we should be prepared for real decentralisation of power. Ultimately, democracy means that power should be shared by the people; people in the villages and urban localities must have the power to decide what policies and programmes they want to adopt. As you have studied earlier, democracy means decentralisation of power and giving more and more power to the people. The laws about local governments are an important step in the direction of democratisation. But the true test of democracy is not merely in the legal provisions but in the practice of those provisions.",
+    "source_url": null,
+    "book_name": "indian constitution at work",
+    "created_at": "2025-07-03T11:34:12.110081",
+    "section_name": "Development content in Chapter 8",
+    "metadata": {
+      "file_id": "political_class_11_book_indian_constitution_at_work_chapter_8",
+      "document_type": "photo",
+      "short_description": "Development content in Chapter 8",
+      "summary": "Local governments in Bolivia are primarily responsible for health and education infrastructure but rely heavily on state and central government funding, highlighting the need for genuine decentralization and empowerment of local bodies to enhance democratic practices.",
+      "page_number": 17,
+      "subject": "Political Science",
+      "class": "11",
+      "chapter_name": "Chapter 8",
+      "chapter_number": 186,
+      "file_name": "indian constitution at work",
+      "part": "Political Science",
+      "start_page": null,
+      "end_page": null,
+      "image_id": null,
+      "image_bbox": {
+        "top_left_x": 0,
+        "top_left_y": 0,
+        "bottom_right_x": 0,
+        "bottom_right_y": 0
+      },
+      "dimensions": {
+        "dpi": 200,
+        "height": 1900,
+        "width": 1350
+      },
+      "content_analysis": {
+        "chapter_name": null,
+        "chapter_number": null,
+        "summary": "Bolivian local governments have been entrusted with building local health and education facilities, as well as maintenance of this infrastructure. In Bolivia, 20\\% of nationwide tax collections are di...",
+        "content_type": "text",
+        "key_topics": [
+          "development"
+        ],
+        "is_front_matter": false,
+        "confidence": 0.0
+      },
+      "image_count": 0,
+      "integrated_content_length": 1677,
+      "topic_tags": [
+        "development"
+      ],
+      "key_concepts": [
+        "development"
+      ],
+      "keywords": [
+        "Bolivia",
+        "local governments",
+        "decentralization",
+        "fiscal transfers",
+        "infrastructure",
+        "democracy",
+        "financial dependence",
+        "welfare schemes"
+      ],
+      "difficulty_level": "intermediate",
+      "learning_objectives": [],
+      "related_chapters": [],
+      "prerequisites": [],
+      "common_mistakes": []
+    }
+  },
+  {
+    "book_type": "UPSC-NCERT",
+    "subject": "Political Science",
+    "chapter_name": "Chapter 8",
+    "chapter_number": 1,
+    "page_number": 18,
+    "content": "# Exercises \n\n1. Constitution of India visualised village panchayats as units of selfgovernment. Think over the situation described in the following statements and explain how do these situations strengthen or weaken the panchayats in becoming units of self-government.\na. Government of a State has allowed a big company to establish a huge steel plant. Many villages would be adversely affected by the steel plant. Gram Sabha of one of the affected villages passed a resolution that before establishing any big industries in the region, village people must be consulted and their grievances should be redressed.\nb. The government has decided that $20 \\%$ of all its expenditure would be done through the panchayats.\nc. A village panchayat kept on demanding funds for a building for village school, the government officials turned down their proposal saying that funds are allocated for certain other schemes and cannot be spent otherwise.\nd. The government divided a village Dungarpur into two and made a part of village Jamuna and Sohana. Now village Dungarpur has ceased to exist in government's books.\ne. A village panchayat observed that water sources of their region are depleting fast. They decided to mobilise village youth to do some voluntary work and revive the old village ponds and wells.\n2. Suppose you are entrusted to evolve a local government plan of a State, what powers would you endow to the village panchayats to function as units of self-government? Mention any five powers and the justification in two lines for each of them for giving those powers.\n3. What are the provisions for the reservations for the socially disadvantaged groups as per the $73^{\\text {rd }}$ amendment? Explain how these provisions have changed the profile of the leadership at the village level.\n4. What were the main differences between the local governments before 73 rd amendment and after that amendment?\n5. Read the following conversation. Write in two hundred words your opinion about the issues raised in this conversation.",
+    "source_url": null,
+    "book_name": "indian constitution at work",
+    "created_at": "2025-07-03T11:34:13.884305",
+    "section_name": "Water content in Chapter 8",
+    "metadata": {
+      "file_id": "political_class_11_book_indian_constitution_at_work_chapter_8",
+      "document_type": "photo",
+      "short_description": "Water content in Chapter 8",
+      "summary": "The content discusses the role of village panchayats in India as units of self-government, examining various scenarios that impact their effectiveness and autonomy, while also addressing the provisions of the 73rd amendment regarding reservations for socially disadvantaged groups and the evolution of local governance.",
+      "page_number": 18,
+      "subject": "Political Science",
+      "class": "11",
+      "chapter_name": "Chapter 8",
+      "chapter_number": 1,
+      "file_name": "indian constitution at work",
+      "part": "Political Science",
+      "start_page": null,
+      "end_page": null,
+      "image_id": null,
+      "image_bbox": {
+        "top_left_x": 0,
+        "top_left_y": 0,
+        "bottom_right_x": 0,
+        "bottom_right_y": 0
+      },
+      "dimensions": {
+        "dpi": 200,
+        "height": 1900,
+        "width": 1350
+      },
+      "content_analysis": {
+        "chapter_name": "Constitution Of India Visualised Village Panchayats As Units Of Selfgovernment",
+        "chapter_number": 1,
+        "summary": "1. Constitution of India visualised village panchayats as units of selfgovernment. Think over the situation described in the following statements and explain how do these situations strengthen or weak...",
+        "content_type": "text",
+        "key_topics": [
+          "water"
+        ],
+        "is_front_matter": false,
+        "confidence": 0.5
+      },
+      "image_count": 0,
+      "integrated_content_length": 2028,
+      "topic_tags": [
+        "water"
+      ],
+      "key_concepts": [
+        "water"
+      ],
+      "keywords": [
+        "village panchayats",
+        "self-government",
+        "73rd amendment",
+        "local governance",
+        "reservations",
+        "leadership",
+        "community involvement",
+        "government powers"
+      ],
+      "difficulty_level": "intermediate",
+      "learning_objectives": [],
+      "related_chapters": [],
+      "prerequisites": [],
+      "common_mistakes": []
+    }
+  },
+  {
+    "book_type": "UPSC-NCERT",
+    "subject": "Political Science",
+    "chapter_name": "Chapter 8",
+    "chapter_number": 6,
+    "page_number": 19,
+    "content": "Alok: Our Constitution guarantees equality between men and women. Reservations in local bodies for women ensure their equal share in power.\n\nNeha: But it is not enough that women should be in positions of power. It is necessary that the budget of local bodies should have separate provision for women.\n\nJayesh: I don't like this reservations business. A local body must take care of all people in the village and that would automatically take care of women and their interests.\n6. Read the provisions of the $73^{\\text {rd }}$ Amendment. Which of the following concerns does this amendment address?\na. Fear of replacement makes representatives accountable to the people.\nb. The dominant castes and feudal landlords dominate the local bodies.\nc. Rural illiteracy is very high. Illiterate people cannot take decisions about the development of the village.\nd. To be effective the village panchayats need resources and powers to make plans for the village development.\n7. The following are different justifications given in favour of local government. Give them ranking and explain why you attach greater significance to a particular rationale than the others. According to you, on which of these rationales the decision of the Gram panchayat of Vengaivasal village was based? How?\na. Government can complete the projects with lesser cost with the involvement of the local community.\nb. The development plans made by the local people will have greater acceptability than those made by the government officers.\nc. People know their area, needs problems and priorities. By collective participation they should discuss and take decisions about their life.\nd. It is difficult for the common people to contact their representatives of the State or the national legislature.\n8. Which of the following according to you involve decentralisation? Why are other options not sufficient for decentralisation?\na. To hold election of the Gram Panchayat.\nb. Decision by the villagers themselves about what policies and programmes are useful for the village.",
+    "source_url": null,
+    "book_name": "indian constitution at work",
+    "created_at": "2025-07-03T11:34:15.418391",
+    "section_name": "Table in Chapter 8",
+    "metadata": {
+      "file_id": "political_class_11_book_indian_constitution_at_work_chapter_8",
+      "document_type": "photo",
+      "short_description": "Table in Chapter 8",
+      "summary": "The discussion emphasizes the importance of women's representation in local governance, the need for budget allocations specifically for women's needs, and the broader implications of the 73rd Amendment in empowering local bodies and ensuring accountability.",
+      "page_number": 19,
+      "subject": "Political Science",
+      "class": "11",
+      "chapter_name": "Chapter 8",
+      "chapter_number": 6,
+      "file_name": "indian constitution at work",
+      "part": "Political Science",
+      "start_page": null,
+      "end_page": null,
+      "image_id": null,
+      "image_bbox": {
+        "top_left_x": 0,
+        "top_left_y": 0,
+        "bottom_right_x": 0,
+        "bottom_right_y": 0
+      },
+      "dimensions": {
+        "dpi": 200,
+        "height": 1900,
+        "width": 1350
+      },
+      "content_analysis": {
+        "chapter_name": "Read The Provisions Of The $73^{\\Text {Rd }}$ Amendment",
+        "chapter_number": 6,
+        "summary": "Alok: Our Constitution guarantees equality between men and women. Reservations in local bodies for women ensure their equal share in power.",
+        "content_type": "table",
+        "key_topics": [
+          "development",
+          "resources"
+        ],
+        "is_front_matter": false,
+        "confidence": 0.5
+      },
+      "image_count": 0,
+      "integrated_content_length": 2038,
+      "topic_tags": [
+        "development",
+        "resources"
+      ],
+      "key_concepts": [
+        "development",
+        "resources"
+      ],
+      "keywords": [
+        "Constitution",
+        "equality",
+        "women representation",
+        "local governance",
+        "73rd Amendment",
+        "decentralization",
+        "budget allocation",
+        "community participation"
+      ],
+      "difficulty_level": "intermediate",
+      "learning_objectives": [],
+      "related_chapters": [],
+      "prerequisites": [],
+      "common_mistakes": []
+    }
+  },
+  {
+    "book_type": "UPSC-NCERT",
+    "subject": "Political Science",
+    "chapter_name": "Chapter 8",
+    "chapter_number": 9,
+    "page_number": 20,
+    "content": "c. Power to call meeting of Gram Sabha.\nd. A Gram Panchayat receiving the report from the Block Development Officer about the progress of a project started by the State government.\n9. A student of Delhi University, Raghavendra Parpanna, wanted to study the role of decentralisation in decision making about primary education. He asked some questions to the villagers. These questions are given below. If you were among those villagers, what answer would you give to each of these questions?\n\nA meeting of the Gram Sabha is to be called to discuss what steps should be taken to ensure that every child of the village goes to the school.\na. How would you decide the suitable day for the meeting? Think who would be able to attend / not attend the meeting because of your choice.\n(i) A day specified by the BDO or the collector\n(ii) Day of the village haat\n(iii) Sunday\n(iv) Naag panchami / sankranti\nb. What is a suitable venue for the meeting? Why?\n(i) Venue suggested by the circular of the district collector.\n(ii) Religious place in the village.\n(iii) Dalit Mohalla.\n(iv) Upper caste Tola\n(v) Village school\nc. In the Gram Sabha meeting firstly a circular sent by the district collector was read. It suggested what steps should be taken to organise an education rally and what should be its route. The meeting did not discuss about the children who never come to school or about girls' education, or the condition of the school building and the timing of the school. No women teacher attended the meeting as it was held on Sunday.\n\nWhat do you think about these proceedings as an instance of people's participation?\nd. Imagine your class as the Gram Sabha. Discuss the agenda of the meeting and suggest some steps to realise the goal.",
+    "source_url": null,
+    "book_name": "indian constitution at work",
+    "created_at": "2025-07-03T11:34:17.390992",
+    "section_name": "Table in Chapter 8",
+    "metadata": {
+      "file_id": "political_class_11_book_indian_constitution_at_work_chapter_8",
+      "document_type": "photo",
+      "short_description": "Table in Chapter 8",
+      "summary": "The content discusses the role of Gram Sabha in decision-making regarding primary education, highlighting the importance of meeting logistics, participation, and inclusivity in discussions about educational initiatives in villages.",
+      "page_number": 20,
+      "subject": "Political Science",
+      "class": "11",
+      "chapter_name": "Chapter 8",
+      "chapter_number": 9,
+      "file_name": "indian constitution at work",
+      "part": "Political Science",
+      "start_page": null,
+      "end_page": null,
+      "image_id": null,
+      "image_bbox": {
+        "top_left_x": 0,
+        "top_left_y": 0,
+        "bottom_right_x": 0,
+        "bottom_right_y": 0
+      },
+      "dimensions": {
+        "dpi": 200,
+        "height": 1900,
+        "width": 1350
+      },
+      "content_analysis": {
+        "chapter_name": "A Student Of Delhi University, Raghavendra Parpanna, Wanted To Study The Role Of Decentralisation In",
+        "chapter_number": 9,
+        "summary": "c. Power to call meeting of Gram Sabha.",
+        "content_type": "table",
+        "key_topics": [
+          "development"
+        ],
+        "is_front_matter": false,
+        "confidence": 0.5
+      },
+      "image_count": 0,
+      "integrated_content_length": 1736,
+      "topic_tags": [
+        "development"
+      ],
+      "key_concepts": [
+        "development"
+      ],
+      "keywords": [
+        "Gram Sabha",
+        "decentralisation",
+        "primary education",
+        "meeting logistics",
+        "community participation",
+        "education rally",
+        "inclusivity",
+        "village governance"
+      ],
+      "difficulty_level": "intermediate",
+      "learning_objectives": [],
+      "related_chapters": [],
+      "prerequisites": [],
+      "common_mistakes": []
+    }
+  }
+]
