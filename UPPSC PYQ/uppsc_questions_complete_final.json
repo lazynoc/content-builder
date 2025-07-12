@@ -1,0 +1,2135 @@
+{
+  "metadata": {
+    "pdf_name": "UPPCS_2024_Prelims_GS1_Question_Paper_English.pdf",
+    "extraction_date": "2025-07-11T20:42:07.749501",
+    "total_questions": 151,
+    "extraction_method": "chat_completions_chunked",
+    "pages_processed": "all_39_pages",
+    "chunk_size": 5,
+    "note": "Complete UPPSC 2024 Prelims GS1 question paper extracted using Mistral chat completions",
+    "answer_key_added": true,
+    "questions_with_answers": 143,
+    "questions_without_answers": 0,
+    "missing_question_numbers": [],
+    "missing_questions_added": true,
+    "questions_added": 8,
+    "final_extraction_date": "2025-07-11T21:16:14.712938",
+    "question_86_added": "2025-07-11T22:00:00.000000"
+  },
+  "questions": [
+    {
+      "question_number": "1",
+      "question_text": "Consider the following Peshwas and arrange them in ascending chronological order:\n2. Raghunath Rao (Raghoba)\n3. Balaji Baji Rao\n4. Narayan Rao\n5. Balaji Vishwanath\n\nSelect the correct answer from the codes given below:",
+      "options": {
+        "a": "4,2,3,1",
+        "b": "3,4,1,2",
+        "c": "1,2,3,4",
+        "d": "1,3,2,4"
+      },
+      "id": "906a232c-2cd5-4ee8-b619-291cd7505412",
+      "extraction_order": 1,
+      "chunk_number": 1,
+      "correct_answer": "A"
+    },
+    {
+      "question_number": "2",
+      "question_text": "Consider the following statements with reference to early trade:\n\n1. There are references of numerous river-ports in ancient India.\n2. There were large entrepots of goods and traffic.\n\nWhich of the above statements is/are correct?",
+      "options": {
+        "a": "Both 1 and 2",
+        "b": "Neither 1 nor 2",
+        "c": "Only 1",
+        "d": "Only 2"
+      },
+      "id": "afa78641-aced-4433-9abf-830d486855bf",
+      "extraction_order": 2,
+      "chunk_number": 1,
+      "correct_answer": "B"
+    },
+    {
+      "question_number": "3",
+      "question_text": "Arrange the following Sen rulers of Bengal in ascending chronological order:\n\n1. Ballal Sen\n2. Lakshman Sen\n3. Hemant Sen\n4. Vijaya Sen\n\nSelect the correct answer from the codes given below:",
+      "options": {
+        "a": "4,3,2,1",
+        "b": "2,1,4,3",
+        "c": "1,2,3,4",
+        "d": "3,4,1,2"
+      },
+      "id": "6c03f731-a07e-4f8d-a108-5d1d697b223f",
+      "extraction_order": 3,
+      "chunk_number": 1,
+      "correct_answer": "D"
+    },
+    {
+      "question_number": "4",
+      "question_text": "Consider the following statements with reference to Bairam Khan:\n\n1. Akbar gave the title of Khan-i-Khana to Bairam Khan.\n2. This title was not given at the time of appointment of Bairam Khan as Vazir of Empire.\nWhich of the above statements is/are correct?",
+      "options": {
+        "a": "Both 1 and 2",
+        "b": "Neither 1 nor 2",
+        "c": "Only 1",
+        "d": "Only 2"
+      },
+      "id": "26e0f832-bc29-43fb-9bb6-f126d0237039",
+      "extraction_order": 4,
+      "chunk_number": 1,
+      "correct_answer": "C"
+    },
+    {
+      "question_number": "5",
+      "question_text": "Write in descending order the following States on the basis of their population as per Census, 2011:\n6. Bihar\n7. Andhra Pradesh\n8. Uttar Pradesh\n9. West Bengal\n\nChoose the correct answer with the help of the following codes:",
+      "options": {
+        "a": "3,4,1,2",
+        "b": "1,3,2,4",
+        "c": "1,3,4,2",
+        "d": "3,1,4,2"
+      },
+      "id": "11242b1c-555e-4ef7-b7df-01d0770d84a1",
+      "extraction_order": 5,
+      "chunk_number": 1,
+      "correct_answer": "D"
+    },
+    {
+      "question_number": "6",
+      "question_text": "Match List-I with List-II and choose the correct answer using the codes given below the lists:\n\nList-I List-II\nA. Human Development Report 1. International Monetary Fund\nB. World Economic Outlook\n2. United Nations Environment Programme\nC. World Investment Report\n3. United Nations Development Programme\nD. Emissions Gap Report\n4. United Nations Conference on Trade and Development\n\nCodes:",
+      "options": {
+        "a": "3, 1, 4, 2",
+        "b": "3, 4, 1, 2",
+        "c": "1, 2, 3, 4",
+        "d": "2, 3, 4, 1"
+      },
+      "id": "d50aa046-98c6-41e9-8ad3-049f119b4778",
+      "extraction_order": 6,
+      "chunk_number": 1,
+      "correct_answer": "A"
+    },
+    {
+      "question_number": "7",
+      "question_text": "Consider the following events and arrange them in correct chronological order starting from the earliest to the last activity:\n8. Pradhan Mantri Gramodaya Yojana\n9. Rural Employment Generation Programme\n10. Prime Minister Rozgar Yojana\n11. Valmiki Ambedkar Awas Yojana\n\nSelect the correct answer from the codes given below:",
+      "options": {
+        "a": "2,3,4,1",
+        "b": "4,2,1,3",
+        "c": "1,2,3,4",
+        "d": "3,2,1,4"
+      },
+      "id": "c7d81fc5-17d4-4204-afe1-3a217cccc94c",
+      "extraction_order": 7,
+      "chunk_number": 1,
+      "correct_answer": "D"
+    },
+    {
+      "question_number": "8",
+      "question_text": "The following lists I and II show the names of Economists/ Authors and their books respectively. Match List-I with List-II and choose the correct answer using the codes given below the lists:\n\n| List-I | List-II |\n| :-- | :-- |\n| (Economist/Author) | (Book) |\n\nA. Myrdal\n\n1. Economic Theory and Under-developed Regions\nB. Hirschman\n2. The Strategy of Economic Development\nC. Kaldor\n3. Strategic Factors in Economic Development\nD. Adam Smith\n4. The Wealth of Nations\n\nCodes:",
+      "options": {
+        "a": "1, 2, 3, 4",
+        "b": "2, 3, 1, 4",
+        "c": "3, 2, 1, 4",
+        "d": "2, 1, 3, 4"
+      },
+      "id": "8c141d7c-3bd1-493a-b3ad-f5523fd192a9",
+      "extraction_order": 8,
+      "chunk_number": 1,
+      "correct_answer": "A"
+    },
+    {
+      "question_number": "9",
+      "question_text": "Which of the following statements is not true about \"ecological niche\"?",
+      "options": {
+        "a": "Dominant species occupy extensive and broader ecological niche.",
+        "b": "Number of species becomes large in ecological niche of natural ecosystem, if resources are sufficient.",
+        "c": "Number of species becomes small in ecological niche, if resources are sufficient.",
+        "d": "Dominance of single species becomes minimum if the resource distribution is equitable in a habitat."
+      },
+      "id": "043fab1e-c462-4883-b9d9-657c4ee66920",
+      "extraction_order": 9,
+      "chunk_number": 1,
+      "correct_answer": "C"
+    },
+    {
+      "question_number": "10",
+      "question_text": "Match List-I with List-II and choose the correct answer using the codes given below the lists:\n\n| List-I | List-II |\n| :-- | :-- |\n| (Biosphere Reserve) | (State) |\n\nA. Simlipal\n\n1. Kerala\nB. Nokrek\n2. Odisha\nC. Agasthyamalai\n3. Assam\nD. Manas\n4. Meghalaya\n\nCodes:",
+      "options": {
+        "a": "1, 2, 4, 3",
+        "b": "3, 1, 4, 2",
+        "c": "2, 4, 3, 1",
+        "d": "2, 4, 1, 3"
+      },
+      "id": "15e03fb6-2ce1-4d19-967c-0e5d0e0edd6c",
+      "extraction_order": 10,
+      "chunk_number": 1,
+      "correct_answer": "D"
+    },
+    {
+      "question_number": "11",
+      "question_text": "Consider the following statements:\n12. Scientific investigation depends on commitment to practical ideals.\n13. Honesty is particularly important in science.\nSelect the correct answer from the codes given below:",
+      "options": {
+        "a": "Both statements 1 and 2 are correct.",
+        "b": "Both statements 1 and 2 are incorrect.",
+        "c": "Statement 1 is correct, 2 is not correct.",
+        "d": "Statement 1 is correct, 2 is unpredictable."
+      },
+      "id": "4aa413b1-09a9-4c81-8f38-929a6873eb3f",
+      "extraction_order": 11,
+      "chunk_number": 1,
+      "correct_answer": "A"
+    },
+    {
+      "question_number": "12",
+      "question_text": "Which of the following is the correct order of plant species from higher to lower order?",
+      "options": {
+        "a": "Class - Phylum - Order - Plant Kingdom",
+        "b": "Order - Class - Phylum - Plant Kingdom",
+        "c": "Class - Plant Kingdom - Phylum - Order",
+        "d": "Plant Kingdom - Phylum - Class - Order"
+      },
+      "id": "272b7d14-d8d9-49ea-9b4d-a3c585a05299",
+      "extraction_order": 12,
+      "chunk_number": 1,
+      "correct_answer": "D"
+    },
+    {
+      "question_number": "13",
+      "question_text": "Consider the following statements with reference to the Justice Party:\n\n1. The Justice Party opposed Congress by calling it a Brahmin dominated organisation.\n2. It claimed the same communal representation for nonBrahmins as the Morley-Minto reforms had given to Muslims.\nWhich of the above statements is/are correct?",
+      "options": {
+        "a": "Both 1 and 2",
+        "b": "Neither I nor 2",
+        "c": "Only 1",
+        "d": "Only 2"
+      },
+      "id": "c93ca0bb-5ed2-4e5e-bac3-e3724853e865",
+      "extraction_order": 13,
+      "chunk_number": 1,
+      "correct_answer": "A"
+    },
+    {
+      "question_number": "14",
+      "question_text": "Consider the following statements with reference to the Workers and Peasants Party:\n4. The Workers and Peasants Party was formed in 1927 and was given the form of an All India Organisation.\n5. The objective of this party was to work within the Congress so that it could be made a more revolution inclined party and an organisation of the common people.\nWhich of the above statements is/are correct?",
+      "options": {
+        "a": "Both 1 and 2",
+        "b": "Neither 1 nor 2",
+        "c": "Only 1",
+        "d": "Only 2"
+      },
+      "id": "3ec32733-27eb-40d1-9dce-b6595dddae97",
+      "extraction_order": 14,
+      "chunk_number": 1,
+      "correct_answer": "D"
+    },
+    {
+      "question_number": "15",
+      "question_text": "Consider the following events and arrange them in chronological order :\n7. East India Association\n8. National Indian Association\n9. Indian Society\n10. Indian Association\n\nSelect the correct answer from the codes given below:",
+      "options": {
+        "a": "1,2,4,3",
+        "b": "1,3,2,4",
+        "c": "2,1,4,3",
+        "d": "1,2,3,4"
+      },
+      "id": "b02e3d20-fce8-465a-b721-405ede565bff",
+      "extraction_order": 15,
+      "chunk_number": 1,
+      "correct_answer": "D"
+    },
+    {
+      "question_number": "16",
+      "question_text": "Consider the following events and arrange them in correct chronological order starting from the earliest to the last activity:\n1. Royal Indian Navy Revolt\n2. Announcement of Cabinet Mission\n3. Formation of Interim Government\n4. Arrival of a UK Parliamentary Delegation in Delhi",
+      "options": {
+        "a": "4,3,2,1",
+        "b": "4,1,2,3",
+        "c": "4,2,1,3",
+        "d": "2,4,1,3"
+      },
+      "id": "4a9654c3-443b-463f-9792-3751d3255379",
+      "extraction_order": 16,
+      "chunk_number": 2,
+      "correct_answer": "A"
+    },
+    {
+      "question_number": "17",
+      "question_text": "With reference to the Age of Consent Act, 1891 consider the following statements:\n\n1. It was Behramji Malabari, a Parsi reformer from Bombay, who advocated for this legislation.\n2. The Act was supported by the extremist wing led by Bal Gangadhar Tilak.\nWhich of the above statements is/are correct?",
+      "options": {
+        "a": "Only 2",
+        "b": "Neither 1 nor 2",
+        "c": "Only 1",
+        "d": "Both 1 and 2"
+      },
+      "id": "7b39a67c-5916-4aaf-b26f-1309e06f1b5c",
+      "extraction_order": 17,
+      "chunk_number": 2,
+      "correct_answer": "C"
+    },
+    {
+      "question_number": "18",
+      "question_text": "Consider the following events and arrange them in correct chronological order starting from the earliest to the last activity:\n17. Royal Indian Navy Revolt\n18. Announcement of Cabinet Mission\n19. Formation of Interim Government\n20. Arrival of a UK Parliamentary Delegation in Delhi",
+      "options": {
+        "a": "4,3,2,1",
+        "b": "4,1,2,3",
+        "c": "4,2,1,3",
+        "d": "2,4,1,3"
+      },
+      "correct_answer": "A",
+      "id": "5adf6c0d-2bc1-4427-a2db-c1ea70d029cd",
+      "extraction_order": 144,
+      "chunk_number": 5
+    },
+    {
+      "question_number": "19",
+      "question_text": "Which of the following reasons caused catastrophic coral bleaching and mass coral deaths in the Andaman and Nicobar Islands?",
+      "options": {
+        "a": "Increased industrial activities in the coastal regions",
+        "b": "Increase of 2°C temperature in the Indian Ocean",
+        "c": "Heavy marine pollution",
+        "d": "Decrease of temperature by 4°C in the Indian Ocean"
+      },
+      "id": "c775cad0-0589-4055-8799-f78427139bb2",
+      "extraction_order": 18,
+      "chunk_number": 2,
+      "correct_answer": "B"
+    },
+    {
+      "question_number": "20",
+      "question_text": "Consider the following statements with respect to Ashoka:\n1. The definition of Dhamma given by Ashoka is taken from 'Rahulovada-sutta'.\n2. In the 14th year of his coronation, Ashoka appointed a new type of staff, called Dhamma-mahamatras.\nWhich of the above statements is/are correct?",
+      "options": {
+        "a": "Both 1 and 2",
+        "b": "Neither 1 nor 2",
+        "c": "Only 1",
+        "d": "Only 2"
+      },
+      "id": "8f2a9d38-fbc2-43fd-94cc-54fd59e57f5c",
+      "extraction_order": 19,
+      "chunk_number": 2,
+      "correct_answer": "A"
+    },
+    {
+      "question_number": "21",
+      "question_text": "The definition of Dhamma given by Ashoka is taken from \"Rahulovada-sutta\".",
+      "options": {
+        "a": "Both 1 and 2",
+        "b": "Neither 1 nor 2",
+        "c": "Only 1",
+        "d": "Only 2"
+      },
+      "correct_answer": "C",
+      "id": "f1ca7a5e-e4eb-4c77-9042-9a50074cb9f4",
+      "extraction_order": 146,
+      "chunk_number": 6
+    },
+    {
+      "question_number": "22",
+      "question_text": "In the 14th year of his coronation, Ashoka appointed a new type of staff, called Dhamma-mahamatras.",
+      "options": {
+        "a": "Both 1 and 2",
+        "b": "Neither 1 nor 2",
+        "c": "Only 1",
+        "d": "Only 2"
+      },
+      "correct_answer": "A",
+      "id": "b58e2d34-3d78-4c82-b002-6cfd29134fe2",
+      "extraction_order": 148,
+      "chunk_number": 6
+    },
+    {
+      "question_number": "23",
+      "question_text": "Which one of the following is not correctly matched?",
+      "options": {
+        "a": "Article 153 - Office of the Governor",
+        "b": "Article 154 - Executive Authority of the Governor",
+        "c": "Article 155 - Removal of the Governor",
+        "d": "Article 156 - Term of the Governor"
+      },
+      "id": "150aacbe-b1c4-414c-b981-8e21a11cbdea",
+      "extraction_order": 20,
+      "chunk_number": 2,
+      "correct_answer": "B"
+    },
+    {
+      "question_number": "24",
+      "question_text": "Which of the following is/are stated in the Constitution of India?\n1. The President shall not be a member of either of the Houses of the Parliament.\n2. The Parliament shall consist of the President and both Houses.",
+      "options": {
+        "a": "Both 1 and 2",
+        "b": "Only 2",
+        "c": "Neither 1 nor 2",
+        "d": "Only 1"
+      },
+      "id": "be23dfb5-d99b-4652-80a1-13ba06e44379",
+      "extraction_order": 21,
+      "chunk_number": 2,
+      "correct_answer": "D"
+    },
+    {
+      "question_number": "25",
+      "question_text": "Which of the following are the functions of the Election Commissioner of India?\n\n1. Conduct of elections for the posts of the Speaker and the Deputy Speaker of the Lok Sabha and Deputy Chairman of the Rajya Sabha.\n2. Conduct of elections of the Municipal Corporations and Municipalities.\n3. Deciding on all doubts and disputes arising out of the above elections.",
+      "options": {
+        "a": "2 and 3",
+        "b": "1 and 2",
+        "c": "1 and 3",
+        "d": "None of the above"
+      },
+      "id": "d149b331-4bef-421e-bc40-f00529842b92",
+      "extraction_order": 22,
+      "chunk_number": 2,
+      "correct_answer": "C"
+    },
+    {
+      "question_number": "26",
+      "question_text": "Which one of the following is not correctly matched?",
+      "options": {
+        "a": "G.V.K. Rao Committee - Planning at the Block Level",
+        "b": "Dantwala Committee - Rural Credit",
+        "c": "Santhanam Committee - PanchayatiRajFinances",
+        "d": "Ashok Mehta Committee - Panchayati Raj Institutions"
+      },
+      "id": "6853fd8d-0582-4f9a-9e7e-31b695488958",
+      "extraction_order": 23,
+      "chunk_number": 2,
+      "correct_answer": "D"
+    },
+    {
+      "question_number": "27",
+      "question_text": "Consider the following statements:\n\nAn Amendment to the Constitution of India can be initiated by the:\n\n1. Lok Sabha\n2. Rajya Sabha\n3. State Legislatures\n4. President of India\n\nWhich of the above statements is/are correct?",
+      "options": {
+        "a": "1,2 and 3",
+        "b": "1 and 2",
+        "c": "Only 1",
+        "d": "2, 3 and 4"
+      },
+      "id": "27bd5576-b7fa-4175-80b4-2d42893b8d18",
+      "extraction_order": 24,
+      "chunk_number": 2,
+      "correct_answer": "A"
+    },
+    {
+      "question_number": "28",
+      "question_text": "Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Relative humidity decreases with increasing air temperature.\nReason (R): Absolute humidity increases with increasing evaporation.\nSelect the correct answer from the codes given below:",
+      "options": {
+        "a": "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+        "b": "(A) is false, but (R) is true.",
+        "c": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+        "d": "(A) is true, but (R) is false."
+      },
+      "id": "fd439428-a894-4a91-a15e-c0553b7eb79c",
+      "extraction_order": 25,
+      "chunk_number": 2,
+      "correct_answer": "B"
+    },
+    {
+      "question_number": "29",
+      "question_text": "Which one of the following is correctly matched?",
+      "options": {
+        "a": "Ecocline - Biodiversity",
+        "b": "Pycnocline - Sea water density",
+        "c": "Thermocline - Air temperature",
+        "d": "Halocline - Sea water temperature"
+      },
+      "id": "ba6a721a-424d-49bb-bb47-e1e5ca16d5da",
+      "extraction_order": 26,
+      "chunk_number": 2,
+      "correct_answer": "B"
+    },
+    {
+      "question_number": "30",
+      "question_text": "Match List-I with List-II and choose the correct answer using the codes given below the lists:\n\nList-I\t\t\tList-II\nA. Planting Hearth\t\t1. Hungary\nB. Cryophyte Steppe\t\t2. Adolf Engler\nC. World Floral Regions\t3. C.O. Sauer\nD. Puszta Grassland\t\t4. Arctic Tundra",
+      "options": {
+        "a": "{\"A\": 4, \"B\": 3, \"C\": 2, \"D\": 1}",
+        "b": "{\"A\": 3, \"B\": 4, \"C\": 2, \"D\": 1}",
+        "c": "{\"A\": 3, \"B\": 4, \"C\": 1, \"D\": 2}",
+        "d": "{\"A\": 1, \"B\": 2, \"C\": 3, \"D\": 4}"
+      },
+      "id": "f105b55b-3e0f-4432-8b72-6e9f7fa70b6c",
+      "extraction_order": 27,
+      "chunk_number": 2,
+      "correct_answer": "C"
+    },
+    {
+      "question_number": "31",
+      "question_text": "Which one of the following pairs (Aluminium Plant - State) is not correctly matched?",
+      "options": {
+        "a": "Alupuram (Alwaye) - Kerala",
+        "b": "Belagavi - Karnataka",
+        "c": "Muri - Chhattisgarh",
+        "d": "Hirakud - Odisha"
+      },
+      "id": "ea7e61c5-2c8c-46d5-8a5b-c10bcdad1844",
+      "extraction_order": 28,
+      "chunk_number": 2,
+      "correct_answer": "B"
+    },
+    {
+      "question_number": "32",
+      "question_text": "Which of the following pairs (National Park State/Union Territory) is not correctly matched?",
+      "options": {
+        "a": "Rajaji - Uttarakhand",
+        "b": "Pin Valley - Jammu and Kashmir",
+        "c": "Bandipur - Karnataka",
+        "d": "Simlipal - Odisha"
+      },
+      "id": "2483e2dc-d03c-4292-93bc-8ed81c58f6a4",
+      "extraction_order": 29,
+      "chunk_number": 2,
+      "correct_answer": "C"
+    },
+    {
+      "question_number": "33",
+      "question_text": "Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The Himalayas are still rising.\nReason (R): The Indian tectonic plate is colliding with the Eurasian plate.\nSelect the correct answer from the codes given below:",
+      "options": {
+        "a": "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+        "b": "(A) is false, but (R) is true.",
+        "c": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+        "d": "(A) is true, but (R) is false."
+      },
+      "id": "1e20a7c3-c2bb-451e-8655-3d53186235a6",
+      "extraction_order": 30,
+      "chunk_number": 2,
+      "correct_answer": "C"
+    },
+    {
+      "question_number": "34",
+      "question_text": "Match List-I with List-II and choose the correct answer using the codes given below the lists:\n\n| List-I \t\t| List-II |\n| (Coal Resources) \t| (States) |\n| A. Hutar \t\t| 1. Madhya Pradesh |\n| B. Ib River \t\t| 2. Chhattisgarh |\n| C. Tatapani-Ramkola \t| 3. Odisha |\n| D. Umaria \t\t| 4. Jharkhand |",
+      "options": {
+        "a": "{\"A\": 3, \"B\": 2, \"C\": 4, \"D\": 1}",
+        "b": "{\"A\": 2, \"B\": 1, \"C\": 3, \"D\": 4}",
+        "c": "{\"A\": 4, \"B\": 3, \"C\": 2, \"D\": 1}",
+        "d": "{\"A\": 4, \"B\": 2, \"C\": 3, \"D\": 1}"
+      },
+      "id": "3a5d8287-9d9f-407b-ae3d-7bee945a6feb",
+      "extraction_order": 31,
+      "chunk_number": 2,
+      "correct_answer": "C"
+    },
+    {
+      "question_number": "35",
+      "question_text": "Match List-I with List-II and choose the correct answer using the codes given below the lists:\n\n| List-I \t\t| List-II |\n| (Canals) \t\t| (Rivers) |\n| A. Upper Bari Doab Canal \t| 1. Sutlej |\n| B. Sirhind Canal \t\t| 2. Yamuna |\n| C. Gurgaon Canal \t\t| 3. Sutlej, Ravi, Beas |\n| D. Indira Gandhi Canal \t| 4. Ravi |",
+      "options": {
+        "a": "{\"A\": 4, \"B\": 1, \"C\": 3, \"D\": 2}",
+        "b": "{\"A\": 3, \"B\": 2, \"C\": 1, \"D\": 4}",
+        "c": "{\"A\": 4, \"B\": 1, \"C\": 2, \"D\": 3}",
+        "d": "{\"A\": 3, \"B\": 1, \"C\": 2, \"D\": 4}"
+      },
+      "id": "23ab3c0a-a5d3-438e-8c7a-7939543b2597",
+      "extraction_order": 32,
+      "chunk_number": 2,
+      "correct_answer": "B"
+    },
+    {
+      "question_number": "36",
+      "question_text": "Which one of the following pairs (Crop - Peculiarity) is not correctly matched?",
+      "options": {
+        "a": "State where rice is grown three times in a year - West Bengal",
+        "b": "Bihar's contribution to rice production - 15.7 %",
+        "c": "State with largest area under rice production - Uttar Pradesh",
+        "d": "Isohyets that decide western limit of rice production - 100 cm"
+      },
+      "id": "ac9fd22e-744d-4879-99b9-7736b3b20190",
+      "extraction_order": 33,
+      "chunk_number": 2,
+      "correct_answer": "A"
+    },
+    {
+      "question_number": "37",
+      "question_text": "Consider the following statements with reference to cotton crops:\n1. Cotton is mostly a Kharif crop.\n2. Cotton crop requires moderate amounts of rainfall varying between 50-75 cm annually.\nWhich of the above statements is/are correct?",
+      "options": {
+        "a": "Both 1 and 2",
+        "b": "Neither 1 nor 2",
+        "c": "Only 1",
+        "d": "Only 2"
+      },
+      "id": "439235ce-441a-4e32-b61c-d646d973789c",
+      "extraction_order": 34,
+      "chunk_number": 2,
+      "correct_answer": "C"
+    },
+    {
+      "question_number": "38",
+      "question_text": "Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Red soil denotes the second largest soil group of India.\nReason (R): Red soil surrounds the black soil in the south, east and north directions.\nSelect the correct answer from the codes given below:",
+      "options": {
+        "a": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+        "b": "(A) is false, but (R) is true.",
+        "c": "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+        "d": "(A) is true, but (R) is false."
+      },
+      "id": "605a1bb4-0aff-4973-9f94-592343534033",
+      "extraction_order": 35,
+      "chunk_number": 2,
+      "correct_answer": "B"
+    },
+    {
+      "question_number": "39",
+      "question_text": "Match List-I with List-II and choose the correct answer using the codes given below the lists:",
+      "options": {
+        "a": "|  | A | B | C | D |\n| :-- | :-- | :-- | :-- | :-- |\n| (a) | 3 | 2 | 1 | 4 |",
+        "b": "|  | A | B | C | D |\n| :-- | :-- | :-- | :-- | :-- |\n| (b) | 4 | 1 | 3 | 2 |",
+        "c": "|  | A | B | C | D |\n| :-- | :-- | :-- | :-- | :-- |\n| (c) | 3 | 2 | 4 | 1 |",
+        "d": "|  | A | B | C | D |\n| :-- | :-- | :-- | :-- | :-- |\n| (d) | 1 | 3 | 2 | 4 |"
+      },
+      "id": "acdaaa76-b6b8-43b5-9762-16ebf279c25f",
+      "extraction_order": 36,
+      "chunk_number": 3,
+      "correct_answer": "C"
+    },
+    {
+      "question_number": "40",
+      "question_text": "Which of the following pairs is not correctly matched?",
+      "options": {
+        "a": "Naypyidaw - Myanmar",
+        "b": "Khartoum - Ethiopia",
+        "c": "Dublin - Ireland",
+        "d": "Ottawa - Canada"
+      },
+      "id": "d80b4935-e41d-4e30-8195-4935f4a2332a",
+      "extraction_order": 37,
+      "chunk_number": 3,
+      "correct_answer": "B"
+    },
+    {
+      "question_number": "41",
+      "question_text": "Consider the following statements with reference to Upper Gangetic agro-climatic region:\n\n1. This region encompasses central and western Uttar Pradesh.\n2. This region has more than $130 \\%$ irrigation intensity and $140 \\%$ cropping intensity.\nWhich of the above statements is/are correct?",
+      "options": {
+        "a": "Both 1 and 2",
+        "b": "Neither 1 nor 2",
+        "c": "Only 1",
+        "d": "Only 2"
+      },
+      "id": "e194cd25-4a95-4d12-9dd6-5ed338b63035",
+      "extraction_order": 38,
+      "chunk_number": 3,
+      "correct_answer": "A"
+    },
+    {
+      "question_number": "42",
+      "question_text": "Match List-I with List-II and choose the correct answer using the codes given below the lists:",
+      "options": {
+        "a": "|  | A | B | C | D |\n| :-- | :--: | :--: | :--: | :--: |\n| (a) | 1 | 3 | 2 | 4 |",
+        "b": "|  | A | B | C | D |\n| :-- | :--: | :--: | :--: | :--: |\n| (b) | 3 | 1 | 2 | 4 |",
+        "c": "|  | A | B | C | D |\n| :-- | :--: | :--: | :--: | :--: |\n| (c) | 1 | 4 | 2 | 3 |",
+        "d": "|  | A | B | C | D |\n| :-- | :--: | :--: | :--: | :--: |\n| (d) | 3 | 1 | 4 | 2 |"
+      },
+      "id": "2cebc68b-78eb-4cf2-b125-b069800c6ec3",
+      "extraction_order": 39,
+      "chunk_number": 3,
+      "correct_answer": "A"
+    },
+    {
+      "question_number": "43",
+      "question_text": "Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Jute is an indigenous plant of India.\nReason (R): Jute is a Kharif crop sown from February to June and harvested from July to October.\nSelect the correct answer from the codes given below:",
+      "options": {
+        "a": "Both $(\\mathrm{A})$ and $(\\mathrm{R})$ are true and $(\\mathrm{R})$ is the correct explanation of $(\\mathrm{A})$.",
+        "b": "(A) is false, but (R) is true.",
+        "c": "Both $(\\mathrm{A})$ and $(\\mathrm{R})$ are true, but $(\\mathrm{R})$ is not the correct explanation of $(\\mathrm{A})$.",
+        "d": "$(\\mathrm{A})$ is true, but $(\\mathrm{R})$ is false."
+      },
+      "id": "65228518-010b-417b-b964-75f4240f4505",
+      "extraction_order": 40,
+      "chunk_number": 3,
+      "correct_answer": "C"
+    },
+    {
+      "question_number": "44",
+      "question_text": "Match List-I with List-II and choose the correct answer using the codes given below the lists:",
+      "options": {
+        "a": "|  | A | B | C | D |\n| :-- | :--: | :--: | :--: | :--: |\n| (a) | 2 | 4 | 1 | 3 |",
+        "b": "|  | A | B | C | D |\n| :-- | :--: | :--: | :--: | :--: |\n| (b) | 1 | 4 | 2 | 3 |",
+        "c": "|  | A | B | C | D |\n| :-- | :--: | :--: | :--: | :--: |\n| (c) | 3 | 2 | 1 | 4 |",
+        "d": "|  | A | B | C | D |\n| :-- | :--: | :--: | :--: | :--: |\n| (d) | 4 | 3 | 2 | 1 |"
+      },
+      "id": "21e84934-d370-43d2-b7bd-b90ec44a6ace",
+      "extraction_order": 41,
+      "chunk_number": 3,
+      "correct_answer": "D"
+    },
+    {
+      "question_number": "45",
+      "question_text": "Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Turkish invasion on India was successful. Reason (R): There was no political unity in North India.\nSelect the correct answer from the codes given below:",
+      "options": {
+        "a": "Both $(\\mathrm{A})$ and $(\\mathrm{R})$ are true and $(\\mathrm{R})$ is the correct explanation of $(\\mathrm{A})$.",
+        "b": "$(\\mathrm{A})$ is false, but $(\\mathrm{R})$ is true.",
+        "c": "Both $(\\mathrm{A})$ and $(\\mathrm{R})$ are true, but $(\\mathrm{R})$ is not the correct explanation of $(\\mathrm{A})$.",
+        "d": "$(\\mathrm{A})$ is true, but $(\\mathrm{R})$ is false."
+      },
+      "id": "15eb2fd5-7d70-4ed8-b3f6-3b2c62ff64df",
+      "extraction_order": 42,
+      "chunk_number": 3,
+      "correct_answer": "A"
+    },
+    {
+      "question_number": "46",
+      "question_text": "Consider the following statements regarding Voice of Global South Summit (VOGSS):\n\n1. India recently concluded its 2nd Voice of Global South Summit.\n2. The term Global South is related to developed countries.\n\nWhich of the above statements is/are correct?",
+      "options": {
+        "a": "Only 2",
+        "b": "Neither I nor 2",
+        "c": "Only 1",
+        "d": "Both 1 and 2"
+      },
+      "id": "8c95df8c-5d21-47eb-8283-b0f190db3404",
+      "extraction_order": 43,
+      "chunk_number": 3,
+      "correct_answer": "C"
+    },
+    {
+      "question_number": "47",
+      "question_text": "What does the Intergovernmental Panel on Climate Change (IPCC) emphasize regarding reductions in greenhouse gas (GHG) emission?\n\n1. Gradual and limited reductions are enough.\n2. Deep, rapid and sustained reductions are essential.\n\nSelect the correct answer from the codes given below:",
+      "options": {
+        "a": "Both 1 and 2",
+        "b": "Neither 1 nor 2",
+        "c": "Only 1",
+        "d": "Only 2"
+      },
+      "id": "150dda2c-9528-46a8-9fb6-33d0a4a8435e",
+      "extraction_order": 44,
+      "chunk_number": 3,
+      "correct_answer": "D"
+    },
+    {
+      "question_number": "48",
+      "question_text": "What does the term \"Cereal Yield\" refer to?\n\n1. The amount of cereal crops produced per unit area of harvested land\n2. The total production of cereal crops in a given country\n\nSelect the correct answer from the codes given below:",
+      "options": {
+        "a": "Both 1 and 2",
+        "b": "Neither 1 nor 2",
+        "c": "Only 1",
+        "d": "Only 2"
+      },
+      "id": "84d237f8-01d5-44b1-9799-454f36712d5f",
+      "extraction_order": 45,
+      "chunk_number": 3,
+      "correct_answer": "C"
+    },
+    {
+      "question_number": "49",
+      "question_text": "Which of the following statements is true regarding the trend of unemployment rate in India between July-September, 2019 and July-September, 2022?\n\n1. It remained the same.\n2. It declined.\n\nSelect the correct answer from the codes given below:",
+      "options": {
+        "a": "2 is true and 1 is false.",
+        "b": "Both 1 and 2 are false.",
+        "c": "1 is true and 2 is false.",
+        "d": "Both 1 and 2 are true."
+      },
+      "id": "4313e19e-016a-4672-8701-6a030e35d461",
+      "extraction_order": 46,
+      "chunk_number": 3,
+      "correct_answer": "A"
+    },
+    {
+      "question_number": "50",
+      "question_text": "Who prepares/publishes the Global Multidimensional Poverty Index (MPI) report?",
+      "options": {
+        "a": "World Bank and International Monetary Fund (IMF)",
+        "b": "Oxford Poverty and World Health Organisation (WHO)",
+        "c": "Oxford Poverty and Human Development Initiative (OPHI)",
+        "d": "United Nations Development Programme (UNDP)"
+      },
+      "id": "b68d324f-f533-4648-8654-fbd0c3346429",
+      "extraction_order": 47,
+      "chunk_number": 3,
+      "correct_answer": "D"
+    },
+    {
+      "question_number": "51",
+      "question_text": "Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The concept of Sustainable Development was popularised by the Brundtland Report.\n\nReason (R): The Brundtland Report is also known as \"The Limits to Growth\".\n\nSelect the correct answer from the codes given below:",
+      "options": {
+        "a": "Both $(\\mathrm{A})$ and $(\\mathrm{R})$ are true, but $(\\mathrm{R})$ is not the correct explanation of $(\\mathrm{A})$.",
+        "b": "(A) is false, but (R) is true.",
+        "c": "Both $(\\mathrm{A})$ and $(\\mathrm{R})$ are true and $(\\mathrm{R})$ is the correct explanation of $(\\dot{\\mathrm{A}})$.",
+        "d": "$(\\mathrm{A})$ is true, but $(\\mathrm{R})$ is false."
+      },
+      "id": "939d35a2-51d4-4511-8748-da46de9f1444",
+      "extraction_order": 48,
+      "chunk_number": 3,
+      "correct_answer": "B"
+    },
+    {
+      "question_number": "52",
+      "question_text": "Consider the following events and arrange them in chronological order:\n\n1. World Heritage Day\n2. World Thyroid Day\n3. World No Tobacco Day\n4. International Day of Light\n\nSelect the correct answer from the codes given below:",
+      "options": {
+        "a": "$3,1,2,4$",
+        "b": "$1,4,2,3$",
+        "c": "$2,3,1,4$",
+        "d": "$4,2,3,1$"
+      },
+      "id": "80895b17-0e50-4d96-97ab-ab4cc547eba2",
+      "extraction_order": 49,
+      "chunk_number": 3,
+      "correct_answer": "B"
+    },
+    {
+      "question_number": "53",
+      "question_text": "Match List-I with List-II and choose the correct answer using the codes given below the lists:",
+      "options": {
+        "a": "A B C D\n(a) 4123",
+        "b": "A B C D\n(b) 3124",
+        "c": "A B C D\n(c) 3214",
+        "d": "A B C D\n(d) 2134"
+      },
+      "id": "fe4fc6ae-cc1d-4330-a249-0da3f205e893",
+      "extraction_order": 50,
+      "chunk_number": 3,
+      "correct_answer": "B"
+    },
+    {
+      "question_number": "54",
+      "question_text": "Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): During 2023-24, Singapore emerged as the largest source of FDI to India.\nReason (R): The India Mauritius Tax Treaty amendment has brought a major shift in countries as major sources of FDI to India.\nSelect the correct answer from the codes given below:",
+      "options": {
+        "a": "Both $(\\mathrm{A})$ and $(\\mathrm{R})$ are true, but $(\\mathrm{R})$ is not the correct explanation of $(\\mathrm{A})$.",
+        "b": "(A) is false, but (R) is true.",
+        "c": "Both $(\\mathrm{A})$ and $(\\mathrm{R})$ are true and $(\\mathrm{R})$ is the correct explanation of $(\\mathrm{A})$.",
+        "d": "(A) is true, but (R) is false."
+      },
+      "id": "5a0c78a1-97f9-476f-b663-fa4619d00c86",
+      "extraction_order": 51,
+      "chunk_number": 3,
+      "correct_answer": "C"
+    },
+    {
+      "question_number": "55",
+      "question_text": "What is R21/Matrix-MTM?",
+      "options": {
+        "a": "Vaccine against Malaria developed by Serum Institute of India",
+        "b": "Vaccine against Malaria developed by Bharat Biotech International",
+        "c": "Vaccine against AIDS developed by Serum Institute of India",
+        "d": "Vaccine against AIDS developed by Bharat Biotech International"
+      },
+      "id": "81146058-386c-4e4d-89f5-343dead3ab5f",
+      "extraction_order": 52,
+      "chunk_number": 3,
+      "correct_answer": "A"
+    },
+    {
+      "question_number": "56",
+      "question_text": "Who among the following won the best actress award in the Un Certain Regard category of the Cannes Film Festival, 2024 ?",
+      "options": {
+        "a": "Kiara Advani",
+        "b": "Anasuya Sengupta",
+        "c": "Urvashi Rautela",
+        "d": "Sobhita Dhulipala"
+      },
+      "id": "d625ddf1-dbce-46d7-a364-36ac60cb61f1",
+      "extraction_order": 53,
+      "chunk_number": 3,
+      "correct_answer": "B"
+    },
+    {
+      "question_number": "57",
+      "question_text": "With reference to RudraM-II Missile, which of the following statements is/are correct? 1. It is an air-to-air missile. 2. It was tested in Rajasthan in May 2024.",
+      "options": {
+        "a": "Only 2",
+        "b": "Neither 1 nor 2",
+        "c": "Only 1",
+        "d": "Both 1 and 2"
+      },
+      "id": "9f4a0ccf-8ae5-4b17-9738-435aae202210",
+      "extraction_order": 54,
+      "chunk_number": 4,
+      "correct_answer": "B"
+    },
+    {
+      "question_number": "58",
+      "question_text": "Match List-I with List-II and choose the correct answer using the codes given below the lists:",
+      "options": {
+        "a": "A-4, B-1, C-2, D-3",
+        "b": "A-3, B-1, C-2, D-4",
+        "c": "A-3, B-2, C-1, D-4",
+        "d": "A-2, B-1, C-3, D-4"
+      },
+      "id": "16403dfd-3f6a-43c8-8545-71dc94c8d086",
+      "extraction_order": 55,
+      "chunk_number": 4,
+      "correct_answer": "C"
+    },
+    {
+      "question_number": "59",
+      "question_text": "Which one of the following pairs (Deccan Trap Peculiarity) is not correctly matched?",
+      "options": {
+        "a": "Depth of middle trap - 1200 metres approximately",
+        "b": "Intertrapean beds - Fossils of sea plants and animals",
+        "c": "Depth of lower trap - 150 metres approximately",
+        "d": "Depth of upper trap - 450 metres approximately"
+      },
+      "id": "9249d767-ab40-4b7a-baa8-a35784335f63",
+      "extraction_order": 56,
+      "chunk_number": 4,
+      "correct_answer": "B"
+    },
+    {
+      "question_number": "60",
+      "question_text": "Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R). Assertion (A): Jet streams discovered during World War II are high altitude easterly winds. Reason (R): Jet streams flow with a speed of $300-500 \text{ km/h}$. Select the correct answer from the codes given below:",
+      "options": {
+        "a": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+        "b": "(A) is false, but (R) is true.",
+        "c": "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+        "d": "(A) is true, but (R) is false."
+      },
+      "id": "051736aa-16f7-4104-8845-69ce9a49891a",
+      "extraction_order": 57,
+      "chunk_number": 4,
+      "correct_answer": "B"
+    },
+    {
+      "question_number": "61",
+      "question_text": "Match List-I with List-II and choose the correct answer using the codes given below the lists:",
+      "options": {
+        "a": "A-3, B-1, C-2, D-4",
+        "b": "A-3, B-1, C-4, D-2",
+        "c": "A-2, B-3, C-1, D-4",
+        "d": "A-4, B-1, C-2, D-3"
+      },
+      "id": "5b87de70-561f-4c87-9321-7e03de92a69c",
+      "extraction_order": 58,
+      "chunk_number": 4,
+      "correct_answer": "B"
+    },
+    {
+      "question_number": "62",
+      "question_text": "Plants and animals that live on land are called:",
+      "options": {
+        "a": "Abiotic",
+        "b": "Aquatic habitants",
+        "c": "Terrestrial habitants",
+        "d": "Biotic"
+      },
+      "id": "29eebc78-e91f-4c12-88ed-e02cab05cd6a",
+      "extraction_order": 59,
+      "chunk_number": 4,
+      "correct_answer": "C"
+    },
+    {
+      "question_number": "63",
+      "question_text": "The joint where the neck joins the head is:",
+      "options": {
+        "a": "Pivotal joint",
+        "b": "Saddle joint",
+        "c": "Hinge joint",
+        "d": "Ball and socket joint"
+      },
+      "id": "59d1934d-cde7-4eeb-9ea9-8854207243f4",
+      "extraction_order": 60,
+      "chunk_number": 4,
+      "correct_answer": "A"
+    },
+    {
+      "question_number": "64",
+      "question_text": "The disease-causing microorganism among these is:",
+      "options": {
+        "a": "Archaea",
+        "b": "Pathogens",
+        "c": "Bacteria",
+        "d": "Protozoa"
+      },
+      "id": "349c50e4-54ce-43f4-a993-87a8e7c03821",
+      "extraction_order": 61,
+      "chunk_number": 4,
+      "correct_answer": "B"
+    },
+    {
+      "question_number": "65",
+      "question_text": "Milk is an example of:",
+      "options": {
+        "a": "Foam",
+        "b": "Sol",
+        "c": "Aerosol",
+        "d": "Emulsion"
+      },
+      "id": "da540072-e621-4b4b-84dc-5b01b38d6b0e",
+      "extraction_order": 62,
+      "chunk_number": 4,
+      "correct_answer": "D"
+    },
+    {
+      "question_number": "66",
+      "question_text": "The formula of baking soda is :",
+      "options": {
+        "a": "\\(\\mathrm{KHCO}_{3}\\)",
+        "b": "\\(\\mathrm{Na}_{2} \\mathrm{CO}_{3}\\)",
+        "c": "\\(\\mathrm{K}_{2} \\mathrm{CO}_{3}\\)",
+        "d": "\\(\\mathrm{NaHCO}_{3}\\)"
+      },
+      "id": "10b6482f-05a5-4559-b8ef-5c65d8659316",
+      "extraction_order": 63,
+      "chunk_number": 4,
+      "correct_answer": "D"
+    },
+    {
+      "question_number": "67",
+      "question_text": "CPR stands for:",
+      "options": {
+        "a": "Cardio Programme Rescue",
+        "b": "Cardiac Pulsatile Revision",
+        "c": "Cardiopulmonary Resuscitation",
+        "d": "Cardiopulmonary Revision"
+      },
+      "id": "a0ab5517-9ec9-4ba7-90e0-14e182fb2a73",
+      "extraction_order": 64,
+      "chunk_number": 4,
+      "correct_answer": "C"
+    },
+    {
+      "question_number": "68",
+      "question_text": "The only vein that carries oxygenated blood is:",
+      "options": {
+        "a": "Pulmonary vein",
+        "b": "Cystic vein",
+        "c": "Cardiac vein",
+        "d": "Hepatic Portal vein"
+      },
+      "id": "483505d4-24f5-416a-ad19-aeb44b994a86",
+      "extraction_order": 65,
+      "chunk_number": 4,
+      "correct_answer": "A"
+    },
+    {
+      "question_number": "69",
+      "question_text": "Diabetes is the most common disorder associated with:",
+      "options": {
+        "a": "Kidney",
+        "b": "Gall bladder",
+        "c": "Liver",
+        "d": "Pancreas"
+      },
+      "id": "6b201907-0f0e-4936-a0d6-845ef9e85fd8",
+      "extraction_order": 66,
+      "chunk_number": 4,
+      "correct_answer": "D"
+    },
+    {
+      "question_number": "70",
+      "question_text": "The recent global pause during COVID-19 pandemic was caused due to:",
+      "options": {
+        "a": "SARS-CoV-1",
+        "b": "H5N1",
+        "c": "SARS-CoV-2",
+        "d": "MERS-CoV-2"
+      },
+      "id": "704f0f49-23cb-43db-848d-50a532b739a2",
+      "extraction_order": 67,
+      "chunk_number": 4,
+      "correct_answer": "C"
+    },
+    {
+      "question_number": "71",
+      "question_text": "A bus covers the first half of a certain distance with speed v1 and the second half with a speed v2. The average speed during the whole journey is :",
+      "options": {
+        "a": "\\(\\frac{\\mathrm{v}_{1} \\mathrm{v}_{2}}{\\mathrm{v}_{1}+\\mathrm{v}_{2}}\\)",
+        "b": "\\(\\frac{2 \\mathrm{v}_{1} \\mathrm{v}_{2}}{\\mathrm{v}_{1}+\\mathrm{v}_{2}}\\)",
+        "c": "\\(\\frac{\\mathrm{v}_{1}+\\mathrm{v}_{2}}{2}\\)",
+        "d": "\\(\\sqrt{\\mathrm{v}_{1} \\mathrm{v}_{2}}\\)"
+      },
+      "id": "7d09a6f4-f887-4b87-9c10-1e4b78d0abf1",
+      "extraction_order": 68,
+      "chunk_number": 4,
+      "correct_answer": "B"
+    },
+    {
+      "question_number": "72",
+      "question_text": "Which one of the following pairs is not correctly matched regarding peculiarities of Ramganga project?",
+      "options": {
+        "a": "Dam's length - 825.8 metres",
+        "b": "Hydropower - 198 MW generation capacity",
+        "c": "Location - Garhwal (Uttarakhand)",
+        "d": "Irrigated area - 6 lac hectares"
+      },
+      "id": "2e33f7a4-0844-44aa-974f-213a842ff6cf",
+      "extraction_order": 69,
+      "chunk_number": 4,
+      "correct_answer": "A"
+    },
+    {
+      "question_number": "73",
+      "question_text": "Consider the following statements with reference to cultivated area of some countries of the world: 1. In comparison to USA, China and Japan, India has highest geographical area under cultivation. 2. India's location in tropical monsoon region helps diversified cropping all through the year. Which of the above statements is/are correct?",
+      "options": {
+        "a": "Both 1 and 2",
+        "b": "Neither 1 nor 2",
+        "c": "Only 1",
+        "d": "Only 2"
+      },
+      "id": "8e54d81b-5726-4d08-b734-422a397a529a",
+      "extraction_order": 70,
+      "chunk_number": 4,
+      "correct_answer": "A"
+    },
+    {
+      "question_number": "74",
+      "question_text": "Match List-I with List-II and choose the correct answer using the codes given below the lists:",
+      "options": {
+        "a": "A-4, B-1, C-2, D-3",
+        "b": "A-2, B-3, C-1, D-4",
+        "c": "A-4, B-1, C-3, D-2",
+        "d": "A-2, B-4, C-1, D-3"
+      },
+      "id": "1fbc954b-01cd-4213-838e-9ec8f9b73ba4",
+      "extraction_order": 71,
+      "chunk_number": 4,
+      "correct_answer": "D"
+    },
+    {
+      "question_number": "75",
+      "question_text": "Consider the following statements with respect to the climate of Western Europe: 1. Western Europe receives rainfall in all months. 2. Western Europe is located in the belt of Westerlies. Which of the above statements is/are correct?",
+      "options": {
+        "a": "Both 1 and 2",
+        "b": "Neither 1 nor 2",
+        "c": "Only 1",
+        "d": "Only 2"
+      },
+      "id": "25d50858-09c3-4bab-a3f6-8a7722e16f29",
+      "extraction_order": 72,
+      "chunk_number": 4,
+      "correct_answer": "A"
+    },
+    {
+      "question_number": "76",
+      "question_text": "Consider the following mountains and arrange them in correct order from West to East by their location:",
+      "options": {
+        "a": "$2,4,3,1$",
+        "b": "$2,3,4,1$",
+        "c": "$4,2,3,1$",
+        "d": "$4,1,2,3$"
+      },
+      "id": "cdd74d5f-e5a7-488c-9f63-c7360b4203b5",
+      "extraction_order": 73,
+      "chunk_number": 4,
+      "correct_answer": "A"
+    },
+    {
+      "question_number": "77",
+      "question_text": "Which one of the following pairs (River - Direction) is not correctly matched?",
+      "options": {
+        "a": "Amur river - North-East",
+        "b": "Syr Darya - North-West",
+        "c": "Angara river - North",
+        "d": "Mekong river - South-West"
+      },
+      "id": "32cbeac1-a679-44c1-9c1f-a325deaa2e1d",
+      "extraction_order": 74,
+      "chunk_number": 4,
+      "correct_answer": "D"
+    },
+    {
+      "question_number": "78",
+      "question_text": "Which one of the following pairs (Country - Oil field) is not correctly matched?",
+      "options": {
+        "a": "Iran - Haft Kel",
+        "b": "Kuwait - Kashagan",
+        "c": "Saudi Arabia - Dhahran",
+        "d": "Iraq - Zubair"
+      },
+      "id": "836eadf7-5e93-4c43-891e-aad41afffe14",
+      "extraction_order": 75,
+      "chunk_number": 4,
+      "correct_answer": "B"
+    },
+    {
+      "question_number": "79",
+      "question_text": "Consider the following statements with reference to Mediterranean climate: 1. It receives rainfall in winter season. 2. Due to winter solstice, air pressure belts shift to the South. Which of the above statements is/are correct?",
+      "options": {
+        "a": "Only 2",
+        "b": "Neither 1 nor 2",
+        "c": "Only 1",
+        "d": "Both 1 and 2"
+      },
+      "id": "1817d111-f016-4eda-bdaa-9b8aa31ae165",
+      "extraction_order": 76,
+      "chunk_number": 4,
+      "correct_answer": "D"
+    },
+    {
+      "question_number": "80",
+      "question_text": "With reference to the Anti-Maoist operation that took place in April 2024, which of the following statements is/are correct? 1. It took place in Gadchiroli district of Maharashtra. 2. The operation was launched by BSF and District Reserve Guards. Select the correct answer from the codes given below:",
+      "options": {
+        "a": "Only 2",
+        "b": "Neither 1 nor 2",
+        "c": "Only 1",
+        "d": "Both 1 and 2"
+      },
+      "id": "042cb421-e3e2-40ac-ba7b-67c7a141dd15",
+      "extraction_order": 77,
+      "chunk_number": 4,
+      "correct_answer": "A"
+    },
+    {
+      "question_number": "81",
+      "question_text": "With reference to \"PraVaHa\" software developed by ISRO, which of the following statements is/are correct? 1. It is a path-breaking feat by Vikram Sarabhai Space Centre. 2. Initial aerodynamic design of space vehicles requires evaluation of large number of configurations. Select the correct answer from the codes given below:",
+      "options": {
+        "a": "Only 2",
+        "b": "Neither 1 nor 2",
+        "c": "Only 1",
+        "d": "Both 1 and 2"
+      },
+      "id": "8fdce5c9-623e-4568-b789-63acd426f521",
+      "extraction_order": 78,
+      "chunk_number": 4,
+      "correct_answer": "D"
+    },
+    {
+      "question_number": "82",
+      "question_text": "Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R). Assertion (A): In April 2024, India delivered the BrahMos Supersonic Cruise Missile to Philippines. Reason (R): The Missile has a range of 490 kilometres. Select the correct answer from the codes given below:",
+      "options": {
+        "a": "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+        "b": "(A) is false, but (R) is true.",
+        "c": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+        "d": "(A) is true, but (R) is false."
+      },
+      "id": "5f04b728-f454-4cb9-947a-811963241f92",
+      "extraction_order": 79,
+      "chunk_number": 4,
+      "correct_answer": "D"
+    },
+    {
+      "question_number": "83",
+      "question_text": "With reference to the \"Kohima Peace Memorial and EcoPark\" which of the following statements is/are correct?",
+      "options": {
+        "a": "Only 2",
+        "b": "Neither 1 nor 2",
+        "c": "Only 1",
+        "d": "Both 1 and 2"
+      },
+      "id": "1f731f04-6a55-478a-8a36-988c155b5654",
+      "extraction_order": 80,
+      "chunk_number": 5,
+      "correct_answer": "C"
+    },
+    {
+      "question_number": "84",
+      "question_text": "With reference to \"Mobility Arrangement for Talented Early-professionals Scheme\" (MATES), which of the following statements is/are correct?",
+      "options": {
+        "a": "Only 2",
+        "b": "Neither 1 nor 2",
+        "c": "Only 1",
+        "d": "Both 1 and 2"
+      },
+      "id": "dae1e021-b2a5-4e5f-b96c-d545f5ec57f8",
+      "extraction_order": 81,
+      "chunk_number": 5,
+      "correct_answer": "D"
+    },
+    {
+      "question_number": "85",
+      "question_text": "It will be developed by South Korea.",
+      "options": {
+        "a": "Only 2",
+        "b": "Neither 1 nor 2",
+        "c": "Only 1",
+        "d": "Both 1 and 2"
+      },
+      "correct_answer": "A",
+      "id": "ece34d8f-1c01-4ce8-b59d-661775a44cf5",
+      "extraction_order": 150,
+      "chunk_number": 20
+    },
+    {
+      "question_number": "86",
+      "question_text": "With reference to the \"Piral Lao - Paise Pao\" campaign, which of the following statements is/are correct?\n1. This is related to reduce forest fires and to provide a source of income to villagers.\n2. The Chief Minister of Uttarakhand launched this campaign.\nSelect the correct answer from the codes given below:",
+      "options": {
+        "a": "Only 2",
+        "b": "Neither 1 nor 2",
+        "c": "Only 1",
+        "d": "Both 1 and 2"
+      },
+      "correct_answer": "D",
+      "id": "q86-piral-lao-paise-pao-campaign",
+      "extraction_order": 151,
+      "chunk_number": 21
+    },
+    {
+      "question_number": "87",
+      "question_text": "With reference to \"Nepal - India International Sanskrit Conclave - 2024\", which of the following statements is/are correct?",
+      "options": {
+        "a": "Only 2",
+        "b": "Neither 1 nor 2",
+        "c": "Only 1",
+        "d": "Both 1 and 2"
+      },
+      "id": "c63e8549-cc55-460b-b006-e7c053ad1014",
+      "extraction_order": 83,
+      "chunk_number": 5,
+      "correct_answer": "A"
+    },
+    {
+      "question_number": "88",
+      "question_text": "With reference to \"Nepal - India International Sanskrit Conclave - 2024\", which of the following statements is/ are correct? \nIt was held at New Delhi.\nThis three-day conclave was organised by the Niti Anusandhan Pratisthan.",
+      "options": {
+        "a": "Only 2",
+        "b": "Neither 1 nor 2",
+        "c": "Only 1",
+        "d": "Both 1 and 2"
+      },
+      "correct_answer": "C",
+      "id": "a36d1d2e-276b-47dd-b5f1-76ff6d59e2e5",
+      "extraction_order": 153,
+      "chunk_number": 21
+    },
+    {
+      "question_number": "89",
+      "question_text": "With reference to \"Guidelines for Elimination of Corporal Punishment\" (GECP), which of the following statements is/are correct?",
+      "options": {
+        "a": "Only 2",
+        "b": "Neither 1 nor 2",
+        "c": "Only 1",
+        "d": "Both 1 and 2"
+      },
+      "id": "1a68c8ee-1411-41f4-adba-fd9068f87239",
+      "extraction_order": 84,
+      "chunk_number": 5,
+      "correct_answer": "D"
+    },
+    {
+      "question_number": "90",
+      "question_text": "With reference to \"Lunar Polar Exploration Mission\" (LUPEX), which of the following statements is/are correct?",
+      "options": {
+        "a": "Only 2",
+        "b": "Neither 1 nor 2",
+        "c": "Only 1",
+        "d": "Both 1 and 2"
+      },
+      "id": "6d6b09d6-622f-4078-a4fc-b373675f1ec4",
+      "extraction_order": 85,
+      "chunk_number": 5,
+      "correct_answer": "D"
+    },
+    {
+      "question_number": "91",
+      "question_text": "Match List-I with List-II and choose the correct answer using the codes given below the lists:",
+      "options": {
+        "a": "2 3 1 4",
+        "b": "4 3 2 1",
+        "c": "1 2 3 4",
+        "d": "3 4 1 2"
+      },
+      "id": "b7a51eab-3374-4b0e-a01b-58920bc6e916",
+      "extraction_order": 86,
+      "chunk_number": 5,
+      "correct_answer": "B"
+    },
+    {
+      "question_number": "92",
+      "question_text": "Which indicators are used in Human Development Index (HDI)?",
+      "options": {
+        "a": "Only 1, 2 and 3",
+        "b": "Only 1 and 4",
+        "c": "Only 1, 2 and 4",
+        "d": "Only 1 and 2"
+      },
+      "id": "0fa0cc38-6d96-4629-afaa-2a83b3f37dee",
+      "extraction_order": 87,
+      "chunk_number": 5,
+      "correct_answer": "C"
+    },
+    {
+      "question_number": "93",
+      "question_text": "Arrange the following schemes launched by the Government of India in chronological order and choose the correct answer from the codes given below:",
+      "options": {
+        "a": "2,1,4,3",
+        "b": "4,2,1,3",
+        "c": "1,2,3,4",
+        "d": "3,1,2,4"
+      },
+      "id": "54542599-92c8-495d-b4bb-f9fa14366b91",
+      "extraction_order": 88,
+      "chunk_number": 5,
+      "correct_answer": "C"
+    },
+    {
+      "question_number": "94",
+      "question_text": "Malthus argued that the population grows in a   progression, while agricultural production/food supply grows in a   progression.",
+      "options": {
+        "a": "Lincar, Exponential",
+        "b": "Exponential, Linear",
+        "c": "Arithmetic, Geometric",
+        "d": "Geometric, Arithmetic"
+      },
+      "id": "5516eaf6-ee1e-4bee-9eaa-49e1c9fe8dbf",
+      "extraction_order": 89,
+      "chunk_number": 5,
+      "correct_answer": "D"
+    },
+    {
+      "question_number": "95",
+      "question_text": "According to the Economic Survey, 2022-23, what fiscal policy response did the Government of India undertake in response to the aggravated global supply disruptions?",
+      "options": {
+        "a": "Only 3",
+        "b": "Only 1",
+        "c": "Only 2",
+        "d": "None of the above"
+      },
+      "id": "dbdbc70d-9999-4485-b548-2505870a2ca5",
+      "extraction_order": 90,
+      "chunk_number": 5,
+      "correct_answer": "A"
+    },
+    {
+      "question_number": "96",
+      "question_text": "Match List-I with List-II and choose the correct answer using the codes given below the lists:",
+      "options": {
+        "a": "2 3 4 1",
+        "b": "2 4 1 3",
+        "c": "1 2 3 4",
+        "d": "3 2 1 4"
+      },
+      "id": "a47ec910-ac9b-4379-be3e-abd93fe01009",
+      "extraction_order": 91,
+      "chunk_number": 5,
+      "correct_answer": "A"
+    },
+    {
+      "question_number": "97",
+      "question_text": "Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R). Assertion (A): Development is being defined as improving living standards and welfare. Reason (R): Growth in per capita income is not a sufficient measure of development. Select the correct answer from the codes given below:",
+      "options": {
+        "a": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+        "b": "(A) is false, but (R) is true.",
+        "c": "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+        "d": "(A) is true, but (R) is false."
+      },
+      "id": "b8d57f60-b6a3-4492-bc64-d3d06177c3bc",
+      "extraction_order": 92,
+      "chunk_number": 5,
+      "correct_answer": "A"
+    },
+    {
+      "question_number": "98",
+      "question_text": "Which measures are essential to achieve Goal 4 of the Sustainable Development Targets, 2030?",
+      "options": {
+        "a": "1 and 2",
+        "b": "1,2,3 and 4",
+        "c": "Only 1",
+        "d": "1,2 and 3"
+      },
+      "id": "2afc02a7-0b13-4dc3-9ba6-c94f1888f81c",
+      "extraction_order": 93,
+      "chunk_number": 5,
+      "correct_answer": "A"
+    },
+    {
+      "question_number": "99",
+      "question_text": "Which of the following freedoms is not guaranteed by the Indian Constitution under Article 19?",
+      "options": {
+        "a": "Freedom to assemble peacefully and without arms",
+        "b": "Freedom to own, acquire and dispose of property",
+        "c": "Freedom to move freely throughout the country",
+        "d": "Freedom to practise any trade or profession"
+      },
+      "id": "43b3a312-2e85-429a-8c0e-026d76fbb3f8",
+      "extraction_order": 94,
+      "chunk_number": 5,
+      "correct_answer": "B"
+    },
+    {
+      "question_number": "100",
+      "question_text": "Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R). Assertion (A): According to the Constitution of India, the same person cannot function as the Governor of two or more States at the same time. Reason (R): Article 153 of the Indian Constitution states that there shall be a Governor for each State. Select the correct answer from the codes given below:",
+      "options": {
+        "a": "Both (A) and (R) are true, but (R) is not the correct explanation of (A)",
+        "b": "(A) is false, but (R) is true",
+        "c": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+        "d": "(A) is true, but (R) is false."
+      },
+      "id": "ea215649-9d7d-4b80-bdd5-8e9161c9d49c",
+      "extraction_order": 95,
+      "chunk_number": 5,
+      "correct_answer": "B"
+    },
+    {
+      "question_number": "101",
+      "question_text": "Which one of the following pairs is not correctly matched?",
+      "options": {
+        "a": "Equality before Law - Guaranteed to both citizens and non-citizens",
+        "b": "Equality of opportunity - Guaranteed only to in public employment Indian citizens",
+        "c": "Creating a new State - Power of Parliament",
+        "d": "Altering the name of a State- Power of a State Legislature"
+      },
+      "id": "59c91318-d790-4145-9b1b-a7f7932a9e22",
+      "extraction_order": 96,
+      "chunk_number": 5,
+      "correct_answer": "D"
+    },
+    {
+      "question_number": "102",
+      "question_text": "Match List-I and List-II and choose the correct answer from the codes given below the lists:",
+      "options": {
+        "a": "3, 1, 2, 4",
+        "b": "4, 1, 3, 2",
+        "c": "1, 3, 2, 4",
+        "d": "1, 2, 3, 4"
+      },
+      "id": "c5dfe2af-5240-471f-899c-790048fc75d0",
+      "extraction_order": 97,
+      "chunk_number": 6,
+      "correct_answer": "C"
+    },
+    {
+      "question_number": "103",
+      "question_text": "Which of the following are envisaged by the Right against Exploitation in the Constitution of India?",
+      "options": {
+        "a": "2 and 3",
+        "b": "3 and 4",
+        "c": "1 and 2",
+        "d": "1 and 4"
+      },
+      "id": "e83c3c6a-c39a-4cb3-8147-811c4eb0e07e",
+      "extraction_order": 98,
+      "chunk_number": 6,
+      "correct_answer": "A"
+    },
+    {
+      "question_number": "104",
+      "question_text": "Which one of the following groups have only input devices?",
+      "options": {
+        "a": "Mouse, Keyboard, Printer",
+        "b": "Mouse, Keyboard, Projector",
+        "c": "Mouse, Keyboard, Monitor",
+        "d": "Mouse, Keyboard, Scanner"
+      },
+      "id": "8ed35e08-ee7f-4b33-8262-07a50df916b2",
+      "extraction_order": 99,
+      "chunk_number": 6,
+      "correct_answer": "D"
+    },
+    {
+      "question_number": "105",
+      "question_text": "The content of computer memory which is non-volatile, even when the power goes off is:",
+      "options": {
+        "a": "REM",
+        "b": "RAM",
+        "c": "ROM",
+        "d": "None of the above"
+      },
+      "id": "184ea750-8a1d-4a49-a3c1-9826ce5799b8",
+      "extraction_order": 100,
+      "chunk_number": 6,
+      "correct_answer": "C"
+    },
+    {
+      "question_number": "106",
+      "question_text": "Which of the following is a correct relationship between Fahrenheit $\\left({ }^{\\circ} \\mathrm{F}\\right)$ and Celsius $\\left({ }^{\\circ} \\mathrm{C}\\right)$ degrees?",
+      "options": {
+        "a": "${ }^{\\circ} \\mathrm{C}={ }^{\\circ} \\mathrm{F}+32$",
+        "b": "${ }^{\\circ} \\mathrm{C}={ }^{\\circ} \\mathrm{F}-273.15$",
+        "c": "${ }^{\\circ} \\mathrm{F}={ }^{\\circ} \\mathrm{C}+32$",
+        "d": "${ }^{\\circ} \\mathrm{F}={ }^{\\circ} \\mathrm{C}-273.15$"
+      },
+      "id": "b31fe478-a99b-44fc-a18e-24d926b1ebd8",
+      "extraction_order": 101,
+      "chunk_number": 6,
+      "correct_answer": "C"
+    },
+    {
+      "question_number": "107",
+      "question_text": "Which of the following statements is not true?",
+      "options": {
+        "a": "Chromosomes are composed of DNA and Protein.",
+        "b": "Nucleus of a cell does not play a role in cellular reproduction.",
+        "c": "Chromosomes contain information for inheritance.",
+        "d": "Functional segment of DNA is called genes."
+      },
+      "id": "4e46e43d-d476-49f1-b93d-73675188472c",
+      "extraction_order": 102,
+      "chunk_number": 6,
+      "correct_answer": "B"
+    },
+    {
+      "question_number": "108",
+      "question_text": "Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R). Assertion (A): $\\mathrm{CO}_{2}, \\mathrm{SO}_{2}$, and $\\mathrm{NO}_{2}$ gases get dissolved in rain water and produce acid rain. Reason (R): Atmospheric air is polluted due to high concentration of gases like carbon dioxide, sulphur dioxide and oxides of nitrogen. Select the correct answer from the codes given below:",
+      "options": {
+        "a": "Both $(\\mathrm{A})$ and $(\\mathrm{R})$ are true and $(\\mathrm{R})$ is the correct explanation of $(\\mathrm{A})$.",
+        "b": "(A) is false, but (R) is true.",
+        "c": "Both $(\\mathrm{A})$ and $(\\mathrm{R})$ are true, but $(\\mathrm{R})$ is not the correct explanation of $(\\mathrm{A})$.",
+        "d": "$(\\mathrm{A})$ is true, but $(\\mathrm{R})$ is false."
+      },
+      "id": "1ed59b98-6a05-4853-af19-87b65fc3b6c5",
+      "extraction_order": 103,
+      "chunk_number": 6,
+      "correct_answer": "A"
+    },
+    {
+      "question_number": "109",
+      "question_text": "With reference to the 7th India - Indonesia Joint Defence Cooperation Committee meeting, which of the following statements is/are correct?",
+      "options": {
+        "a": "Only 2",
+        "b": "Neither 1 nor 2",
+        "c": "Only 1",
+        "d": "Both 1 and 2"
+      },
+      "id": "3d2c8d27-3661-4cfa-9bac-0cc71c242d70",
+      "extraction_order": 104,
+      "chunk_number": 6,
+      "correct_answer": "C"
+    },
+    {
+      "question_number": "110",
+      "question_text": "With reference to \"FWD 200B\", which of the following statements is/are correct?",
+      "options": {
+        "a": "Only 2",
+        "b": "Neither 1 nor 2",
+        "c": "Only 1",
+        "d": "Both 1 and 2"
+      },
+      "id": "6b9ef71d-0898-496d-b706-0c37c3c30e85",
+      "extraction_order": 105,
+      "chunk_number": 6,
+      "correct_answer": "D"
+    },
+    {
+      "question_number": "111",
+      "question_text": "With reference to \"Indla - Australia Economic Cooperation and Trade Agreement (Ind- Aus ECTA),\" which of the following statements is/are correct?",
+      "options": {
+        "a": "Only 2",
+        "b": "Neither 1 nor 2",
+        "c": "Only 1",
+        "d": "Both 1 and 2"
+      },
+      "id": "a9fa87e9-4ea4-4f80-b731-39fe6175e200",
+      "extraction_order": 106,
+      "chunk_number": 6,
+      "correct_answer": "D"
+    },
+    {
+      "question_number": "112",
+      "question_text": "Match List-I with List-II and choose the correct answer using the codes given below the lists:",
+      "options": {
+        "a": "3, 4, 1, 2",
+        "b": "3, 2, 4, 1",
+        "c": "4, 2, 1, 3",
+        "d": "2, 3, 1, 4"
+      },
+      "id": "685a78c1-b530-42d9-a874-92dc0c4a4558",
+      "extraction_order": 107,
+      "chunk_number": 6,
+      "correct_answer": "B"
+    },
+    {
+      "question_number": "113",
+      "question_text": "With reference to \"Shaksgam Valley\", which of the following statements is/are correct?",
+      "options": {
+        "a": "Only 2",
+        "b": "Neither 1 nor 2",
+        "c": "Only 1",
+        "d": "Both 1 and 2"
+      },
+      "id": "ef3a1b9a-31a4-43ad-a3fd-09fe16987ebc",
+      "extraction_order": 108,
+      "chunk_number": 6,
+      "correct_answer": "D"
+    },
+    {
+      "question_number": "114",
+      "question_text": "Arrange the following schemes launched by the Government of India in chronological order and choose the correct answer from the codes given below:",
+      "options": {
+        "a": "1, 2, 3, 4",
+        "b": "3, 4, 1, 2",
+        "c": "2, 3, 4, 1",
+        "d": "4, 3, 1, 2"
+      },
+      "id": "53cabfee-f07c-4002-a25c-4908d1fe8442",
+      "extraction_order": 109,
+      "chunk_number": 6,
+      "correct_answer": "A"
+    },
+    {
+      "question_number": "115",
+      "question_text": "With reference to Economic Growth, which of the following statements is/are correct?",
+      "options": {
+        "a": "Only 1 and 2 are correct.",
+        "b": "Only 3 is correct.",
+        "c": "Only 1 is correct.",
+        "d": "Only 2 and 3 are correct."
+      },
+      "id": "8d45a28e-a726-4049-b133-77aef8c7e3a1",
+      "extraction_order": 110,
+      "chunk_number": 6,
+      "correct_answer": "A"
+    },
+    {
+      "question_number": "116",
+      "question_text": "Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R). Assertion (A): The value of national currency determined by demand and supply of foreign currency is called flexible exchange rate. Reason (R): Demand and supply of the foreign currency is being determined by the Central Bank. Select the correct answer from the codes given below:",
+      "options": {
+        "a": "Both $(\\mathrm{A})$ and $(\\mathrm{R})$ are true and $(\\mathrm{R})$ is the correct explanation of $(\\mathrm{A})$.",
+        "b": "(A) is false, but (R) is true.",
+        "c": "Both $(\\mathrm{A})$ and $(\\mathrm{R})$ are true, but $(\\mathrm{R})$ is not the correct explanation of $(\\mathrm{A})$.",
+        "d": "(A) is true, but (R) is false."
+      },
+      "id": "c43e7e0e-b40b-4895-8750-8cf3922baef9",
+      "extraction_order": 111,
+      "chunk_number": 6,
+      "correct_answer": "D"
+    },
+    {
+      "question_number": "117",
+      "question_text": "With reference to India, consider the following events: 1. Nationalisation of Banks 2. Formation of Regional Rural Banks 3. Adoption of villages by Bank Branches. Which of the above events can be considered as steps taken to achieve \"financial inclusion in India\"?",
+      "options": {
+        "a": "Only 2 and 3",
+        "b": "1, 2 and 3",
+        "c": "Only 1 and 2",
+        "d": "Only 3"
+      },
+      "id": "27fd6a4e-7fa6-404f-b0df-197876b578da",
+      "extraction_order": 112,
+      "chunk_number": 6,
+      "correct_answer": "B"
+    },
+    {
+      "question_number": "118",
+      "question_text": "With reference to \"National Food Security Act\", which of the following statements are correct?",
+      "options": {
+        "a": "2 and 3 are correct.",
+        "b": "1 and 3 are correct.",
+        "c": "1, 2 and 3 are correct.",
+        "d": "1 and 2 are correct."
+      },
+      "id": "885c9a30-b532-4a0a-afe3-c696ff16383c",
+      "extraction_order": 113,
+      "chunk_number": 6,
+      "correct_answer": "D"
+    },
+    {
+      "question_number": "119",
+      "question_text": "Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R). Assertion (A): There is a positive relationship between Human Development Index (HDI) and the Sustainable Development Goals (SDGs) ranking of Indian States. Reason (R): The underlying dimensions of SDG targets are closely related to education and health aspects. Select the correct answer from the codes given below:",
+      "options": {
+        "a": "Both $(\\mathrm{A})$ and $(\\mathrm{R})$ are true, but $(\\mathrm{R})$ is not the correct explanation of $(\\mathrm{A})$.",
+        "b": "$(\\mathrm{A})$ is false, but $(\\mathrm{R})$ is true.",
+        "c": "Both $(\\mathrm{A})$ and $(\\mathrm{R})$ are true and $(\\mathrm{R})$ is the correct explanation of $(\\mathrm{A})$.",
+        "d": "$(\\mathrm{A})$ is true, but $(\\mathrm{R})$ is false."
+      },
+      "id": "ec99bebb-da9b-4b34-920f-90209d94e393",
+      "extraction_order": 114,
+      "chunk_number": 6,
+      "correct_answer": "C"
+    },
+    {
+      "question_number": "120",
+      "question_text": "List-I contains the names of countries, whereas List-II shows the Rank as remittances received in the year 2022. Match List-I with List-II and choose the correct answer using the codes given below the lists:",
+      "options": {
+        "a": "4, 1, 2, 3",
+        "b": "2, 3, 1, 4",
+        "c": "3, 4, 2, 1",
+        "d": "1, 2, 3, 4"
+      },
+      "id": "74cb8379-083f-49cb-82db-0fb6afc82a68",
+      "extraction_order": 115,
+      "chunk_number": 6,
+      "correct_answer": "B"
+    },
+    {
+      "question_number": "121",
+      "question_text": "Match List-I with List-II and choose the correct answer using the codes given below the lists:",
+      "options": {
+        "a": "(a) 1 2 3 4",
+        "b": "(b) 2 1 3 4",
+        "c": "(c) 4 1 2 3",
+        "d": "(d) 2 3 1 4"
+      },
+      "id": "5434a607-6b97-4ef0-af30-66f415a371c2",
+      "extraction_order": 116,
+      "chunk_number": 7,
+      "correct_answer": "B"
+    },
+    {
+      "question_number": "122",
+      "question_text": "Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R). Assertion (A): Article 352 of the Indian Constitution deals with the declaration of an emergency. Reason (R): An emergency may take place at any time. Select the correct answer from the codes given below:",
+      "options": {
+        "a": "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+        "b": "(A) is false, but (R) is true.",
+        "c": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+        "d": "(A) is true, but (R) is false."
+      },
+      "id": "009295aa-0491-4ad3-9425-0c7cd83b5e4b",
+      "extraction_order": 117,
+      "chunk_number": 7,
+      "correct_answer": "A"
+    },
+    {
+      "question_number": "123",
+      "question_text": "Which of the following statements are correct regarding ICT based e-Governance?",
+      "options": {
+        "a": "2 and 4",
+        "b": "2 and 3",
+        "c": "1, 2 and 3",
+        "d": "2,3 and 4"
+      },
+      "id": "01236cbe-9064-4a0d-8bb6-a5dabda22002",
+      "extraction_order": 118,
+      "chunk_number": 7,
+      "correct_answer": "B"
+    },
+    {
+      "question_number": "124",
+      "question_text": "The UPSC derives its functions from which of the following sources?",
+      "options": {
+        "a": "1 and 2",
+        "b": "1 and 3",
+        "c": "Only 1",
+        "d": "1,2,3 and 4"
+      },
+      "id": "6dbd32d5-553a-4da6-9e69-015a39073c06",
+      "extraction_order": 119,
+      "chunk_number": 7,
+      "correct_answer": "D"
+    },
+    {
+      "question_number": "125",
+      "question_text": "Which one of the following is correctly matched?",
+      "options": {
+        "a": "Election Commission - 165",
+        "b": "National Commission - 148 for Scheduled Castes",
+        "c": "Finance Commission - 263",
+        "d": "National Commission - 340 for Backward Classes"
+      },
+      "id": "0e324896-c9d3-443b-b178-60a56c1d3069",
+      "extraction_order": 120,
+      "chunk_number": 7,
+      "correct_answer": "D"
+    },
+    {
+      "question_number": "126",
+      "question_text": "Identify the correct chronological sequence of the following:",
+      "options": {
+        "a": "1,4,3,2",
+        "b": "3,2,1,4",
+        "c": "1,2,3,4",
+        "d": "3,4,2,1"
+      },
+      "id": "08ac0b5c-3888-4724-b144-d1bf549e0f54",
+      "extraction_order": 121,
+      "chunk_number": 7,
+      "correct_answer": "C"
+    },
+    {
+      "question_number": "127",
+      "question_text": "Match the Amendments with their year of implementation:",
+      "options": {
+        "a": "(a) 2 1 3 4",
+        "b": "(b) 4 3 2 1",
+        "c": "(c) 1 2 3 4",
+        "d": "(d) 3 1 4 2"
+      },
+      "id": "c9d53622-7286-40ca-a1d8-398b7b0d35bd",
+      "extraction_order": 122,
+      "chunk_number": 7,
+      "correct_answer": "D"
+    },
+    {
+      "question_number": "128",
+      "question_text": "Match List-I with List-II and choose the correct answer using the codes given below the lists:",
+      "options": {
+        "a": "(a) 2 4 3 1",
+        "b": "(b) 2 1 4 3",
+        "c": "(c) 4 3 1 2",
+        "d": "(d) 3 2 4 1"
+      },
+      "id": "8cccce02-3155-491f-b7d1-ddfdef01f64e",
+      "extraction_order": 123,
+      "chunk_number": 7,
+      "correct_answer": "C"
+    },
+    {
+      "question_number": "129",
+      "question_text": "Which one of the following is not a level in the three-tier Panchayati Raj recommended by Balwant Rai Mehta Committee?",
+      "options": {
+        "a": "Panchayat Samiti",
+        "b": "Gram Panchayat",
+        "c": "Zilla Panchayat",
+        "d": "Nyaya Panchayat"
+      },
+      "id": "2ea8e4a3-f456-4dc4-9e73-99c26f92f59b",
+      "extraction_order": 124,
+      "chunk_number": 7,
+      "correct_answer": "D"
+    },
+    {
+      "question_number": "130",
+      "question_text": "According to the Lokpal and Lokayuktas Act, 2013 the Lokpal would be appointed by the President after obtaining the recommendations of a Selection Committee, with the Prime Minister as chairperson and consisting, among others, of the following:",
+      "options": {
+        "a": "1,2 and 3",
+        "b": "2,3 and 4",
+        "c": "1,2,3 and 4",
+        "d": "1,3 and 4"
+      },
+      "id": "c4a7d260-4e3d-468a-81a2-031b64e5e7ae",
+      "extraction_order": 125,
+      "chunk_number": 7,
+      "correct_answer": "D"
+    },
+    {
+      "question_number": "131",
+      "question_text": "Consider the following statements with reference to the Congress Socialist Party:",
+      "options": {
+        "a": "Both 1 and 2",
+        "b": "Neither 1 nor 2",
+        "c": "Only 1",
+        "d": "Only 2"
+      },
+      "id": "e59ed9bc-22f7-4313-b802-338b55a9614e",
+      "extraction_order": 126,
+      "chunk_number": 7,
+      "correct_answer": "B"
+    },
+    {
+      "question_number": "132",
+      "question_text": "According to the Lokpal and Lokayuktas Act, 2013 the Lokpal would be appointed by the President after obtaining the recommendations of a Selection Committee, with the Prime Minister as chairperson and consisting, among others, of the following:",
+      "options": {
+        "a": "Chief Justice of India or a Supreme Court Judge nominated by him",
+        "b": "Chairman of the Rajya Sabha",
+        "c": "Speaker of the Lok Sabha",
+        "d": "Leader of Opposition in the Lok Sabha"
+      },
+      "correct_answer": "C",
+      "id": "8c7cd735-32e7-4146-b645-4604c739b63e",
+      "extraction_order": 155,
+      "chunk_number": 32
+    },
+    {
+      "question_number": "132",
+      "question_text": "Select the correct answer from the codes given below:",
+      "options": {
+        "a": "$2,1,4,3$",
+        "b": "$3,2,1,4$",
+        "c": "$2,3,1,4$",
+        "d": "$2,4,3,1$"
+      },
+      "correct_answer": "C",
+      "id": "824eae00-8ecf-45a0-9ca8-28f0f2689ad6",
+      "extraction_order": 157,
+      "chunk_number": 33
+    },
+    {
+      "question_number": "133",
+      "question_text": "Consider the following events and arrange them in chronological order:",
+      "options": {
+        "a": "3,1,4,2",
+        "b": "4,3,1,2",
+        "c": "1,3,4,2",
+        "d": "4,2,3,1"
+      },
+      "id": "52a90071-2d4e-4e3f-b385-c66387ee4b8b",
+      "extraction_order": 127,
+      "chunk_number": 7,
+      "correct_answer": "B"
+    },
+    {
+      "question_number": "134",
+      "question_text": "Match List-I with List-II and choose the correct answer using the codes given below the lists:",
+      "options": {
+        "a": "(a) 3 2 4 1",
+        "b": "(b) 1 2 4 3",
+        "c": "(c) 3 2 1 4",
+        "d": "(d) 1 2 3 4"
+      },
+      "id": "57b3468f-aee0-461d-8b7f-7645476ba78d",
+      "extraction_order": 128,
+      "chunk_number": 7,
+      "correct_answer": "C"
+    },
+    {
+      "question_number": "135",
+      "question_text": "Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R). Assertion (A): Most of the early nationalists considered British rule as an act of providence destined to bring modernisation. Reason (R): They complained only against \"Un-British rule\" in India. Select the correct answer from the codes given below:",
+      "options": {
+        "a": "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+        "b": "(A) is false, but (R) is true.",
+        "c": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+        "d": "(A) is true, but (R) is false."
+      },
+      "id": "3dab852d-5f7d-4138-9233-97e13c3a5773",
+      "extraction_order": 129,
+      "chunk_number": 7,
+      "correct_answer": "C"
+    },
+    {
+      "question_number": "136",
+      "question_text": "Which one of the following statements is not correct about William A.J. Archbold?",
+      "options": {
+        "a": "He was the Principal of Government College, Dacca.",
+        "b": "He was the Principal of Lahore College, Lahore.",
+        "c": "He was the Principal of MAO College, Aligarh.",
+        "d": "He was the Principal of the Muir Central College, Allahabad"
+      },
+      "id": "4160f5e6-f9c7-4357-9884-d4bff7202676",
+      "extraction_order": 130,
+      "chunk_number": 7,
+      "correct_answer": "B"
+    },
+    {
+      "question_number": "137",
+      "question_text": "Consider the following events and arrange them in chronological order starting from the earliest:",
+      "options": {
+        "a": "2,3,1,4",
+        "b": "4,1,3,2",
+        "c": "2,3,4,1",
+        "d": "3,1,2,4"
+      },
+      "id": "26a2c40f-43ad-4577-880d-64e8244990c6",
+      "extraction_order": 131,
+      "chunk_number": 7,
+      "correct_answer": "A"
+    },
+    {
+      "question_number": "138",
+      "question_text": "Match List-I with List-II and choose the correct answer using the codes given below the lists:",
+      "options": {
+        "a": "(a) 4 3 1 2",
+        "b": "(b) 3 4 1 2",
+        "c": "(c) 3 2 1 4",
+        "d": "(d) 2 1 3 4"
+      },
+      "id": "ea213870-8a49-44e1-881d-d8f15a3ee210",
+      "extraction_order": 132,
+      "chunk_number": 7,
+      "correct_answer": "A"
+    },
+    {
+      "question_number": "139",
+      "question_text": "Consider the following days and arrange them in chronological order:",
+      "options": {
+        "a": "4,2,3,1",
+        "b": "2,1,3,4",
+        "c": "2,3,4,1",
+        "d": "3,2,1,4"
+      },
+      "id": "8088b816-3658-490c-b3ce-f844eab7053e",
+      "extraction_order": 133,
+      "chunk_number": 7,
+      "correct_answer": "B"
+    },
+    {
+      "question_number": "140",
+      "question_text": "Match Lis-t-I with List-II and choose the correct answer using the codes given below the lists:",
+      "options": {
+        "a": "3, 2, 1, 4",
+        "b": "3, 2, 4, 1",
+        "c": "4, 2, 1, 3",
+        "d": "2, 3, 1, 4"
+      },
+      "id": "bcd8b921-9919-40f1-8838-1269b96b29f7",
+      "extraction_order": 134,
+      "chunk_number": 8,
+      "correct_answer": "A"
+    },
+    {
+      "question_number": "141",
+      "question_text": "Match List-I with List-II and choose the correct answer using the codes given below the lists:",
+      "options": {
+        "a": "4, 3, 2, 1",
+        "b": "2, 1, 4, 3",
+        "c": "1, 2, 3, 4",
+        "d": "1, 3, 2, 4"
+      },
+      "id": "bcc045d7-0155-4138-b93b-74b67ea9ec1a",
+      "extraction_order": 135,
+      "chunk_number": 8,
+      "correct_answer": "B"
+    },
+    {
+      "question_number": "142",
+      "question_text": "Consider the following statements with reference to Special Officer for Linguistic Minorities : 1. In the Constitution, there is a provision for the post of Special Officer for Linguistic Minorities for every State. 2. A new Article 350 B was added for this by the 9th Constitution Amendment Act. Which of the above statements is/are correct?",
+      "options": {
+        "a": "Only 2",
+        "b": "Neither 1 nor 2",
+        "c": "Only 1",
+        "d": "Both 1 and 2"
+      },
+      "id": "94419409-74cf-4e34-9714-8a7269ba19ad",
+      "extraction_order": 136,
+      "chunk_number": 8,
+      "correct_answer": "B"
+    },
+    {
+      "question_number": "143",
+      "question_text": "The Concurrent list of the Indian Constitution includes: 144. Trade and Commerce 145. Adulteration of Goods 146. Succession Select the correct answer from the codes given below:",
+      "options": {
+        "a": "1 and 3",
+        "b": "1, 2 and 3",
+        "c": "Only 1",
+        "d": "2 and 3"
+      },
+      "id": "97a154f2-d023-4ceb-a166-c9fc86aab2b0",
+      "extraction_order": 137,
+      "chunk_number": 8,
+      "correct_answer": "D"
+    },
+    {
+      "question_number": "144",
+      "question_text": "Fathima Beevi died recently. Consider the following statements regarding her : 1. She was the first woman judge of the Supreme Court of India. 2. She served as the Governor of Kerala from 1997-2001. 3. She was the first Muslim woman to enter into higher judiciary. Select the correct answer from the codes given below:",
+      "options": {
+        "a": "1 and 2",
+        "b": "1 and 3",
+        "c": "Only 1",
+        "d": "1, 2 and 3"
+      },
+      "id": "d7a56e2d-62b0-48ff-91df-5a967e90fc02",
+      "extraction_order": 138,
+      "chunk_number": 8,
+      "correct_answer": "B"
+    },
+    {
+      "question_number": "145",
+      "question_text": "With reference to the \"National Intellectual Property Rights Policy\" consider the following statements: 146. It reiterates India's commitment to Doha Development Agenda and the TRIPS agreement. 147. Department of Industrial Policy and Promotion is the nodal agency for regulating Intellectual Property Rights in India. Which of the above statements is/are correct?",
+      "options": {
+        "a": "Only 2",
+        "b": "Neither 1 nor 2",
+        "c": "Only 1",
+        "d": "Both 1 and 2"
+      },
+      "id": "3bb9192c-f8b9-47ce-a8e1-89e1f4288389",
+      "extraction_order": 139,
+      "chunk_number": 8,
+      "correct_answer": "D"
+    },
+    {
+      "question_number": "146",
+      "question_text": "Which Amendment Acts deal with Local Governance Institutions in India?",
+      "options": {
+        "a": "63rd and 64th Amendment Acts",
+        "b": "86th and 87th Amendment Acts",
+        "c": "42nd and 43rd Amendment Acts",
+        "d": "73rd and 74th Amendment Acts"
+      },
+      "id": "9929ad07-b949-4c02-87dd-7039a1a56396",
+      "extraction_order": 140,
+      "chunk_number": 8,
+      "correct_answer": "D"
+    },
+    {
+      "question_number": "147",
+      "question_text": "Match List-I with List-II and choose the correct answer using the codes given below the lists:",
+      "options": {
+        "a": "2, 1, 4, 3",
+        "b": "1, 2, 3, 4",
+        "c": "4, 3, 2, 1",
+        "d": "3, 4, 1, 2"
+      },
+      "id": "cc949c78-2fec-4587-9ad2-8cd83bec4d85",
+      "extraction_order": 141,
+      "chunk_number": 8,
+      "correct_answer": "A"
+    },
+    {
+      "question_number": "148",
+      "question_text": "Consider the following statements: 149. Kunwar Singh, Landlord of Jagdishpur in Bihar, led the rebellion against the British. 150. Lord Dalhousie recognised the adopted son of Rani Lakshmi Bai as the heir apparent. Which of the above statements is/are correct?",
+      "options": {
+        "a": "Only 2",
+        "b": "Neither 1 nor 2",
+        "c": "Only 1",
+        "d": "Both 1 and 2"
+      },
+      "id": "08a425dd-a838-45db-9404-10b3299ca6fb",
+      "extraction_order": 142,
+      "chunk_number": 8,
+      "correct_answer": "C"
+    },
+    {
+      "question_number": "149",
+      "question_text": "Consider the following foreign travellers and arrange them in ascending chronological order: 152. I-Tsing 153. Al-Biruni 154. Huentsang (Hiuen Tsang) 155. Fahyan (Fa-Hien) Select the correct answer from the codes given below:",
+      "options": {
+        "a": "$1,2,3,4$",
+        "b": "$4,3,1,2$",
+        "c": "$2,1,4,3$",
+        "d": "$3,4,2,1$"
+      },
+      "id": "a3280a7d-2b0d-4734-ac5e-01806ad252da",
+      "extraction_order": 144,
+      "chunk_number": 8,
+      "correct_answer": "B"
+    },
+    {
+      "question_number": "150",
+      "question_text": "Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R). Assertion (A): Balban made his government firm and centralised all authority in his hands. Reason (R): He wanted to protect the north-west frontier against Mongol invasions. Select the correct answer from the codes given below:",
+      "options": {
+        "a": "Both $(\\mathrm{A})$ and $(\\mathrm{R})$ are true and $(\\mathrm{R})$ is the correct explanation of (A).",
+        "b": "(A) is false, but (R) is true.",
+        "c": "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+        "d": "(A) is true, but (R) is false."
+      },
+      "id": "f10679e5-7980-47c2-9b37-1b96801c916e",
+      "extraction_order": 143,
+      "chunk_number": 8,
+      "correct_answer": "C"
+    }
+  ]
+}

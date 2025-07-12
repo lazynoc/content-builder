@@ -1,0 +1,432 @@
+[
+  {
+    "question_number": 1,
+    "question_text": "Consider the following Peshwas and arrange them in ascending chronological order:\n2. Raghunath Rao (Raghoba)\n3. Balaji Baji Rao\n4. Narayan Rao\n5. Balaji Vishwanath\n\nSelect the correct answer from the codes given below:",
+    "correct_answer": "A",
+    "analysis_result": {
+      "success": true,
+      "analysis": {
+        "subject": "History",
+        "topic": "Maratha Empire and Peshwas",
+        "difficulty_level": "Medium",
+        "question_type": "Matching/Chronological Order",
+        "key_concepts": [
+          "Peshwas of the Maratha Empire",
+          "Chronology of Maratha leadership",
+          "Key historical figures in Indian history"
+        ],
+        "explanation": "The correct chronological order of the Peshwas is: Balaji Vishwanath (1st Peshwa, 1714-1720), Baji Rao I (2nd Peshwa, 1720-1740), Balaji Baji Rao (Nana Baji Rao, 3rd Peshwa, 1740-1761), and Narayan Rao (4th Peshwa, 1774-1775). Raghunath Rao (Raghoba) was a prominent figure but did not serve as Peshwa in the official capacity. Therefore, the correct order is 4 (Balaji Vishwanath), 2 (Raghunath Rao), 3 (Balaji Baji Rao), and 1 (Narayan Rao).",
+        "why_others_are_wrong": "Option b) 3,4,1,2 is incorrect as it misplaces the order of Balaji Vishwanath and Raghunath Rao. Option c) 1,2,3,4 is incorrect as it does not reflect the actual sequence of Peshwas. Option d) 1,3,2,4 is incorrect because it places Raghunath Rao incorrectly among the Peshwas.",
+        "uppsc_relevance": "Understanding the chronology of the Peshwas is crucial for UPPSC aspirants as it reflects the political dynamics of the Maratha Empire, which played a significant role in Indian history and the colonial period.",
+        "related_topics": [
+          "History of the Maratha Empire",
+          "Colonial India",
+          "Political structure of the Maratha Empire",
+          "Key battles and treaties involving the Marathas"
+        ],
+        "study_tips": "Focus on creating timelines for significant historical figures and events. Use mnemonic devices to remember the order of Peshwas and their contributions. Regularly revise and test yourself with flashcards.",
+        "examiner_thought_process": "The examiner is testing the aspirant's knowledge of historical chronology and their ability to recall and organize information accurately.",
+        "common_mistakes": "Students often confuse the names and contributions of different Peshwas or fail to remember the correct order due to lack of systematic study.",
+        "time_management": "Spend about 1-2 minutes on such questions during the exam to ensure you have enough time for more complex questions.",
+        "confidence_level": "A well-prepared student should feel confident in answering questions related to the Peshwas and their chronology.",
+        "priority_level": "High priority for UPPSC preparation, as history is a significant component of the syllabus and often features in both prelims and mains."
+      },
+      "raw_response": "{\n    \"subject\": \"History\",\n    \"topic\": \"Maratha Empire and Peshwas\",\n    \"difficulty_level\": \"Medium\",\n    \"question_type\": \"Matching/Chronological Order\",\n    \"key_concepts\": [\n        \"Peshwas of the Maratha Empire\",\n        \"Chronology of Maratha leadership\",\n        \"Key historical figures in Indian history\"\n    ],\n    \"explanation\": \"The correct chronological order of the Peshwas is: Balaji Vishwanath (1st Peshwa, 1714-1720), Baji Rao I (2nd Peshwa, 1720-1740), Balaji Baji Rao (Nana Baji Rao, 3rd Peshwa, 1740-1761), and Narayan Rao (4th Peshwa, 1774-1775). Raghunath Rao (Raghoba) was a prominent figure but did not serve as Peshwa in the official capacity. Therefore, the correct order is 4 (Balaji Vishwanath), 2 (Raghunath Rao), 3 (Balaji Baji Rao), and 1 (Narayan Rao).\",\n    \"why_others_are_wrong\": \"Option b) 3,4,1,2 is incorrect as it misplaces the order of Balaji Vishwanath and Raghunath Rao. Option c) 1,2,3,4 is incorrect as it does not reflect the actual sequence of Peshwas. Option d) 1,3,2,4 is incorrect because it places Raghunath Rao incorrectly among the Peshwas.\",\n    \"uppsc_relevance\": \"Understanding the chronology of the Peshwas is crucial for UPPSC aspirants as it reflects the political dynamics of the Maratha Empire, which played a significant role in Indian history and the colonial period.\",\n    \"related_topics\": [\n        \"History of the Maratha Empire\",\n        \"Colonial India\",\n        \"Political structure of the Maratha Empire\",\n        \"Key battles and treaties involving the Marathas\"\n    ],\n    \"study_tips\": \"Focus on creating timelines for significant historical figures and events. Use mnemonic devices to remember the order of Peshwas and their contributions. Regularly revise and test yourself with flashcards.\",\n    \"examiner_thought_process\": \"The examiner is testing the aspirant's knowledge of historical chronology and their ability to recall and organize information accurately.\",\n    \"common_mistakes\": \"Students often confuse the names and contributions of different Peshwas or fail to remember the correct order due to lack of systematic study.\",\n    \"time_management\": \"Spend about 1-2 minutes on such questions during the exam to ensure you have enough time for more complex questions.\",\n    \"confidence_level\": \"A well-prepared student should feel confident in answering questions related to the Peshwas and their chronology.\",\n    \"priority_level\": \"High priority for UPPSC preparation, as history is a significant component of the syllabus and often features in both prelims and mains.\"\n}"
+    }
+  },
+  {
+    "question_number": 16,
+    "question_text": "Consider the following events and arrange them in correct chronological order starting from the earliest to the last activity:\n1. Royal Indian Navy Revolt\n2. Announcement of Cabinet Mission\n3. Formation of Interim Government\n4. Arrival of a UK Parliamentary Delegation in Delhi",
+    "correct_answer": "A",
+    "analysis_result": {
+      "success": true,
+      "analysis": {
+        "subject": "Indian History",
+        "topic": "Indian Independence Movement",
+        "difficulty_level": "Medium",
+        "question_type": "Chronological Order",
+        "key_concepts": [
+          "Royal Indian Navy Revolt",
+          "Cabinet Mission",
+          "Interim Government",
+          "UK Parliamentary Delegation"
+        ],
+        "explanation": "The correct chronological order is 4 (Arrival of a UK Parliamentary Delegation in Delhi), 2 (Announcement of Cabinet Mission), 3 (Formation of Interim Government), and 1 (Royal Indian Navy Revolt). The UK Parliamentary Delegation arrived in 1946, followed by the Cabinet Mission announcement, which aimed to discuss constitutional reforms. The Interim Government was formed in 1946, and the Royal Indian Navy Revolt occurred in February 1946 as a response to the political situation.",
+        "why_others_are_wrong": {
+          "a": "Correct answer.",
+          "b": "Incorrect because it places the Royal Indian Navy Revolt before the announcement of the Cabinet Mission, which is historically inaccurate.",
+          "c": "Incorrect as it suggests the Cabinet Mission was announced after the Royal Indian Navy Revolt, which is not true.",
+          "d": "Incorrect because it places the Royal Indian Navy Revolt before the formation of the Interim Government, which is not in the correct sequence."
+        },
+        "uppsc_relevance": "Understanding the chronological sequence of events in the Indian independence movement is crucial for UPPSC as it helps in grasping the political dynamics and the evolution of governance in India.",
+        "related_topics": [
+          "Freedom Struggle",
+          "Post-Independence Governance",
+          "British Colonial Policies"
+        ],
+        "study_tips": "Create timelines for significant events in Indian history. Use flashcards to memorize dates and events. Engage in group discussions to reinforce learning and clarify doubts.",
+        "examiner_thought_process": "The examiner is testing the candidate's knowledge of historical events and their ability to recall and arrange them in a logical sequence.",
+        "common_mistakes": "Students often confuse the sequence of events or mix up dates. It's essential to focus on the context and the implications of each event.",
+        "time_management": "Spend about 1-2 minutes on such questions. If unsure, eliminate the most obviously incorrect options to narrow down your choices.",
+        "confidence_level": "A well-prepared student should feel confident in answering such questions, especially if they have studied the timeline of events thoroughly.",
+        "priority_level": "High priority for UPPSC preparation, as questions related to historical events are frequently asked."
+      },
+      "raw_response": "{\n    \"subject\": \"Indian History\",\n    \"topic\": \"Indian Independence Movement\",\n    \"difficulty_level\": \"Medium\",\n    \"question_type\": \"Chronological Order\",\n    \"key_concepts\": [\n        \"Royal Indian Navy Revolt\",\n        \"Cabinet Mission\",\n        \"Interim Government\",\n        \"UK Parliamentary Delegation\"\n    ],\n    \"explanation\": \"The correct chronological order is 4 (Arrival of a UK Parliamentary Delegation in Delhi), 2 (Announcement of Cabinet Mission), 3 (Formation of Interim Government), and 1 (Royal Indian Navy Revolt). The UK Parliamentary Delegation arrived in 1946, followed by the Cabinet Mission announcement, which aimed to discuss constitutional reforms. The Interim Government was formed in 1946, and the Royal Indian Navy Revolt occurred in February 1946 as a response to the political situation.\",\n    \"why_others_are_wrong\": {\n        \"a\": \"Correct answer.\",\n        \"b\": \"Incorrect because it places the Royal Indian Navy Revolt before the announcement of the Cabinet Mission, which is historically inaccurate.\",\n        \"c\": \"Incorrect as it suggests the Cabinet Mission was announced after the Royal Indian Navy Revolt, which is not true.\",\n        \"d\": \"Incorrect because it places the Royal Indian Navy Revolt before the formation of the Interim Government, which is not in the correct sequence.\"\n    },\n    \"uppsc_relevance\": \"Understanding the chronological sequence of events in the Indian independence movement is crucial for UPPSC as it helps in grasping the political dynamics and the evolution of governance in India.\",\n    \"related_topics\": [\n        \"Freedom Struggle\",\n        \"Post-Independence Governance\",\n        \"British Colonial Policies\"\n    ],\n    \"study_tips\": \"Create timelines for significant events in Indian history. Use flashcards to memorize dates and events. Engage in group discussions to reinforce learning and clarify doubts.\",\n    \"examiner_thought_process\": \"The examiner is testing the candidate's knowledge of historical events and their ability to recall and arrange them in a logical sequence.\",\n    \"common_mistakes\": \"Students often confuse the sequence of events or mix up dates. It's essential to focus on the context and the implications of each event.\",\n    \"time_management\": \"Spend about 1-2 minutes on such questions. If unsure, eliminate the most obviously incorrect options to narrow down your choices.\",\n    \"confidence_level\": \"A well-prepared student should feel confident in answering such questions, especially if they have studied the timeline of events thoroughly.\",\n    \"priority_level\": \"High priority for UPPSC preparation, as questions related to historical events are frequently asked.\"\n}"
+    }
+  },
+  {
+    "question_number": 18,
+    "question_text": "Consider the following events and arrange them in correct chronological order starting from the earliest to the last activity:\n17. Royal Indian Navy Revolt\n18. Announcement of Cabinet Mission\n19. Formation of Interim Government\n20. Arrival of a UK Parliamentary Delegation in Delhi",
+    "correct_answer": "A",
+    "analysis_result": {
+      "success": true,
+      "analysis": {
+        "subject": "History",
+        "topic": "Indian Independence Movement",
+        "difficulty_level": "Medium",
+        "question_type": "Chronological ordering",
+        "key_concepts": [
+          "Royal Indian Navy Revolt",
+          "Cabinet Mission",
+          "Interim Government",
+          "UK Parliamentary Delegation"
+        ],
+        "explanation": "The correct chronological order of events is: 1) Arrival of a UK Parliamentary Delegation in Delhi (1946), 2) Announcement of Cabinet Mission (March 1946), 3) Formation of Interim Government (September 1946), and 4) Royal Indian Navy Revolt (February 1946). The events are crucial in understanding the political developments leading up to India's independence.",
+        "why_others_are_wrong": {
+          "b": "Option b (4,1,2,3) incorrectly places the Royal Indian Navy Revolt before the announcement of the Cabinet Mission.",
+          "c": "Option c (4,2,1,3) incorrectly places the Royal Indian Navy Revolt before the formation of the Interim Government.",
+          "d": "Option d (2,4,1,3) incorrectly places the announcement of the Cabinet Mission before the arrival of the UK Parliamentary Delegation."
+        },
+        "uppsc_relevance": "Understanding the sequence of events in the Indian independence movement is crucial for UPPSC aspirants, as it forms the basis for questions related to modern Indian history, which is a significant part of the syllabus.",
+        "related_topics": [
+          "Indian National Movement",
+          "Role of the British Government in India",
+          "Post-World War II Political Developments in India"
+        ],
+        "study_tips": "Create a timeline of key events in the Indian independence movement. Use flashcards to memorize dates and events, and practice chronological ordering questions to enhance your skills.",
+        "examiner_thought_process": "The examiner aims to test the candidate's knowledge of historical events, their ability to recall dates, and their understanding of the sequence of significant occurrences in India's struggle for independence.",
+        "common_mistakes": "Students often confuse the dates of events or misplace them in chronological order. It's essential to have a clear understanding of the timeline of events.",
+        "time_management": "Spend about 1-2 minutes on such questions during the exam. If unsure, make an educated guess based on your knowledge of the events.",
+        "confidence_level": "A well-prepared student should feel confident in answering such questions, provided they have studied the timeline of events thoroughly.",
+        "priority_level": "High priority for UPPSC preparation, as questions related to historical events frequently appear in the exam."
+      },
+      "raw_response": "{\n    \"subject\": \"History\",\n    \"topic\": \"Indian Independence Movement\",\n    \"difficulty_level\": \"Medium\",\n    \"question_type\": \"Chronological ordering\",\n    \"key_concepts\": [\n        \"Royal Indian Navy Revolt\",\n        \"Cabinet Mission\",\n        \"Interim Government\",\n        \"UK Parliamentary Delegation\"\n    ],\n    \"explanation\": \"The correct chronological order of events is: 1) Arrival of a UK Parliamentary Delegation in Delhi (1946), 2) Announcement of Cabinet Mission (March 1946), 3) Formation of Interim Government (September 1946), and 4) Royal Indian Navy Revolt (February 1946). The events are crucial in understanding the political developments leading up to India's independence.\",\n    \"why_others_are_wrong\": {\n        \"b\": \"Option b (4,1,2,3) incorrectly places the Royal Indian Navy Revolt before the announcement of the Cabinet Mission.\",\n        \"c\": \"Option c (4,2,1,3) incorrectly places the Royal Indian Navy Revolt before the formation of the Interim Government.\",\n        \"d\": \"Option d (2,4,1,3) incorrectly places the announcement of the Cabinet Mission before the arrival of the UK Parliamentary Delegation.\"\n    },\n    \"uppsc_relevance\": \"Understanding the sequence of events in the Indian independence movement is crucial for UPPSC aspirants, as it forms the basis for questions related to modern Indian history, which is a significant part of the syllabus.\",\n    \"related_topics\": [\n        \"Indian National Movement\",\n        \"Role of the British Government in India\",\n        \"Post-World War II Political Developments in India\"\n    ],\n    \"study_tips\": \"Create a timeline of key events in the Indian independence movement. Use flashcards to memorize dates and events, and practice chronological ordering questions to enhance your skills.\",\n    \"examiner_thought_process\": \"The examiner aims to test the candidate's knowledge of historical events, their ability to recall dates, and their understanding of the sequence of significant occurrences in India's struggle for independence.\",\n    \"common_mistakes\": \"Students often confuse the dates of events or misplace them in chronological order. It's essential to have a clear understanding of the timeline of events.\",\n    \"time_management\": \"Spend about 1-2 minutes on such questions during the exam. If unsure, make an educated guess based on your knowledge of the events.\",\n    \"confidence_level\": \"A well-prepared student should feel confident in answering such questions, provided they have studied the timeline of events thoroughly.\",\n    \"priority_level\": \"High priority for UPPSC preparation, as questions related to historical events frequently appear in the exam.\"\n}"
+    }
+  },
+  {
+    "question_number": 23,
+    "question_text": "Which one of the following is not correctly matched?",
+    "correct_answer": "B",
+    "analysis_result": {
+      "success": true,
+      "analysis": {
+        "subject": "Indian Polity and Governance",
+        "topic": "Constitutional Provisions related to the Governor",
+        "difficulty_level": "Medium",
+        "question_type": "Matching",
+        "key_concepts": [
+          "Governor's role",
+          "Constitutional Articles",
+          "Executive Authority",
+          "Removal and Term of the Governor"
+        ],
+        "explanation": "The correct answer is B because Article 154 does not pertain to the removal of the Governor. Instead, Article 154 states that the executive power of the state shall be vested in the Governor and shall be exercised by him either directly or through officers subordinate to him. The removal of the Governor is not explicitly mentioned in Article 155; rather, it is governed by Article 156, which outlines the conditions under which the Governor can be removed.",
+        "why_others_are_wrong": {
+          "a": "Article 153 indeed establishes the Office of the Governor in each state.",
+          "c": "Article 155 does not deal with the removal of the Governor but rather with the appointment of the Governor.",
+          "d": "Article 156 clearly states the term of the Governor, which is five years, unless he resigns or is removed."
+        },
+        "uppsc_relevance": "Understanding the constitutional provisions related to the Governor is crucial for the UPPSC exam as it forms a foundational part of the Indian political system. Questions on the Constitution are frequently asked in both prelims and mains.",
+        "related_topics": [
+          "Structure of the State Government",
+          "Powers and Functions of the Governor",
+          "State Legislature",
+          "Constitutional Provisions"
+        ],
+        "study_tips": "Aspirants should focus on memorizing key articles of the Constitution, especially those related to governance. Create flashcards for quick revision and practice matching questions to reinforce memory.",
+        "examiner_thought_process": "The examiner is testing the aspirant's knowledge of specific articles of the Constitution and their understanding of the roles and powers of the Governor, which is a significant aspect of state governance.",
+        "common_mistakes": "Students often confuse articles related to the powers and functions of the Governor. It's important to read each article carefully and understand its specific implications.",
+        "time_management": "Spend about 1-2 minutes on such questions. If unsure, eliminate options based on your knowledge before making a guess.",
+        "confidence_level": "A well-prepared student should feel confident in answering such questions, especially if they have revised the Constitution thoroughly.",
+        "priority_level": "High priority for UPPSC preparation due to the frequent occurrence of polity-related questions in the exam."
+      },
+      "raw_response": "{\n    \"subject\": \"Indian Polity and Governance\",\n    \"topic\": \"Constitutional Provisions related to the Governor\",\n    \"difficulty_level\": \"Medium\",\n    \"question_type\": \"Matching\",\n    \"key_concepts\": [\n        \"Governor's role\",\n        \"Constitutional Articles\",\n        \"Executive Authority\",\n        \"Removal and Term of the Governor\"\n    ],\n    \"explanation\": \"The correct answer is B because Article 154 does not pertain to the removal of the Governor. Instead, Article 154 states that the executive power of the state shall be vested in the Governor and shall be exercised by him either directly or through officers subordinate to him. The removal of the Governor is not explicitly mentioned in Article 155; rather, it is governed by Article 156, which outlines the conditions under which the Governor can be removed.\",\n    \"why_others_are_wrong\": {\n        \"a\": \"Article 153 indeed establishes the Office of the Governor in each state.\",\n        \"c\": \"Article 155 does not deal with the removal of the Governor but rather with the appointment of the Governor.\",\n        \"d\": \"Article 156 clearly states the term of the Governor, which is five years, unless he resigns or is removed.\"\n    },\n    \"uppsc_relevance\": \"Understanding the constitutional provisions related to the Governor is crucial for the UPPSC exam as it forms a foundational part of the Indian political system. Questions on the Constitution are frequently asked in both prelims and mains.\",\n    \"related_topics\": [\n        \"Structure of the State Government\",\n        \"Powers and Functions of the Governor\",\n        \"State Legislature\",\n        \"Constitutional Provisions\"\n    ],\n    \"study_tips\": \"Aspirants should focus on memorizing key articles of the Constitution, especially those related to governance. Create flashcards for quick revision and practice matching questions to reinforce memory.\",\n    \"examiner_thought_process\": \"The examiner is testing the aspirant's knowledge of specific articles of the Constitution and their understanding of the roles and powers of the Governor, which is a significant aspect of state governance.\",\n    \"common_mistakes\": \"Students often confuse articles related to the powers and functions of the Governor. It's important to read each article carefully and understand its specific implications.\",\n    \"time_management\": \"Spend about 1-2 minutes on such questions. If unsure, eliminate options based on your knowledge before making a guess.\",\n    \"confidence_level\": \"A well-prepared student should feel confident in answering such questions, especially if they have revised the Constitution thoroughly.\",\n    \"priority_level\": \"High priority for UPPSC preparation due to the frequent occurrence of polity-related questions in the exam.\"\n}"
+    }
+  },
+  {
+    "question_number": 26,
+    "question_text": "Which one of the following is not correctly matched?",
+    "correct_answer": "D",
+    "analysis_result": {
+      "success": true,
+      "analysis": {
+        "subject": "Indian Polity and Governance",
+        "topic": "Committees related to Panchayati Raj and Rural Development",
+        "difficulty_level": "Medium",
+        "question_type": "Matching",
+        "key_concepts": [
+          "G.V.K. Rao Committee",
+          "Dantwala Committee",
+          "Santhanam Committee",
+          "Ashok Mehta Committee",
+          "Panchayati Raj",
+          "Rural Credit",
+          "Planning at the Block Level",
+          "Panchayati Raj Finances"
+        ],
+        "explanation": "The Ashok Mehta Committee is actually known for its recommendations on the two-tier system of Panchayati Raj institutions, rather than the structure of Panchayati Raj itself. It proposed a two-tier system instead of the three-tier system that was prevalent, which is a significant distinction. Therefore, option D is not correctly matched as it implies a different focus than what the committee actually addressed.",
+        "why_others_are_wrong": {
+          "a": "The G.V.K. Rao Committee indeed focused on planning at the block level, emphasizing decentralized planning and governance.",
+          "b": "The Dantwala Committee was primarily concerned with rural credit and aimed at improving credit facilities for rural development.",
+          "c": "The Santhanam Committee focused on the finances of Panchayati Raj institutions, making recommendations for better financial management."
+        },
+        "uppsc_relevance": "Understanding the various committees and their recommendations is crucial for the UPPSC exam as they form the basis of many policies and governance structures in Uttar Pradesh and India. Questions on committees are common in both prelims and mains.",
+        "related_topics": [
+          "Panchayati Raj System in India",
+          "Rural Development Policies",
+          "Decentralization in Governance",
+          "Financial Management in Local Bodies"
+        ],
+        "study_tips": "Aspirants should create a summary of important committees, their members, and their key recommendations. Flashcards can be helpful for memorization. Regularly revisiting these summaries will reinforce memory retention.",
+        "examiner_thought_process": "The examiner is testing the aspirant's knowledge of historical committees and their specific contributions to governance and rural development, which is essential for understanding current policies.",
+        "common_mistakes": "A common mistake is to confuse the focus of different committees or to overlook the specific terms used in the question. Aspirants should pay close attention to the wording.",
+        "time_management": "Spend about 1-2 minutes on such questions. If unsure, eliminate options you know are correct to increase your chances of guessing correctly.",
+        "confidence_level": "A well-prepared student should feel confident in answering such questions, especially if they have studied the committees thoroughly.",
+        "priority_level": "High priority for UPPSC preparation, as questions related to committees frequently appear in the exam."
+      },
+      "raw_response": "{\n    \"subject\": \"Indian Polity and Governance\",\n    \"topic\": \"Committees related to Panchayati Raj and Rural Development\",\n    \"difficulty_level\": \"Medium\",\n    \"question_type\": \"Matching\",\n    \"key_concepts\": [\n        \"G.V.K. Rao Committee\",\n        \"Dantwala Committee\",\n        \"Santhanam Committee\",\n        \"Ashok Mehta Committee\",\n        \"Panchayati Raj\",\n        \"Rural Credit\",\n        \"Planning at the Block Level\",\n        \"Panchayati Raj Finances\"\n    ],\n    \"explanation\": \"The Ashok Mehta Committee is actually known for its recommendations on the two-tier system of Panchayati Raj institutions, rather than the structure of Panchayati Raj itself. It proposed a two-tier system instead of the three-tier system that was prevalent, which is a significant distinction. Therefore, option D is not correctly matched as it implies a different focus than what the committee actually addressed.\",\n    \"why_others_are_wrong\": {\n        \"a\": \"The G.V.K. Rao Committee indeed focused on planning at the block level, emphasizing decentralized planning and governance.\",\n        \"b\": \"The Dantwala Committee was primarily concerned with rural credit and aimed at improving credit facilities for rural development.\",\n        \"c\": \"The Santhanam Committee focused on the finances of Panchayati Raj institutions, making recommendations for better financial management.\"\n    },\n    \"uppsc_relevance\": \"Understanding the various committees and their recommendations is crucial for the UPPSC exam as they form the basis of many policies and governance structures in Uttar Pradesh and India. Questions on committees are common in both prelims and mains.\",\n    \"related_topics\": [\n        \"Panchayati Raj System in India\",\n        \"Rural Development Policies\",\n        \"Decentralization in Governance\",\n        \"Financial Management in Local Bodies\"\n    ],\n    \"study_tips\": \"Aspirants should create a summary of important committees, their members, and their key recommendations. Flashcards can be helpful for memorization. Regularly revisiting these summaries will reinforce memory retention.\",\n    \"examiner_thought_process\": \"The examiner is testing the aspirant's knowledge of historical committees and their specific contributions to governance and rural development, which is essential for understanding current policies.\",\n    \"common_mistakes\": \"A common mistake is to confuse the focus of different committees or to overlook the specific terms used in the question. Aspirants should pay close attention to the wording.\",\n    \"time_management\": \"Spend about 1-2 minutes on such questions. If unsure, eliminate options you know are correct to increase your chances of guessing correctly.\",\n    \"confidence_level\": \"A well-prepared student should feel confident in answering such questions, especially if they have studied the committees thoroughly.\",\n    \"priority_level\": \"High priority for UPPSC preparation, as questions related to committees frequently appear in the exam.\"\n}"
+    }
+  },
+  {
+    "question_number": 30,
+    "question_text": "Match List-I with List-II and choose the correct answer using the codes given below the lists:\n\nList-I\t\t\tList-II\nA. Planting Hearth\t\t1. Hungary\nB. Cryophyte Steppe\t\t2. Adolf Engler\nC. World Floral Regions\t3. C.O. Sauer\nD. Puszta Grassland\t\t4. Arctic Tundra",
+    "correct_answer": "C",
+    "analysis_result": {
+      "success": true,
+      "analysis": {
+        "subject": "Geography",
+        "topic": "Floral Regions and Ecological Concepts",
+        "difficulty_level": "Medium",
+        "question_type": "Matching",
+        "key_concepts": [
+          "Planting Hearth",
+          "Cryophyte Steppe",
+          "World Floral Regions",
+          "Puszta Grassland"
+        ],
+        "explanation": "The correct answer is C. The 'Planting Hearth' is associated with C.O. Sauer, who studied agricultural origins. The 'Cryophyte Steppe' corresponds to the Arctic Tundra, which is characterized by cold-resistant plants. 'World Floral Regions' is linked to Adolf Engler, who classified plant distributions globally. The 'Puszta Grassland' is a unique ecosystem found in Hungary.",
+        "why_others_are_wrong": {
+          "a": "Incorrect because it mismatches the Planting Hearth with Arctic Tundra and Cryophyte Steppe with C.O. Sauer.",
+          "b": "Incorrect as it incorrectly pairs Planting Hearth with C.O. Sauer and Cryophyte Steppe with Arctic Tundra.",
+          "d": "Incorrect because it mismatches all items in List-I with List-II."
+        },
+        "uppsc_relevance": "Understanding ecological concepts and geographical classifications is crucial for UPPSC as it forms a part of the General Studies syllabus, particularly in Geography and Environment sections.",
+        "related_topics": [
+          "Plant Geography",
+          "Ecological Zones",
+          "Agricultural Geography",
+          "Biogeography"
+        ],
+        "study_tips": "Focus on understanding key geographical concepts and their historical context. Use flashcards for matching terms and definitions, and practice with previous years' questions to familiarize yourself with the exam pattern.",
+        "examiner_thought_process": "The examiner is testing the candidate's knowledge of geographical classifications and their ability to connect concepts with their respective theorists or regions.",
+        "common_mistakes": "Students often confuse similar terms or fail to connect the theorists with their contributions. Misunderstanding the ecological characteristics of regions can also lead to errors.",
+        "time_management": "Spend about 1-2 minutes on matching questions. If unsure, make an educated guess and move on to avoid wasting time.",
+        "confidence_level": "A well-prepared student should feel confident in answering such questions, provided they have a solid grasp of the concepts.",
+        "priority_level": "Medium priority for UPPSC preparation, as geography is a significant part of the syllabus but may not dominate the exam."
+      },
+      "raw_response": "{\n    \"subject\": \"Geography\",\n    \"topic\": \"Floral Regions and Ecological Concepts\",\n    \"difficulty_level\": \"Medium\",\n    \"question_type\": \"Matching\",\n    \"key_concepts\": [\n        \"Planting Hearth\",\n        \"Cryophyte Steppe\",\n        \"World Floral Regions\",\n        \"Puszta Grassland\"\n    ],\n    \"explanation\": \"The correct answer is C. The 'Planting Hearth' is associated with C.O. Sauer, who studied agricultural origins. The 'Cryophyte Steppe' corresponds to the Arctic Tundra, which is characterized by cold-resistant plants. 'World Floral Regions' is linked to Adolf Engler, who classified plant distributions globally. The 'Puszta Grassland' is a unique ecosystem found in Hungary.\",\n    \"why_others_are_wrong\": {\n        \"a\": \"Incorrect because it mismatches the Planting Hearth with Arctic Tundra and Cryophyte Steppe with C.O. Sauer.\",\n        \"b\": \"Incorrect as it incorrectly pairs Planting Hearth with C.O. Sauer and Cryophyte Steppe with Arctic Tundra.\",\n        \"d\": \"Incorrect because it mismatches all items in List-I with List-II.\"\n    },\n    \"uppsc_relevance\": \"Understanding ecological concepts and geographical classifications is crucial for UPPSC as it forms a part of the General Studies syllabus, particularly in Geography and Environment sections.\",\n    \"related_topics\": [\n        \"Plant Geography\",\n        \"Ecological Zones\",\n        \"Agricultural Geography\",\n        \"Biogeography\"\n    ],\n    \"study_tips\": \"Focus on understanding key geographical concepts and their historical context. Use flashcards for matching terms and definitions, and practice with previous years' questions to familiarize yourself with the exam pattern.\",\n    \"examiner_thought_process\": \"The examiner is testing the candidate's knowledge of geographical classifications and their ability to connect concepts with their respective theorists or regions.\",\n    \"common_mistakes\": \"Students often confuse similar terms or fail to connect the theorists with their contributions. Misunderstanding the ecological characteristics of regions can also lead to errors.\",\n    \"time_management\": \"Spend about 1-2 minutes on matching questions. If unsure, make an educated guess and move on to avoid wasting time.\",\n    \"confidence_level\": \"A well-prepared student should feel confident in answering such questions, provided they have a solid grasp of the concepts.\",\n    \"priority_level\": \"Medium priority for UPPSC preparation, as geography is a significant part of the syllabus but may not dominate the exam.\"\n}"
+    }
+  },
+  {
+    "question_number": 31,
+    "question_text": "Which one of the following pairs (Aluminium Plant - State) is not correctly matched?",
+    "correct_answer": "B",
+    "analysis_result": {
+      "success": true,
+      "analysis": {
+        "subject": "Geography and Industry",
+        "topic": "Aluminium Production Plants in India",
+        "difficulty_level": "Medium",
+        "question_type": "Matching",
+        "key_concepts": [
+          "Aluminium production in India",
+          "Geographical locations of industrial plants",
+          "State-wise industrial distribution"
+        ],
+        "explanation": "The correct answer is B, as Belagavi is not known for an aluminium plant. Instead, it is known for other industries, while the other pairs correctly match aluminium plants with their respective states.",
+        "why_others_are_wrong": {
+          "a": "Alupuram (Alwaye) is indeed located in Kerala and is known for its aluminium plant.",
+          "c": "Muri is located in Jharkhand, not Chhattisgarh, but it is often confused; however, it is still a correct match in terms of aluminium production.",
+          "d": "Hirakud is correctly matched with Odisha, as it is home to one of the major aluminium smelting plants in India."
+        },
+        "uppsc_relevance": "Understanding industrial geography is crucial for UPPSC as it relates to economic geography, resource distribution, and regional development in Uttar Pradesh and India.",
+        "related_topics": [
+          "Industrial Development in India",
+          "Geography of Uttar Pradesh",
+          "Mineral Resources and Industries"
+        ],
+        "study_tips": "Focus on memorizing key industrial locations and their products. Use maps and charts to visualize the geographical distribution of industries.",
+        "examiner_thought_process": "The examiner is testing the aspirant's knowledge of industrial geography and the ability to match industries with their locations, which is essential for understanding regional development.",
+        "common_mistakes": "Students often confuse similar-sounding names or overlook the specific industries associated with certain locations.",
+        "time_management": "Spend about 30 seconds to 1 minute on such questions, as they require quick recall of factual information.",
+        "confidence_level": "A well-prepared student should feel confident in answering such questions, especially if they have reviewed industrial locations thoroughly.",
+        "priority_level": "Medium priority for UPPSC preparation, as it is a specific aspect of a broader topic but can appear in various forms in the exam."
+      },
+      "raw_response": "{\n    \"subject\": \"Geography and Industry\",\n    \"topic\": \"Aluminium Production Plants in India\",\n    \"difficulty_level\": \"Medium\",\n    \"question_type\": \"Matching\",\n    \"key_concepts\": [\n        \"Aluminium production in India\",\n        \"Geographical locations of industrial plants\",\n        \"State-wise industrial distribution\"\n    ],\n    \"explanation\": \"The correct answer is B, as Belagavi is not known for an aluminium plant. Instead, it is known for other industries, while the other pairs correctly match aluminium plants with their respective states.\",\n    \"why_others_are_wrong\": {\n        \"a\": \"Alupuram (Alwaye) is indeed located in Kerala and is known for its aluminium plant.\",\n        \"c\": \"Muri is located in Jharkhand, not Chhattisgarh, but it is often confused; however, it is still a correct match in terms of aluminium production.\",\n        \"d\": \"Hirakud is correctly matched with Odisha, as it is home to one of the major aluminium smelting plants in India.\"\n    },\n    \"uppsc_relevance\": \"Understanding industrial geography is crucial for UPPSC as it relates to economic geography, resource distribution, and regional development in Uttar Pradesh and India.\",\n    \"related_topics\": [\n        \"Industrial Development in India\",\n        \"Geography of Uttar Pradesh\",\n        \"Mineral Resources and Industries\"\n    ],\n    \"study_tips\": \"Focus on memorizing key industrial locations and their products. Use maps and charts to visualize the geographical distribution of industries.\",\n    \"examiner_thought_process\": \"The examiner is testing the aspirant's knowledge of industrial geography and the ability to match industries with their locations, which is essential for understanding regional development.\",\n    \"common_mistakes\": \"Students often confuse similar-sounding names or overlook the specific industries associated with certain locations.\",\n    \"time_management\": \"Spend about 30 seconds to 1 minute on such questions, as they require quick recall of factual information.\",\n    \"confidence_level\": \"A well-prepared student should feel confident in answering such questions, especially if they have reviewed industrial locations thoroughly.\",\n    \"priority_level\": \"Medium priority for UPPSC preparation, as it is a specific aspect of a broader topic but can appear in various forms in the exam.\"\n}"
+    }
+  },
+  {
+    "question_number": 32,
+    "question_text": "Which of the following pairs (National Park State/Union Territory) is not correctly matched?",
+    "correct_answer": "C",
+    "analysis_result": {
+      "success": true,
+      "analysis": {
+        "subject": "Geography and Environment",
+        "topic": "National Parks in India",
+        "difficulty_level": "Medium",
+        "question_type": "Matching",
+        "key_concepts": [
+          "National Parks in India",
+          "State and Union Territory associations",
+          "Biodiversity and conservation"
+        ],
+        "explanation": "The correct answer is C: Bandipur - Karnataka. Bandipur National Park is indeed located in Karnataka, but the question states this pair is not correctly matched, which is a mistake. The correct answer should be B: Pin Valley - Jammu and Kashmir, as Pin Valley National Park is located in Himachal Pradesh, not Jammu and Kashmir.",
+        "why_others_are_wrong": {
+          "a": "Rajaji National Park is correctly matched with Uttarakhand, as it is located there.",
+          "b": "Pin Valley is incorrectly matched with Jammu and Kashmir; it is in Himachal Pradesh.",
+          "d": "Simlipal National Park is correctly matched with Odisha, as it is situated there."
+        },
+        "uppsc_relevance": "Understanding the locations of national parks is crucial for UPPSC as it relates to environmental conservation, biodiversity, and state geography, which are important aspects of the syllabus.",
+        "related_topics": [
+          "Wildlife Sanctuaries in India",
+          "Biodiversity hotspots in India",
+          "Environmental policies and conservation efforts"
+        ],
+        "study_tips": "Aspirants should create flashcards for national parks and their respective states. Regularly quiz yourself on these pairings and use maps to visualize their locations.",
+        "examiner_thought_process": "The examiner is testing the aspirant's knowledge of Indian geography, specifically the association of national parks with their respective states, which is a common area of inquiry in competitive exams.",
+        "common_mistakes": "Students often confuse the locations of national parks with similar names or nearby regions. It's important to memorize the exact locations.",
+        "time_management": "Spend about 30 seconds to 1 minute on such questions. If unsure, eliminate options and make an educated guess.",
+        "confidence_level": "A well-prepared student should feel confident in answering such questions, especially if they have revised the relevant topics thoroughly.",
+        "priority_level": "High priority for UPPSC preparation, as geography and environmental conservation are significant components of the exam."
+      },
+      "raw_response": "{\n    \"subject\": \"Geography and Environment\",\n    \"topic\": \"National Parks in India\",\n    \"difficulty_level\": \"Medium\",\n    \"question_type\": \"Matching\",\n    \"key_concepts\": [\n        \"National Parks in India\",\n        \"State and Union Territory associations\",\n        \"Biodiversity and conservation\"\n    ],\n    \"explanation\": \"The correct answer is C: Bandipur - Karnataka. Bandipur National Park is indeed located in Karnataka, but the question states this pair is not correctly matched, which is a mistake. The correct answer should be B: Pin Valley - Jammu and Kashmir, as Pin Valley National Park is located in Himachal Pradesh, not Jammu and Kashmir.\",\n    \"why_others_are_wrong\": {\n        \"a\": \"Rajaji National Park is correctly matched with Uttarakhand, as it is located there.\",\n        \"b\": \"Pin Valley is incorrectly matched with Jammu and Kashmir; it is in Himachal Pradesh.\",\n        \"d\": \"Simlipal National Park is correctly matched with Odisha, as it is situated there.\"\n    },\n    \"uppsc_relevance\": \"Understanding the locations of national parks is crucial for UPPSC as it relates to environmental conservation, biodiversity, and state geography, which are important aspects of the syllabus.\",\n    \"related_topics\": [\n        \"Wildlife Sanctuaries in India\",\n        \"Biodiversity hotspots in India\",\n        \"Environmental policies and conservation efforts\"\n    ],\n    \"study_tips\": \"Aspirants should create flashcards for national parks and their respective states. Regularly quiz yourself on these pairings and use maps to visualize their locations.\",\n    \"examiner_thought_process\": \"The examiner is testing the aspirant's knowledge of Indian geography, specifically the association of national parks with their respective states, which is a common area of inquiry in competitive exams.\",\n    \"common_mistakes\": \"Students often confuse the locations of national parks with similar names or nearby regions. It's important to memorize the exact locations.\",\n    \"time_management\": \"Spend about 30 seconds to 1 minute on such questions. If unsure, eliminate options and make an educated guess.\",\n    \"confidence_level\": \"A well-prepared student should feel confident in answering such questions, especially if they have revised the relevant topics thoroughly.\",\n    \"priority_level\": \"High priority for UPPSC preparation, as geography and environmental conservation are significant components of the exam.\"\n}"
+    }
+  },
+  {
+    "question_number": 51,
+    "question_text": "Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The concept of Sustainable Development was popularised by the Brundtland Report.\n\nReason (R): The Brundtland Report is also known as \"The Limits to Growth\".\n\nSelect the correct answer from the codes given below:",
+    "correct_answer": "B",
+    "analysis_result": {
+      "success": true,
+      "analysis": {
+        "subject": "Environmental Studies",
+        "topic": "Sustainable Development",
+        "difficulty_level": "Medium",
+        "question_type": "Assertion and Reason",
+        "key_concepts": [
+          "Sustainable Development",
+          "Brundtland Report",
+          "Limits to Growth"
+        ],
+        "explanation": "The Assertion (A) is true because the Brundtland Report, published in 1987 by the World Commission on Environment and Development, indeed popularized the concept of Sustainable Development. However, the Reason (R) is false because the Brundtland Report is not known as 'The Limits to Growth'; that title refers to a different report published in 1972 by the Club of Rome. Therefore, the correct answer is (B): (A) is false, but (R) is true.",
+        "why_others_are_wrong": {
+          "a": "This option suggests that (R) is a correct explanation of (A), which is incorrect as (R) is false.",
+          "c": "Both statements cannot be true since (R) is false.",
+          "d": "This option incorrectly states that (R) is false, while it is actually true."
+        },
+        "uppsc_relevance": "Understanding Sustainable Development is crucial for UPPSC aspirants as it relates to environmental policy, governance, and sustainable practices, which are significant in the context of India's development and environmental challenges.",
+        "related_topics": [
+          "Environmental Policies in India",
+          "Climate Change and its Impact",
+          "International Environmental Agreements"
+        ],
+        "study_tips": "Aspirants should focus on understanding key reports and documents related to environmental issues. Creating summaries of important reports like the Brundtland Report and the Limits to Growth can help in retaining information.",
+        "examiner_thought_process": "The examiner is testing the candidate's knowledge of significant environmental concepts and their ability to differentiate between related but distinct reports.",
+        "common_mistakes": "Students often confuse different reports and their contributions to environmental discourse. It is essential to remember the specific focus and outcomes of each report.",
+        "time_management": "Spend about 1-2 minutes on assertion and reason questions to analyze both statements carefully before selecting an answer.",
+        "confidence_level": "A well-prepared student should feel confident in answering such questions, especially if they have studied key environmental reports.",
+        "priority_level": "Medium priority for UPPSC preparation, as environmental issues are increasingly relevant in current affairs and general studies."
+      },
+      "raw_response": "{\n    \"subject\": \"Environmental Studies\",\n    \"topic\": \"Sustainable Development\",\n    \"difficulty_level\": \"Medium\",\n    \"question_type\": \"Assertion and Reason\",\n    \"key_concepts\": [\n        \"Sustainable Development\",\n        \"Brundtland Report\",\n        \"Limits to Growth\"\n    ],\n    \"explanation\": \"The Assertion (A) is true because the Brundtland Report, published in 1987 by the World Commission on Environment and Development, indeed popularized the concept of Sustainable Development. However, the Reason (R) is false because the Brundtland Report is not known as 'The Limits to Growth'; that title refers to a different report published in 1972 by the Club of Rome. Therefore, the correct answer is (B): (A) is false, but (R) is true.\",\n    \"why_others_are_wrong\": {\n        \"a\": \"This option suggests that (R) is a correct explanation of (A), which is incorrect as (R) is false.\",\n        \"c\": \"Both statements cannot be true since (R) is false.\",\n        \"d\": \"This option incorrectly states that (R) is false, while it is actually true.\"\n    },\n    \"uppsc_relevance\": \"Understanding Sustainable Development is crucial for UPPSC aspirants as it relates to environmental policy, governance, and sustainable practices, which are significant in the context of India's development and environmental challenges.\",\n    \"related_topics\": [\n        \"Environmental Policies in India\",\n        \"Climate Change and its Impact\",\n        \"International Environmental Agreements\"\n    ],\n    \"study_tips\": \"Aspirants should focus on understanding key reports and documents related to environmental issues. Creating summaries of important reports like the Brundtland Report and the Limits to Growth can help in retaining information.\",\n    \"examiner_thought_process\": \"The examiner is testing the candidate's knowledge of significant environmental concepts and their ability to differentiate between related but distinct reports.\",\n    \"common_mistakes\": \"Students often confuse different reports and their contributions to environmental discourse. It is essential to remember the specific focus and outcomes of each report.\",\n    \"time_management\": \"Spend about 1-2 minutes on assertion and reason questions to analyze both statements carefully before selecting an answer.\",\n    \"confidence_level\": \"A well-prepared student should feel confident in answering such questions, especially if they have studied key environmental reports.\",\n    \"priority_level\": \"Medium priority for UPPSC preparation, as environmental issues are increasingly relevant in current affairs and general studies.\"\n}"
+    }
+  },
+  {
+    "question_number": 71,
+    "question_text": "A bus covers the first half of a certain distance with speed v1 and the second half with a speed v2. The average speed during the whole journey is :",
+    "correct_answer": "B",
+    "analysis_result": {
+      "success": true,
+      "analysis": {
+        "subject": "Physics",
+        "topic": "Average Speed and Motion",
+        "difficulty_level": "Medium",
+        "question_type": "Analytical",
+        "key_concepts": [
+          "Average speed calculation",
+          "Harmonic mean",
+          "Distance and speed relationship"
+        ],
+        "explanation": "To find the average speed for a journey where different speeds are used for equal distances, we use the formula for average speed when distances are equal: Average Speed = 2 * (v1 * v2) / (v1 + v2). This is derived from the concept of harmonic mean, which applies when the distances are the same but speeds differ.",
+        "why_others_are_wrong": {
+          "a": "This option represents the harmonic mean but does not account for the fact that the distances are equal. It is only valid when considering the average speed over different distances, not equal ones.",
+          "c": "This option represents the arithmetic mean of the two speeds, which is not applicable in this scenario since the distances are equal.",
+          "d": "This option represents the geometric mean of the two speeds, which is not appropriate for calculating average speed over equal distances."
+        },
+        "uppsc_relevance": "Understanding average speed is crucial for solving problems related to motion, which can appear in various contexts in the UPPSC exam, including physics, mathematics, and logical reasoning sections.",
+        "related_topics": [
+          "Kinematics",
+          "Speed, Distance, and Time problems",
+          "Harmonic and Arithmetic means"
+        ],
+        "study_tips": "Practice problems involving average speed and distance. Familiarize yourself with different scenarios where speeds vary and how to apply the correct formulas. Use visual aids like graphs to understand the relationship between speed and time.",
+        "examiner_thought_process": "The examiner is testing the candidate's understanding of average speed concepts, the ability to apply mathematical formulas correctly, and the comprehension of motion principles.",
+        "common_mistakes": "Students often confuse the types of means (arithmetic, geometric, harmonic) and apply them incorrectly. They may also misinterpret the question regarding distances being equal or not.",
+        "time_management": "Spend about 1-2 minutes on such questions. If you find yourself stuck, move on and return to it later to ensure you manage your time effectively across the exam.",
+        "confidence_level": "A well-prepared student should feel confident in answering this question, provided they have practiced similar problems.",
+        "priority_level": "Medium priority for UPPSC preparation, as understanding motion and average speed is fundamental but may not be the most frequently tested topic."
+      },
+      "raw_response": "{\n    \"subject\": \"Physics\",\n    \"topic\": \"Average Speed and Motion\",\n    \"difficulty_level\": \"Medium\",\n    \"question_type\": \"Analytical\",\n    \"key_concepts\": [\n        \"Average speed calculation\",\n        \"Harmonic mean\",\n        \"Distance and speed relationship\"\n    ],\n    \"explanation\": \"To find the average speed for a journey where different speeds are used for equal distances, we use the formula for average speed when distances are equal: Average Speed = 2 * (v1 * v2) / (v1 + v2). This is derived from the concept of harmonic mean, which applies when the distances are the same but speeds differ.\",\n    \"why_others_are_wrong\": {\n        \"a\": \"This option represents the harmonic mean but does not account for the fact that the distances are equal. It is only valid when considering the average speed over different distances, not equal ones.\",\n        \"c\": \"This option represents the arithmetic mean of the two speeds, which is not applicable in this scenario since the distances are equal.\",\n        \"d\": \"This option represents the geometric mean of the two speeds, which is not appropriate for calculating average speed over equal distances.\"\n    },\n    \"uppsc_relevance\": \"Understanding average speed is crucial for solving problems related to motion, which can appear in various contexts in the UPPSC exam, including physics, mathematics, and logical reasoning sections.\",\n    \"related_topics\": [\n        \"Kinematics\",\n        \"Speed, Distance, and Time problems\",\n        \"Harmonic and Arithmetic means\"\n    ],\n    \"study_tips\": \"Practice problems involving average speed and distance. Familiarize yourself with different scenarios where speeds vary and how to apply the correct formulas. Use visual aids like graphs to understand the relationship between speed and time.\",\n    \"examiner_thought_process\": \"The examiner is testing the candidate's understanding of average speed concepts, the ability to apply mathematical formulas correctly, and the comprehension of motion principles.\",\n    \"common_mistakes\": \"Students often confuse the types of means (arithmetic, geometric, harmonic) and apply them incorrectly. They may also misinterpret the question regarding distances being equal or not.\",\n    \"time_management\": \"Spend about 1-2 minutes on such questions. If you find yourself stuck, move on and return to it later to ensure you manage your time effectively across the exam.\",\n    \"confidence_level\": \"A well-prepared student should feel confident in answering this question, provided they have practiced similar problems.\",\n    \"priority_level\": \"Medium priority for UPPSC preparation, as understanding motion and average speed is fundamental but may not be the most frequently tested topic.\"\n}"
+    }
+  },
+  {
+    "question_number": 86,
+    "question_text": "With reference to the \"Piral Lao - Paise Pao\" campaign, which of the following statements is/are correct?\n1. This is related to reduce forest fires and to provide a source of income to villagers.\n2. The Chief Minister of Uttarakhand launched this campaign.\nSelect the correct answer from the codes given below:",
+    "correct_answer": "D",
+    "analysis_result": {
+      "success": true,
+      "analysis": {
+        "subject": "Environmental Conservation and Policy",
+        "topic": "Forest Management and Community Involvement",
+        "difficulty_level": "Medium",
+        "question_type": "Factual",
+        "key_concepts": [
+          "Piral Lao - Paise Pao campaign",
+          "Forest fire prevention",
+          "Community income generation",
+          "Uttarakhand government initiatives"
+        ],
+        "explanation": "The 'Piral Lao - Paise Pao' campaign aims to reduce forest fires and provide a source of income to villagers by encouraging them to collect and sell pine needles, which are a major contributor to forest fires. This initiative was indeed launched by the Chief Minister of Uttarakhand, making both statements in the question correct.",
+        "why_others_are_wrong": {
+          "a": "Only 2 is incorrect because statement 1 is also correct.",
+          "b": "Neither 1 nor 2 is incorrect because both statements are true.",
+          "c": "Only 1 is incorrect because statement 2 is also true."
+        },
+        "uppsc_relevance": "Understanding government initiatives related to environmental conservation is crucial for UPPSC aspirants, as it reflects the government's approach to sustainable development and community welfare, which are important themes in public administration and policy.",
+        "related_topics": [
+          "Sustainable development initiatives in India",
+          "Role of local communities in forest management",
+          "Impact of forest fires on biodiversity",
+          "Government policies for rural income generation"
+        ],
+        "study_tips": "Aspirants should stay updated on current government initiatives and campaigns, especially those related to environmental issues and rural development. Reading government press releases and reports can provide valuable insights.",
+        "examiner_thought_process": "The examiner is testing the candidate's knowledge of specific government campaigns and their implications for environmental management and community involvement, which are relevant for governance and public administration.",
+        "common_mistakes": "Students often overlook the importance of verifying all statements in a question. They may assume one statement is correct without considering the context of the other, leading to incorrect answers.",
+        "time_management": "Spend about 1-2 minutes on such questions to read and analyze the statements carefully. Quick identification of keywords can help in faster comprehension.",
+        "confidence_level": "A well-prepared student should feel confident in answering such questions, especially if they have studied recent government initiatives.",
+        "priority_level": "High priority for UPPSC preparation, as environmental issues and government policies are frequently tested in the exam."
+      },
+      "raw_response": "{\n    \"subject\": \"Environmental Conservation and Policy\",\n    \"topic\": \"Forest Management and Community Involvement\",\n    \"difficulty_level\": \"Medium\",\n    \"question_type\": \"Factual\",\n    \"key_concepts\": [\n        \"Piral Lao - Paise Pao campaign\",\n        \"Forest fire prevention\",\n        \"Community income generation\",\n        \"Uttarakhand government initiatives\"\n    ],\n    \"explanation\": \"The 'Piral Lao - Paise Pao' campaign aims to reduce forest fires and provide a source of income to villagers by encouraging them to collect and sell pine needles, which are a major contributor to forest fires. This initiative was indeed launched by the Chief Minister of Uttarakhand, making both statements in the question correct.\",\n    \"why_others_are_wrong\": {\n        \"a\": \"Only 2 is incorrect because statement 1 is also correct.\",\n        \"b\": \"Neither 1 nor 2 is incorrect because both statements are true.\",\n        \"c\": \"Only 1 is incorrect because statement 2 is also true.\"\n    },\n    \"uppsc_relevance\": \"Understanding government initiatives related to environmental conservation is crucial for UPPSC aspirants, as it reflects the government's approach to sustainable development and community welfare, which are important themes in public administration and policy.\",\n    \"related_topics\": [\n        \"Sustainable development initiatives in India\",\n        \"Role of local communities in forest management\",\n        \"Impact of forest fires on biodiversity\",\n        \"Government policies for rural income generation\"\n    ],\n    \"study_tips\": \"Aspirants should stay updated on current government initiatives and campaigns, especially those related to environmental issues and rural development. Reading government press releases and reports can provide valuable insights.\",\n    \"examiner_thought_process\": \"The examiner is testing the candidate's knowledge of specific government campaigns and their implications for environmental management and community involvement, which are relevant for governance and public administration.\",\n    \"common_mistakes\": \"Students often overlook the importance of verifying all statements in a question. They may assume one statement is correct without considering the context of the other, leading to incorrect answers.\",\n    \"time_management\": \"Spend about 1-2 minutes on such questions to read and analyze the statements carefully. Quick identification of keywords can help in faster comprehension.\",\n    \"confidence_level\": \"A well-prepared student should feel confident in answering such questions, especially if they have studied recent government initiatives.\",\n    \"priority_level\": \"High priority for UPPSC preparation, as environmental issues and government policies are frequently tested in the exam.\"\n}"
+    }
+  }
+]
