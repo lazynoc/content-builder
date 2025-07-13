@@ -1,0 +1,2955 @@
+{
+  "exam_info": {
+    "exam_name": "UPSC Civil Services Preliminary Examination",
+    "year": 2023,
+    "paper": "General Studies Paper I",
+    "total_questions": 109,
+    "processing_date": "2025-07-13T18:37:56.887525",
+    "version": "1.0"
+  },
+  "questions": [
+    {
+      "id": "dd31706d-3576-4da6-a49a-667a53310cd5",
+      "question_number": 1,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "Indian Polity",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following statements:\n1. If the election of the President of India is declared void by the Supreme Court of India, all acts done by him/her in the performance of duties of his/her office of President before the date of decision become invalid.\n2. Election for the post of the President of India can be postponed on the ground that some Legislative Assemblies have been dissolved and elections are yet to take place.\n3. When a Bill is presented to the President of India, the Constitution prescribes time limits within which he/she has to declare his/her assent.\nHow many of the above statements are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only one"
+        },
+        {
+          "letter": "B",
+          "text": "Only two"
+        },
+        {
+          "letter": "C",
+          "text": "All three"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ]
+    },
+    {
+      "id": "8a6aba6c-5c66-4138-8dfc-21705d48db7e",
+      "question_number": 2,
+      "type": "mcq",
+      "difficulty": "Easy",
+      "subject": "Physical Geography",
+      "exam_info": "Prelims 2024",
+      "question_text": "With reference to the Earth's atmosphere, which one of the following statements is correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The total amount of insolation received at the equator is roughly about 10 times of that received at the poles."
+        },
+        {
+          "letter": "B",
+          "text": "Infrared rays constitute roughly two-thirds of insolation."
+        },
+        {
+          "letter": "C",
+          "text": "Infrared waves are largely absorbed by water vapour that is concentrated in the lower atmosphere."
+        },
+        {
+          "letter": "D",
+          "text": "Infrared waves are a part of visible spectrum of electromagnetic waves of solar radiation."
+        }
+      ]
+    },
+    {
+      "id": "38ec231e-6889-4ae8-adb7-01c03adcad99",
+      "question_number": 3,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "Physical Geography",
+      "exam_info": "Prelims 2024",
+      "question_text": "With reference to the Earth's atmosphere, which one of the following statements is correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The total amount of insolation received at the equator is roughly about 10 times of that received at the poles."
+        },
+        {
+          "letter": "B",
+          "text": "Infrared rays constitute roughly two-thirds of insolation."
+        },
+        {
+          "letter": "C",
+          "text": "Infrared waves are largely absorbed by water vapour that is concentrated in the lower atmosphere."
+        },
+        {
+          "letter": "D",
+          "text": "Infrared waves are a part of visible spectrum of electromagnetic waves of solar radiation."
+        }
+      ]
+    },
+    {
+      "id": "42030c19-32ba-4f81-a668-e82434fbc80c",
+      "question_number": 4,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "Modern History",
+      "exam_info": "Prelims 2024",
+      "question_text": "Who among the following rulers of medieval Gujarat surrendered Diu to Portuguese?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ahmad Shah"
+        },
+        {
+          "letter": "B",
+          "text": "Mahmud Begarha"
+        },
+        {
+          "letter": "C",
+          "text": "Bahadur Shah"
+        },
+        {
+          "letter": "D",
+          "text": "Muhammad Shah"
+        }
+      ]
+    },
+    {
+      "id": "7855f4dc-7118-4732-b8dd-4534cd025660",
+      "question_number": 5,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2024",
+      "question_text": "In which one of the following regions was Dhanyakataka, which flourished as a prominent Buddhist centre under the Mahasanghikas, located?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Andhra"
+        },
+        {
+          "letter": "B",
+          "text": "Gandhara"
+        },
+        {
+          "letter": "C",
+          "text": "Kalinga"
+        },
+        {
+          "letter": "D",
+          "text": "Magadha"
+        }
+      ]
+    },
+    {
+      "id": "e4b2df9c-0ff5-4e12-a982-19489b2d4fe0",
+      "question_number": 6,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2024",
+      "question_text": "Souls are not only the property of animal and plant life, but also of rocks, running water and many other natural objects not looked on as living by other religious sects. The above statement reflects one of the core beliefs of which one of the following religious sects of ancient India?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Buddhism"
+        },
+        {
+          "letter": "B",
+          "text": "Jainism"
+        },
+        {
+          "letter": "C",
+          "text": "Shaivism"
+        },
+        {
+          "letter": "D",
+          "text": "Vaishnavism"
+        }
+      ]
+    },
+    {
+      "id": "9baff5a5-0204-4bd7-a5ab-94c95cf68e21",
+      "question_number": 7,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2024",
+      "question_text": "With reference to ancient India, consider the following statements:\n1. The concept of Stupa is Buddhist in origin.\n2. Stupa was generally a repository of relics.\n3. Stupa was a votive and commemorative structure in Buddhist tradition.\nHow many of the statements given above are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only one"
+        },
+        {
+          "letter": "B",
+          "text": "Only two"
+        },
+        {
+          "letter": "C",
+          "text": "All three"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ]
+    },
+    {
+      "id": "cd61cd42-63c9-4718-be18-a127f00cfb2b",
+      "question_number": 8,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "Economy",
+      "exam_info": "Prelims 2024",
+      "question_text": "Which one of the following activities of the Reserve Bank of India is considered to be part of sterilization?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conducting Open Market Operations"
+        },
+        {
+          "letter": "B",
+          "text": "Oversight of settlement and payment systems"
+        },
+        {
+          "letter": "C",
+          "text": "Debt and cash management for the Central and State Governments"
+        },
+        {
+          "letter": "D",
+          "text": "Regulating the functions of Non-banking Financial Institutions"
+        }
+      ]
+    },
+    {
+      "id": "a9a82c2d-6316-4239-8686-adc04c2481cd",
+      "question_number": 9,
+      "type": "mcq",
+      "difficulty": "Easy",
+      "subject": "Physical Geography",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following statements:\n1. In a seismograph, P waves are recorded earlier than S waves.\n2. In P waves, the individual particles vibrate to and fro in the direction of wave propagation whereas in S waves, the particles vibrate up and down at right angles to the direction of wave propagation.\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 only"
+        },
+        {
+          "letter": "B",
+          "text": "2 only"
+        },
+        {
+          "letter": "C",
+          "text": "Both 1 and 2"
+        },
+        {
+          "letter": "D",
+          "text": "Neither 1 nor 2"
+        }
+      ]
+    },
+    {
+      "id": "48e30f78-9c1b-4ecf-a47e-f2912809fe25",
+      "question_number": 10,
+      "type": "mcq",
+      "difficulty": "Easy",
+      "subject": "Science & Technology",
+      "exam_info": "Prelims 2024",
+      "question_text": "Which one of the following countries has its own Satellite Navigation System?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Australia"
+        },
+        {
+          "letter": "B",
+          "text": "Canada"
+        },
+        {
+          "letter": "C",
+          "text": "Israel"
+        },
+        {
+          "letter": "D",
+          "text": "Japan"
+        }
+      ]
+    },
+    {
+      "id": "16770d01-be15-470c-9ff6-93a27470bde5",
+      "question_number": 11,
+      "type": "mcq",
+      "difficulty": "Easy",
+      "subject": "Modern History",
+      "exam_info": "Prelims 2024",
+      "question_text": "By which one of the following Acts was the Governor General of Bengal designated as the Governor General of India?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The Regulating Act"
+        },
+        {
+          "letter": "B",
+          "text": "The Pitt's India Act"
+        },
+        {
+          "letter": "C",
+          "text": "The Charter Act of 1793"
+        },
+        {
+          "letter": "D",
+          "text": "The Charter Act of 1833"
+        }
+      ]
+    },
+    {
+      "id": "679f2bd5-cd3c-4176-8800-13c224ad86e2",
+      "question_number": 12,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "Indian Polity",
+      "exam_info": "Prelims 2024",
+      "question_text": "Which one of the following statements best reflects the chief purpose of the 'Constitution' of a country?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It determines the objective for the making of necessary laws."
+        },
+        {
+          "letter": "B",
+          "text": "It enables the creation of political offices and a government."
+        },
+        {
+          "letter": "C",
+          "text": "It defines and limits the powers of government."
+        },
+        {
+          "letter": "D",
+          "text": "It secures social justice, social equality and social security."
+        }
+      ]
+    },
+    {
+      "id": "7ce0adb8-a666-440d-8055-d301b812b604",
+      "question_number": 13,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following statements:\n1. Amarkantak Hills are at the confluence of Vindhya and Sahyadri Ranges.\n2. Biligirirangan Hills constitute the easternmost part of Satpura Range.\n3. Seshachalam Hills constitute the southernmost part of Western Ghats.\nHow many of the statements given above are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only one"
+        },
+        {
+          "letter": "B",
+          "text": "Only two"
+        },
+        {
+          "letter": "C",
+          "text": "All three"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ]
+    },
+    {
+      "id": "eb33316f-5282-4bdc-af74-5c4a12271c4e",
+      "question_number": 14,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "World Geography",
+      "exam_info": "Prelims 2024",
+      "question_text": "About three-fourths of world's cobalt, a metal required for the manufacture of batteries for electric motor vehicles, is produced by",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Argentina"
+        },
+        {
+          "letter": "B",
+          "text": "Botswana"
+        },
+        {
+          "letter": "C",
+          "text": "The Democratic Republic of the Congo"
+        },
+        {
+          "letter": "D",
+          "text": "Kazakhstan"
+        }
+      ]
+    },
+    {
+      "id": "5cc76322-0953-4a29-bc09-ae7d3d3f692d",
+      "question_number": 15,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2024",
+      "question_text": "With reference to India's projects on connectivity, consider the following statements:\n1. East-West Corridor under Golden Quadrilateral Project connects Dibrugarh and Surat.\n2. Trilateral Highway connects Moreh in Manipur and Chiang Mai in Thailand via Myanmar.\n3. Bangladesh-China- India-Myanmar Economic Corridor connects Varanasi in Uttar Pradesh with Kunming in China.\nHow many of the above statements are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only one"
+        },
+        {
+          "letter": "B",
+          "text": "Only two"
+        },
+        {
+          "letter": "C",
+          "text": "All three"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ]
+    },
+    {
+      "id": "c5879431-541a-4f97-b263-b05a7e639496",
+      "question_number": 16,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2024",
+      "question_text": "Indian Geography\nPrelims 2023\nIlmenite and rutile, abundantly available in certain coastal tracts of India, are rich sources of which one of the following?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aluminium"
+        },
+        {
+          "letter": "B",
+          "text": "Copper"
+        },
+        {
+          "letter": "C",
+          "text": "Iron"
+        },
+        {
+          "letter": "D",
+          "text": "Titanium"
+        }
+      ]
+    },
+    {
+      "id": "ad194544-8e38-4451-b7f0-b508473908c0",
+      "question_number": 17,
+      "type": "mcq",
+      "difficulty": "Easy",
+      "subject": "Science & Technology",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following statements:\n1. Some microorganisms can grow in environments with temperature above the boiling point of water.\n2. Some microorganisms can grow in environments with temperature below the freezing point of water.\n3. Some microorganisms can grow in highly acidic environment with a pH below 3.\nHow many of the above statements are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only one"
+        },
+        {
+          "letter": "B",
+          "text": "Only two"
+        },
+        {
+          "letter": "C",
+          "text": "All three"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ]
+    },
+    {
+      "id": "9b1270f9-bdee-4fbd-a2ef-c79967aacf23",
+      "question_number": 18,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "Science & Technology",
+      "exam_info": "Prelims 2024",
+      "question_text": "'Microsatellite DNA' is used in the case of which one of the following?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Studying the evolutionary relationships among various species of fauna"
+        },
+        {
+          "letter": "B",
+          "text": "Stimulating 'stem cells' to transform into diverse functional tissues"
+        },
+        {
+          "letter": "C",
+          "text": "Promoting clonal propagation of horticultural plants"
+        },
+        {
+          "letter": "D",
+          "text": "Assessing the efficacy of drugs by conducting series of drug trials in a population"
+        }
+      ]
+    },
+    {
+      "id": "6e0b7568-98e9-4fc1-bffd-72c0290d081e",
+      "question_number": 19,
+      "type": "mcq",
+      "difficulty": "Easy",
+      "subject": "Economy",
+      "exam_info": "Prelims 2024",
+      "question_text": "Prelims 2023\nCorrect the following statements:\nStatement-I: In the post-pandemic recent past, many Central Banks worldwide had carried out interest rate hikes.\nStatement-II: Central Banks generally assume that they have the ability to counteract the rising consumer prices via monetary policy means.\nWhich one of the following is correct in respect of the above statements?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I"
+        },
+        {
+          "letter": "B",
+          "text": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I"
+        },
+        {
+          "letter": "C",
+          "text": "Statement-I is correct but Statement-II is incorrect"
+        },
+        {
+          "letter": "D",
+          "text": "Statement-I is incorrect but Statement-II is correct"
+        }
+      ]
+    },
+    {
+      "id": "dcba09bb-b113-47b4-8ce4-ca0717c783a9",
+      "question_number": 20,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "Indian Polity",
+      "exam_info": "Prelims 2024",
+      "question_text": "In India, which one of the following Constitutional Amendments was widely believed to be enacted to overcome the judicial interpretations of the Fundamental Rights?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1st Amendment"
+        },
+        {
+          "letter": "B",
+          "text": "42nd Amendment"
+        },
+        {
+          "letter": "C",
+          "text": "44th Amendment"
+        },
+        {
+          "letter": "D",
+          "text": "86th Amendment"
+        }
+      ]
+    },
+    {
+      "id": "ac2c19ab-23ba-4e35-87a8-b4e97ebddae9",
+      "question_number": 21,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following:\n1. Aerosols\n2. Foam agents\n3. Fire retardants\n4. Lubricants\nIn the making of how many of the above are hydrofluorocarbons used?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only one"
+        },
+        {
+          "letter": "B",
+          "text": "Only two"
+        },
+        {
+          "letter": "C",
+          "text": "Only three"
+        },
+        {
+          "letter": "D",
+          "text": "All four"
+        }
+      ]
+    },
+    {
+      "id": "d73cf292-518f-4a2d-9033-b6bf4d35dc2c",
+      "question_number": 22,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2024",
+      "question_text": "In which one of the following regions was Dhanyakataka, which flourished as a prominent Buddhist centre under the Mahasanghikas, located?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Andhra"
+        },
+        {
+          "letter": "B",
+          "text": "Gandhara"
+        },
+        {
+          "letter": "C",
+          "text": "Kalinga"
+        },
+        {
+          "letter": "D",
+          "text": "Magadha"
+        }
+      ]
+    },
+    {
+      "id": "cd8018af-8158-4daf-aaeb-d2d3d60bbeb0",
+      "question_number": 23,
+      "type": "list_mcq",
+      "difficulty": "Hard",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following statements:\n1. Jhelum River passes through Wular Lake.\n2. Krishna River directly feeds Kolleru Lake.\n3. Meandering of Gandak River formed Kanwar Lake.\nHow many of the statements given above are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only one"
+        },
+        {
+          "letter": "B",
+          "text": "Only two"
+        },
+        {
+          "letter": "C",
+          "text": "All three"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ]
+    },
+    {
+      "id": "f71bfa1e-0c27-49a6-894b-066f5ba7808d",
+      "question_number": 24,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "Science & Technology",
+      "exam_info": "Prelims 2024",
+      "question_text": "'Wolbachia method' is sometimes talked about with reference to which one of the following?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Controlling the viral diseases spread by mosquitoes"
+        },
+        {
+          "letter": "B",
+          "text": "Converting crop residues into packing material"
+        },
+        {
+          "letter": "C",
+          "text": "Producing biodegradable plastics"
+        },
+        {
+          "letter": "D",
+          "text": "Producing biochar from thermochemical conversion of biomass"
+        }
+      ]
+    },
+    {
+      "id": "bd91ceb0-06c3-4cd9-a362-496f020d1f53",
+      "question_number": 25,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "World Geography",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following countries:\n- Bulgaria\n- Czech Republic\n- Hungary\n- Latvia\n- Lithuania\n- Romania\n\nHow many of the above-mentioned countries share a land border with Ukraine?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only two"
+        },
+        {
+          "letter": "B",
+          "text": "Only three"
+        },
+        {
+          "letter": "C",
+          "text": "Only four"
+        },
+        {
+          "letter": "D",
+          "text": "Only five"
+        }
+      ]
+    },
+    {
+      "id": "37837e3c-b143-4a6f-be70-b6e3eb7f1c3f",
+      "question_number": 26,
+      "type": "mcq",
+      "difficulty": "Easy",
+      "subject": "Ancient History",
+      "exam_info": "Prelims 2024",
+      "question_text": "With reference to ancient South India, Korkai, Poompuhar and Muchiri were well known as",
+      "options": [
+        {
+          "letter": "A",
+          "text": "capital cities"
+        },
+        {
+          "letter": "B",
+          "text": "ports"
+        },
+        {
+          "letter": "C",
+          "text": "centres of iron-and- steel making"
+        },
+        {
+          "letter": "D",
+          "text": "shrines of Jain tirthankaras"
+        }
+      ]
+    },
+    {
+      "id": "7f79e779-0cbc-45b6-862c-7e63f3313b9a",
+      "question_number": 27,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "Modern History",
+      "exam_info": "Prelims 2024",
+      "question_text": "With reference to the Indian History, Alexander Rea, A. H. Longhurst, Robert Sewell, James Burgess and Walter Elliot were associated with",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Archaeological excavations"
+        },
+        {
+          "letter": "B",
+          "text": "Establishment of English Press in Colonial India"
+        },
+        {
+          "letter": "C",
+          "text": "Establishment of Churches in Princely States"
+        },
+        {
+          "letter": "D",
+          "text": "Construction of railways in Colonial India"
+        }
+      ]
+    },
+    {
+      "id": "269a28e2-6d10-41c0-aeee-a1929e1a6854",
+      "question_number": 28,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "Indian Polity",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following statements in respect of the National Flag of India according to the Flag Code of India, 2002:\n\nStatement-I: One of the standard sizes of the National Flag of India is 600 mm x 400 mm.\nStatement-II: The ratio of the length to the height (width) of the Flag shall be 3:2.\n\nWhich one of the following is correct in respect of the above statements?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I"
+        },
+        {
+          "letter": "B",
+          "text": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I"
+        },
+        {
+          "letter": "C",
+          "text": "Statement-I is correct but Statement-II is incorrect"
+        },
+        {
+          "letter": "D",
+          "text": "Statement-I is incorrect but Statement-II is correct"
+        }
+      ]
+    },
+    {
+      "id": "1330004c-37b0-475a-9e8e-f535c494e6b3",
+      "question_number": 29,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "Economy",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the investments in the following assets:\n- Brand recognition\n- Inventory\n- Intellectual property\n- Mailing list of clients\nHow many of the above are considered intangible investments?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only one"
+        },
+        {
+          "letter": "B",
+          "text": "Only two"
+        },
+        {
+          "letter": "C",
+          "text": "Only three"
+        },
+        {
+          "letter": "D",
+          "text": "All four"
+        }
+      ]
+    },
+    {
+      "id": "cb2f7af4-ee9b-4cd9-a48c-8417d99ed9af",
+      "question_number": 30,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "International Relations",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following statements:\n1. Recently, all the countries of the United Nations have adopted the first-ever compact for international migration, the 'Global Compact for Safe, Orderly and Regular Migration (GCM)'.\n2. The objectives and commitments stated in the GCM are binding on the UN member countries.\n3. The GCM addresses internal migration or internally displaced people also in its objectives and commitments.\nHow many of the above statements are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only one"
+        },
+        {
+          "letter": "B",
+          "text": "Only two"
+        },
+        {
+          "letter": "C",
+          "text": "All three"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ]
+    },
+    {
+      "id": "0078640f-1de5-49fe-8578-8136d9f5cf65",
+      "question_number": 31,
+      "type": "mcq",
+      "difficulty": "Easy",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following statements:\n1. In India, the Biodiversity Management Committees are key to the realization of the objectives of Nagoya Protocol.\n2. The Biodiversity Management Committees have important functions in determining access and benefit sharing, including the power to levy collection fees on the access of biological resources within its jurisdiction.\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 only"
+        },
+        {
+          "letter": "B",
+          "text": "2 only"
+        },
+        {
+          "letter": "C",
+          "text": "Both 1 and 2"
+        },
+        {
+          "letter": "D",
+          "text": "Neither 1 nor 2"
+        }
+      ]
+    },
+    {
+      "id": "7a6e5871-41b1-4a3f-a0a2-01cf0eceb2b8",
+      "question_number": 32,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following trees:\n1. Jackfruit (Artocarpus heterophyllus)\n2. Mahua (Madhuca indica)\n3. Teak (Tectona grandis)\nHow many of the above are deciduous trees?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only one"
+        },
+        {
+          "letter": "B",
+          "text": "Only two"
+        },
+        {
+          "letter": "C",
+          "text": "All three"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ]
+    },
+    {
+      "id": "898a14c4-2852-431a-bd69-1c429fe8aec3",
+      "question_number": 33,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "International Relations",
+      "exam_info": "Prelims 2024",
+      "question_text": "In the recent years Chad, Guinea, Mali and Sudan caught the international attention for which one of the following reasons common to all of them?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Discovery of rich deposits of rare earth elements"
+        },
+        {
+          "letter": "B",
+          "text": "Establishment of Chinese Military bases"
+        },
+        {
+          "letter": "C",
+          "text": "Southward expansion of Sahara Desert"
+        },
+        {
+          "letter": "D",
+          "text": "Successful coups"
+        }
+      ]
+    },
+    {
+      "id": "f13ea96b-9593-4d40-80cd-6f4d478b3a45",
+      "question_number": 34,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "International Relations",
+      "exam_info": "Prelims 2024",
+      "question_text": "Which one of the following countries has been suffering from decades of civil strife and food shortages and was in news in the recent past for its very severe famine?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Angola"
+        },
+        {
+          "letter": "B",
+          "text": "Costa Rica"
+        },
+        {
+          "letter": "C",
+          "text": "Ecuador"
+        },
+        {
+          "letter": "D",
+          "text": "Somalia"
+        }
+      ]
+    },
+    {
+      "id": "96e23a1a-3534-47a1-9f45-51d70188ba07",
+      "question_number": 35,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "International Relations",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following infrastructure sectors:\n1. Affordable housing\n2. Mass rapid transport\n3. Health care\n4. Renewable energy\nOn how many of the above does UNOPS Sustainable Investments in Infrastructure and Innovation (S3i) initiative focus for its investments?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only one"
+        },
+        {
+          "letter": "B",
+          "text": "Only two"
+        },
+        {
+          "letter": "C",
+          "text": "Only three"
+        },
+        {
+          "letter": "D",
+          "text": "All four"
+        }
+      ]
+    },
+    {
+      "id": "e1652b45-de2c-4149-aec1-f46760e6d647",
+      "question_number": 36,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following fauna:\n- Lion-tailed Macaque\n- Malabar Civet\n- Sambar Deer\nHow many of the above are generally nocturnal or most active after sunset?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only one"
+        },
+        {
+          "letter": "B",
+          "text": "Only two"
+        },
+        {
+          "letter": "C",
+          "text": "All three"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ]
+    },
+    {
+      "id": "1b9bf0d3-9259-40ca-9156-d8f3ea244f89",
+      "question_number": 37,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2024",
+      "question_text": "Who among the following rulers of medieval Gujarat surrendered Diu to Portuguese?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ahmad Shah"
+        },
+        {
+          "letter": "B",
+          "text": "Mahmud Begarha"
+        },
+        {
+          "letter": "C",
+          "text": "Bahadur Shah"
+        },
+        {
+          "letter": "D",
+          "text": "Muhammad Shah"
+        }
+      ]
+    },
+    {
+      "id": "952422cd-b115-4ac0-a165-30fa40666003",
+      "question_number": 38,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "International Relations",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following statements about G-20:\n1. The G-20 group was originally established as a platform for the Finance Ministers and Central Bank Governors to discuss the international economic and financial issues.\n2. Digital public infrastructure is one of India's G-20 priorities.\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 only"
+        },
+        {
+          "letter": "B",
+          "text": "2 only"
+        },
+        {
+          "letter": "C",
+          "text": "Both 1 and 2"
+        },
+        {
+          "letter": "D",
+          "text": "Neither 1 nor 2"
+        }
+      ]
+    },
+    {
+      "id": "63e092bc-3a11-4e11-ba08-b236cb19228a",
+      "question_number": 39,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "International Relations",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following statements:\n1. The 'Stability and Growth Pact' of the European Union is a treaty that limits the levels of the budgetary deficit of the countries of the European Union.\n2. It makes the countries of the European Union share their infrastructure facilities.\n3. It enables the countries of the European Union to share their technologies.\n\nHow many of the above statements are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only one"
+        },
+        {
+          "letter": "B",
+          "text": "Only two"
+        },
+        {
+          "letter": "C",
+          "text": "All three"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ]
+    },
+    {
+      "id": "5dc362be-1bb8-420a-aed7-7153c1e5632e",
+      "question_number": 40,
+      "type": "mcq",
+      "difficulty": "Easy",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2024",
+      "question_text": "Who among the following rulers of Vijayanagara Empire constructed a large dam across Tungabhadra River and a canal-cum-aqueduct several kilometres long from the river to the capital city?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Devaraya I"
+        },
+        {
+          "letter": "B",
+          "text": "Mallikarjuna"
+        },
+        {
+          "letter": "C",
+          "text": "Vira Vijaya"
+        },
+        {
+          "letter": "D",
+          "text": "Virupaksha"
+        }
+      ]
+    },
+    {
+      "id": "7ad12fe2-5d1e-4827-be9f-c198be69758e",
+      "question_number": 41,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "Physical Geography",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following statements:\n\nStatement-I: The temperature contrast between continents and oceans is greater during summer than in winter.\nStatement-II: The specific heat of water is more than that of land surface.\n\nWhich one of the following is correct in respect of the above statements?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I"
+        },
+        {
+          "letter": "B",
+          "text": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I"
+        },
+        {
+          "letter": "C",
+          "text": "Statement-I is correct but Statement-II is incorrect"
+        },
+        {
+          "letter": "D",
+          "text": "Statement-I is incorrect but Statement-II is correct"
+        }
+      ]
+    },
+    {
+      "id": "a219100a-b10f-4287-be25-7816009d92e6",
+      "question_number": 42,
+      "type": "mcq",
+      "difficulty": "Easy",
+      "subject": "Modern History",
+      "exam_info": "Prelims 2024",
+      "question_text": "By which one of the following Acts was the Governor General of Bengal designated as the Governor General of India?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The Regulating Act"
+        },
+        {
+          "letter": "B",
+          "text": "The Pitt's India Act"
+        },
+        {
+          "letter": "C",
+          "text": "The Charter Act of 1793"
+        },
+        {
+          "letter": "D",
+          "text": "The Charter Act of 1833"
+        }
+      ]
+    },
+    {
+      "id": "e94d352c-1d44-445e-8050-2504a23098c1",
+      "question_number": 43,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "Indian Polity",
+      "exam_info": "Prelims 2024",
+      "question_text": "With reference to Finance Bill and Money Bill in the Indian Parliament consider the following statements:\n1. When the Lok Sabha transmits Finance Bill to the Rajya Sabha, it can amend or reject the Bill.\n2. When the Lok Sabha transmits Money Bill to the Rajya Sabha, it cannot amend or reject the Bill, it can only make recommendations.\n3. In the case of disagreement between the Lok Sabha and the Rajya Sabha, there is no joint sitting for Money Bill, but a joint sitting becomes necessary for Finance Bill.\nHow many of the above statements are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only one"
+        },
+        {
+          "letter": "B",
+          "text": "Only two"
+        },
+        {
+          "letter": "C",
+          "text": "All three"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ]
+    },
+    {
+      "id": "52d41b67-5829-45dd-ac54-111dec9191ef",
+      "question_number": 44,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "Modern History",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following statements:\nStatement-I: 7th August is declared as the National Handloom Day.\nStatement-II: It was in 1905 that the Swadeshi Movement was launched on the same day.\nWhich one of the following is correct in respect of the above statements?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I"
+        },
+        {
+          "letter": "B",
+          "text": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I"
+        },
+        {
+          "letter": "C",
+          "text": "Statement-I is correct but Statement-II is incorrect"
+        },
+        {
+          "letter": "D",
+          "text": "Statement-I is incorrect but Statement-II is correct"
+        }
+      ]
+    },
+    {
+      "id": "5ca7b3e8-1521-4cf8-8143-ade0deab1620",
+      "question_number": 45,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "Indian Polity",
+      "exam_info": "Prelims 2024",
+      "question_text": "With reference to India, consider the following pairs:\n\n1. Unauthorized wearing of police or military uniforms : The Official Secrets Act, 1923\n2. Knowingly misleading or otherwise interfering with a police officer or military officer when engaged in their duties: The Indian Evidence Act, 1872\n3. Celebratory gunfire which can endanger the personal safety of others : The Arms (Amendment) Act, 2019\n\nHow many of the above pairs are correctly matched?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only one"
+        },
+        {
+          "letter": "B",
+          "text": "Only two"
+        },
+        {
+          "letter": "C",
+          "text": "All three"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ]
+    },
+    {
+      "id": "2e449941-4d0a-4eaf-9059-378f5dada052",
+      "question_number": 46,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "Indian Polity",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following statements:\nStatement-I: In India, prisons are managed by State Governments with their own rules and regulations for the day-to-day administration of prisons.\nStatement-II: In India, prisons are governed by the Prisons Act, 1894 which expressly kept the subject of prisons in the control of Provincial Governments.\nWhich one of the following is correct in respect of the above statements?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I"
+        },
+        {
+          "letter": "B",
+          "text": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I"
+        },
+        {
+          "letter": "C",
+          "text": "Statement-I is correct but Statement-II is incorrect"
+        },
+        {
+          "letter": "D",
+          "text": "Statement-I is incorrect but Statement-II is correct"
+        }
+      ]
+    },
+    {
+      "id": "d953871f-4163-46f8-afb5-4e4beb664167",
+      "question_number": 47,
+      "type": "mcq",
+      "difficulty": "Easy",
+      "subject": "Indian Polity",
+      "exam_info": "Prelims 2024",
+      "question_text": "Which one of the following statements best reflects the chief purpose of the 'Constitution' of a country?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It determines the objective for the making of necessary laws."
+        },
+        {
+          "letter": "B",
+          "text": "It enables the creation of political offices and a government."
+        },
+        {
+          "letter": "C",
+          "text": "It defines and limits the powers of government."
+        },
+        {
+          "letter": "D",
+          "text": "It secures social justice, social equality and social security."
+        }
+      ]
+    },
+    {
+      "id": "034a1a7f-0aba-498e-b7db-a34118fd74af",
+      "question_number": 48,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "Indian Polity",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following statements:\n1. According to the Constitution of India, the Central Government has a duty to protect States from internal disturbances.\n2. The Constitution of India exempts the States from providing legal counsel to a person being held for preventive detention.\n3. According to the Prevention of Terrorism Act, 2002, confession of the accused before the police cannot be used as evidence.\nHow many of the above statements are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only one"
+        },
+        {
+          "letter": "B",
+          "text": "Only two"
+        },
+        {
+          "letter": "C",
+          "text": "All three"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ]
+    },
+    {
+      "id": "9017e9a5-5602-4ee7-a8fd-4ef856971f0d",
+      "question_number": 49,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following statements in respect of the 44th Chess Olympiad, 2022:\n1. It was the first time that Chess Olympiad was held in India.\n2. The official mascot was named 'Thambi'.\n3. The trophy for the winning team in the open section is the Vera Menchik Cup.\n4. The trophy for the winning team in the women's section is the Hamilton-Russell Cup.\nHow many of the statements given above are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only one"
+        },
+        {
+          "letter": "B",
+          "text": "Only two"
+        },
+        {
+          "letter": "C",
+          "text": "Only three"
+        },
+        {
+          "letter": "D",
+          "text": "All four"
+        }
+      ]
+    },
+    {
+      "id": "a07eae08-4fc3-4516-a6fd-223c3e0be70d",
+      "question_number": 50,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2024",
+      "question_text": "Which one of the following explains the practice of 'Vattakirutal' as mentioned in Sangam poems?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Kings employing women bodyguards"
+        },
+        {
+          "letter": "B",
+          "text": "Learned persons assembling in royal courts to discuss religious and philosophical matters"
+        },
+        {
+          "letter": "C",
+          "text": "Young girls keeping watch over agricultural fields and driving away birds and animals"
+        },
+        {
+          "letter": "D",
+          "text": "A king defeated in a battle committing ritual suicide by starving himself to death"
+        }
+      ]
+    },
+    {
+      "id": "c1436d34-d034-4b5d-851b-0401466801ac",
+      "question_number": 51,
+      "type": "mcq",
+      "difficulty": "Easy",
+      "subject": "Economy",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following:\n1. Demographic performance\n2. Forest and ecology\n3. Governance reforms\n4. Stable government\n5. Tax and fiscal efforts\n\nFor the horizontal tax devolution, the Fifteenth Finance Commission used how many of the above as criteria other than population, area, and income distance?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only two"
+        },
+        {
+          "letter": "B",
+          "text": "Only three"
+        },
+        {
+          "letter": "C",
+          "text": "Only four"
+        },
+        {
+          "letter": "D",
+          "text": "All five"
+        }
+      ]
+    },
+    {
+      "id": "a53fbfb8-d5df-48d9-b233-007d0c6753f8",
+      "question_number": 52,
+      "type": "list_mcq",
+      "difficulty": "Hard",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2024",
+      "question_text": "With reference to ancient Indian History, consider the following pairs:\n\nLiterary work: Author\n- Devichandragupta: Bilhana\n- Hammira-Mahakavya: Nayachandra Suri\n- Milinda-panha: Nagarjuna\n- Nitivakyamrita: Somadeva Suri\n\nHow many of the above pairs are correctly matched?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only one"
+        },
+        {
+          "letter": "B",
+          "text": "Only two"
+        },
+        {
+          "letter": "C",
+          "text": "Only three"
+        },
+        {
+          "letter": "D",
+          "text": "All four"
+        }
+      ]
+    },
+    {
+      "id": "065aebd0-3f57-4cfe-b4ab-0be4b82ab45e",
+      "question_number": 53,
+      "type": "list_mcq",
+      "difficulty": "Medium",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following statements in relation to Janani Suraksha Yojana:\n1. It is safe motherhood intervention of the State Health Departments.\n2. Its objective is to reduce maternal and neonatal mortality among poor pregnant women.\n3. It aims to promote institutional delivery among poor pregnant women.\n4. Its objective includes providing public health facilities to sick infants up to one year of age.\nHow many of the statements given above are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only one"
+        },
+        {
+          "letter": "B",
+          "text": "Only two"
+        },
+        {
+          "letter": "C",
+          "text": "All three"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ]
+    },
+    {
+      "id": "29ac44dc-07a3-42f4-95db-ffb6077a415c",
+      "question_number": 54,
+      "type": "mcq",
+      "difficulty": "Easy",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2024",
+      "question_text": "\"Souls are not only the property of animal and plant life, but also of rocks, running water and many other natural objects not looked on as living by other religious sects.\" The above statement reflects one of the core beliefs of which one of the following religious sects of ancient India?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Buddhism"
+        },
+        {
+          "letter": "B",
+          "text": "Jainism"
+        },
+        {
+          "letter": "C",
+          "text": "Shaivism"
+        },
+        {
+          "letter": "D",
+          "text": "Vaishnavism"
+        }
+      ]
+    },
+    {
+      "id": "44f7ab8c-f7f8-499d-9f26-2ec1a444050b",
+      "question_number": 55,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "Economy",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following statements:\n\nStatement-I: Interest income from the deposits in Infrastructure Investment Trusts (InvITs) distributed to their investors is exempted from tax, but the dividend is taxable.\n\nStatement-II: InvITs are recognized as borrowers under the 'Securitization and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002'.\n\nWhich one of the following is correct in respect of the above statements?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I"
+        },
+        {
+          "letter": "B",
+          "text": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I"
+        },
+        {
+          "letter": "C",
+          "text": "Statement-I is correct but Statement-II is incorrect"
+        },
+        {
+          "letter": "D",
+          "text": "Statement-I is incorrect but Statement-II is correct"
+        }
+      ]
+    },
+    {
+      "id": "e1e81693-7ca5-4a8e-b8fd-18c67d973c9f",
+      "question_number": 56,
+      "type": "table_mcq",
+      "difficulty": "Medium",
+      "subject": "Economy",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following pairs:\n\n| Port           | Well known as                                      |\n|----------------|---------------------------------------------------|\n| Kamarajar Port | First major port in India registered as a company |\n| Mundra Port    | Largest privately owned port in India             |\n| Visakhapatnam  | Largest container port in India                    |\n\nHow many of the above pairs are correctly matched?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only one pair"
+        },
+        {
+          "letter": "B",
+          "text": "Only two pairs"
+        },
+        {
+          "letter": "C",
+          "text": "All three pairs"
+        },
+        {
+          "letter": "D",
+          "text": "None of the pairs"
+        }
+      ]
+    },
+    {
+      "id": "7a3d65e2-af73-4c88-85b5-6c778fa6e53d",
+      "question_number": 57,
+      "type": "list_mcq",
+      "difficulty": "Medium",
+      "subject": "Science & Technology",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following pairs:\n\nObjects in space: Description\n1. Cepheids: Giant clouds of dust and gas in space\n2. Nebulae: Stars which brighten and dim periodically\n3. Pulsars: Neutron stars that are formed when massive stars run out of fuel and collapse\n\nHow many of the above pairs are correctly matched?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only one"
+        },
+        {
+          "letter": "B",
+          "text": "Only two"
+        },
+        {
+          "letter": "C",
+          "text": "All three"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ]
+    },
+    {
+      "id": "40b02b06-f229-40f4-b32e-38f4f4c77c19",
+      "question_number": 58,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following statements:\n\nStatement-I: India's public sector health care system largely focuses on curative care with limited preventive, promotive and rehabilitative care.\n\nStatement-II: Under India's decentralized approach to health care delivery, the States are primarily responsible for organizing health services.\n\nWhich one of the following is correct in respect of the above statements?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I"
+        },
+        {
+          "letter": "B",
+          "text": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I"
+        },
+        {
+          "letter": "C",
+          "text": "Statement-I is correct but Statement-II is incorrect"
+        },
+        {
+          "letter": "D",
+          "text": "Statement-I is incorrect but Statement-II is correct"
+        }
+      ]
+    },
+    {
+      "id": "0fb5da08-4493-4b44-87b1-eae7267c2c7c",
+      "question_number": 59,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2024",
+      "question_text": "With reference to ancient India, consider the following statements:\n1. The concept of Stupa is Buddhist in origin.\n2. Stupa was generally a repository of relics.\n3. Stupa was a votive and commemorative structure in Buddhist tradition.\nHow many of the statements given above are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only one"
+        },
+        {
+          "letter": "B",
+          "text": "Only two"
+        },
+        {
+          "letter": "C",
+          "text": "All three"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ]
+    },
+    {
+      "id": "016034d9-e25b-4b99-aa79-13a8833a30fd",
+      "question_number": 60,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "Indian Polity",
+      "exam_info": "Prelims 2024",
+      "question_text": "With reference to 'Scheduled Areas' in India, consider the following statements:\n1. Within a State, the notification of an area as Scheduled Area takes place through an Order of the President.\n2. The largest administrative unit forming the Scheduled Area is the District and the lowest is the cluster of villages in the Block.\n3. The Chief Ministers of the concerned States are required to submit annual reports to the Union Home Ministry on the administration of Scheduled Areas in the States.\nHow many of the above statements are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only one"
+        },
+        {
+          "letter": "B",
+          "text": "Only two"
+        },
+        {
+          "letter": "C",
+          "text": "All three"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ]
+    },
+    {
+      "id": "c0bbf829-d6cc-4c71-a797-08889945adc1",
+      "question_number": 61,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2024",
+      "question_text": "Which of the following organisms perform waggle dance for others of their kin to indicate the direction and the distance to a source of their food?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Butterflies"
+        },
+        {
+          "letter": "B",
+          "text": "Dragonflies"
+        },
+        {
+          "letter": "C",
+          "text": "Honeybees"
+        },
+        {
+          "letter": "D",
+          "text": "Wasps"
+        }
+      ]
+    },
+    {
+      "id": "89c7bfdb-15ef-4218-b405-ad31d93c39b1",
+      "question_number": 62,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "Economy",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following Statements:\n\nStatement-I: Switzerland is one of the leading exporters of gold in terms of value.\nStatement-II: Switzerland has the second largest gold reserves in the world.\n\nWhich one of the following is correct in respect of the above statements?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I"
+        },
+        {
+          "letter": "B",
+          "text": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I"
+        },
+        {
+          "letter": "C",
+          "text": "Statement-I is correct but Statement-II is incorrect"
+        },
+        {
+          "letter": "D",
+          "text": "Statement-I is incorrect but Statement-II is correct"
+        }
+      ]
+    },
+    {
+      "id": "60ba5172-7a88-4f62-8bc6-f338c4c39297",
+      "question_number": 63,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2024",
+      "question_text": "With reference to the role of biofilters in Recirculating Aquaculture System, consider the following statements:\n1. Biofilters provide waste treatment by removing uneaten fish feed.\n2. Biofilters convert ammonia present in fish waste to nitrate.\n3. Biofilters increase phosphorus as nutrient for fish in water.\nHow many of the statements given above are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only one"
+        },
+        {
+          "letter": "B",
+          "text": "Only two"
+        },
+        {
+          "letter": "C",
+          "text": "All three"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ]
+    },
+    {
+      "id": "d6eb5f3e-ffe6-4e07-8d0c-e62d308ad48b",
+      "question_number": 64,
+      "type": "mcq",
+      "difficulty": "Easy",
+      "subject": "Economy",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following markets:\n1. Government Bond Market\n2. Call Money Market\n3. Treasury Bill Market\n4. Stock Market\nHow many of the above are included in capital markets?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only one"
+        },
+        {
+          "letter": "B",
+          "text": "Only two"
+        },
+        {
+          "letter": "C",
+          "text": "Only three"
+        },
+        {
+          "letter": "D",
+          "text": "All four"
+        }
+      ]
+    },
+    {
+      "id": "50ebf783-47b9-48da-a962-9f3475b52847",
+      "question_number": 65,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following statements regarding mercury pollution:\n1. Gold mining activity is a source of mercury pollution in the world.\n2. Coal-based thermal power plants cause mercury pollution.\n3. There is no known safe level of exposure to mercury.\nHow many of the above statements are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only one"
+        },
+        {
+          "letter": "B",
+          "text": "Only two"
+        },
+        {
+          "letter": "C",
+          "text": "All three"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ]
+    },
+    {
+      "id": "16423cd3-e3eb-4596-bbd7-0bead1e39510",
+      "question_number": 66,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2024",
+      "question_text": "Which one of the following makes a tool with a stick to scrap insects from a hole in a tree or a log of wood?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fishing cat"
+        },
+        {
+          "letter": "B",
+          "text": "Orangutan"
+        },
+        {
+          "letter": "C",
+          "text": "Otter"
+        },
+        {
+          "letter": "D",
+          "text": "Sloth bear"
+        }
+      ]
+    },
+    {
+      "id": "b0557261-f4a3-4ed6-ba35-a6ba915d584a",
+      "question_number": 67,
+      "type": "mcq",
+      "difficulty": "Easy",
+      "subject": "Indian Polity",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following organizations/bodies in India:\n1. The National Commission for Backward Classes\n2. The National Human Rights Commission\n3. The National Law Commission\n4. The National Consumer Disputes Redressal Commission\nHow many of the above are constitutional bodies?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only one"
+        },
+        {
+          "letter": "B",
+          "text": "Only two"
+        },
+        {
+          "letter": "C",
+          "text": "Only three"
+        },
+        {
+          "letter": "D",
+          "text": "All four"
+        }
+      ]
+    },
+    {
+      "id": "a9fd7f7e-08bf-4e85-8f55-2f4bc2a93028",
+      "question_number": 68,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "Indian Polity",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following statements in respect of election to the President of India:\n1. The members nominated to either House of the Parliament or the Legislative Assemblies of States are also eligible to be included in the Electoral College.\n2. Higher the number of elective Assembly seats, higher is the value of vote of each MLA of that State.\n3. The value of vote of each MLA of Madhya Pradesh is greater than that of Kerala.\n4. The value of vote of each MLA of Puducherry is higher than that of Arunachal Pradesh because the ratio of total population to total number of elective seats in Puducherry is greater as compared to Arunachal Pradesh.\n\nHow many of the above statements are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only one"
+        },
+        {
+          "letter": "B",
+          "text": "Only two"
+        },
+        {
+          "letter": "C",
+          "text": "Only three"
+        },
+        {
+          "letter": "D",
+          "text": "All four"
+        }
+      ]
+    },
+    {
+      "id": "d00b4a0b-e799-415f-afae-4a9ce95c31ba",
+      "question_number": 69,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "International Relations",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following statements:\nStatement-I: Israel has established diplomatic relations with some Arab States.\nStatement-II: The 'Arab Peace Initiative' mediated by Saudi Arabia was signed by Israel and Arab League.\nWhich one of the following is correct in respect of the above statements?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I"
+        },
+        {
+          "letter": "B",
+          "text": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I"
+        },
+        {
+          "letter": "C",
+          "text": "Statement-I is correct but Statement-II is incorrect"
+        },
+        {
+          "letter": "D",
+          "text": "Statement-I is incorrect but Statement-II is correct"
+        }
+      ]
+    },
+    {
+      "id": "b5e42dc4-76a4-4d91-aeeb-0c774e46e223",
+      "question_number": 70,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following heavy industries:\n- Fertilizer plants\n- Oil refineries\n- Steel plants\nGreen hydrogen is expected to play a significant role in decarbonizing how many of the above industries?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only one"
+        },
+        {
+          "letter": "B",
+          "text": "Only two"
+        },
+        {
+          "letter": "C",
+          "text": "All three"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ]
+    },
+    {
+      "id": "902e0e4a-1385-4f4c-bc34-6739f7611d03",
+      "question_number": 71,
+      "type": "mcq",
+      "difficulty": "Easy",
+      "subject": "Economy",
+      "exam_info": "Prelims 2024",
+      "question_text": "Which one of the following activities of the Reserve Bank of India is considered to be part of 'sterilization'?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conducting 'Open Market Operations'"
+        },
+        {
+          "letter": "B",
+          "text": "Oversight of settlement and payment systems"
+        },
+        {
+          "letter": "C",
+          "text": "Debt and cash management for the Central and State Governments"
+        },
+        {
+          "letter": "D",
+          "text": "Regulating the functions of Nonbanking Financial Institutions"
+        }
+      ]
+    },
+    {
+      "id": "6e4b6672-b945-41e0-9e4e-cb78ab160267",
+      "question_number": 72,
+      "type": "list_mcq",
+      "difficulty": "Hard",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following activities:\n1. Spreading finely ground basalt rock on farmlands extensively\n2. Increasing the alkalinity of oceans by adding lime\n3. Capturing carbon dioxide released by various industries and pumping it into abandoned subterranean mines in the form of carbonated waters\n\nHow many of the above activities are often considered and discussed for carbon capture and sequestration?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only one"
+        },
+        {
+          "letter": "B",
+          "text": "Only two"
+        },
+        {
+          "letter": "C",
+          "text": "All three"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ]
+    },
+    {
+      "id": "16ffdea6-f72b-4d9e-b1b9-91d18a8458e4",
+      "question_number": 73,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "Science & Technology",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following actions:\n1. Detection of car crash/collision which results in the deployment of airbags almost instantaneously\n2. Detection of accidental free fall of a laptop towards the ground which results in the immediate turning off of the hard drive\n3. Detection of the tilt of the smartphone which results in the rotation of display between portrait and landscape mode\n\nIn how many of the above actions is the function of accelerometer required?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only one"
+        },
+        {
+          "letter": "B",
+          "text": "Only two"
+        },
+        {
+          "letter": "C",
+          "text": "All three"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ]
+    },
+    {
+      "id": "e7328c87-240a-471d-b2dd-9b1d1c948a5b",
+      "question_number": 74,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following statements:\n\nStatement-I: India, despite having uranium deposits, depends on coal for most of its electricity production.\n\nStatement-II: Uranium, enriched to the extent of at least 60% is required for the production of electricity.\n\nWhich one of the following is correct in respect of the above statements?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I"
+        },
+        {
+          "letter": "B",
+          "text": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I"
+        },
+        {
+          "letter": "C",
+          "text": "Statement-I is correct but Statement-II is incorrect"
+        },
+        {
+          "letter": "D",
+          "text": "Statement-I is incorrect but Statement-II is correct"
+        }
+      ]
+    },
+    {
+      "id": "ba8e96f7-38fe-4c6c-a728-f81dba492de0",
+      "question_number": 75,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2024",
+      "question_text": "With reference to coal-based thermal power plants in India, consider the following statements:\n1. None of them uses seawater.\n2. None of them is set up in water-stressed district.\n3. None of them is privately owned.\nHow many of the above statements are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only one"
+        },
+        {
+          "letter": "B",
+          "text": "Only two"
+        },
+        {
+          "letter": "C",
+          "text": "All three"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ]
+    },
+    {
+      "id": "c380c38e-fcc0-47b3-bc5e-929c18f44de3",
+      "question_number": 76,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following statements:\nStatement I: Marsupials are not naturally found in India.\nStatement II: Marsupials can thrive only in montane grasslands with no predators.\nWhich one of the following is correct in respect of the above statements?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I"
+        },
+        {
+          "letter": "B",
+          "text": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I"
+        },
+        {
+          "letter": "C",
+          "text": "Statement-I is correct but Statement-II is incorrect"
+        },
+        {
+          "letter": "D",
+          "text": "Statement-I is incorrect but Statement-II is correct"
+        }
+      ]
+    },
+    {
+      "id": "36e1cffa-1a44-46e0-a00d-c4cf2b551291",
+      "question_number": 77,
+      "type": "table_mcq",
+      "difficulty": "Hard",
+      "subject": "International Relations",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following pairs:\n\n| Area of conflict | Country where it is located |\n|------------------|-----------------------------|\n| Donbas           | Syria                       |\n| Kachin           | Ethiopia                    |\n| Tigray           | North Yemen                 |\n\nHow many of the above pairs are correctly matched?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only one"
+        },
+        {
+          "letter": "B",
+          "text": "Only two"
+        },
+        {
+          "letter": "C",
+          "text": "All three"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ]
+    },
+    {
+      "id": "2cab2c37-285b-44f7-8513-39c3bf8f7070",
+      "question_number": 78,
+      "type": "mcq",
+      "difficulty": "Easy",
+      "subject": "Economy",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following statements:\n1. The Self-Help Group (SHG) programme was originally initiated by the State Bank of India by providing microcredit to the financially deprived.\n2. In an SHG, all members of a group take responsibility for a loan that an individual member takes.\n3. The Regional Rural Banks and Scheduled Commercial banks support SHGs.\nHow many of the above statements are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only one"
+        },
+        {
+          "letter": "B",
+          "text": "Only two"
+        },
+        {
+          "letter": "C",
+          "text": "All three"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ]
+    },
+    {
+      "id": "6108f4df-ff37-4677-b244-15442fc05bf3",
+      "question_number": 79,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "International Relations",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following statements:\n\nStatement-I: Recently, the United States of America (USA) and the European Union (EU) have launched the 'Trade and Technology Council'.\n\nStatement-II: The USA and the EU claim that through this they are trying to begin technological progress and physical productivity under their control.\n\nWhich one of the following is correct in respect of the above statements?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I"
+        },
+        {
+          "letter": "B",
+          "text": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I"
+        },
+        {
+          "letter": "C",
+          "text": "Statement-I is correct but Statement-II is incorrect"
+        },
+        {
+          "letter": "D",
+          "text": "Statement-I is incorrect but Statement-II is correct"
+        }
+      ]
+    },
+    {
+      "id": "da30cd1f-3f3b-4052-90ab-49c94c38b21c",
+      "question_number": 80,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following statements:\n\nStatement-I: Carbon markets are likely to be one of the most widespread tools in the fight against climate change.\n\nStatement-II: Carbon markets transfer resources from the private sector to the State.\n\nWhich one of the following is correct in respect of the above statements?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I"
+        },
+        {
+          "letter": "B",
+          "text": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I"
+        },
+        {
+          "letter": "C",
+          "text": "Statement-I is correct but Statement-II is incorrect"
+        },
+        {
+          "letter": "D",
+          "text": "Statement-I is incorrect but Statement-II is correct"
+        }
+      ]
+    },
+    {
+      "id": "bd1270e8-0fbc-4d9e-ac2e-e7a715398cbd",
+      "question_number": 81,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "Economy",
+      "exam_info": "Prelims 2024",
+      "question_text": "Which one of the following best describes the concept of 'Small Farmer Large Field'?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Resettlement of a large number of people, uprooted from their them a large cultivable land which they cultivate collectively and share the produce"
+        },
+        {
+          "letter": "B",
+          "text": "Many marginal farmers in an area organize themselves into groups and synchronize and harmonize selected agricultural operations"
+        },
+        {
+          "letter": "C",
+          "text": "Many marginal farmers in an area together make a contract with a corporate body and surrender their land to the corporate body for a fixed term for which the corporate body makes payment of agreed amount to the farmers"
+        },
+        {
+          "letter": "D",
+          "text": "A company extends loans, technical knowledge and material inputs to a number of small farmers in an area so that they produce the agricultural commodity required by the company for its manufacturing process and commercial production"
+        }
+      ]
+    },
+    {
+      "id": "f052edf0-d1c3-44eb-8201-69b81619f403",
+      "question_number": 82,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "World Geography",
+      "exam_info": "Prelims 2024",
+      "question_text": "Which one of the following is a part of the Congo Basin?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cameroon"
+        },
+        {
+          "letter": "B",
+          "text": "Nigeria"
+        },
+        {
+          "letter": "C",
+          "text": "South Sudan"
+        },
+        {
+          "letter": "D",
+          "text": "Uganda"
+        }
+      ]
+    },
+    {
+      "id": "da00cb1b-b363-414a-aa9d-2507d62502eb",
+      "question_number": 83,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2024",
+      "question_text": "Which one of the following is the best example of repeated falls in sea level, giving rise to present-day extensive marshland?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bhitarkanika Mangroves"
+        },
+        {
+          "letter": "B",
+          "text": "Marakkanam Salt Pans"
+        },
+        {
+          "letter": "C",
+          "text": "Naupada Swamp"
+        },
+        {
+          "letter": "D",
+          "text": "Rann of Kutch"
+        }
+      ]
+    },
+    {
+      "id": "ca9920be-5f15-43ab-b7d7-a1c6869dbfb3",
+      "question_number": 84,
+      "type": "mcq",
+      "difficulty": "Easy",
+      "subject": "Science & Technology",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following statements:\n1. Some mushrooms have medicinal properties.\n2. Some mushrooms have psychoactive properties.\n3. Some mushrooms have insecticidal properties.\n4. Some mushrooms have bioluminescent properties.\nHow many of the above statements are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only one"
+        },
+        {
+          "letter": "B",
+          "text": "Only two"
+        },
+        {
+          "letter": "C",
+          "text": "Only three"
+        },
+        {
+          "letter": "D",
+          "text": "All four"
+        }
+      ]
+    },
+    {
+      "id": "3b8e64fd-3fef-46d9-9064-b854a8c02b3b",
+      "question_number": 85,
+      "type": "mcq",
+      "difficulty": "Easy",
+      "subject": "World Geography",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following statements:\nStatement-I : The soil in tropical rain forests is rich in nutrients.\nStatement-II : The high temperature and moisture of tropical rain forests cause dead organic matter in the soil to decompose quickly.\nWhich one of the following is correct in respect of the above statements?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Both Statement I and Statement II are correct and Statement II is the correct explanation for Statement I"
+        },
+        {
+          "letter": "B",
+          "text": "Both Statement I and Statement II are correct and Statement II is not the correct explanation for Statement I"
+        },
+        {
+          "letter": "C",
+          "text": "Statement I is correct but Statement II is incorrect"
+        },
+        {
+          "letter": "D",
+          "text": "Statement I is incorrect but Statement II is correct"
+        }
+      ]
+    },
+    {
+      "id": "59607acc-5961-4a35-b386-3bbaf3daa257",
+      "question_number": 86,
+      "type": "mcq",
+      "difficulty": "Easy",
+      "subject": "Science & Technology",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following statements:\n1. Ballistic missiles are jet-propelled at subsonic speeds throughout their flights, while cruise missiles are rocket-powered only in the initial phase of flight.\n2. Agni-V is a medium-range supersonic cruise missile, while BrahMos is a solid-fuelled intercontinental ballistic missile.\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 Only"
+        },
+        {
+          "letter": "B",
+          "text": "2 Only"
+        },
+        {
+          "letter": "C",
+          "text": "Both 1 and 2"
+        },
+        {
+          "letter": "D",
+          "text": "Neither 1 nor 2"
+        }
+      ]
+    },
+    {
+      "id": "62a6d5e7-9dbe-4d59-b61c-43930b2caecf",
+      "question_number": 87,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "Indian Polity",
+      "exam_info": "Prelims 2024",
+      "question_text": "In essence, what does 'Due Process of Law' mean?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The principle of natural justice"
+        },
+        {
+          "letter": "B",
+          "text": "The procedure established by law"
+        },
+        {
+          "letter": "C",
+          "text": "Fair application of law"
+        },
+        {
+          "letter": "D",
+          "text": "Equality before law"
+        }
+      ]
+    },
+    {
+      "id": "19fa82c3-6256-4553-9814-f48a7d9367a7",
+      "question_number": 88,
+      "type": "list_mcq",
+      "difficulty": "Hard",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following pairs with regard to sports awards:\n1. Major Dhyan Chand Khel Ratna Award : For the most spectacular and outstanding performance by a sportsperson over period of last four years\n2. Arjuna Award : For the lifetime achievement by a sportsperson\n3. Dronacharya Award: To honour eminent coaches who have successfully trained sportspersons or teams\n4. Rashtriya Khel Protsahan Puraskar : To recognize the contribution made by sportspersons even after their retirement\n\nHow many of the above pairs are correctly matched?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only one"
+        },
+        {
+          "letter": "B",
+          "text": "Only two"
+        },
+        {
+          "letter": "C",
+          "text": "Only three"
+        },
+        {
+          "letter": "D",
+          "text": "All four"
+        }
+      ]
+    },
+    {
+      "id": "69fef2ec-cf4d-4a97-bd17-b3d9b4d8a3b6",
+      "question_number": 89,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "Economy",
+      "exam_info": "Prelims 2024",
+      "question_text": "In the context of finance, the term 'beta' refers to the",
+      "options": [
+        {
+          "letter": "A",
+          "text": "process of simultaneous buying and selling of an asset from difference platforms."
+        },
+        {
+          "letter": "B",
+          "text": "an investment strategy of a portfolio manager to balance risk versus reward."
+        },
+        {
+          "letter": "C",
+          "text": "a type of systemic risk that arises where perfect hedging is not possible."
+        },
+        {
+          "letter": "D",
+          "text": "a numeric value that measures the fluctuations of a stock to changes in the overall stock market"
+        }
+      ]
+    },
+    {
+      "id": "68ad770b-30fd-480e-98eb-f410b8cb8b5a",
+      "question_number": 90,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "Economy",
+      "exam_info": "Prelims 2024",
+      "question_text": "With reference to Central Bank digital currencies, consider the following statements:\n1. It is possible to make payments in a digital currency without using US dollar or SWIFT system.\n2. A digital currency can be distributed with a condition programmed into it such as a time-frame for spending it.\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 Only"
+        },
+        {
+          "letter": "B",
+          "text": "2 Only"
+        },
+        {
+          "letter": "C",
+          "text": "Both 1 and 2"
+        },
+        {
+          "letter": "D",
+          "text": "Neither 1 nor 2"
+        }
+      ]
+    },
+    {
+      "id": "567814b5-375f-42f4-b17a-55da1ef560b7",
+      "question_number": 91,
+      "type": "table_mcq",
+      "difficulty": "Medium",
+      "subject": "International Relations",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following pairs:\n\n| Regions             | Often Reason for being in news                  |\n|---------------------|------------------------------------------------|\n| North Kivu and Ituri | War between Armenia and Azerbaijan              |\n| Nagorno-Karabakh     | Insurgency in Mozambique                         |\n| Kherson and Zaporizhzhia | Dispute between Israel and Lebanon           |\n\nHow many of the above pairs are correctly matched?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only one"
+        },
+        {
+          "letter": "B",
+          "text": "Only Two"
+        },
+        {
+          "letter": "C",
+          "text": "All three"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ]
+    },
+    {
+      "id": "57dbcbd9-df13-4b78-b2ef-2ae84b198285",
+      "question_number": 92,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "Indian Polity",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following statements:\n\nStatement-I: The Supreme Court of India has held in some judgements that the reservation policies made under Article 16(4) of the Constitution of India would be limited by Article 335 for maintenance of efficiency of the administration.\n\nStatement-II: Article 335 of the Constitution of India defines the term 'efficiency of administration'.\n\nWhich one of the following is correct in respect of the above statements?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Both Statements-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I"
+        },
+        {
+          "letter": "B",
+          "text": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I"
+        },
+        {
+          "letter": "C",
+          "text": "Statement-I is correct but Statement-II is incorrect"
+        },
+        {
+          "letter": "D",
+          "text": "Statement-I is incorrect but Statement-II is correct"
+        }
+      ]
+    },
+    {
+      "id": "801500b4-7c37-4d10-8930-00e7c62b79b0",
+      "question_number": 93,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following statements regarding the Indian squirrels:\n1. They build nests by making burrows in the ground.\n2. They store their food materials like nuts and seeds in the ground.\n3. They are omnivorous.\nHow many of the above statements are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only one"
+        },
+        {
+          "letter": "B",
+          "text": "Only two"
+        },
+        {
+          "letter": "C",
+          "text": "All three"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ]
+    },
+    {
+      "id": "77d36a5b-7b99-40e9-8109-14d87332f94e",
+      "question_number": 94,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "Economy",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following statements:\n1. The Government of India provides Minimum Support Price for niger (Guizotia abyssinicia) seeds.\n2. Niger is cultivated as a Kharif crop.\n3. Some tribal people in India use niger seed oil for cooking.\nHow many of the above statements are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only one"
+        },
+        {
+          "letter": "B",
+          "text": "Only two"
+        },
+        {
+          "letter": "C",
+          "text": "All three"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ]
+    },
+    {
+      "id": "bcb7355d-d483-4cd2-8f4d-d9700ac99cef",
+      "question_number": 95,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2024",
+      "question_text": "Invasive species Specialist Group (that develops Global Invasive Species Database) belongs to which one of the following organizations?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The International Union for Conservation of Nature"
+        },
+        {
+          "letter": "B",
+          "text": "The United Nations Environment Programme"
+        },
+        {
+          "letter": "C",
+          "text": "The United Nations World Commission for Environment and Development."
+        },
+        {
+          "letter": "D",
+          "text": "The World Wide Fund for Nature"
+        }
+      ]
+    },
+    {
+      "id": "cd1c5cc2-a90f-422f-90f5-780b16bc4170",
+      "question_number": 96,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following dynasties:\n- Hoysala\n- Gahadavala\n- Kakatiya\n- Yadava\n\nHow many of the above dynasties established their kingdoms in early eighth century AD?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only one"
+        },
+        {
+          "letter": "B",
+          "text": "Only two"
+        },
+        {
+          "letter": "C",
+          "text": "Only three"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ]
+    },
+    {
+      "id": "40921770-503f-41e0-b60d-9ea2206887b5",
+      "question_number": 97,
+      "type": "list_mcq",
+      "difficulty": "Medium",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following pairs:\nSite : Well known for\n1. Besnagar : Shaivite cave shrine\n2. Bhaja : Buddhist cave shrine\n3. Sittanavasal : Jain cave shrine\nHow many of the above pairs are correctly matched?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only one"
+        },
+        {
+          "letter": "B",
+          "text": "Only two"
+        },
+        {
+          "letter": "C",
+          "text": "All three"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ]
+    },
+    {
+      "id": "c3b90e15-02d6-4659-b65d-7f410dd0c16d",
+      "question_number": 98,
+      "type": "list_mcq",
+      "difficulty": "Medium",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following statements regarding 'Community Reserve' notified by the Central Government:\n1. The Chief Wildlife Warden of the State becomes the governing authority of such forest.\n2. Hunting is not allowed in such area.\n3. People of such area are allowed to collect non-timber forest produce.\n4. People of such area are allowed traditional agricultural practices.\nHow many of the above statements are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only one"
+        },
+        {
+          "letter": "B",
+          "text": "Only two"
+        },
+        {
+          "letter": "C",
+          "text": "Only three"
+        },
+        {
+          "letter": "D",
+          "text": "All four"
+        }
+      ]
+    },
+    {
+      "id": "0631440d-9570-431b-8770-3c4bd9f555c4",
+      "question_number": 99,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "Indian Polity",
+      "exam_info": "Prelims 2024",
+      "question_text": "With reference to Home Guards, consider the following statements:\n1. Home Guards are raised under the Home Guards Act and Rules of the Central Government.\n2. The role of the Home Guards is to serve as an auxiliary force to the police in maintenance of internal security.\n3. To prevent infiltration on the international border/coastal areas, the Border Wing Home Guards Battalions have been raised in some States.\nHow many of the above statements are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only one"
+        },
+        {
+          "letter": "B",
+          "text": "Only two"
+        },
+        {
+          "letter": "C",
+          "text": "All three"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ]
+    },
+    {
+      "id": "505aa68e-3e19-4cb2-bcd0-a1bed3ad1652",
+      "question_number": 100,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "Science & Technology",
+      "exam_info": "Prelims 2024",
+      "question_text": "Aerial metagenomics' best refers to which one of the following situations?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Collecting DNA samples from air in a habitat at one go"
+        },
+        {
+          "letter": "B",
+          "text": "Understanding the genetic makeup of avian species of a habitat"
+        },
+        {
+          "letter": "C",
+          "text": "Using air-borne devices to collect blood samples from moving animals"
+        },
+        {
+          "letter": "D",
+          "text": "Sending drones to inaccessible areas to collect plant and animal samples from land surfaces and water bodies"
+        }
+      ]
+    },
+    {
+      "id": "1f1a60dd-10ab-4c41-b7c8-c5f8d3ff13b2",
+      "question_number": 101,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "Economy",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following statements with reference to India:\n1. According to the 'Micro Small and Medium enterprises Development (MSMED) Act, 2006, the 'medium enterprises' are those with investments in plant and machinery between Rs. 15 crore and Rs. 25 crore.\n2. All bank loans to the Micro, Small and Medium Enterprises qualify under the Priority sector.\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 Only"
+        },
+        {
+          "letter": "B",
+          "text": "2 Only"
+        },
+        {
+          "letter": "C",
+          "text": "Both 1 and 2"
+        },
+        {
+          "letter": "D",
+          "text": "Neither 1 nor 2"
+        }
+      ]
+    },
+    {
+      "id": "d54ac263-472c-4528-9df4-174af594c41f",
+      "question_number": 102,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2024",
+      "question_text": "With reference to green hydrogen, consider the following statements:\n1. It can be used directly as a fuel for internal combustion.\n2. It can be blended with natural gas and used as fuel for heat or power generation.\n3. It can be used in the hydrogen fuel cell to run vehicles.\nHow many of the above statements are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only one"
+        },
+        {
+          "letter": "B",
+          "text": "Only two"
+        },
+        {
+          "letter": "C",
+          "text": "All three"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ]
+    },
+    {
+      "id": "e661dd94-1f5d-45aa-8cf5-16ee9a5ad59e",
+      "question_number": 103,
+      "type": "list_mcq",
+      "difficulty": "Medium",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following statements in the context of interventions being undertaken under Anaemia Mukt Bharat Strategy:\n1. It provides prophylactic calcium supplementation for pre-school children, adolescents and pregnant women.\n2. It runs a campaign for delayed cord clamping at the time of child-birth.\n3. It provides for periodic deworming to children and adolescents.\n4. It addresses non-nutritional causes of anaemia in endemic pockets with special focus on malaria, hemoglobinopathies and fluorosis.\nHow many of the statements given above are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only one"
+        },
+        {
+          "letter": "B",
+          "text": "Only two"
+        },
+        {
+          "letter": "C",
+          "text": "Only three"
+        },
+        {
+          "letter": "D",
+          "text": "All four"
+        }
+      ]
+    },
+    {
+      "id": "5440b075-7d15-4f02-82e8-5f8383b4dd01",
+      "question_number": 104,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "Economy",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following statements:\n1. India has more arable area than China.\n2. The proportion of irrigated area is more in India as compared to China.\n3. The average productivity per hectare in Indian agriculture is higher than that in China.\nHow many of the above statements are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only one"
+        },
+        {
+          "letter": "B",
+          "text": "Only two"
+        },
+        {
+          "letter": "C",
+          "text": "All three"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ]
+    },
+    {
+      "id": "d0184b3e-5fd3-4482-8b01-c38a3addf00f",
+      "question_number": 105,
+      "type": "mcq",
+      "difficulty": "Easy",
+      "subject": "Indian Polity",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following statements in respect of the Constitution Day:\n\nStatement-I: The Constitution Day is celebrated on 26th November every year to promote constitutional values among citizens.\n\nStatement-II: On 26th November, 1949, the Constituent Assembly of India set up a Drafting Committee under the Chairmanship of Dr. B. R. Ambedkar to prepare a Draft Constitution of India.\n\nWhich one of the following is correct in respect of the above statements?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I"
+        },
+        {
+          "letter": "B",
+          "text": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I"
+        },
+        {
+          "letter": "C",
+          "text": "Statement-I is correct but Statement-II is incorrect"
+        },
+        {
+          "letter": "D",
+          "text": "Statement-I is incorrect but Statement-II is correct"
+        }
+      ]
+    },
+    {
+      "id": "d0396547-4070-4975-b97a-5ee242f23f01",
+      "question_number": 106,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "Economy",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following statements:\n\nStatement-I: India accounts for 3.2% of global export of goods.\nStatement-II: Many local companies and some foreign companies operating in India have taken advantage of India's 'Production-linked Incentive' scheme.\n\nWhich one of the following is correct in respect of the above statements?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I"
+        },
+        {
+          "letter": "B",
+          "text": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I"
+        },
+        {
+          "letter": "C",
+          "text": "Statement-I is correct but Statement-II is incorrect"
+        },
+        {
+          "letter": "D",
+          "text": "Statement-I is incorrect but Statement-II is correct"
+        }
+      ]
+    },
+    {
+      "id": "1842b0e2-738b-4e1a-951a-4a84ae5a08e4",
+      "question_number": 107,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "Science & Technology",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following statements:\n1. Carbon fibres are used in the manufacture of components used in automobiles and aircrafts.\n2. Carbon fibres once used cannot be recycled.\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 only"
+        },
+        {
+          "letter": "B",
+          "text": "2 only"
+        },
+        {
+          "letter": "C",
+          "text": "Both 1 and 2"
+        },
+        {
+          "letter": "D",
+          "text": "Neither 1 nor 2"
+        }
+      ]
+    },
+    {
+      "id": "1ba66e26-2f44-4822-a8a7-a46e1e4d9565",
+      "question_number": 108,
+      "type": "mcq",
+      "difficulty": "Easy",
+      "subject": "Science & Technology",
+      "exam_info": "Prelims 2024",
+      "question_text": "Which one the following countries has its own Satellite Navigation System?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Australia"
+        },
+        {
+          "letter": "B",
+          "text": "Canada"
+        },
+        {
+          "letter": "C",
+          "text": "Israel"
+        },
+        {
+          "letter": "D",
+          "text": "Japan"
+        }
+      ]
+    },
+    {
+      "id": "dc00ac58-891c-41c5-93ad-b0d66136e462",
+      "question_number": 109,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following statements:\n\nStatement-I: According to the United Nation's 'World Water Development Report, 2022', India extracts more than a quarter of the world's groundwater withdrawal each year.\n\nStatement-II: India needs to extract more than a quarter of the world's groundwater each year to satisfy the drinking water and sanitation needs of almost 18% of world's population living in its territory.\n\nWhich one of the following is correct in respect of the above statements?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I"
+        },
+        {
+          "letter": "B",
+          "text": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I"
+        },
+        {
+          "letter": "C",
+          "text": "Statement-I is correct but Statement-II is incorrect"
+        },
+        {
+          "letter": "D",
+          "text": "Statement-I is incorrect but Statement-II is correct"
+        }
+      ]
+    }
+  ]
+}

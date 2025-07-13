@@ -1,0 +1,198 @@
+[
+  {
+    "question_number": "1",
+    "reason": "Options are incomplete, missing option for code '1'."
+  },
+  {
+    "question_number": "5",
+    "reason": "Options are incomplete, missing option for code '2'."
+  },
+  {
+    "question_number": "7",
+    "reason": "Options are incomplete, missing option for code '2'."
+  },
+  {
+    "question_number": "11",
+    "reason": "Options reference statements '1' and '2' which are not provided in the question text."
+  },
+  {
+    "question_number": "14",
+    "reason": "Options reference statements '1' and '2' which are not provided in the question text."
+  },
+  {
+    "question_number": "15",
+    "reason": "Options are incomplete, missing option for code '2'."
+  },
+  {
+    "question_number": "18",
+    "reason": "Options are incomplete, missing option for code '1'."
+  },
+  {
+    "question_number": "21",
+    "reason": "Question text is incomplete, it is a statement without a question."
+  },
+  {
+    "question_number": "22",
+    "reason": "Question text is incomplete, it is a statement without a question."
+  },
+  {
+    "question_number": "26",
+    "reason": "Option 'd' is incorrectly matched according to the provided information."
+  },
+  {
+    "question_number": "32",
+    "reason": "The correct answer option 'C' does not match any of the provided options."
+  },
+  {
+    "question_number": "39",
+    "reason": "The question text is incomplete as it does not specify List-I and List-II for matching."
+  },
+  {
+    "question_number": "42",
+    "reason": "The question text is incomplete as it does not specify List-I and List-II for matching."
+  },
+  {
+    "question_number": "43",
+    "reason": "The correct answer option 'C' contains LaTeX formatting errors with unnecessary parentheses and backslashes."
+  },
+  {
+    "question_number": "45",
+    "reason": "The correct answer option 'A' contains LaTeX formatting errors with unnecessary parentheses and backslashes."
+  },
+  {
+    "question_number": "51",
+    "reason": "The correct answer option 'B' contains a LaTeX formatting error with an incorrect dot over 'A' ($(\\dot{\\mathrm{A}})$)."
+  },
+  {
+    "question_number": "53",
+    "reason": "The question text is incomplete as it does not specify List-I and List-II for matching."
+  },
+  {
+    "question_number": "54",
+    "reason": "The correct answer option 'C' contains LaTeX formatting errors with unnecessary parentheses and backslashes."
+  },
+  {
+    "question_number": "60",
+    "reason": "The assertion in option 'A' is incorrect as jet streams are high altitude westerly winds, not easterly."
+  },
+  {
+    "question_number": "61",
+    "reason": "List-I and List-II are mentioned but not provided in the question text."
+  },
+  {
+    "question_number": "74",
+    "reason": "List-I and List-II are mentioned but not provided in the question text."
+  },
+  {
+    "question_number": "76",
+    "reason": "The mountains to be arranged are not listed in the question text."
+  },
+  {
+    "question_number": "85",
+    "reason": "The question text is incomplete and does not provide enough context."
+  },
+  {
+    "question_number": "88",
+    "reason": "The question text is incomplete and does not provide enough context."
+  },
+  {
+    "question_number": "91",
+    "reason": "List-I and List-II are mentioned but not provided in the question text."
+  },
+  {
+    "question_number": "96",
+    "reason": "List-I and List-II are mentioned but not provided in the question text."
+  },
+  {
+    "question_number": "102",
+    "reason": "List-I and List-II are mentioned but not provided in the question text."
+  },
+  {
+    "question_number": "112",
+    "reason": "List-I and List-II are mentioned but not provided in the question text."
+  },
+  {
+    "question_number": "120",
+    "reason": "List-I and List-II are mentioned but not provided in the question text."
+  },
+  {
+    "question_number": "121",
+    "reason": "List-I and List-II not provided for matching."
+  },
+  {
+    "question_number": "123",
+    "reason": "Statements to determine correctness not provided."
+  },
+  {
+    "question_number": "124",
+    "reason": "Sources for UPSC functions not provided."
+  },
+  {
+    "question_number": "127",
+    "reason": "Amendments and their years of implementation not provided for matching."
+  },
+  {
+    "question_number": "128",
+    "reason": "List-I and List-II not provided for matching."
+  },
+  {
+    "question_number": "132",
+    "reason": "Duplicate question number with different content."
+  },
+  {
+    "question_number": "132",
+    "reason": "Duplicate question number with different content."
+  },
+  {
+    "question_number": "134",
+    "reason": "List-I and List-II not provided for matching."
+  },
+  {
+    "question_number": "137",
+    "reason": "Events to arrange in chronological order not provided."
+  },
+  {
+    "question_number": "138",
+    "reason": "List-I and List-II not provided for matching."
+  },
+  {
+    "question_number": "139",
+    "reason": "Days to arrange in chronological order not provided."
+  },
+  {
+    "question_number": "140",
+    "reason": "List-I and List-II not provided for matching."
+  },
+  {
+    "question_number": "141",
+    "reason": "List-I and List-II not provided for matching."
+  },
+  {
+    "question_number": "142",
+    "reason": "Statement 1 is incorrect as per the Constitution of India, there is no provision for a Special Officer for Linguistic Minorities for every State."
+  },
+  {
+    "question_number": "143",
+    "reason": "Items 144, 145, and 146 not provided for reference."
+  },
+  {
+    "question_number": "144",
+    "reason": "Statements regarding Fathima Beevi not provided."
+  },
+  {
+    "question_number": "145",
+    "reason": "Statements 146 and 147 not provided for reference."
+  },
+  {
+    "question_number": "147",
+    "reason": "List-I and List-II not provided for matching."
+  },
+  {
+    "question_number": "148",
+    "reason": "Statement 149 and 150 not provided for reference."
+  },
+  {
+    "question_number": "149",
+    "reason": "Foreign travellers to arrange in ascending chronological order not provided."
+  }
+]

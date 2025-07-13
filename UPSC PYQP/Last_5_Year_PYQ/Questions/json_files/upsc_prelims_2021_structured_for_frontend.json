@@ -1,0 +1,2847 @@
+{
+  "exam_info": {
+    "exam_name": "UPSC Civil Services Preliminary Examination",
+    "year": 2021,
+    "paper": "General Studies Paper I",
+    "total_questions": 105,
+    "processing_date": "2025-07-13T19:09:11.237953",
+    "version": "1.0"
+  },
+  "questions": [
+    {
+      "id": "06b767d0-56b1-49b2-85de-bc492f42e5d4",
+      "question_number": 1,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "Physical Geography",
+      "exam_info": "Prelims 2021",
+      "question_text": "Consider the following statements:\n1. In the tropical zone, the western sections of the oceans are warmer than the eastern sections owing to the influence of trade winds.\n2. In the temperate zone, westerlies make the eastern sections of oceans warmer than the western sections.\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 Only"
+        },
+        {
+          "letter": "B",
+          "text": "2 Only"
+        },
+        {
+          "letter": "C",
+          "text": "Both 1 and 2"
+        },
+        {
+          "letter": "D",
+          "text": "Neither 1 nor 2"
+        }
+      ]
+    },
+    {
+      "id": "6e908c33-ba20-4cc0-99b3-43ca4bba2cd8",
+      "question_number": 2,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "Indian Polity",
+      "exam_info": "Prelims 2021",
+      "question_text": "With reference to the Union Government, consider the following statements:\n1. N. Gopalaswamy Iyengar Committee suggested that a minister and a secretary be designated solely for pursuing the subject of administrative reform and promoting it.\n2. In 1970, the Department of Personnel was constituted on the recommendation of the Administrative Reforms Commission, 1966, and this was placed under the Prime Minister’s charge.\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 Only"
+        },
+        {
+          "letter": "B",
+          "text": "2 Only"
+        },
+        {
+          "letter": "C",
+          "text": "Both 1 and 2"
+        },
+        {
+          "letter": "D",
+          "text": "Neither 1 nor 2"
+        }
+      ]
+    },
+    {
+      "id": "0242fa51-206a-4148-9e9a-ea9f14b68c5a",
+      "question_number": 3,
+      "type": "mcq",
+      "difficulty": "Easy",
+      "subject": "Indian Polity",
+      "exam_info": "Prelims 2021",
+      "question_text": "Which one of the following best defines the term ‘State’?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A community of persons permanently occupying a definite territory independent of external control and possessing an organized government."
+        },
+        {
+          "letter": "B",
+          "text": "A politically organized people of a definite territory and possessing an authority to govern them, maintain law and order, protect their natural rights and safeguard their means of sustenance."
+        },
+        {
+          "letter": "C",
+          "text": "A number of persons who have been living in a definite territory for a very long time with their own culture, tradition, and government."
+        },
+        {
+          "letter": "D",
+          "text": "A society permanently living in a definite territory with a central authority, an executive responsible to the central authority, and an independent judiciary."
+        }
+      ]
+    },
+    {
+      "id": "fc7a2eac-0ac9-4105-963e-c30bfae9634a",
+      "question_number": 4,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "Economy",
+      "exam_info": "Prelims 2021",
+      "question_text": "Consider the following:\n1. Foreign Currency convertible bonds\n2. Foreign Institutional investment with certain conditions\n3. Global depository receipts\n4. Non-resident external deposits\nWhich of the above can be included in Foreign Direct Investments?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1, 2 and 3"
+        },
+        {
+          "letter": "B",
+          "text": "2 Only"
+        },
+        {
+          "letter": "C",
+          "text": "3 Only"
+        },
+        {
+          "letter": "D",
+          "text": "1 and 4"
+        }
+      ]
+    },
+    {
+      "id": "262bafb7-fc7c-461c-972d-c2f0760c41cb",
+      "question_number": 5,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2021",
+      "question_text": "Consider the following kinds of organisms:\n1. Copepods\n2. Cyanobacteria\n3. Diatoms\n4. Foraminifera\nWhich of the above are primary producers in the food chains of oceans?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 and 2"
+        },
+        {
+          "letter": "B",
+          "text": "2 and 3"
+        },
+        {
+          "letter": "C",
+          "text": "3 and 4"
+        },
+        {
+          "letter": "D",
+          "text": "1 and 4"
+        }
+      ]
+    },
+    {
+      "id": "e00ef461-0e5f-4f47-bedf-52e65a67d002",
+      "question_number": 6,
+      "type": "mcq",
+      "difficulty": "Easy",
+      "subject": "Economy",
+      "exam_info": "Prelims 2021",
+      "question_text": "Which one of the following is likely to be the most inflationary in its effects?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Repayment of Public debt."
+        },
+        {
+          "letter": "B",
+          "text": "Borrowing from the public to finance a budget deficit."
+        },
+        {
+          "letter": "C",
+          "text": "Borrowing from the banks to finance a budget deficit."
+        },
+        {
+          "letter": "D",
+          "text": "Creation of new money to finance a budget deficit."
+        }
+      ]
+    },
+    {
+      "id": "832a339c-35dd-443a-b93f-a82c3c987fee",
+      "question_number": 7,
+      "type": "mcq",
+      "difficulty": "Easy",
+      "subject": "Indian Polity",
+      "exam_info": "Prelims 2021",
+      "question_text": "At the national level, which ministry is the nodal agency to ensure effective implementation of the Scheduled Tribes and other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ministry of Environment, Forest and Climate Change"
+        },
+        {
+          "letter": "B",
+          "text": "Ministry of Panchayati Raj"
+        },
+        {
+          "letter": "C",
+          "text": "Ministry of Rural Development"
+        },
+        {
+          "letter": "D",
+          "text": "Ministry of Tribal Affairs"
+        }
+      ]
+    },
+    {
+      "id": "fc91d056-0aad-4a69-8590-86f0f194696e",
+      "question_number": 8,
+      "type": "mcq",
+      "difficulty": "Easy",
+      "subject": "Indian Polity",
+      "exam_info": "Prelims 2021",
+      "question_text": "Constitutional government means",
+      "options": [
+        {
+          "letter": "A",
+          "text": "a representative government of a nation with federal structure."
+        },
+        {
+          "letter": "B",
+          "text": "a government whose Head enjoys nominal powers."
+        },
+        {
+          "letter": "C",
+          "text": "a government whose Head enjoys real power."
+        },
+        {
+          "letter": "D",
+          "text": "a government limited by the terms of the constitution"
+        }
+      ]
+    },
+    {
+      "id": "18c02ec3-96d0-4e95-a6e2-3c07da4abe48",
+      "question_number": 9,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2021",
+      "question_text": "With reference to the Indus river system, of the following four rivers, three of them pour into one of them which joins the Indus direct. Among the following, which one is such river that joins the Indus direct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chenab"
+        },
+        {
+          "letter": "B",
+          "text": "Jhelum"
+        },
+        {
+          "letter": "C",
+          "text": "Ravi"
+        },
+        {
+          "letter": "D",
+          "text": "Sutlej"
+        }
+      ]
+    },
+    {
+      "id": "6e21d771-40e4-49c5-9019-ff3e20d9ed4a",
+      "question_number": 10,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "Ancient History",
+      "exam_info": "Prelims 2021",
+      "question_text": "Which one of the following ancient towns is well-known for its elaborate system of water harvesting and management by building a series of dams and channelising water into connected reservoirs?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dholavira"
+        },
+        {
+          "letter": "B",
+          "text": "Kalibangan"
+        },
+        {
+          "letter": "C",
+          "text": "Rakhigarhi"
+        },
+        {
+          "letter": "D",
+          "text": "Ropar"
+        }
+      ]
+    },
+    {
+      "id": "3ae03e4c-2e9c-446b-a992-d3a3b1424460",
+      "question_number": 11,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2021",
+      "question_text": "With reference to the Indus river system, of the following four rivers, three of them pour into one of them which joins the Indus direct. Among the following, which one is such river that joins the Indus direct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chenab"
+        },
+        {
+          "letter": "B",
+          "text": "Jhelum"
+        },
+        {
+          "letter": "C",
+          "text": "Ravi"
+        },
+        {
+          "letter": "D",
+          "text": "Sutlej"
+        }
+      ]
+    },
+    {
+      "id": "cb24a4d6-61a8-4a47-ac89-f870225a2c19",
+      "question_number": 12,
+      "type": "mcq",
+      "difficulty": "Easy",
+      "subject": "World Geography",
+      "exam_info": "Prelims 2021",
+      "question_text": "“Leaf litter decomposes faster than in any other biome and as a result the soil surface is often almost bare. Apart from trees, the vegetation is largely composed of plant forms that reach up into the canopy vicariously, by climbing the trees or growing as epiphytes, rooted on the upper branches of trees”. This is the most likely description of",
+      "options": [
+        {
+          "letter": "A",
+          "text": "coniferous forest"
+        },
+        {
+          "letter": "B",
+          "text": "dry deciduous forest"
+        },
+        {
+          "letter": "C",
+          "text": "mangrove forest"
+        },
+        {
+          "letter": "D",
+          "text": "tropical rain forest"
+        }
+      ]
+    },
+    {
+      "id": "f4e68efe-e92b-4775-bb8d-2e02d984efea",
+      "question_number": 13,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "Science & Technology",
+      "exam_info": "Prelims 2021",
+      "question_text": "With reference to street lighting, how do sodium lamps differ from LED lamps?\n\n1. Sodium lamps produce light in 360 degrees but it is not so in the case of LED lamps.\n2. As street-lights, sodium lamps have longer life span than LED lamps.\n3. The spectrum of visible light from sodium lamps is almost monochromatic while LED lamps offer significant colour advantages in street lighting.\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 only"
+        },
+        {
+          "letter": "B",
+          "text": "2 only"
+        },
+        {
+          "letter": "C",
+          "text": "1 and 3"
+        },
+        {
+          "letter": "D",
+          "text": "1, 2 and 3"
+        }
+      ]
+    },
+    {
+      "id": "e9f35d3a-a3be-4baa-bf02-38225cee77d4",
+      "question_number": 14,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "Science & Technology",
+      "exam_info": "Prelims 2021",
+      "question_text": "Which of the following have species that can establish symbiotic relationship with other organisms?\n1. Cnidarians\n2. Fungi\n3. Protozoa\nSelect the correct answer using the codes given below.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 and 2 Only"
+        },
+        {
+          "letter": "B",
+          "text": "2 and 3 Only"
+        },
+        {
+          "letter": "C",
+          "text": "1 and 3 Only"
+        },
+        {
+          "letter": "D",
+          "text": "1, 2 and 3"
+        }
+      ]
+    },
+    {
+      "id": "81f4585a-8fa7-4549-9028-78215b065845",
+      "question_number": 15,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "Science & Technology",
+      "exam_info": "Prelims 2021",
+      "question_text": "In the context of hereditary diseases, consider the following statements:\n1. Passing on mitochondrial diseases from parent to child can be prevented by mitochondrial replacement therapy either before or after in vitro fertilization of egg.\n2. A child inherits mitochondrial diseases entirely from mother and not from father.\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 only"
+        },
+        {
+          "letter": "B",
+          "text": "2 only"
+        },
+        {
+          "letter": "C",
+          "text": "Both 1 and 2"
+        },
+        {
+          "letter": "D",
+          "text": "Neither 1 nor 2"
+        }
+      ]
+    },
+    {
+      "id": "656e7f70-9afb-4ede-8e87-1c1bfcd785ba",
+      "question_number": 16,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "Science & Technology",
+      "exam_info": "Prelims 2021",
+      "question_text": "Bollgard I and Bollgard II technologies are mentioned in the context of",
+      "options": [
+        {
+          "letter": "A",
+          "text": "clonal propagation of crop plants."
+        },
+        {
+          "letter": "B",
+          "text": "developing genetically modified crop plants."
+        },
+        {
+          "letter": "C",
+          "text": "production of plant growth substances."
+        },
+        {
+          "letter": "D",
+          "text": "production of biofertilizers."
+        }
+      ]
+    },
+    {
+      "id": "37c50098-b5b0-4588-b842-6600b011ed6e",
+      "question_number": 17,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2021",
+      "question_text": "According to Portuguese writer Nuniz, the women in Vijayanagara Empire were expert in which of the following areas?\n1. Wrestling\n2. Astrology\n3. Accounting\n4. Soothsaying\nSelect the correct answer using the codes given below.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1, 2 and 3 Only"
+        },
+        {
+          "letter": "B",
+          "text": "1, 3 and 4 Only"
+        },
+        {
+          "letter": "C",
+          "text": "2 and 4 Only"
+        },
+        {
+          "letter": "D",
+          "text": "1, 2, 3 and 4"
+        }
+      ]
+    },
+    {
+      "id": "9227d575-6aa7-4daa-8fc9-630ad0c3cf0a",
+      "question_number": 18,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "Modern History",
+      "exam_info": "Prelims 2021",
+      "question_text": "With reference to Madanapalle of Andhra Pradesh, which one of the following statements is correct?\n1. Pingali Venkayya designed the tricolour Indian National Flag here.\n2. Pattabhi Sitaramaiah led the Quit India Movement of Andhra region from here.\n3. Rabindranath Tagore translated the National Anthem from Bengali to English here.\n4. Madame Blavastsky and Colonel Olcott set up headquarters of Theosophical Society first here.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 only"
+        },
+        {
+          "letter": "B",
+          "text": "2 only"
+        },
+        {
+          "letter": "C",
+          "text": "3 only"
+        },
+        {
+          "letter": "D",
+          "text": "4 only"
+        }
+      ]
+    },
+    {
+      "id": "9f3939d5-9d5b-4bbc-8c0a-59b4642b52bb",
+      "question_number": 19,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "Physical Geography",
+      "exam_info": "Prelims 2021",
+      "question_text": "With reference to India, Didwana, Kuchaman, Sargol and Khatu are the names of",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Glaciers"
+        },
+        {
+          "letter": "B",
+          "text": "Mangroove areas"
+        },
+        {
+          "letter": "C",
+          "text": "Ramsar Sites"
+        },
+        {
+          "letter": "D",
+          "text": "Saline Lakes"
+        }
+      ]
+    },
+    {
+      "id": "31d6feb7-b58c-4eda-874b-caa4a8724429",
+      "question_number": 20,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "Indian Polity",
+      "exam_info": "Prelims 2021",
+      "question_text": "With reference to India, consider the following statements:\n1. When a prisoner makes out a sufficient case, parole cannot be denied to such prisoner because it becomes a matter of his/her right.\n2. State Governments have their own Prisoners Release on Parole Rules.\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 Only"
+        },
+        {
+          "letter": "B",
+          "text": "2 Only"
+        },
+        {
+          "letter": "C",
+          "text": "Both 1 and 2"
+        },
+        {
+          "letter": "D",
+          "text": "Neither 1 nor 2"
+        }
+      ]
+    },
+    {
+      "id": "352918ac-6b7c-4677-b5e5-4f589d75f1c1",
+      "question_number": 21,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "Physical Geography",
+      "exam_info": "Prelims 2021",
+      "question_text": "The black cotton soil of India has been formed due to the weathering of",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Brown forest soil"
+        },
+        {
+          "letter": "B",
+          "text": "Fissure volcanic rock"
+        },
+        {
+          "letter": "C",
+          "text": "Granite and schist"
+        },
+        {
+          "letter": "D",
+          "text": "Shale and limestone"
+        }
+      ]
+    },
+    {
+      "id": "7713e01f-2d12-44bc-a671-90c953e4b490",
+      "question_number": 22,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2021",
+      "question_text": "Consider the following statements in respect of the ICC World Test Championship:\n1. The finalists were decided by the number of matches they won.\n2. New Zealand was ranked ahead of England because it won more matches than England.\nWhich of the above statements is/are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 only"
+        },
+        {
+          "letter": "B",
+          "text": "2 only"
+        },
+        {
+          "letter": "C",
+          "text": "Both 1 and 2"
+        },
+        {
+          "letter": "D",
+          "text": "Neither 1 nor 2"
+        }
+      ]
+    },
+    {
+      "id": "07d37bcf-0a57-4b92-88e9-5d6b7453ad30",
+      "question_number": 23,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2021",
+      "question_text": "Consider the following statements in respect of the 32nd Summer Olympics:\n1. The official motto for this Olympics is 'A New World'.\n2. Sport Climbing, Surfing, Skateboarding, Karate and Baseball are included in this Olympics.\nWhich of the above statements is/are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 only"
+        },
+        {
+          "letter": "B",
+          "text": "2 only"
+        },
+        {
+          "letter": "C",
+          "text": "Both 1 and 2"
+        },
+        {
+          "letter": "D",
+          "text": "Neither 1 nor 2"
+        }
+      ]
+    },
+    {
+      "id": "45131e9b-a006-4462-9901-1c02a819419b",
+      "question_number": 24,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "Science & Technology",
+      "exam_info": "Prelims 2021",
+      "question_text": "Water can dissolve more substances than any other liquid because",
+      "options": [
+        {
+          "letter": "A",
+          "text": "it is dipolar in nature"
+        },
+        {
+          "letter": "B",
+          "text": "it is a good conductor of heat"
+        },
+        {
+          "letter": "C",
+          "text": "it has high value of specific heat"
+        },
+        {
+          "letter": "D",
+          "text": "it is an oxide of hydrogen"
+        }
+      ]
+    },
+    {
+      "id": "be783a9f-f161-40fa-b0df-991052c79820",
+      "question_number": 25,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "Science & Technology",
+      "exam_info": "Prelims 2021",
+      "question_text": "With reference to recent developments regarding ‘Recombinant Vector Vaccines’, consider the following statements:\n1. Genetic engineering is applied in the development of these vaccines.\n2. Bacteria and viruses are used as vectors.\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 Only"
+        },
+        {
+          "letter": "B",
+          "text": "2 Only"
+        },
+        {
+          "letter": "C",
+          "text": "Both 1 and 2"
+        },
+        {
+          "letter": "D",
+          "text": "Neither 1 nor 2"
+        }
+      ]
+    },
+    {
+      "id": "62258686-7471-4191-996c-6fe68dcf2ea9",
+      "question_number": 26,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2021",
+      "question_text": "Consider the following statements:\n1. It was during the reign of Iltutmish that Chengiz Khan reached the Indus in pursuit of the fugitive Khawarezm prince.\n2. It was during the reign of Muhammad bin Tughluq that Taimur occupied Multan and crossed the Indus.\n3. It was during the reign of Deva Raya II of Vijayanagara Empire that Vasco da Gama reached the coast of Kerala.\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 Only"
+        },
+        {
+          "letter": "B",
+          "text": "1 and 2"
+        },
+        {
+          "letter": "C",
+          "text": "3 Only"
+        },
+        {
+          "letter": "D",
+          "text": "2 and 3"
+        }
+      ]
+    },
+    {
+      "id": "dad6fc0e-d250-4555-ac17-23e434c2558a",
+      "question_number": 27,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "Ancient History",
+      "exam_info": "Prelims 2021",
+      "question_text": "Consider the following pairs:\n(Historical Place) - (Well-known for)\n1. Burzahom - Rock-cut shrines\n2. Chandra-Ketugarh - Terracotta art\n3. Ganeshwar - Copper artefacts\nWhich of the pairs given above is/are correctly matched?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 only"
+        },
+        {
+          "letter": "B",
+          "text": "1 and 2"
+        },
+        {
+          "letter": "C",
+          "text": "3 only"
+        },
+        {
+          "letter": "D",
+          "text": "2 and 3"
+        }
+      ]
+    },
+    {
+      "id": "6bc81698-78f2-43e4-b6c4-83271f69b670",
+      "question_number": 28,
+      "type": "mcq",
+      "difficulty": "Easy",
+      "subject": "Indian Polity",
+      "exam_info": "Prelims 2021",
+      "question_text": "A legislation which confers on the executive or administrative authority an unguided and uncontrolled discretionary power in the matter of application of law violates which one of the following Articles of the Constitution of India?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Article 14"
+        },
+        {
+          "letter": "B",
+          "text": "Article 28"
+        },
+        {
+          "letter": "C",
+          "text": "Article 32"
+        },
+        {
+          "letter": "D",
+          "text": "Article 44"
+        }
+      ]
+    },
+    {
+      "id": "27e9149f-635a-41b8-b688-625489818b85",
+      "question_number": 29,
+      "type": "mcq",
+      "difficulty": "Easy",
+      "subject": "Indian Polity",
+      "exam_info": "Prelims 2021",
+      "question_text": "We adopted parliamentary democracy based on the British model, but how does our model differ from that model?\nAs regards legislation, the British Parliament is supreme or sovereign but in India, the power of the Parliament to legislate is limited.\nIn India, matters related to the constitutionality of the Amendment of an Act of the Parliament are referred to the Constitution Bench by the Supreme Court.\nSelect the correct answer using the codes given below.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 Only"
+        },
+        {
+          "letter": "B",
+          "text": "2 Only"
+        },
+        {
+          "letter": "C",
+          "text": "Both 1 and 2"
+        },
+        {
+          "letter": "D",
+          "text": "Neither 1 nor 2"
+        }
+      ]
+    },
+    {
+      "id": "19ac2646-2fb1-4ba2-9606-ce24db1a7ff4",
+      "question_number": 30,
+      "type": "mcq",
+      "difficulty": "Easy",
+      "subject": "Economy",
+      "exam_info": "Prelims 2021",
+      "question_text": "Consider the following statements:\n1. The Governor of the Reserve Bank of India (RBI) is appointed by the Central Government.\n2. Certain provisions in the Constitution of India give the Central Government the right to issue directions to the RBI in public interest.\n3. The Governor of the RBI draws his power from the RBI Act.\nWhich of the above statements are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 and 2 only"
+        },
+        {
+          "letter": "B",
+          "text": "2 and 3 only"
+        },
+        {
+          "letter": "C",
+          "text": "1 and 3 only"
+        },
+        {
+          "letter": "D",
+          "text": "1, 2 and 3"
+        }
+      ]
+    },
+    {
+      "id": "d302e901-31ee-4354-a15d-2024f1659411",
+      "question_number": 31,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2021",
+      "question_text": "With reference to the casual workers employed in India, consider the following statements:\n1. All casual workers are entitled for Employees Provident Fund coverage.\n2. All casual workers are entitled for regular working hours and overtime payment.\n3. The government can by a notification specify that an establishment or industry shall pay wages only through its bank account.\nWhich of the above statements are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 and 2 only"
+        },
+        {
+          "letter": "B",
+          "text": "1 and 3 only"
+        },
+        {
+          "letter": "C",
+          "text": "2 and 3 only"
+        },
+        {
+          "letter": "D",
+          "text": "1, 2 and 3"
+        }
+      ]
+    },
+    {
+      "id": "70e7082f-173c-473b-8639-3a178e6dcb68",
+      "question_number": 32,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2021",
+      "question_text": "Consider the following statements in respect of Bharat Ratna and Padma Awards:\n1. Bharat Ratna and Padma Awards are titles under the Article 18(1) of the Constitution of India.\n2. Padma Awards, which were instituted in the year 1954, were suspended only once.\n3. The number of Bharat Ratna Awards is restricted to a maximum of five in a particular year.\nWhich of the above statements are not correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 and 2 Only"
+        },
+        {
+          "letter": "B",
+          "text": "2 and 3 Only"
+        },
+        {
+          "letter": "C",
+          "text": "1 and 3 Only"
+        },
+        {
+          "letter": "D",
+          "text": "1, 2 and 3"
+        }
+      ]
+    },
+    {
+      "id": "c79a0829-948d-4f78-9ee5-824b33c2f732",
+      "question_number": 33,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2021",
+      "question_text": "With reference to 'Water Credit', consider the following statements:\n1. It puts microfinance tools to work in the water and sanitation sector.\n2. It is a global initiative launched under the aegis of the World Health Organization and the World Bank.\n3. It aims to enable the poor people to meet their water needs without depending on subsidies.\nWhich of the statements given above are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 and 2 Only"
+        },
+        {
+          "letter": "B",
+          "text": "2 and 3 Only"
+        },
+        {
+          "letter": "C",
+          "text": "1 and 3 Only"
+        },
+        {
+          "letter": "D",
+          "text": "1, 2 and 3"
+        }
+      ]
+    },
+    {
+      "id": "15faa025-790f-40d0-971f-e33162e3c4d6",
+      "question_number": 34,
+      "type": "mcq",
+      "difficulty": "Easy",
+      "subject": "Science & Technology",
+      "exam_info": "Prelims 2021",
+      "question_text": "In nature, which of the following is/are most likely to be found surviving on a surface without soil?\nFern\nLichen\nMoss\nMushroom\nSelect the correct answer using the code given below.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 and 4 Only"
+        },
+        {
+          "letter": "B",
+          "text": "2 Only"
+        },
+        {
+          "letter": "C",
+          "text": "2 and 3"
+        },
+        {
+          "letter": "D",
+          "text": "1, 3 and 4"
+        }
+      ]
+    },
+    {
+      "id": "22604c77-1c31-41ed-9d62-a604c3ffe5cc",
+      "question_number": 35,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "Indian Polity",
+      "exam_info": "Prelims 2021",
+      "question_text": "Consider the following statements:\n\n1. ‘Right to the City’ is an agreed human right and the UN-Habitat monitors the commitments made by each country in this regard.\n2. ‘Right to the City’ gives every occupant of the city the right to reclaim public spaces and public participation in the city.\n3. ‘Right to the City’ means that the State cannot deny any public service or facility to the unauthorized colonies in the city.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 only"
+        },
+        {
+          "letter": "B",
+          "text": "3 only"
+        },
+        {
+          "letter": "C",
+          "text": "1 and 2"
+        },
+        {
+          "letter": "D",
+          "text": "2 and 3"
+        }
+      ]
+    },
+    {
+      "id": "18c7d29f-5bcb-4042-ae22-75b86a5a6e9a",
+      "question_number": 36,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2021",
+      "question_text": "With reference to medieval India, which one of the following is the correct sequence in ascending order in terms of size?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Paragana- Sarkar- Suba"
+        },
+        {
+          "letter": "B",
+          "text": "Sarkar-Paragana-Suba"
+        },
+        {
+          "letter": "C",
+          "text": "Suba-Sarkar-Paragana"
+        },
+        {
+          "letter": "D",
+          "text": "Paragana-Suba-Sarkar"
+        }
+      ]
+    },
+    {
+      "id": "202d469e-858f-484d-8dd7-9ea838a0ea4f",
+      "question_number": 37,
+      "type": "mcq",
+      "difficulty": "Easy",
+      "subject": "International Relations",
+      "exam_info": "Prelims 2021",
+      "question_text": "Consider the following statements:\n1. The Global Ocean Commission grants licences for seabed exploration and mining in international waters.\n2. India has received licences for seabed mineral exploration in international waters.\n3. ‘Rare earth minerals’ are present on seafloor in international waters.\nWhich of the statements given above are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 and 2 Only"
+        },
+        {
+          "letter": "B",
+          "text": "2 and 3 Only"
+        },
+        {
+          "letter": "C",
+          "text": "1 and 3 Only"
+        },
+        {
+          "letter": "D",
+          "text": "1, 2 and 3"
+        }
+      ]
+    },
+    {
+      "id": "2cd11a2e-c380-47ca-b438-0eb152900919",
+      "question_number": 38,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "Ancient History",
+      "exam_info": "Prelims 2021",
+      "question_text": "Which one of the following ancient towns is well-known for its elaborate system of water harvesting and management by building a series of dams and channelizing water into connected reservoirs?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dholavira"
+        },
+        {
+          "letter": "B",
+          "text": "Kalibangan"
+        },
+        {
+          "letter": "C",
+          "text": "Rakhigarhi"
+        },
+        {
+          "letter": "D",
+          "text": "Ropar"
+        }
+      ]
+    },
+    {
+      "id": "19cc994c-08e6-406b-ba37-56b65cf8b467",
+      "question_number": 39,
+      "type": "mcq",
+      "difficulty": "Easy",
+      "subject": "Indian Polity",
+      "exam_info": "Prelims 2021",
+      "question_text": "Under the Indian Constitution, the concentration of wealth violates:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The Right to Equality"
+        },
+        {
+          "letter": "B",
+          "text": "The Directive Principles of State Policy"
+        },
+        {
+          "letter": "C",
+          "text": "The Right to Freedom"
+        },
+        {
+          "letter": "D",
+          "text": "The Concept of Welfare"
+        }
+      ]
+    },
+    {
+      "id": "60be674f-6bee-4594-8940-5a2cc5bf1eb3",
+      "question_number": 40,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "Indian Polity",
+      "exam_info": "Prelims 2021",
+      "question_text": "Which one of the following factors constitutes the best safeguard of liberty in a liberal democracy?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A committed judiciary"
+        },
+        {
+          "letter": "B",
+          "text": "Centralization of powers"
+        },
+        {
+          "letter": "C",
+          "text": "Elected government"
+        },
+        {
+          "letter": "D",
+          "text": "Separation of powers"
+        }
+      ]
+    },
+    {
+      "id": "fc341ebc-3968-4da6-a1ac-f0dac8ddcf8d",
+      "question_number": 41,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2021",
+      "question_text": "Triclosan considered harmful when exposed to high levels for a long time, is most likely present in which of the following?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Food preservatives"
+        },
+        {
+          "letter": "B",
+          "text": "Fruit-ripening substances"
+        },
+        {
+          "letter": "C",
+          "text": "Reused plastic containers"
+        },
+        {
+          "letter": "D",
+          "text": "Toiletries"
+        }
+      ]
+    },
+    {
+      "id": "9784cd2d-508c-408f-954c-53bba2116e3b",
+      "question_number": 42,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "Modern History",
+      "exam_info": "Prelims 2021",
+      "question_text": "Consider the following statements:\n1. The Montagu-Chelmsford Reforms of 1919 recommended granting voting rights to all the women above the age 21.\n2. The Government of India Act of 1935 gave women reserved seats in legislature.\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 only"
+        },
+        {
+          "letter": "B",
+          "text": "2 only"
+        },
+        {
+          "letter": "C",
+          "text": "Both 1 and 2"
+        },
+        {
+          "letter": "D",
+          "text": "Neither 1 nor 2"
+        }
+      ]
+    },
+    {
+      "id": "708e8b4d-a7dd-485e-ab92-185d1fb3bf0f",
+      "question_number": 43,
+      "type": "mcq",
+      "difficulty": "Easy",
+      "subject": "Indian Polity",
+      "exam_info": "Prelims 2021",
+      "question_text": "With reference to India, consider the following statements:\n1. There is only one citizenship and one domicile.\n2. A citizen by birth only can become the Head of State.\n3. A foreigner once granted the citizenship cannot be deprived of it under any circumstances.\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 Only"
+        },
+        {
+          "letter": "B",
+          "text": "2 Only"
+        },
+        {
+          "letter": "C",
+          "text": "1 and 3"
+        },
+        {
+          "letter": "D",
+          "text": "2 and 3"
+        }
+      ]
+    },
+    {
+      "id": "e16d524e-aee5-4226-98da-a20cf306617a",
+      "question_number": 44,
+      "type": "mcq",
+      "difficulty": "Easy",
+      "subject": "Modern History",
+      "exam_info": "Prelims 2021",
+      "question_text": "Who among the following was associated as Secretary with Hindu Female School which later came to be known as Bethune Female School?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Annie Besant"
+        },
+        {
+          "letter": "B",
+          "text": "Debendranath Tagore"
+        },
+        {
+          "letter": "C",
+          "text": "Ishwar Chandra Vidyasagar"
+        },
+        {
+          "letter": "D",
+          "text": "Sarojini Naidu"
+        }
+      ]
+    },
+    {
+      "id": "05ae7f8b-3b1a-42a8-9cbf-579408fad6ba",
+      "question_number": 45,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "Indian Polity",
+      "exam_info": "Prelims 2021",
+      "question_text": "With reference to India, consider the following statements:\n1. Judicial custody means an accused is in the custody of the concerned magistrate and such accused is locked up in police station, not in Jail.\n2. During judicial custody, the police officer in charge of the case is not allowed to interrogate the suspect without the approval of the court.\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 Only"
+        },
+        {
+          "letter": "B",
+          "text": "2 Only"
+        },
+        {
+          "letter": "C",
+          "text": "Both 1 and 2"
+        },
+        {
+          "letter": "D",
+          "text": "Neither 1 nor 2"
+        }
+      ]
+    },
+    {
+      "id": "72467589-1f51-4482-8677-ebb16332bf3b",
+      "question_number": 46,
+      "type": "mcq",
+      "difficulty": "Easy",
+      "subject": "Indian Polity",
+      "exam_info": "Prelims 2021",
+      "question_text": "What was the exact constitutional status of India on 26th January 1950?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A Democratic Republic"
+        },
+        {
+          "letter": "B",
+          "text": "A Sovereign Democratic Republic"
+        },
+        {
+          "letter": "C",
+          "text": "Sovereign Secular Democratic Republic"
+        },
+        {
+          "letter": "D",
+          "text": "A Sovereign Socialist Secular Democratic Republic"
+        }
+      ]
+    },
+    {
+      "id": "d0b4d993-994d-4ab8-9fc1-b94a677e9f05",
+      "question_number": 47,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2021",
+      "question_text": "Consider the following statements:\n1. St. Francis Xavier was one of the founding members of the Jesuit Order.\n2. St. Francis Xavier died in Goa and a church is dedicated to him there.\n3. The Feast of St. Francis Xavier is celebrated in Goa each year.\nWhich of the statements given above are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 and 2 Only"
+        },
+        {
+          "letter": "B",
+          "text": "2 and 3 Only"
+        },
+        {
+          "letter": "C",
+          "text": "1 and 3 Only"
+        },
+        {
+          "letter": "D",
+          "text": "1, 2 and 3"
+        }
+      ]
+    },
+    {
+      "id": "a296c293-f40c-4a63-9d9b-352c8fc885a2",
+      "question_number": 48,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2021",
+      "question_text": "Which one of the following statements is correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ajanta Caves lie in the gorge of Waghora river."
+        },
+        {
+          "letter": "B",
+          "text": "Sanchi Stupa lies in the gorge of Chambal river."
+        },
+        {
+          "letter": "C",
+          "text": "Pandu-lena Cave shrines lie in the gorge of Narmada river."
+        },
+        {
+          "letter": "D",
+          "text": "Amaravati Stupa lies in the gorge of Godavari river."
+        }
+      ]
+    },
+    {
+      "id": "e02b9384-97e3-4113-add7-6aaae5b06e41",
+      "question_number": 49,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2021",
+      "question_text": "Consider the following statements in respect of the Laureus World Sports Award which was instituted in the year 2000:\n1. American golfer Tiger Woods was the first winner of this award.\n2. The award was received mostly by ‘Formula One’ players so far.\n3. Roger Federer received this award maximum number of times compared to others.\nWhich of the above statements are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 and 2 only"
+        },
+        {
+          "letter": "B",
+          "text": "2 and 3 only"
+        },
+        {
+          "letter": "C",
+          "text": "1 and 3 only"
+        },
+        {
+          "letter": "D",
+          "text": "1, 2 and 3"
+        }
+      ]
+    },
+    {
+      "id": "427a31f7-52cc-4a73-bfad-1fdbd44ddfac",
+      "question_number": 50,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2021",
+      "question_text": "With reference to Chausath Yogini Temple situated near Morena, consider the following statements:\n1. It is a circular temple built during the reign of Kachchhapaghata Dynasty.\n2. It is the only circular temple built in India.\n3. It was meant to promote the Vaishnava cult in the region.\n4. Its design has given rise to a popular belief that it was the inspiration behind the Indian Parliament building.\nWhich of the statements given above are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 and 2"
+        },
+        {
+          "letter": "B",
+          "text": "2 and 3 Only"
+        },
+        {
+          "letter": "C",
+          "text": "1 and 4"
+        },
+        {
+          "letter": "D",
+          "text": "2, 3 and 4"
+        }
+      ]
+    },
+    {
+      "id": "7a0f256e-56c4-4ac9-8bb9-d15f96916b19",
+      "question_number": 51,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2021",
+      "question_text": "With reference to India, Didwana, Kuchaman, Sargol and Khatu are the names of",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Glaciers"
+        },
+        {
+          "letter": "B",
+          "text": "Mangrove areas"
+        },
+        {
+          "letter": "C",
+          "text": "Ramsar sites"
+        },
+        {
+          "letter": "D",
+          "text": "Saline lakes"
+        }
+      ]
+    },
+    {
+      "id": "2ba1572a-0a75-4626-9d0b-f760c1e04bd3",
+      "question_number": 52,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "Science & Technology",
+      "exam_info": "Prelims 2021",
+      "question_text": "Consider the following statements:\n1. Adenoviruses have single-stranded DNA genomes whereas retroviruses have double-stranded DNA genomes.\n2. Common cold is sometime caused by an adenovirus whereas AIDS is caused by a retrovirus.\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 Only"
+        },
+        {
+          "letter": "B",
+          "text": "2 Only"
+        },
+        {
+          "letter": "C",
+          "text": "Both 1 and 2"
+        },
+        {
+          "letter": "D",
+          "text": "Neither 1 nor 2"
+        }
+      ]
+    },
+    {
+      "id": "b73bae31-93e8-4caf-9664-c8afa2a5b663",
+      "question_number": 53,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2021",
+      "question_text": "In reference to the history of ancient India, which of the following statements is/are correct?\n1. Mitakshara was the civil law for upper castes and Dayabhaga was the civil law for lower castes.\n2. In the Mitakshara system, the sons can claim right to the property during the lifetime of the father, whereas in the Dayabhaga system, it is only after the death of the father that the sons can claim right to the property.\n3. The Mitakshara system deals with the matters related to the property held by male members only of a family, whereas the Dayabhaga system deals with the matters related to the property held by both male and female members of a family.\nSelect the correct answer using the codes given below.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 and 2"
+        },
+        {
+          "letter": "B",
+          "text": "2 Only"
+        },
+        {
+          "letter": "C",
+          "text": "1 and 3"
+        },
+        {
+          "letter": "D",
+          "text": "3 Only"
+        }
+      ]
+    },
+    {
+      "id": "0f5dad9e-15d0-4e70-bcdc-b2145f177287",
+      "question_number": 54,
+      "type": "mcq",
+      "difficulty": "Easy",
+      "subject": "Economy",
+      "exam_info": "Prelims 2021",
+      "question_text": "Consider the following statements:\nOther things remaining unchanged, market demand for a good might increase if\n1. Price of its substitute increases\n2. Price of its complement increases\n3. The good is an inferior good and income of the consumers increases\n4. Its price falls\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 and 4 only"
+        },
+        {
+          "letter": "B",
+          "text": "2, 3 and 4"
+        },
+        {
+          "letter": "C",
+          "text": "1, 2 and 3"
+        },
+        {
+          "letter": "D",
+          "text": "1, 2, 3 and 4"
+        }
+      ]
+    },
+    {
+      "id": "713f895d-9b7e-4114-9738-1e9cc4a2d84e",
+      "question_number": 55,
+      "type": "mcq",
+      "difficulty": "Easy",
+      "subject": "Economy",
+      "exam_info": "Prelims 2021",
+      "question_text": "Which among the following steps is most likely to be taken at the time of an economic recession?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cut in tax rates accompanied by increase in interest rate."
+        },
+        {
+          "letter": "B",
+          "text": "Increase in expenditure on public projects."
+        },
+        {
+          "letter": "C",
+          "text": "Increase in tax rates accompanied by reduction of interest rate."
+        },
+        {
+          "letter": "D",
+          "text": "Reduction of expenditure on public projects."
+        }
+      ]
+    },
+    {
+      "id": "f692b88b-175d-482c-9c85-db05e20dbee9",
+      "question_number": 56,
+      "type": "mcq",
+      "difficulty": "Easy",
+      "subject": "Economy",
+      "exam_info": "Prelims 2021",
+      "question_text": "With reference to Indian economy, demand pull-inflation can be caused/increased by which of the following?\n1. Expansionary policies\n2. Fiscal stimulus\n3. Inflation-indexing wages\n4. Higher purchasing power\n5. Rising interest rates\nSelect the correct answer using the codes given below.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1, 2 and 4 Only"
+        },
+        {
+          "letter": "B",
+          "text": "3, 4 and 5 Only"
+        },
+        {
+          "letter": "C",
+          "text": "1, 2, 3 and 5 Only"
+        },
+        {
+          "letter": "D",
+          "text": "1, 2, 3, 4 and 5"
+        }
+      ]
+    },
+    {
+      "id": "914613c6-44a8-4815-80f7-8234651372ba",
+      "question_number": 57,
+      "type": "mcq",
+      "difficulty": "Easy",
+      "subject": "Economy",
+      "exam_info": "Prelims 2021",
+      "question_text": "Consider the following statements:\nThe effect of devaluation of a currency is that it necessarily:-\n1. improves the competitiveness of the domestic exports in the foreign markets.\n2. increases the foreign value of domestic currency.\n3. improves the trade balance.\nWhich of the above statements is/are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 Only"
+        },
+        {
+          "letter": "B",
+          "text": "1 and 2"
+        },
+        {
+          "letter": "C",
+          "text": "3 Only"
+        },
+        {
+          "letter": "D",
+          "text": "2 and 3"
+        }
+      ]
+    },
+    {
+      "id": "e9183d7e-2f7d-4cb8-bab2-2cdb5d5c9eab",
+      "question_number": 58,
+      "type": "mcq",
+      "difficulty": "Easy",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2021",
+      "question_text": "Among the following, which one is the least water-efficient crop?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sugarcane"
+        },
+        {
+          "letter": "B",
+          "text": "Sunflower"
+        },
+        {
+          "letter": "C",
+          "text": "Pearl Millet"
+        },
+        {
+          "letter": "D",
+          "text": "Red gram"
+        }
+      ]
+    },
+    {
+      "id": "b5defd98-2c7d-4eb4-ae70-5a3a973bef39",
+      "question_number": 59,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2021",
+      "question_text": "The ‘Common Carbon Metric’, supported by UNEP, has been developed for",
+      "options": [
+        {
+          "letter": "A",
+          "text": "assessing the carbon footprint of building operations around the world."
+        },
+        {
+          "letter": "B",
+          "text": "enabling commercial farming entities around the world to enter carbon emission trading."
+        },
+        {
+          "letter": "C",
+          "text": "enabling governments to assess the overall carbon footprint caused by their countries."
+        },
+        {
+          "letter": "D",
+          "text": "assessing the overall carbon footprint caused by the use of fossil fuels by the world in a unit time."
+        }
+      ]
+    },
+    {
+      "id": "5736efd6-101e-4676-bb8e-b982d704badc",
+      "question_number": 60,
+      "type": "mcq",
+      "difficulty": "Easy",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2021",
+      "question_text": "What is blue carbon?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Carbon captured by oceans and coastal ecosystems."
+        },
+        {
+          "letter": "B",
+          "text": "Carbon sequestered in forest biomass and agricultural soils."
+        },
+        {
+          "letter": "C",
+          "text": "Carbon contained in petroleum and natural gas."
+        },
+        {
+          "letter": "D",
+          "text": "Carbon present in atmosphere"
+        }
+      ]
+    },
+    {
+      "id": "d704cabe-63bf-4eb2-8201-0d39b1c4bed1",
+      "question_number": 61,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2021",
+      "question_text": "Bisphenol A (BPA), a cause of concern, is a structural/key component in the manufacture of which of the following kinds of plastics?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Low density polyethylene"
+        },
+        {
+          "letter": "B",
+          "text": "Polycarbonate"
+        },
+        {
+          "letter": "C",
+          "text": "Polyethylene terephthalate"
+        },
+        {
+          "letter": "D",
+          "text": "Polyvinyl chloride"
+        }
+      ]
+    },
+    {
+      "id": "6628470c-0057-47d6-8143-36c253ee6d79",
+      "question_number": 62,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2021",
+      "question_text": "Why is there a concern about copper smelting plants?\n1. They may release lethal quantities of carbon monoxide into environment.\n2. The copper slag can cause the leaching of some heavy metals into environment.\n3. They may release sulphur dioxide as a pollutant.\nSelect the correct answer using the codes given below.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 and 2 Only"
+        },
+        {
+          "letter": "B",
+          "text": "2 and 3 Only"
+        },
+        {
+          "letter": "C",
+          "text": "1 and 3 Only"
+        },
+        {
+          "letter": "D",
+          "text": "1, 2 and 3"
+        }
+      ]
+    },
+    {
+      "id": "303500d0-a106-4205-902b-83d50645598c",
+      "question_number": 63,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2021",
+      "question_text": "With reference to India, the terms ‘Halbi, Ho and Kui’ pertain to",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dance forms of Northwest India"
+        },
+        {
+          "letter": "B",
+          "text": "Musical instruments"
+        },
+        {
+          "letter": "C",
+          "text": "Pre-historic cave paint"
+        },
+        {
+          "letter": "D",
+          "text": "Tribal languages"
+        }
+      ]
+    },
+    {
+      "id": "ef733105-173b-4aee-be91-cc7f3fa22ef2",
+      "question_number": 64,
+      "type": "mcq",
+      "difficulty": "Easy",
+      "subject": "Science & Technology",
+      "exam_info": "Prelims 2021",
+      "question_text": "Which one of the following is used in preparing a natural mosquito repellent?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Congress grass"
+        },
+        {
+          "letter": "B",
+          "text": "Elephant grass"
+        },
+        {
+          "letter": "C",
+          "text": "Lemongrass"
+        },
+        {
+          "letter": "D",
+          "text": "Nut grass"
+        }
+      ]
+    },
+    {
+      "id": "ef041347-6c8c-4cdb-b8fd-27dcdabbb07b",
+      "question_number": 65,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2021",
+      "question_text": "In the context of India’s preparation for Climate-smart Agriculture, consider the following statements:\n1. The ‘Climate-Smart Village’ approach in India is a part of a project led by the Climate Change, Agriculture and Food Security (CCAFS), an international research programme.\n2. The project of CCAFS is carried out under Consultative Group on International Agricultural Research (CGIAR) headquartered in France.\n3. The International Crops Research Institute for the Semi-Arid Tropics (ICRISAT) in India is one of the CGIAR’s research centres.\nWhich of the statements given above are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 and 2 Only"
+        },
+        {
+          "letter": "B",
+          "text": "2 and 3 Only"
+        },
+        {
+          "letter": "C",
+          "text": "1 and 3 Only"
+        },
+        {
+          "letter": "D",
+          "text": "1, 2 and 3"
+        }
+      ]
+    },
+    {
+      "id": "a7aa8f4c-a150-48ac-a758-67463e91d69d",
+      "question_number": 66,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2021",
+      "question_text": "Magnetite particles, suspected to cause neurodegenerative problems, are generated as environmental pollutants from which of the following?\n\n1. Brakes of motor vehicles\n2. Engines of motor vehicles\n3. Microwave stoves within homes\n4. Power plants\n5. Telephone lines\n\nSelect the correct answer using the code given below.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1, 2, 3 and 5 Only"
+        },
+        {
+          "letter": "B",
+          "text": "1, 2 and 4 Only"
+        },
+        {
+          "letter": "C",
+          "text": "3, 4 and 5 Only"
+        },
+        {
+          "letter": "D",
+          "text": "1, 2, 3, 4 and 5"
+        }
+      ]
+    },
+    {
+      "id": "6fe9822e-a48a-4d04-bafd-346f992d81c1",
+      "question_number": 67,
+      "type": "mcq",
+      "difficulty": "Easy",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2021",
+      "question_text": "In case of which one of the following biogeochemical cycles, the weathering of rocks is the main source of release of nutrient to enter the cycle?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Carbon cycle"
+        },
+        {
+          "letter": "B",
+          "text": "Nitrogen cycle"
+        },
+        {
+          "letter": "C",
+          "text": "Phosphorus Cycle"
+        },
+        {
+          "letter": "D",
+          "text": "Sulphur Cycle"
+        }
+      ]
+    },
+    {
+      "id": "c7314876-9b68-489a-a1ca-d9d584e4fd92",
+      "question_number": 68,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2021",
+      "question_text": "With reference to furnace oil, consider the following statements:\n1. It is a product of oil refineries.\n2. Some industries use it to generate power.\n3. Its use causes sulphur emissions into Environment.\nWhich of the statements given above are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 and 2 Only"
+        },
+        {
+          "letter": "B",
+          "text": "2 and 3 Only"
+        },
+        {
+          "letter": "C",
+          "text": "1 and 3 Only"
+        },
+        {
+          "letter": "D",
+          "text": "1, 2 and 3"
+        }
+      ]
+    },
+    {
+      "id": "6b8c450c-a43d-4f08-8ef6-81e495d62af0",
+      "question_number": 69,
+      "type": "mcq",
+      "difficulty": "Easy",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2021",
+      "question_text": "Consider the following statements:\nStatement 1: The United Nations Capital Development Fund (UNCDF) and the Arbor Day Foundation have recently recognized Hyderabad as 2020 Tree City of the World.\nStatement 2: Hyderabad was selected for the recognition for a year following its commitment to grow and maintain the urban forests.\nWhich one of the following is correct in respect of the above statements?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Both Statement 1 and Statement 2 are correct and Statement 2 is the correct explanation of Statement 1."
+        },
+        {
+          "letter": "B",
+          "text": "Both Statement 1 and Statement 2 are correct and Statement 2 is not the correct explanation of Statement 1."
+        },
+        {
+          "letter": "C",
+          "text": "Statement 1 is correct but Statement 2 is not correct."
+        },
+        {
+          "letter": "D",
+          "text": "Statement 1 is not correct but Statement 2 is correct"
+        }
+      ]
+    },
+    {
+      "id": "8cd6d4e3-76c0-423a-905d-ad2f7ef43679",
+      "question_number": 70,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2021",
+      "question_text": "‘R2 Code of Practices constitutes a tool available for promoting the adoption of",
+      "options": [
+        {
+          "letter": "A",
+          "text": "environmentally responsible practices in electronics recycling industry."
+        },
+        {
+          "letter": "B",
+          "text": "ecological management of ‘wetlands of International Importance’ under the Ramsar Convention."
+        },
+        {
+          "letter": "C",
+          "text": "sustainable practices in the cultivation of agricultural crops in degraded lands."
+        },
+        {
+          "letter": "D",
+          "text": "‘Environmental Impact Assessment’ in the exploitation of natural resources"
+        }
+      ]
+    },
+    {
+      "id": "6019ef54-c74a-4817-8b53-9ea69b05d386",
+      "question_number": 71,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2021",
+      "question_text": "Which one of the following is a filter feeder?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Catfish"
+        },
+        {
+          "letter": "B",
+          "text": "Octopus"
+        },
+        {
+          "letter": "C",
+          "text": "Oyster"
+        },
+        {
+          "letter": "D",
+          "text": "Pelican"
+        }
+      ]
+    },
+    {
+      "id": "42a95551-a609-446e-a652-47173e02c7a8",
+      "question_number": 72,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2021",
+      "question_text": "How is permaculture farming different from conventional chemical farming?\n\n1. Permaculture Farming discourages monocultural practices but in conventional chemical farming, monoculture practices are pre-dominant.\n2. Conventional chemical farming can cause increase in soil salinity but the occurrence of such phenomenon is not observed in permaculture farming.\n3. Conventional chemical farming is easily possible in semi-arid regions but permaculture farming is not so easily possible in such regions.\n4. Practice of mulching is very important in permaculture farming but not necessarily so in conventional chemical farming.\n\nSelect the correct answer using the codes given below.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 and 3"
+        },
+        {
+          "letter": "B",
+          "text": "1, 2 and 4"
+        },
+        {
+          "letter": "C",
+          "text": "4 Only"
+        },
+        {
+          "letter": "D",
+          "text": "2 and 3"
+        }
+      ]
+    },
+    {
+      "id": "9b52d81e-c565-47d8-9682-c35f40f3f10f",
+      "question_number": 73,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "Indian Polity",
+      "exam_info": "Prelims 2021",
+      "question_text": "Consider the following statements:\n1. In India, there is no law restricting the candidates from contesting in one Lok Sabha election from three constituencies.\n2. In 1991, Lok Sabha Election, Shri Devi Lal contested from three Lok Sabha constituencies.\n3. As per the existing rules, if a candidate contests in one Lok Sabha election from many constituencies, his/her party should bear the cost of bye-elections to the constituencies vacated by him/her in the event of him/her winning in all the constituencies.\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 Only"
+        },
+        {
+          "letter": "B",
+          "text": "2 Only"
+        },
+        {
+          "letter": "C",
+          "text": "1 and 3"
+        },
+        {
+          "letter": "D",
+          "text": "2 and 3"
+        }
+      ]
+    },
+    {
+      "id": "12af671b-1280-4464-bc62-1d1a8e5b6c02",
+      "question_number": 74,
+      "type": "mcq",
+      "difficulty": "Easy",
+      "subject": "Economy",
+      "exam_info": "Prelims 2021",
+      "question_text": "Which one of the following effects of creation of black money in India has been the main cause of worry to the Government of India?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Diversion of resources to the purchase of real estate and investment in luxury housing."
+        },
+        {
+          "letter": "B",
+          "text": "Investment in unproductive activities and purchase of precious stones, jewellery, gold, etc."
+        },
+        {
+          "letter": "C",
+          "text": "Large donations to political parties and growth of regionalism."
+        },
+        {
+          "letter": "D",
+          "text": "Loss of revenue to the State Exchequer due to tax evasion."
+        }
+      ]
+    },
+    {
+      "id": "dc5fcbeb-4054-4877-9930-d4d50a0296c5",
+      "question_number": 75,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "Indian Polity",
+      "exam_info": "Prelims 2021",
+      "question_text": "With reference to Indian Judiciary, consider the following statements:\n1. Any retired judge of the Supreme Court of India can be called back to sit and act as a Supreme Court judge by the Chief Justice of India with prior permission of the President of India.\n2. A High Court in India has the power to review its own judgement as the Supreme Court does.\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 Only"
+        },
+        {
+          "letter": "B",
+          "text": "2 Only"
+        },
+        {
+          "letter": "C",
+          "text": "Both 1 and 2"
+        },
+        {
+          "letter": "D",
+          "text": "Neither 1 nor 2"
+        }
+      ]
+    },
+    {
+      "id": "e718f035-dd26-4afa-982d-035448b34887",
+      "question_number": 76,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2021",
+      "question_text": "Consider the following statements:\n1. Moringa (drumstick tree) is a leguminous evergreen tree.\n2. Tamarind tree is endemic to South Asia.\n3. In India, most of the tamarind is collected as minor forest produce.\n4. India exports tamarind and seeds of moringa.\n5. Seeds of moringa and tamarind can be used in the production of biofuels.\nWhich of the statements given above are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1, 2, 4 and 5"
+        },
+        {
+          "letter": "B",
+          "text": "3, 4 and 5"
+        },
+        {
+          "letter": "C",
+          "text": "1, 3 and 4"
+        },
+        {
+          "letter": "D",
+          "text": "1, 2, 3 and 5"
+        }
+      ]
+    },
+    {
+      "id": "b7cb48bb-60f4-4f70-bc4e-354309c3698b",
+      "question_number": 77,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2021",
+      "question_text": "Consider the following rivers:\n1. Brahamani\n2. Nagalwali\n3. Subarnarekha\n4. Vamsadhara\nWhich of the above rise from the Eastern Ghats?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 and 2"
+        },
+        {
+          "letter": "B",
+          "text": "2 and 4"
+        },
+        {
+          "letter": "C",
+          "text": "3 and 4"
+        },
+        {
+          "letter": "D",
+          "text": "1 and 3"
+        }
+      ]
+    },
+    {
+      "id": "5745710e-9de0-4e52-957b-f90f83cee258",
+      "question_number": 78,
+      "type": "mcq",
+      "difficulty": "Easy",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2021",
+      "question_text": "The black cotton soil of India has been formed due to the weathering of",
+      "options": [
+        {
+          "letter": "A",
+          "text": "brown forest soil"
+        },
+        {
+          "letter": "B",
+          "text": "fissure volcanic rock"
+        },
+        {
+          "letter": "C",
+          "text": "granite and schist"
+        },
+        {
+          "letter": "D",
+          "text": "shale and limestone"
+        }
+      ]
+    },
+    {
+      "id": "f28eb8f1-0d3a-4c8a-8e85-46153f03e2bd",
+      "question_number": 79,
+      "type": "mcq",
+      "difficulty": "Easy",
+      "subject": "Economy",
+      "exam_info": "Prelims 2021",
+      "question_text": "India Government Bond Yields are influenced by which of the following?\n1. Actions of the United States Federal Reserve.\n2. Actions of the Reserve Bank of India.\n3. Inflation and short-term interest rates.\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 and 2 only"
+        },
+        {
+          "letter": "B",
+          "text": "2 Only"
+        },
+        {
+          "letter": "C",
+          "text": "3 Only"
+        },
+        {
+          "letter": "D",
+          "text": "1, 2 and 3"
+        }
+      ]
+    },
+    {
+      "id": "2f75fcab-d563-4b4b-87ad-44d603a905fd",
+      "question_number": 80,
+      "type": "mcq",
+      "difficulty": "Easy",
+      "subject": "Indian Polity",
+      "exam_info": "Prelims 2021",
+      "question_text": "Which one of the following in Indian polity is an essential feature that indicates that it is federal in character?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The independence of judiciary is safeguarded."
+        },
+        {
+          "letter": "B",
+          "text": "The Union Legislature has elected representatives from constituent units."
+        },
+        {
+          "letter": "C",
+          "text": "The Union Cabinet can have elected representatives from regional parties."
+        },
+        {
+          "letter": "D",
+          "text": "The Fundamental Rights are enforceable by Courts of Law."
+        }
+      ]
+    },
+    {
+      "id": "4a1cf0c2-2d72-4c97-a61e-e2f9dbac2372",
+      "question_number": 81,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2021",
+      "question_text": "Consider the following animals:\n1. Hedgehog\n2. Marmot\n3. Pangolin\nTo reduce the chance of being captured by predators, which of the above organisms rolls up and protects its vulnerable parts?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 and 2"
+        },
+        {
+          "letter": "B",
+          "text": "2 only"
+        },
+        {
+          "letter": "C",
+          "text": "3 only"
+        },
+        {
+          "letter": "D",
+          "text": "1 and 3"
+        }
+      ]
+    },
+    {
+      "id": "4316e9db-bc33-4e36-928e-fa482b39b577",
+      "question_number": 82,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "Science & Technology",
+      "exam_info": "Prelims 2021",
+      "question_text": "Which one of the following is a reason why astronomical distances are measured in light-years?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Distances among stellar bodies do not change."
+        },
+        {
+          "letter": "B",
+          "text": "Gravity of stellar bodies does not change."
+        },
+        {
+          "letter": "C",
+          "text": "Light always travels in a straight line."
+        },
+        {
+          "letter": "D",
+          "text": "Speed of light is always same."
+        }
+      ]
+    },
+    {
+      "id": "06b00f61-60f7-4992-a6a4-6ef4ca7ca7a7",
+      "question_number": 83,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2021",
+      "question_text": "With reference to Indian history, which of the following statements is/are correct?\n1. The Nizamat of Arcot emerged out of Hyderabad State.\n2. The Mysore Kingdom emerged out of Vijaynagara Empire.\n3. Rohilkhand Kingdom was formed out of the territories occupied by Ahmad Shah Durrani.\nSelect the correct answer using the codes given below.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 and 2"
+        },
+        {
+          "letter": "B",
+          "text": "2 Only"
+        },
+        {
+          "letter": "C",
+          "text": "2 and 3"
+        },
+        {
+          "letter": "D",
+          "text": "3 Only"
+        }
+      ]
+    },
+    {
+      "id": "791f2f4e-293b-4e68-a820-1ee04bcbe9df",
+      "question_number": 84,
+      "type": "list_mcq",
+      "difficulty": "Medium",
+      "subject": "Ancient History",
+      "exam_info": "Prelims 2021",
+      "question_text": "From the declines of Guptas until the rise of Harshavardhana in the early seventh century, which of the following kingdoms were holding power in Northern India?\n\n1. The Guptas of Magadha\n2. The Paramaras of Malwa\n3. The Pushyabhutis of Thanesar\n4. The Maukharis of Kanauj\n5. The Yadavas of Devagiri\n6. The Maitrakas of Valabhi\n\nSelect the correct answer using the codes given below.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1, 2 and 5"
+        },
+        {
+          "letter": "B",
+          "text": "1, 3, 4 and 6"
+        },
+        {
+          "letter": "C",
+          "text": "2, 3 and 4"
+        },
+        {
+          "letter": "D",
+          "text": "5 and 6"
+        }
+      ]
+    },
+    {
+      "id": "35601840-3a91-4229-8905-e9b3d42d7b87",
+      "question_number": 85,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "International Relations",
+      "exam_info": "Prelims 2021",
+      "question_text": "Consider the following statements:\n1. 21st February is declared to be the International Mother Language Day by UNICEF.\n2. The demand that Bangla has to be one of the national languages was raised in the Constituent Assembly of Pakistan.\nWhich of the above statements is/are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 Only"
+        },
+        {
+          "letter": "B",
+          "text": "2 Only"
+        },
+        {
+          "letter": "C",
+          "text": "Both 1 and 2"
+        },
+        {
+          "letter": "D",
+          "text": "Neither 1 nor 2"
+        }
+      ]
+    },
+    {
+      "id": "663eb41e-f194-41eb-8ef6-2e97a341f88b",
+      "question_number": 86,
+      "type": "mcq",
+      "difficulty": "Easy",
+      "subject": "Modern History",
+      "exam_info": "Prelims 2021",
+      "question_text": "With reference to 8th August 1942 in Indian history, which one of the following statements is correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The Quit India Resolution was adopted by the AICC."
+        },
+        {
+          "letter": "B",
+          "text": "The Viceroy’s Executive council was expanded to include more Indians."
+        },
+        {
+          "letter": "C",
+          "text": "The Congress ministries resigned in seven provinces."
+        },
+        {
+          "letter": "D",
+          "text": "Cripps proposed an Indian Union with full Dominion Status once the Second World War was over."
+        }
+      ]
+    },
+    {
+      "id": "4713317a-646a-452f-a7c7-46111c482539",
+      "question_number": 87,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "Science & Technology",
+      "exam_info": "Prelims 2021",
+      "question_text": "In a pressure cooker, the temperature at which the food is cooked depends mainly upon which of the following?\n\n1. Area of the hole in the lid.\n2. Temperature of the flame\n3. Weight of the lid\n\nSelect the correct answer using the code given below.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 and 2 Only"
+        },
+        {
+          "letter": "B",
+          "text": "2 and 3 Only"
+        },
+        {
+          "letter": "C",
+          "text": "1 and 3 Only"
+        },
+        {
+          "letter": "D",
+          "text": "1, 2 and 3"
+        }
+      ]
+    },
+    {
+      "id": "0ff6cff4-406b-427f-a79d-a29bae6fc787",
+      "question_number": 88,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "Economy",
+      "exam_info": "Prelims 2021",
+      "question_text": "With reference to ’palm oil’, consider the following statements:\n1. The palm oil tree is native to Southeast Asia.\n2. The palm oil is a raw material for some industries producing lipstick and perfumes.\n3. The palm oil can be used to produce biodiesel.\nWhich of the statements given above are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 and 2 Only"
+        },
+        {
+          "letter": "B",
+          "text": "2 and 3 Only"
+        },
+        {
+          "letter": "C",
+          "text": "1 and 3 Only"
+        },
+        {
+          "letter": "D",
+          "text": "1, 2 and 3"
+        }
+      ]
+    },
+    {
+      "id": "0db2a2e1-1c3b-461e-b577-d5dd2b826fd6",
+      "question_number": 89,
+      "type": "mcq",
+      "difficulty": "Easy",
+      "subject": "Indian Polity",
+      "exam_info": "Prelims 2021",
+      "question_text": "What is the position of the Right to Property in India?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Legal right available to citizens only"
+        },
+        {
+          "letter": "B",
+          "text": "Legal right available to any person"
+        },
+        {
+          "letter": "C",
+          "text": "Fundamental Right available to citizens only"
+        },
+        {
+          "letter": "D",
+          "text": "Neither Fundamental Right nor legal right"
+        }
+      ]
+    },
+    {
+      "id": "66f7f6af-df79-49ef-a6ae-1ed4d31d5bce",
+      "question_number": 90,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "Economy",
+      "exam_info": "Prelims 2021",
+      "question_text": "With reference to India, consider the following statements:\n1. Retail investors through demat account can invest in ‘Treasury Bills’ and ‘Government of India Debt Bonds’ in primary market.\n2. The ‘Negotiated Dealing System-Order Matching’ is a government securities trading platform of the Reserve Bank of India.\n3. The ‘Central Depository Services Ltd.’ is jointly promoted by the Reserve Bank of India and the Bombay Stock Exchange.\nWhich of the statements given below is/are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 Only"
+        },
+        {
+          "letter": "B",
+          "text": "1 and 2"
+        },
+        {
+          "letter": "C",
+          "text": "3 Only"
+        },
+        {
+          "letter": "D",
+          "text": "2 and 3"
+        }
+      ]
+    },
+    {
+      "id": "ee9155f1-f749-4ae4-8d2d-e530432c7fbb",
+      "question_number": 91,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2021",
+      "question_text": "With reference to the ‘New York Declaration on Forests’, which of the following statements are correct?\n1. It was first endorsed at the United Nations Climate Summit in 2014.\n2. It endorses a global timeline to end the loss of forests.\n3. It is a legally binding international declaration.\n4. It is endorsed by governments, big companies and indigenous communities.\n5. India was one of the signatories at its inception.\nSelect the correct answer using the code given below.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1, 2 and 4"
+        },
+        {
+          "letter": "B",
+          "text": "1, 3 and 5"
+        },
+        {
+          "letter": "C",
+          "text": "3 and 4"
+        },
+        {
+          "letter": "D",
+          "text": "2 and 5"
+        }
+      ]
+    },
+    {
+      "id": "bb60caf4-8346-48e0-8c2c-fcb3b0e0dc9d",
+      "question_number": 92,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2021",
+      "question_text": "Which of the following are detritivores?\nEarthworms\nJellyfish\nMillipedes\nSeahorses\nWoodlice\nSelect the correct answer using the code given below.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1, 2 and 4 Only"
+        },
+        {
+          "letter": "B",
+          "text": "2, 3, 4 and 5 Only"
+        },
+        {
+          "letter": "C",
+          "text": "1, 3 and 5 Only"
+        },
+        {
+          "letter": "D",
+          "text": "1, 2, 3, 4 and 5"
+        }
+      ]
+    },
+    {
+      "id": "8b965909-d94d-47a7-bc09-7a4e33627ec9",
+      "question_number": 93,
+      "type": "mcq",
+      "difficulty": "Easy",
+      "subject": "Modern History",
+      "exam_info": "Prelims 2021",
+      "question_text": "In the context of Colonial India, Shah Nawaz Khan, Prem Kumar Sehgal, and Gurbaksh Singh Dhillon are remembered as",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Leaders of Swadeshi and Boycott Movement."
+        },
+        {
+          "letter": "B",
+          "text": "Members of the Interim Government in 1946."
+        },
+        {
+          "letter": "C",
+          "text": "Members of the Drafting Committee in the Constituent Assembly."
+        },
+        {
+          "letter": "D",
+          "text": "Officers of the Indian National Army"
+        }
+      ]
+    },
+    {
+      "id": "ade9248e-240c-41e7-9782-58b240b001db",
+      "question_number": 94,
+      "type": "mcq",
+      "difficulty": "Easy",
+      "subject": "Science & Technology",
+      "exam_info": "Prelims 2021",
+      "question_text": "The term ‘ACE2’ is talked about in the context of",
+      "options": [
+        {
+          "letter": "A",
+          "text": "genes introduced in the genetically modified plants"
+        },
+        {
+          "letter": "B",
+          "text": "development of India’s own satellite navigation system"
+        },
+        {
+          "letter": "C",
+          "text": "radio collar for wildlife tracking"
+        },
+        {
+          "letter": "D",
+          "text": "spread of viral diseases"
+        }
+      ]
+    },
+    {
+      "id": "cc2e8e23-d5cc-4afb-bfa3-136ca7f53865",
+      "question_number": 95,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2021",
+      "question_text": "With reference to the history of ancient India, Bhavabhuti, Hastimalla and Kshemeshvara were famous",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Jain monks"
+        },
+        {
+          "letter": "B",
+          "text": "Playwrights"
+        },
+        {
+          "letter": "C",
+          "text": "Temple architects"
+        },
+        {
+          "letter": "D",
+          "text": "Philosophers"
+        }
+      ]
+    },
+    {
+      "id": "63e5ffc6-2c22-4078-9a60-62ad97f849fd",
+      "question_number": 96,
+      "type": "mcq",
+      "difficulty": "Easy",
+      "subject": "Economy",
+      "exam_info": "Prelims 2021",
+      "question_text": "In India, the central bank’s function as the ‘lender of last resort’ usually refers to which of the following?\n1. Lending to trade and industry bodies when they fail to borrow from other sources.\n2. Providing liquidity to the banks having a temporary crisis.\n3. Lending to governments to finance budgetary deficits.\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 and 2"
+        },
+        {
+          "letter": "B",
+          "text": "2 Only"
+        },
+        {
+          "letter": "C",
+          "text": "2 and 3"
+        },
+        {
+          "letter": "D",
+          "text": "3 Only"
+        }
+      ]
+    },
+    {
+      "id": "f1ea27d1-d69a-4853-bd8c-2127e83c8385",
+      "question_number": 97,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2021",
+      "question_text": "With reference to the Indus river system, of the following four rivers, three of them pour into one of them which joins the Indus direct. Among the following, which one is such river that joins the Indus direct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chenab"
+        },
+        {
+          "letter": "B",
+          "text": "Jhelum"
+        },
+        {
+          "letter": "C",
+          "text": "Ravi"
+        },
+        {
+          "letter": "D",
+          "text": "Sutlej"
+        }
+      ]
+    },
+    {
+      "id": "2d610389-8301-4a02-8e13-88402f584c78",
+      "question_number": 98,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "Modern History",
+      "exam_info": "Prelims 2021",
+      "question_text": "In the first quarter of the seventeenth century, in which of the following was/were the factory/factories of the English East India Company located?\n\n1. Broach\n2. Chicacole\n3. Trichinopoly\n\nSelect the correct answer using the codes given below.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 Only"
+        },
+        {
+          "letter": "B",
+          "text": "1 and 2"
+        },
+        {
+          "letter": "C",
+          "text": "3 only"
+        },
+        {
+          "letter": "D",
+          "text": "2 and 3"
+        }
+      ]
+    },
+    {
+      "id": "64d93fd7-fa5b-412a-b0b1-768fa2685e42",
+      "question_number": 99,
+      "type": "mcq",
+      "difficulty": "Easy",
+      "subject": "Economy",
+      "exam_info": "Prelims 2021",
+      "question_text": "The money multiplier in an economy increases with which one of the following?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Increase in the Cash Reserve Ratio in the banks."
+        },
+        {
+          "letter": "B",
+          "text": "Increase in the Statutory Liquidity Ratio in the banks."
+        },
+        {
+          "letter": "C",
+          "text": "Increase in the banking habit of the people."
+        },
+        {
+          "letter": "D",
+          "text": "Increase in the population of the country."
+        }
+      ]
+    },
+    {
+      "id": "37d4f0d8-f529-4592-bc55-d1cf38adae56",
+      "question_number": 100,
+      "type": "mcq",
+      "difficulty": "Easy",
+      "subject": "World Geography",
+      "exam_info": "Prelims 2021",
+      "question_text": "The vegetation of savannah consists of grassland with scattered small trees, but extensive areas have no trees. The forest development in such areas is generally kept in check by one or more or a combination of some conditions. Which of the following are such conditions?\n\n1. Burrowing animals and termites\n2. Fire\n3. Grazing herbivores\n4. Seasonal rainfall\n5. Soil properties\n\nSelect the correct answer using the codes given below:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 and 2"
+        },
+        {
+          "letter": "B",
+          "text": "4 and 5"
+        },
+        {
+          "letter": "C",
+          "text": "2, 3 and 4"
+        },
+        {
+          "letter": "D",
+          "text": "1, 3 and 5"
+        }
+      ]
+    },
+    {
+      "id": "51efdf59-16a7-4687-9a55-2cabf6fff99d",
+      "question_number": 101,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "Modern History",
+      "exam_info": "Prelims 2021",
+      "question_text": "Who among the following is associated with ‘Songs from Prison’, a translation of ancient Indian religious lyrics in English?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bal Gangadhar Tilak"
+        },
+        {
+          "letter": "B",
+          "text": "Jawaharlal Nehru"
+        },
+        {
+          "letter": "C",
+          "text": "Mohandas Karamchand Gandhi"
+        },
+        {
+          "letter": "D",
+          "text": "Sarojini Naidu"
+        }
+      ]
+    },
+    {
+      "id": "168b6cab-f3bf-42ea-ac3d-45ca1b26546f",
+      "question_number": 102,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "Physical Geography",
+      "exam_info": "Prelims 2021",
+      "question_text": "With reference to the water on the planet Earth, consider the following statements:\n1. The amount of water in the rivers and lakes is more than the amount of groundwater.\n2. The amount of water in polar ice caps and glaciers is more than the amount of groundwater.\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 Only"
+        },
+        {
+          "letter": "B",
+          "text": "2 Only"
+        },
+        {
+          "letter": "C",
+          "text": "Both 1 and 2"
+        },
+        {
+          "letter": "D",
+          "text": "Neither 1 nor 2"
+        }
+      ]
+    },
+    {
+      "id": "22c2317c-47b9-4bda-bc73-75050db9ef9c",
+      "question_number": 103,
+      "type": "mcq",
+      "difficulty": "Easy",
+      "subject": "Indian Polity",
+      "exam_info": "Prelims 2021",
+      "question_text": "‘Right to privacy’ is protected under which Article of the Constitution of India?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Article 15"
+        },
+        {
+          "letter": "B",
+          "text": "Article 19"
+        },
+        {
+          "letter": "C",
+          "text": "Article 21"
+        },
+        {
+          "letter": "D",
+          "text": "Article 29"
+        }
+      ]
+    },
+    {
+      "id": "6bd41cdd-d4bc-4a83-a1ac-e98463cf8828",
+      "question_number": 104,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "Economy",
+      "exam_info": "Prelims 2021",
+      "question_text": "With reference to ‘Urban Cooperative Banks’ in India, consider the following statements:\n1. They are supervised and regulated by local boards set up by the State Governments.\n2. They can issue equity shares and preference shares.\n3. They were brought under the purview of the Banking Regulation Act, 1949 through an Amendment in 1966.\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 only"
+        },
+        {
+          "letter": "B",
+          "text": "2 and 3 only"
+        },
+        {
+          "letter": "C",
+          "text": "1 and 3 only"
+        },
+        {
+          "letter": "D",
+          "text": "1, 2 and 3"
+        }
+      ]
+    },
+    {
+      "id": "be1b452c-00f3-4534-8ba1-7a7887d70dd1",
+      "question_number": 105,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "Science & Technology",
+      "exam_info": "Prelims 2021",
+      "question_text": "Consider the following:\n1. Bacteria\n2. Fungi\n3. Virus\nWhich of the above can be cultured in artificial/synthetic medium?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 and 2 Only"
+        },
+        {
+          "letter": "B",
+          "text": "2 and 3 Only"
+        },
+        {
+          "letter": "C",
+          "text": "1 and 3 Only"
+        },
+        {
+          "letter": "D",
+          "text": "1, 2 and 3"
+        }
+      ]
+    }
+  ]
+}
