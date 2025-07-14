@@ -1,0 +1,17 @@
+# Supabase Database Configuration Template
+# Copy this to .env file in the root directory and fill in your actual values
+
+# Your Supabase project host (found in Settings > Database)
+SUPABASE_HOST=your-project-ref.supabase.co
+
+# Database name (usually 'postgres' for Supabase)
+SUPABASE_DB_NAME=postgres
+
+# Database user (usually 'postgres' for Supabase)
+SUPABASE_DB_USER=postgres
+
+# Database password (found in Settings > Database > Connection string)
+SUPABASE_DB_PASSWORD=your-database-password
+
+# Database port (usually 5432 for Supabase)
+SUPABASE_DB_PORT=5432 

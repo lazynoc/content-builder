@@ -15,16 +15,40 @@ import uuid
 from tqdm import tqdm
 
 # Load environment variables
-load_dotenv('../../../.env')
+load_dotenv('../../../../.env')
 
-# Database configuration
-DB_CONFIG = {
-    'host': os.getenv('SUPABASE_HOST'),
-    'database': os.getenv('SUPABASE_DB_NAME'),
-    'user': os.getenv('SUPABASE_DB_USER'),
-    'password': os.getenv('SUPABASE_DB_PASSWORD'),
-    'port': os.getenv('SUPABASE_DB_PORT', '5432')
-}
+# Database configuration - parse from SUPABASE_DB_URL
+def parse_db_url():
+    """Parse database URL to extract connection parameters"""
+    db_url = os.getenv('SUPABASE_DB_URL')
+    if not db_url:
+        raise ValueError("SUPABASE_DB_URL not found in environment variables")
+    
+    # Parse: postgresql://user:password@host:port/database
+    # Remove postgresql:// prefix
+    url_without_prefix = db_url.replace('postgresql://', '')
+    
+    # Split into credentials and host/database
+    credentials, host_db = url_without_prefix.split('@')
+    user, password = credentials.split(':')
+    
+    # Split host/database
+    host_port, database = host_db.split('/')
+    if ':' in host_port:
+        host, port = host_port.split(':')
+    else:
+        host = host_port
+        port = '5432'
+    
+    return {
+        'host': host,
+        'database': database,
+        'user': user,
+        'password': password,
+        'port': port
+    }
+
+DB_CONFIG = parse_db_url()
 
 class SupabaseIngester:
     def __init__(self):
