@@ -1,0 +1,15 @@
+/Users/mukulmalik/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+2025-07-14 23:41:17,971 - INFO - Background Agent initialized successfully
+2025-07-14 23:41:17,971 - INFO - 🚀 Starting Background Grok Analysis Agent
+2025-07-14 23:41:17,971 - INFO - ============================================================
+2025-07-14 23:41:17,971 - INFO - 📚 Processing UPSC 2025 Questions
+2025-07-14 23:41:17,971 - INFO - ----------------------------------------
+2025-07-14 23:41:17,971 - INFO - Loaded 100 questions for UPSC 2025
+2025-07-14 23:41:17,971 - INFO - Starting analysis for UPSC 2025
+2025-07-14 23:41:17,971 - INFO - Total questions: 100
+2025-07-14 23:41:17,971 - INFO - Batch size: 5
+2025-07-14 23:41:17,972 - INFO - Total batches: 20
+2025-07-14 23:41:17,972 - INFO - Estimated API calls: 20 (vs 100 individual calls)
+2025-07-14 23:41:17,972 - INFO - Processing batch 1/20 (Questions 1-5)
+2025-07-14 23:41:17,972 - INFO - Attempting batch analysis (attempt 1/3)

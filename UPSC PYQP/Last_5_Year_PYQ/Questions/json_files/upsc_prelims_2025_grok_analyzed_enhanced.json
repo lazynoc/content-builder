@@ -1,0 +1,634 @@
+{
+  "metadata": {
+    "source": "UPSC_2025_Prelims_GS1",
+    "analysis_date": "2025-07-15T02:18:40.941783",
+    "total_questions": 5,
+    "exam_type": "UPSC",
+    "year": 2025,
+    "section": "UPSC_Prelims_GS1",
+    "analysis_method": "Grok-4_AI_Enhanced",
+    "note": "Two-tier analysis with micro-level option detail, latest model, 120s timeout, and retry logic"
+  },
+  "questions": [
+    {
+      "id": "f74aa854-f943-440e-9e9b-1fbe078461aa",
+      "question_number": 1,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "Modern History",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following statements in respect of the Non-Cooperation Movement:\nI. The Congress declared the attainment of 'Swaraj' by all legitimate and peaceful means to be its objective.\nII. It was to be implemented in stages with civil disobedience and non-payment of taxes for the next stage only if 'Swaraj' did not come within a year and the Government resorted to repression.\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I only"
+        },
+        {
+          "letter": "B",
+          "text": "II only"
+        },
+        {
+          "letter": "C",
+          "text": "Both I and II"
+        },
+        {
+          "letter": "D",
+          "text": "Neither I nor II"
+        }
+      ],
+      "correct_answer": "A",
+      "student_facing_analysis": {
+        "explanation": "Explanation for UPSC question 1",
+        "learning_objectives": "Core concept and knowledge areas tested",
+        "question_strategy": "Question design and common patterns",
+        "difficulty_level": "Medium",
+        "key_concepts": [
+          "Concept 1",
+          "Concept 2"
+        ],
+        "time_management": "1-2 minutes recommended"
+      },
+      "detailed_backend_analysis": {
+        "question_nature": {
+          "primary_type": "Conceptual",
+          "secondary_type": "Understanding-based",
+          "difficulty_reason": "Standard UPSC Medium question",
+          "knowledge_requirement": "Mixed"
+        },
+        "examiner_thought_process": {
+          "testing_objective": "Testing conceptual clarity",
+          "question_design_strategy": "Multiple choice with distractors",
+          "trap_setting": "Common misconceptions",
+          "discrimination_potential": "Medium"
+        },
+        "options_analysis": {
+          "A": {
+            "type": "plausible_distractor",
+            "reason": "Option A analysis for UPSC preparation",
+            "trap": "Common misconception",
+            "elimination_strategy": "Process of elimination",
+            "student_reasoning_pattern": "Basic understanding",
+            "common_misconception": "Concept confusion"
+          },
+          "B": {
+            "type": "plausible_distractor",
+            "reason": "Option B analysis for UPSC preparation",
+            "trap": "Common misconception",
+            "elimination_strategy": "Process of elimination",
+            "student_reasoning_pattern": "Basic understanding",
+            "common_misconception": "Concept confusion"
+          },
+          "C": {
+            "type": "plausible_distractor",
+            "reason": "Option C analysis for UPSC preparation",
+            "trap": "Common misconception",
+            "elimination_strategy": "Process of elimination",
+            "student_reasoning_pattern": "Basic understanding",
+            "common_misconception": "Concept confusion"
+          },
+          "D": {
+            "type": "correct_answer",
+            "reason": "Option D analysis for UPSC preparation",
+            "trap": "None",
+            "elimination_strategy": "Correct choice",
+            "student_reasoning_pattern": "Proper understanding",
+            "common_misconception": "None"
+          }
+        },
+        "learning_insights": {
+          "key_concepts": [
+            "Concept 1",
+            "Concept 2"
+          ],
+          "common_mistakes": [
+            "Mistake 1",
+            "Mistake 2"
+          ],
+          "elimination_technique_semi_knowledge": "Use partial knowledge to eliminate options",
+          "elimination_technique_safe_guess": "Look for most plausible option",
+          "memory_hooks": [
+            "Hook 1",
+            "Hook 2"
+          ],
+          "related_topics": [
+            "Topic 1",
+            "Topic 2"
+          ],
+          "current_affairs_connection": "Connects to recent developments"
+        },
+        "difficulty_level": "Medium",
+        "time_management": "1-2 minutes recommended",
+        "confidence_calibration": "Assess based on subject familiarity",
+        "strength_indicators": [
+          "Basic knowledge of subject area"
+        ],
+        "weakness_indicators": [
+          "Potential gaps in fundamental concepts"
+        ],
+        "remediation_topics": [
+          "Core concepts of the subject"
+        ],
+        "advanced_connections": [
+          "Connects to advanced topics in the subject"
+        ]
+      },
+      "grok_analysis_date": "2025-07-15T02:17:44.094246"
+    },
+    {
+      "id": "fa5a83e9-eb63-4e3e-85dd-4619807654b8",
+      "question_number": 2,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "Indian Polity",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following statements:\nI. If any question arises as to whether a Member of the House of the People has become subject to disqualification under the Tenth Schedule, the President’s decision in accordance with the opinion of the Council of Union Ministers shall be final.\nII. There is no mention of the word 'political party' in the Constitution of India.\nWhich of the statements given above are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I only"
+        },
+        {
+          "letter": "B",
+          "text": "II only"
+        },
+        {
+          "letter": "C",
+          "text": "Both I and II"
+        },
+        {
+          "letter": "D",
+          "text": "Neither I nor II"
+        }
+      ],
+      "correct_answer": "D",
+      "student_facing_analysis": {
+        "explanation": "Explanation for UPSC question 2",
+        "learning_objectives": "Core concept and knowledge areas tested",
+        "question_strategy": "Question design and common patterns",
+        "difficulty_level": "Medium",
+        "key_concepts": [
+          "Concept 1",
+          "Concept 2"
+        ],
+        "time_management": "1-2 minutes recommended"
+      },
+      "detailed_backend_analysis": {
+        "question_nature": {
+          "primary_type": "Conceptual",
+          "secondary_type": "Understanding-based",
+          "difficulty_reason": "Standard UPSC Medium question",
+          "knowledge_requirement": "Mixed"
+        },
+        "examiner_thought_process": {
+          "testing_objective": "Testing conceptual clarity",
+          "question_design_strategy": "Multiple choice with distractors",
+          "trap_setting": "Common misconceptions",
+          "discrimination_potential": "Medium"
+        },
+        "options_analysis": {
+          "A": {
+            "type": "plausible_distractor",
+            "reason": "Option A analysis for UPSC preparation",
+            "trap": "Common misconception",
+            "elimination_strategy": "Process of elimination",
+            "student_reasoning_pattern": "Basic understanding",
+            "common_misconception": "Concept confusion"
+          },
+          "B": {
+            "type": "plausible_distractor",
+            "reason": "Option B analysis for UPSC preparation",
+            "trap": "Common misconception",
+            "elimination_strategy": "Process of elimination",
+            "student_reasoning_pattern": "Basic understanding",
+            "common_misconception": "Concept confusion"
+          },
+          "C": {
+            "type": "plausible_distractor",
+            "reason": "Option C analysis for UPSC preparation",
+            "trap": "Common misconception",
+            "elimination_strategy": "Process of elimination",
+            "student_reasoning_pattern": "Basic understanding",
+            "common_misconception": "Concept confusion"
+          },
+          "D": {
+            "type": "correct_answer",
+            "reason": "Option D analysis for UPSC preparation",
+            "trap": "None",
+            "elimination_strategy": "Correct choice",
+            "student_reasoning_pattern": "Proper understanding",
+            "common_misconception": "None"
+          }
+        },
+        "learning_insights": {
+          "key_concepts": [
+            "Concept 1",
+            "Concept 2"
+          ],
+          "common_mistakes": [
+            "Mistake 1",
+            "Mistake 2"
+          ],
+          "elimination_technique_semi_knowledge": "Use partial knowledge to eliminate options",
+          "elimination_technique_safe_guess": "Look for most plausible option",
+          "memory_hooks": [
+            "Hook 1",
+            "Hook 2"
+          ],
+          "related_topics": [
+            "Topic 1",
+            "Topic 2"
+          ],
+          "current_affairs_connection": "Connects to recent developments"
+        },
+        "difficulty_level": "Medium",
+        "time_management": "1-2 minutes recommended",
+        "confidence_calibration": "Assess based on subject familiarity",
+        "strength_indicators": [
+          "Basic knowledge of subject area"
+        ],
+        "weakness_indicators": [
+          "Potential gaps in fundamental concepts"
+        ],
+        "remediation_topics": [
+          "Core concepts of the subject"
+        ],
+        "advanced_connections": [
+          "Connects to advanced topics in the subject"
+        ]
+      },
+      "grok_analysis_date": "2025-07-15T02:17:57.532837"
+    },
+    {
+      "id": "8dd0ef9f-e87f-471d-a22a-7c87fae2332c",
+      "question_number": 3,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "World Geography",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following pairs:\nRegion – Country\nI. Mallorca : Italy\nII. Normandy : Spain\nIII. Sardinia : France\nIn how many of the above rows is the given information correctly matched?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only one"
+        },
+        {
+          "letter": "B",
+          "text": "Only two"
+        },
+        {
+          "letter": "C",
+          "text": "All the three"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ],
+      "correct_answer": "D",
+      "student_facing_analysis": {
+        "explanation": "Explanation for UPSC question 3",
+        "learning_objectives": "Core concept and knowledge areas tested",
+        "question_strategy": "Question design and common patterns",
+        "difficulty_level": "Hard",
+        "key_concepts": [
+          "Concept 1",
+          "Concept 2"
+        ],
+        "time_management": "1-2 minutes recommended"
+      },
+      "detailed_backend_analysis": {
+        "question_nature": {
+          "primary_type": "Conceptual",
+          "secondary_type": "Understanding-based",
+          "difficulty_reason": "Standard UPSC Hard question",
+          "knowledge_requirement": "Mixed"
+        },
+        "examiner_thought_process": {
+          "testing_objective": "Testing conceptual clarity",
+          "question_design_strategy": "Multiple choice with distractors",
+          "trap_setting": "Common misconceptions",
+          "discrimination_potential": "Medium"
+        },
+        "options_analysis": {
+          "A": {
+            "type": "plausible_distractor",
+            "reason": "Option A analysis for UPSC preparation",
+            "trap": "Common misconception",
+            "elimination_strategy": "Process of elimination",
+            "student_reasoning_pattern": "Basic understanding",
+            "common_misconception": "Concept confusion"
+          },
+          "B": {
+            "type": "plausible_distractor",
+            "reason": "Option B analysis for UPSC preparation",
+            "trap": "Common misconception",
+            "elimination_strategy": "Process of elimination",
+            "student_reasoning_pattern": "Basic understanding",
+            "common_misconception": "Concept confusion"
+          },
+          "C": {
+            "type": "plausible_distractor",
+            "reason": "Option C analysis for UPSC preparation",
+            "trap": "Common misconception",
+            "elimination_strategy": "Process of elimination",
+            "student_reasoning_pattern": "Basic understanding",
+            "common_misconception": "Concept confusion"
+          },
+          "D": {
+            "type": "correct_answer",
+            "reason": "Option D analysis for UPSC preparation",
+            "trap": "None",
+            "elimination_strategy": "Correct choice",
+            "student_reasoning_pattern": "Proper understanding",
+            "common_misconception": "None"
+          }
+        },
+        "learning_insights": {
+          "key_concepts": [
+            "Concept 1",
+            "Concept 2"
+          ],
+          "common_mistakes": [
+            "Mistake 1",
+            "Mistake 2"
+          ],
+          "elimination_technique_semi_knowledge": "Use partial knowledge to eliminate options",
+          "elimination_technique_safe_guess": "Look for most plausible option",
+          "memory_hooks": [
+            "Hook 1",
+            "Hook 2"
+          ],
+          "related_topics": [
+            "Topic 1",
+            "Topic 2"
+          ],
+          "current_affairs_connection": "Connects to recent developments"
+        },
+        "difficulty_level": "Hard",
+        "time_management": "1-2 minutes recommended",
+        "confidence_calibration": "Assess based on subject familiarity",
+        "strength_indicators": [
+          "Basic knowledge of subject area"
+        ],
+        "weakness_indicators": [
+          "Potential gaps in fundamental concepts"
+        ],
+        "remediation_topics": [
+          "Core concepts of the subject"
+        ],
+        "advanced_connections": [
+          "Connects to advanced topics in the subject"
+        ]
+      },
+      "grok_analysis_date": "2025-07-15T02:18:10.970368"
+    },
+    {
+      "id": "249b6d4a-ee9f-4530-905e-36831a261c54",
+      "question_number": 4,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "Indian Polity",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following statements:\nI. On the dissolution of the House of the People, the Speaker shall not vacate his/her office until immediately before the first meeting of the House of the People after the dissolution.\nII. According to the provisions of the Constitution of India, a Member of the House of the People on being elected as Speaker shall resign from his/her political party immediately.\nIII. The Speaker of the House of the People may be removed from his/her office by a resolution of the House of the People passed by a majority of all the then Members of the House, provided that no resolution shall be moved unless at least fourteen days' notice has been given of the intention to move the resolution.\nWhich of the statements given above are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I and II only"
+        },
+        {
+          "letter": "B",
+          "text": "II and III only"
+        },
+        {
+          "letter": "C",
+          "text": "I and III only"
+        },
+        {
+          "letter": "D",
+          "text": "I, II and III"
+        }
+      ],
+      "correct_answer": "C",
+      "student_facing_analysis": {
+        "explanation": "Explanation for UPSC question 4",
+        "learning_objectives": "Core concept and knowledge areas tested",
+        "question_strategy": "Question design and common patterns",
+        "difficulty_level": "Hard",
+        "key_concepts": [
+          "Concept 1",
+          "Concept 2"
+        ],
+        "time_management": "1-2 minutes recommended"
+      },
+      "detailed_backend_analysis": {
+        "question_nature": {
+          "primary_type": "Conceptual",
+          "secondary_type": "Understanding-based",
+          "difficulty_reason": "Standard UPSC Hard question",
+          "knowledge_requirement": "Mixed"
+        },
+        "examiner_thought_process": {
+          "testing_objective": "Testing conceptual clarity",
+          "question_design_strategy": "Multiple choice with distractors",
+          "trap_setting": "Common misconceptions",
+          "discrimination_potential": "Medium"
+        },
+        "options_analysis": {
+          "A": {
+            "type": "plausible_distractor",
+            "reason": "Option A analysis for UPSC preparation",
+            "trap": "Common misconception",
+            "elimination_strategy": "Process of elimination",
+            "student_reasoning_pattern": "Basic understanding",
+            "common_misconception": "Concept confusion"
+          },
+          "B": {
+            "type": "plausible_distractor",
+            "reason": "Option B analysis for UPSC preparation",
+            "trap": "Common misconception",
+            "elimination_strategy": "Process of elimination",
+            "student_reasoning_pattern": "Basic understanding",
+            "common_misconception": "Concept confusion"
+          },
+          "C": {
+            "type": "plausible_distractor",
+            "reason": "Option C analysis for UPSC preparation",
+            "trap": "Common misconception",
+            "elimination_strategy": "Process of elimination",
+            "student_reasoning_pattern": "Basic understanding",
+            "common_misconception": "Concept confusion"
+          },
+          "D": {
+            "type": "correct_answer",
+            "reason": "Option D analysis for UPSC preparation",
+            "trap": "None",
+            "elimination_strategy": "Correct choice",
+            "student_reasoning_pattern": "Proper understanding",
+            "common_misconception": "None"
+          }
+        },
+        "learning_insights": {
+          "key_concepts": [
+            "Concept 1",
+            "Concept 2"
+          ],
+          "common_mistakes": [
+            "Mistake 1",
+            "Mistake 2"
+          ],
+          "elimination_technique_semi_knowledge": "Use partial knowledge to eliminate options",
+          "elimination_technique_safe_guess": "Look for most plausible option",
+          "memory_hooks": [
+            "Hook 1",
+            "Hook 2"
+          ],
+          "related_topics": [
+            "Topic 1",
+            "Topic 2"
+          ],
+          "current_affairs_connection": "Connects to recent developments"
+        },
+        "difficulty_level": "Hard",
+        "time_management": "1-2 minutes recommended",
+        "confidence_calibration": "Assess based on subject familiarity",
+        "strength_indicators": [
+          "Basic knowledge of subject area"
+        ],
+        "weakness_indicators": [
+          "Potential gaps in fundamental concepts"
+        ],
+        "remediation_topics": [
+          "Core concepts of the subject"
+        ],
+        "advanced_connections": [
+          "Connects to advanced topics in the subject"
+        ]
+      },
+      "grok_analysis_date": "2025-07-15T02:18:24.529171"
+    },
+    {
+      "id": "650e9e61-8dc8-46f4-b4b2-e3152edec3e6",
+      "question_number": 5,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "Economy",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following statements in respect of the International Bank for Reconstruction and Development (IBRD):\nI. It provides loans and guarantees to middle income countries.\nII. It works single-handedly to help developing countries to reduce poverty.\nIII. It was established to help Europe rebuild after the World War II.\nWhich of the statements given above are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I and II only"
+        },
+        {
+          "letter": "B",
+          "text": "II and III only"
+        },
+        {
+          "letter": "C",
+          "text": "I and III only"
+        },
+        {
+          "letter": "D",
+          "text": "I, II and III"
+        }
+      ],
+      "correct_answer": "C",
+      "student_facing_analysis": {
+        "explanation": "Explanation for UPSC question 5",
+        "learning_objectives": "Core concept and knowledge areas tested",
+        "question_strategy": "Question design and common patterns",
+        "difficulty_level": "Medium",
+        "key_concepts": [
+          "Concept 1",
+          "Concept 2"
+        ],
+        "time_management": "1-2 minutes recommended"
+      },
+      "detailed_backend_analysis": {
+        "question_nature": {
+          "primary_type": "Conceptual",
+          "secondary_type": "Understanding-based",
+          "difficulty_reason": "Standard UPSC Medium question",
+          "knowledge_requirement": "Mixed"
+        },
+        "examiner_thought_process": {
+          "testing_objective": "Testing conceptual clarity",
+          "question_design_strategy": "Multiple choice with distractors",
+          "trap_setting": "Common misconceptions",
+          "discrimination_potential": "Medium"
+        },
+        "options_analysis": {
+          "A": {
+            "type": "plausible_distractor",
+            "reason": "Option A analysis for UPSC preparation",
+            "trap": "Common misconception",
+            "elimination_strategy": "Process of elimination",
+            "student_reasoning_pattern": "Basic understanding",
+            "common_misconception": "Concept confusion"
+          },
+          "B": {
+            "type": "plausible_distractor",
+            "reason": "Option B analysis for UPSC preparation",
+            "trap": "Common misconception",
+            "elimination_strategy": "Process of elimination",
+            "student_reasoning_pattern": "Basic understanding",
+            "common_misconception": "Concept confusion"
+          },
+          "C": {
+            "type": "plausible_distractor",
+            "reason": "Option C analysis for UPSC preparation",
+            "trap": "Common misconception",
+            "elimination_strategy": "Process of elimination",
+            "student_reasoning_pattern": "Basic understanding",
+            "common_misconception": "Concept confusion"
+          },
+          "D": {
+            "type": "correct_answer",
+            "reason": "Option D analysis for UPSC preparation",
+            "trap": "None",
+            "elimination_strategy": "Correct choice",
+            "student_reasoning_pattern": "Proper understanding",
+            "common_misconception": "None"
+          }
+        },
+        "learning_insights": {
+          "key_concepts": [
+            "Concept 1",
+            "Concept 2"
+          ],
+          "common_mistakes": [
+            "Mistake 1",
+            "Mistake 2"
+          ],
+          "elimination_technique_semi_knowledge": "Use partial knowledge to eliminate options",
+          "elimination_technique_safe_guess": "Look for most plausible option",
+          "memory_hooks": [
+            "Hook 1",
+            "Hook 2"
+          ],
+          "related_topics": [
+            "Topic 1",
+            "Topic 2"
+          ],
+          "current_affairs_connection": "Connects to recent developments"
+        },
+        "difficulty_level": "Medium",
+        "time_management": "1-2 minutes recommended",
+        "confidence_calibration": "Assess based on subject familiarity",
+        "strength_indicators": [
+          "Basic knowledge of subject area"
+        ],
+        "weakness_indicators": [
+          "Potential gaps in fundamental concepts"
+        ],
+        "remediation_topics": [
+          "Core concepts of the subject"
+        ],
+        "advanced_connections": [
+          "Connects to advanced topics in the subject"
+        ]
+      },
+      "grok_analysis_date": "2025-07-15T02:18:37.936973"
+    }
+  ]
+}
