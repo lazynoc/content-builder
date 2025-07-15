@@ -95,26 +95,64 @@ For each question, provide comprehensive analysis in JSON format with TWO sectio
       "time_management": "Recommended time allocation for this question type - practical advice for exam day"
     }},
     "detailed_backend_analysis": {{
-      "primary_type": "Main subject area (History/Geography/Polity/Economics/Environment/Science/Current Affairs)",
-      "secondary_type": "Specific sub-topic within the primary type",
-      "difficulty_reason": "Why this difficulty level for UPSC aspirants - be encouraging and explain what makes it challenging or straightforward",
-      "options_analysis": {{
-        "a": "Detailed analysis of why choosing A specifically is wrong, including the reasoning pattern and what it reveals about the student's approach. Be specific about the thinking process and common misconception.",
-        "b": "Detailed analysis of why choosing B specifically is wrong, including the reasoning pattern and what it reveals about the student's approach. Be specific about the thinking process and common misconception.",
-        "c": "Detailed analysis of why choosing C specifically is wrong, including the reasoning pattern and what it reveals about the student's approach. Be specific about the thinking process and common misconception.",
-        "d": "Detailed analysis of why choosing D is correct, including the reasoning pattern and what it reveals about the student's approach. Be specific about the thinking process and learning opportunity."
+      "question_nature": {{
+        "primary_type": "Factual/Conceptual/Analytical/Application",
+        "secondary_type": "Memory-based/Understanding-based/Application-based",
+        "difficulty_reason": "Explanation of why this question is easy/medium/difficult",
+        "knowledge_requirement": "Type of knowledge required (static/current affairs/mixed)"
       }},
-      "common_mistakes": ["Common mistakes UPSC aspirants make with this topic - help students avoid these pitfalls. Include what specific misconceptions lead to wrong answers and how to overcome them"],
-      "elimination_technique": "Step-by-step approach to eliminate wrong options systematically. Make this practical and actionable. Include what to look for in each option and how to use process of elimination effectively",
-      "memory_hooks": ["Memory techniques and mnemonics for UPSC preparation on this topic - make it easy to remember"],
-      "related_topics": ["Related topics for UPSC preparation - what should you study next to strengthen this area. Include interconnections with other subjects and progressive learning path"],
-      "exam_strategy": "Time management and confidence assessment for UPSC prelims. Include practical tips like 'If you're confident, spend 30 seconds; if unsure, use elimination technique'. Also include how this question type typically appears in UPSC and what to expect",
-      "source_material": "Recommended sources for UPSC preparation on this topic - be specific about what to read and why",
-      "motivation": "Why this is important for UPSC Civil Services preparation - connect to the bigger picture and career goals",
-      "examiner_thought_process": "What UPSC examiner is thinking when creating this question - help students understand the examiner's mindset. Include what specific knowledge or analytical skill they're testing and why this topic is important for civil servants",
-      "current_affairs_connection": "How this connects to current events or recent developments - make it relevant to today's context. Include both direct connections and broader thematic links to contemporary issues",
-      "time_management": "Recommended time allocation for this question type - practical advice for exam day",
-      "confidence_calibration": "How to assess confidence level for this question - help students understand when they know it vs when they're guessing",
+      "examiner_thought_process": {{
+        "testing_objective": "What the examiner is trying to test",
+        "question_design_strategy": "How the question is designed to evaluate candidates",
+        "trap_setting": "Any traps or misleading elements in the question",
+        "discrimination_potential": "How well this question can differentiate between candidates"
+      }},
+      "options_analysis": {{
+        "A": {{
+          "type": "correct_answer/plausible_distractor/obvious_wrong",
+          "reason": "Why this option is correct/incorrect",
+          "trap": "If it's a distractor, what trap does it set",
+          "elimination_strategy": "How to eliminate this option",
+          "student_reasoning_pattern": "What choosing this option reveals about student's thinking process",
+          "common_misconception": "What misconception leads students to choose this option"
+        }},
+        "B": {{
+          "type": "correct_answer/plausible_distractor/obvious_wrong",
+          "reason": "Why this option is correct/incorrect",
+          "trap": "If it's a distractor, what trap does it set",
+          "elimination_strategy": "How to eliminate this option",
+          "student_reasoning_pattern": "What choosing this option reveals about student's thinking process",
+          "common_misconception": "What misconception leads students to choose this option"
+        }},
+        "C": {{
+          "type": "correct_answer/plausible_distractor/obvious_wrong",
+          "reason": "Why this option is correct/incorrect",
+          "trap": "If it's a distractor, what trap does it set",
+          "elimination_strategy": "How to eliminate this option",
+          "student_reasoning_pattern": "What choosing this option reveals about student's thinking process",
+          "common_misconception": "What misconception leads students to choose this option"
+        }},
+        "D": {{
+          "type": "correct_answer/plausible_distractor/obvious_wrong",
+          "reason": "Why this option is correct/incorrect",
+          "trap": "If it's a distractor, what trap does it set",
+          "elimination_strategy": "How to eliminate this option",
+          "student_reasoning_pattern": "What choosing this option reveals about student's thinking process",
+          "common_misconception": "What misconception leads students to choose this option"
+        }}
+      }},
+      "learning_insights": {{
+        "key_concepts": ["List of key concepts tested"],
+        "common_mistakes": ["Common mistakes students make"],
+        "elimination_technique_semi_knowledge": "If a student knows only part of the topic, what is the best way to maximize their chances?",
+        "elimination_technique_safe_guess": "If a student has little or no knowledge, what is the safest approach or examiner-mindset trick to attempt this question?",
+        "memory_hooks": ["Mnemonics or memory aids"],
+        "related_topics": ["Related topics for further study"],
+        "current_affairs_connection": "Connection to current events if any"
+      }},
+      "difficulty_level": "Easy/Medium/Difficult",
+      "time_management": "How much time should be spent on this question",
+      "confidence_calibration": "How confident should a well-prepared student be",
       "strength_indicators": ["What getting this question right indicates about student's knowledge and skills"],
       "weakness_indicators": ["What getting this question wrong might indicate about knowledge gaps"],
       "remediation_topics": ["Specific topics to study if this question was answered incorrectly"],
@@ -127,16 +165,7 @@ For each question, provide comprehensive analysis in JSON format with TWO sectio
   "question_5": {{ same structure as question_1 }}
 }}
 
-Remember: Provide clean, direct analysis without conversational language. Your analysis should:
-- Be concise and factual
-- Focus on core concepts and reasoning
-- Avoid phrases like "Here's what you need to understand" or "Don't worry if..."
-- Provide clear, actionable insights
-- Help students recognize UPSC patterns
-- Connect to exam strategy
-- Make option analysis specific and differentiated for each choice
-
-Focus on UPSC-specific context and practical preparation strategies.
+Focus on providing actionable insights that would help UPSC aspirants understand the question better and improve their preparation strategy. For the elimination techniques, be specific and practical. Make option analysis detailed enough to provide personalized feedback based on which option a student chooses.
 """
         
         return prompt
@@ -331,24 +360,63 @@ Focus on UPSC-specific context and practical preparation strategies.
                 "time_management": "1-2 minutes recommended"
             },
             "detailed_backend_analysis": {
-                "primary_type": question.get('subject', 'General Studies'),
-                "secondary_type": "Mixed",
-                "difficulty_reason": f"Standard UPSC {question.get('difficulty', 'Medium')} question",
-                "options_analysis": {
-                    "a": "Option A analysis for UPSC preparation",
-                    "b": "Option B analysis for UPSC preparation", 
-                    "c": "Option C analysis for UPSC preparation",
-                    "d": "Option D analysis for UPSC preparation"
+                "question_nature": {
+                    "primary_type": "Conceptual",
+                    "secondary_type": "Understanding-based",
+                    "difficulty_reason": f"Standard UPSC {question.get('difficulty', 'Medium')} question",
+                    "knowledge_requirement": "Mixed"
                 },
-                "common_mistakes": ["Mistake 1", "Mistake 2"],
-                "elimination_technique": "Process of elimination for UPSC",
-                "memory_hooks": ["Hook 1", "Hook 2"],
-                "related_topics": ["Topic 1", "Topic 2"],
-                "exam_strategy": "1-2 minutes, assess confidence based on knowledge",
-                "source_material": "Standard UPSC sources",
-                "motivation": "Important for UPSC Civil Services preparation",
-                "examiner_thought_process": "Testing conceptual clarity and current affairs awareness",
-                "current_affairs_connection": "Connects to recent developments",
+                "examiner_thought_process": {
+                    "testing_objective": "Testing conceptual clarity",
+                    "question_design_strategy": "Multiple choice with distractors",
+                    "trap_setting": "Common misconceptions",
+                    "discrimination_potential": "Medium"
+                },
+                "options_analysis": {
+                    "A": {
+                        "type": "plausible_distractor",
+                        "reason": "Option A analysis for UPSC preparation",
+                        "trap": "Common misconception",
+                        "elimination_strategy": "Process of elimination",
+                        "student_reasoning_pattern": "Basic understanding",
+                        "common_misconception": "Concept confusion"
+                    },
+                    "B": {
+                        "type": "plausible_distractor",
+                        "reason": "Option B analysis for UPSC preparation",
+                        "trap": "Common misconception",
+                        "elimination_strategy": "Process of elimination",
+                        "student_reasoning_pattern": "Basic understanding",
+                        "common_misconception": "Concept confusion"
+                    },
+                    "C": {
+                        "type": "plausible_distractor",
+                        "reason": "Option C analysis for UPSC preparation",
+                        "trap": "Common misconception",
+                        "elimination_strategy": "Process of elimination",
+                        "student_reasoning_pattern": "Basic understanding",
+                        "common_misconception": "Concept confusion"
+                    },
+                    "D": {
+                        "type": "correct_answer",
+                        "reason": "Option D analysis for UPSC preparation",
+                        "trap": "None",
+                        "elimination_strategy": "Correct choice",
+                        "student_reasoning_pattern": "Proper understanding",
+                        "common_misconception": "None"
+                    }
+                },
+                "learning_insights": {
+                    "key_concepts": ["Concept 1", "Concept 2"],
+                    "common_mistakes": ["Mistake 1", "Mistake 2"],
+                    "elimination_technique_semi_knowledge": "Use partial knowledge to eliminate options",
+                    "elimination_technique_safe_guess": "Look for most plausible option",
+                    "memory_hooks": ["Hook 1", "Hook 2"],
+                    "related_topics": ["Topic 1", "Topic 2"],
+                    "current_affairs_connection": "Connects to recent developments"
+                },
+                "difficulty_level": question.get('difficulty', 'Medium'),
+                "time_management": "1-2 minutes recommended",
                 "confidence_calibration": "Assess based on subject familiarity",
                 "strength_indicators": ["Basic knowledge of subject area"],
                 "weakness_indicators": ["Potential gaps in fundamental concepts"],

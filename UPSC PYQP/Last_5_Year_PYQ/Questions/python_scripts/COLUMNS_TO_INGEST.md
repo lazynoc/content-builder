@@ -1,4 +1,4 @@
-# Columns to Ingest from Grok-Analyzed JSON
+# Columns to Ingest from Enhanced OpenAI Analysis
 
 ## 📊 **Complete Column Mapping**
 
@@ -14,7 +14,7 @@
 | `question_text` | `question_text` | TEXT | The actual question |
 | `options` | `options` | JSONB | Multiple choice options |
 | `correct_answer` | `correct_answer` | VARCHAR(10) | Correct answer option |
-| `grok_analysis_date` | `grok_analysis_date` | TIMESTAMP | When analysis was performed |
+| `openai_analysis_date` | `openai_analysis_date` | TIMESTAMP | When analysis was performed |
 
 ### 🎯 **Student-Facing Analysis (Frontend Display)**
 | JSON Field | Database Column | Type | Description |
@@ -29,23 +29,44 @@
 ### 🔬 **Detailed Backend Analysis (LLM Feedback)**
 | JSON Field | Database Column | Type | Description |
 |------------|----------------|------|-------------|
-| `detailed_backend_analysis` | `detailed_analysis` | JSONB | Complete 18+ field analysis |
+| `detailed_backend_analysis` | `detailed_analysis` | JSONB | Complete micro-level analysis |
 
 **Detailed Backend Analysis Fields (stored as JSONB):**
-- `primary_type` - Main subject area
-- `secondary_type` - Specific sub-topic
-- `difficulty_reason` - Why this difficulty level
-- `options_analysis` - Detailed analysis of each option
-- `common_mistakes` - What students typically get wrong
-- `elimination_technique` - Step-by-step elimination approach
-- `memory_hooks` - Mnemonics and memory techniques
-- `related_topics` - Connected subjects/topics
-- `exam_strategy` - Time management and confidence assessment
-- `source_material` - Recommended study sources
-- `motivation` - Why this is important for UPSC
-- `examiner_thought_process` - What examiner is testing
-- `current_affairs_connection` - Links to current events
-- `confidence_calibration` - How to assess confidence level
+
+#### 📋 **Question Nature**
+- `question_nature.primary_type` - Factual/Conceptual/Analytical/Application
+- `question_nature.secondary_type` - Memory-based/Understanding-based/Application-based
+- `question_nature.difficulty_reason` - Why this difficulty level
+- `question_nature.knowledge_requirement` - Static/current affairs/mixed
+
+#### 🧠 **Examiner Thought Process**
+- `examiner_thought_process.testing_objective` - What examiner is testing
+- `examiner_thought_process.question_design_strategy` - How question is designed
+- `examiner_thought_process.trap_setting` - Traps or misleading elements
+- `examiner_thought_process.discrimination_potential` - How well it differentiates candidates
+
+#### 🎯 **Micro-Level Options Analysis**
+- `options_analysis.A.type` - correct_answer/plausible_distractor/obvious_wrong
+- `options_analysis.A.reason` - Why this option is correct/incorrect
+- `options_analysis.A.trap` - What trap it sets (if distractor)
+- `options_analysis.A.elimination_strategy` - How to eliminate this option
+- `options_analysis.A.student_reasoning_pattern` - What choosing A reveals about thinking
+- `options_analysis.A.common_misconception` - Misconception leading to this choice
+- *(Same structure for B, C, D)*
+
+#### 📚 **Learning Insights**
+- `learning_insights.key_concepts` - Key concepts tested
+- `learning_insights.common_mistakes` - Common student mistakes
+- `learning_insights.elimination_technique_semi_knowledge` - Strategy with partial knowledge
+- `learning_insights.elimination_technique_safe_guess` - Strategy with no knowledge
+- `learning_insights.memory_hooks` - Mnemonics and memory aids
+- `learning_insights.related_topics` - Related topics for study
+- `learning_insights.current_affairs_connection` - Links to current events
+
+#### 📊 **Assessment & Strategy**
+- `difficulty_level` - Easy/Medium/Difficult
+- `time_management` - Recommended time allocation
+- `confidence_calibration` - How confident should student be
 - `strength_indicators` - What getting it right shows
 - `weakness_indicators` - What getting it wrong reveals
 - `remediation_topics` - Specific topics to study if wrong
@@ -76,19 +97,18 @@ question_strategy TEXT,
 key_concepts JSONB,
 time_management VARCHAR(100),
 
--- Detailed backend analysis
+-- Detailed backend analysis (enhanced)
 detailed_analysis JSONB,
 
 -- Metadata
-grok_analysis_date TIMESTAMP WITH TIME ZONE,
+openai_analysis_date TIMESTAMP WITH TIME ZONE,
 created_at TIMESTAMP WITH TIME ZONE DEFAULT NOW(),
 updated_at TIMESTAMP WITH TIME ZONE DEFAULT NOW()
 ```
 
 ### 📈 **Data Volume**
-- **2025**: 100 questions with full Grok analysis
-- **2024**: 102 questions with full Grok analysis
-- **Total**: 202 questions with two-tier analysis structure
+- **2025**: 100 questions with micro-level analysis
+- **Total**: 100 questions with enhanced two-tier analysis structure
 
 ### 🎯 **Usage in PAI Mentor Platform**
 
@@ -99,7 +119,17 @@ updated_at TIMESTAMP WITH TIME ZONE DEFAULT NOW()
 - `key_concepts` - Concept tags
 - `time_management` - Time recommendations
 
-**Backend LLM Feedback:**
-- `detailed_analysis` - Complete data for personalized feedback
-- All 18+ fields for strength/weakness analysis
-- Study action plans and remediation topics 
+**Backend LLM Feedback (Enhanced):**
+- `detailed_analysis.options_analysis` - Micro-level option analysis
+- `detailed_analysis.student_reasoning_pattern` - Personalized feedback based on choice
+- `detailed_analysis.elimination_technique_semi_knowledge` - Strategy for partial knowledge
+- `detailed_analysis.elimination_technique_safe_guess` - Strategy for no knowledge
+- All detailed fields for comprehensive personalized feedback
+
+### 🚀 **Key Advantages of This Structure**
+
+1. **Micro-Level Option Analysis**: Each option choice reveals specific reasoning patterns
+2. **Personalized Feedback**: Different feedback for A vs B vs C vs D choices
+3. **Strategy-Based Learning**: Specific elimination techniques for different knowledge levels
+4. **Examiner Mindset**: Understanding what UPSC is testing
+5. **Comprehensive Remediation**: Targeted study suggestions based on specific mistakes 
