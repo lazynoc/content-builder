@@ -1,0 +1,835 @@
+{
+  "metadata": {
+    "source": "UPSC_2025_Prelims_GS1",
+    "analysis_date": "2025-07-15T02:03:25.911800",
+    "total_questions": 10,
+    "exam_type": "UPSC",
+    "year": 2025,
+    "section": "UPSC_Prelims_GS1",
+    "analysis_method": "OpenAI_GPT4o_Mini_Batch_Processing",
+    "batch_progress": "2/20",
+    "note": "OpenAI analysis with 10 questions analyzed so far"
+  },
+  "questions": [
+    {
+      "id": "f74aa854-f943-440e-9e9b-1fbe078461aa",
+      "question_number": 1,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "Modern History",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following statements in respect of the Non-Cooperation Movement:\nI. The Congress declared the attainment of 'Swaraj' by all legitimate and peaceful means to be its objective.\nII. It was to be implemented in stages with civil disobedience and non-payment of taxes for the next stage only if 'Swaraj' did not come within a year and the Government resorted to repression.\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I only"
+        },
+        {
+          "letter": "B",
+          "text": "II only"
+        },
+        {
+          "letter": "C",
+          "text": "Both I and II"
+        },
+        {
+          "letter": "D",
+          "text": "Neither I nor II"
+        }
+      ],
+      "correct_answer": "A",
+      "student_facing_analysis": {
+        "explanation": "Explanation for UPSC question 1",
+        "learning_objectives": "Core concept and knowledge areas tested",
+        "question_strategy": "Question design and common patterns",
+        "difficulty_level": "Medium",
+        "key_concepts": [
+          "Concept 1",
+          "Concept 2"
+        ],
+        "time_management": "1-2 minutes recommended"
+      },
+      "detailed_backend_analysis": {
+        "primary_type": "Modern History",
+        "secondary_type": "Mixed",
+        "difficulty_reason": "Standard UPSC Medium question",
+        "options_analysis": {
+          "a": "Option A analysis for UPSC preparation",
+          "b": "Option B analysis for UPSC preparation",
+          "c": "Option C analysis for UPSC preparation",
+          "d": "Option D analysis for UPSC preparation"
+        },
+        "common_mistakes": [
+          "Mistake 1",
+          "Mistake 2"
+        ],
+        "elimination_technique": "Process of elimination for UPSC",
+        "memory_hooks": [
+          "Hook 1",
+          "Hook 2"
+        ],
+        "related_topics": [
+          "Topic 1",
+          "Topic 2"
+        ],
+        "exam_strategy": "1-2 minutes, assess confidence based on knowledge",
+        "source_material": "Standard UPSC sources",
+        "motivation": "Important for UPSC Civil Services preparation",
+        "examiner_thought_process": "Testing conceptual clarity and current affairs awareness",
+        "current_affairs_connection": "Connects to recent developments",
+        "confidence_calibration": "Assess based on subject familiarity",
+        "strength_indicators": [
+          "Basic knowledge of subject area"
+        ],
+        "weakness_indicators": [
+          "Potential gaps in fundamental concepts"
+        ],
+        "remediation_topics": [
+          "Core concepts of the subject"
+        ],
+        "advanced_connections": [
+          "Connects to advanced topics in the subject"
+        ]
+      },
+      "openai_analysis_date": "2025-07-15T02:03:05.104441"
+    },
+    {
+      "id": "fa5a83e9-eb63-4e3e-85dd-4619807654b8",
+      "question_number": 2,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "Indian Polity",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following statements:\nI. If any question arises as to whether a Member of the House of the People has become subject to disqualification under the Tenth Schedule, the President’s decision in accordance with the opinion of the Council of Union Ministers shall be final.\nII. There is no mention of the word 'political party' in the Constitution of India.\nWhich of the statements given above are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I only"
+        },
+        {
+          "letter": "B",
+          "text": "II only"
+        },
+        {
+          "letter": "C",
+          "text": "Both I and II"
+        },
+        {
+          "letter": "D",
+          "text": "Neither I nor II"
+        }
+      ],
+      "correct_answer": "D",
+      "student_facing_analysis": {
+        "explanation": "Explanation for UPSC question 2",
+        "learning_objectives": "Core concept and knowledge areas tested",
+        "question_strategy": "Question design and common patterns",
+        "difficulty_level": "Medium",
+        "key_concepts": [
+          "Concept 1",
+          "Concept 2"
+        ],
+        "time_management": "1-2 minutes recommended"
+      },
+      "detailed_backend_analysis": {
+        "primary_type": "Indian Polity",
+        "secondary_type": "Mixed",
+        "difficulty_reason": "Standard UPSC Medium question",
+        "options_analysis": {
+          "a": "Option A analysis for UPSC preparation",
+          "b": "Option B analysis for UPSC preparation",
+          "c": "Option C analysis for UPSC preparation",
+          "d": "Option D analysis for UPSC preparation"
+        },
+        "common_mistakes": [
+          "Mistake 1",
+          "Mistake 2"
+        ],
+        "elimination_technique": "Process of elimination for UPSC",
+        "memory_hooks": [
+          "Hook 1",
+          "Hook 2"
+        ],
+        "related_topics": [
+          "Topic 1",
+          "Topic 2"
+        ],
+        "exam_strategy": "1-2 minutes, assess confidence based on knowledge",
+        "source_material": "Standard UPSC sources",
+        "motivation": "Important for UPSC Civil Services preparation",
+        "examiner_thought_process": "Testing conceptual clarity and current affairs awareness",
+        "current_affairs_connection": "Connects to recent developments",
+        "confidence_calibration": "Assess based on subject familiarity",
+        "strength_indicators": [
+          "Basic knowledge of subject area"
+        ],
+        "weakness_indicators": [
+          "Potential gaps in fundamental concepts"
+        ],
+        "remediation_topics": [
+          "Core concepts of the subject"
+        ],
+        "advanced_connections": [
+          "Connects to advanced topics in the subject"
+        ]
+      },
+      "openai_analysis_date": "2025-07-15T02:03:05.104612"
+    },
+    {
+      "id": "8dd0ef9f-e87f-471d-a22a-7c87fae2332c",
+      "question_number": 3,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "World Geography",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following pairs:\nRegion – Country\nI. Mallorca : Italy\nII. Normandy : Spain\nIII. Sardinia : France\nIn how many of the above rows is the given information correctly matched?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only one"
+        },
+        {
+          "letter": "B",
+          "text": "Only two"
+        },
+        {
+          "letter": "C",
+          "text": "All the three"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ],
+      "correct_answer": "D",
+      "student_facing_analysis": {
+        "explanation": "Explanation for UPSC question 3",
+        "learning_objectives": "Core concept and knowledge areas tested",
+        "question_strategy": "Question design and common patterns",
+        "difficulty_level": "Hard",
+        "key_concepts": [
+          "Concept 1",
+          "Concept 2"
+        ],
+        "time_management": "1-2 minutes recommended"
+      },
+      "detailed_backend_analysis": {
+        "primary_type": "World Geography",
+        "secondary_type": "Mixed",
+        "difficulty_reason": "Standard UPSC Hard question",
+        "options_analysis": {
+          "a": "Option A analysis for UPSC preparation",
+          "b": "Option B analysis for UPSC preparation",
+          "c": "Option C analysis for UPSC preparation",
+          "d": "Option D analysis for UPSC preparation"
+        },
+        "common_mistakes": [
+          "Mistake 1",
+          "Mistake 2"
+        ],
+        "elimination_technique": "Process of elimination for UPSC",
+        "memory_hooks": [
+          "Hook 1",
+          "Hook 2"
+        ],
+        "related_topics": [
+          "Topic 1",
+          "Topic 2"
+        ],
+        "exam_strategy": "1-2 minutes, assess confidence based on knowledge",
+        "source_material": "Standard UPSC sources",
+        "motivation": "Important for UPSC Civil Services preparation",
+        "examiner_thought_process": "Testing conceptual clarity and current affairs awareness",
+        "current_affairs_connection": "Connects to recent developments",
+        "confidence_calibration": "Assess based on subject familiarity",
+        "strength_indicators": [
+          "Basic knowledge of subject area"
+        ],
+        "weakness_indicators": [
+          "Potential gaps in fundamental concepts"
+        ],
+        "remediation_topics": [
+          "Core concepts of the subject"
+        ],
+        "advanced_connections": [
+          "Connects to advanced topics in the subject"
+        ]
+      },
+      "openai_analysis_date": "2025-07-15T02:03:05.104683"
+    },
+    {
+      "id": "249b6d4a-ee9f-4530-905e-36831a261c54",
+      "question_number": 4,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "Indian Polity",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following statements:\nI. On the dissolution of the House of the People, the Speaker shall not vacate his/her office until immediately before the first meeting of the House of the People after the dissolution.\nII. According to the provisions of the Constitution of India, a Member of the House of the People on being elected as Speaker shall resign from his/her political party immediately.\nIII. The Speaker of the House of the People may be removed from his/her office by a resolution of the House of the People passed by a majority of all the then Members of the House, provided that no resolution shall be moved unless at least fourteen days' notice has been given of the intention to move the resolution.\nWhich of the statements given above are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I and II only"
+        },
+        {
+          "letter": "B",
+          "text": "II and III only"
+        },
+        {
+          "letter": "C",
+          "text": "I and III only"
+        },
+        {
+          "letter": "D",
+          "text": "I, II and III"
+        }
+      ],
+      "correct_answer": "C",
+      "student_facing_analysis": {
+        "explanation": "Explanation for UPSC question 4",
+        "learning_objectives": "Core concept and knowledge areas tested",
+        "question_strategy": "Question design and common patterns",
+        "difficulty_level": "Hard",
+        "key_concepts": [
+          "Concept 1",
+          "Concept 2"
+        ],
+        "time_management": "1-2 minutes recommended"
+      },
+      "detailed_backend_analysis": {
+        "primary_type": "Indian Polity",
+        "secondary_type": "Mixed",
+        "difficulty_reason": "Standard UPSC Hard question",
+        "options_analysis": {
+          "a": "Option A analysis for UPSC preparation",
+          "b": "Option B analysis for UPSC preparation",
+          "c": "Option C analysis for UPSC preparation",
+          "d": "Option D analysis for UPSC preparation"
+        },
+        "common_mistakes": [
+          "Mistake 1",
+          "Mistake 2"
+        ],
+        "elimination_technique": "Process of elimination for UPSC",
+        "memory_hooks": [
+          "Hook 1",
+          "Hook 2"
+        ],
+        "related_topics": [
+          "Topic 1",
+          "Topic 2"
+        ],
+        "exam_strategy": "1-2 minutes, assess confidence based on knowledge",
+        "source_material": "Standard UPSC sources",
+        "motivation": "Important for UPSC Civil Services preparation",
+        "examiner_thought_process": "Testing conceptual clarity and current affairs awareness",
+        "current_affairs_connection": "Connects to recent developments",
+        "confidence_calibration": "Assess based on subject familiarity",
+        "strength_indicators": [
+          "Basic knowledge of subject area"
+        ],
+        "weakness_indicators": [
+          "Potential gaps in fundamental concepts"
+        ],
+        "remediation_topics": [
+          "Core concepts of the subject"
+        ],
+        "advanced_connections": [
+          "Connects to advanced topics in the subject"
+        ]
+      },
+      "openai_analysis_date": "2025-07-15T02:03:05.104755"
+    },
+    {
+      "id": "650e9e61-8dc8-46f4-b4b2-e3152edec3e6",
+      "question_number": 5,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "Economy",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following statements in respect of the International Bank for Reconstruction and Development (IBRD):\nI. It provides loans and guarantees to middle income countries.\nII. It works single-handedly to help developing countries to reduce poverty.\nIII. It was established to help Europe rebuild after the World War II.\nWhich of the statements given above are correct?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I and II only"
+        },
+        {
+          "letter": "B",
+          "text": "II and III only"
+        },
+        {
+          "letter": "C",
+          "text": "I and III only"
+        },
+        {
+          "letter": "D",
+          "text": "I, II and III"
+        }
+      ],
+      "correct_answer": "C",
+      "student_facing_analysis": {
+        "explanation": "Explanation for UPSC question 5",
+        "learning_objectives": "Core concept and knowledge areas tested",
+        "question_strategy": "Question design and common patterns",
+        "difficulty_level": "Medium",
+        "key_concepts": [
+          "Concept 1",
+          "Concept 2"
+        ],
+        "time_management": "1-2 minutes recommended"
+      },
+      "detailed_backend_analysis": {
+        "primary_type": "Economy",
+        "secondary_type": "Mixed",
+        "difficulty_reason": "Standard UPSC Medium question",
+        "options_analysis": {
+          "a": "Option A analysis for UPSC preparation",
+          "b": "Option B analysis for UPSC preparation",
+          "c": "Option C analysis for UPSC preparation",
+          "d": "Option D analysis for UPSC preparation"
+        },
+        "common_mistakes": [
+          "Mistake 1",
+          "Mistake 2"
+        ],
+        "elimination_technique": "Process of elimination for UPSC",
+        "memory_hooks": [
+          "Hook 1",
+          "Hook 2"
+        ],
+        "related_topics": [
+          "Topic 1",
+          "Topic 2"
+        ],
+        "exam_strategy": "1-2 minutes, assess confidence based on knowledge",
+        "source_material": "Standard UPSC sources",
+        "motivation": "Important for UPSC Civil Services preparation",
+        "examiner_thought_process": "Testing conceptual clarity and current affairs awareness",
+        "current_affairs_connection": "Connects to recent developments",
+        "confidence_calibration": "Assess based on subject familiarity",
+        "strength_indicators": [
+          "Basic knowledge of subject area"
+        ],
+        "weakness_indicators": [
+          "Potential gaps in fundamental concepts"
+        ],
+        "remediation_topics": [
+          "Core concepts of the subject"
+        ],
+        "advanced_connections": [
+          "Connects to advanced topics in the subject"
+        ]
+      },
+      "openai_analysis_date": "2025-07-15T02:03:05.104867"
+    },
+    {
+      "id": "a499b8ef-8149-40ef-859a-8df9e5e57865",
+      "question_number": 6,
+      "type": "mcq",
+      "difficulty": "Easy",
+      "subject": "General Studies",
+      "exam_info": "Prelims 2024",
+      "question_text": "Which organization has enacted the Nature Restoration Law (NRL) to tackle climate change and biodiversity loss?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The European Union"
+        },
+        {
+          "letter": "B",
+          "text": "The World Bank"
+        },
+        {
+          "letter": "C",
+          "text": "The Organization for Economic Cooperation and Development"
+        },
+        {
+          "letter": "D",
+          "text": "The Food and Agriculture Organization"
+        }
+      ],
+      "correct_answer": "A",
+      "student_facing_analysis": {
+        "explanation": "Explanation for UPSC question 6",
+        "learning_objectives": "Core concept and knowledge areas tested",
+        "question_strategy": "Question design and common patterns",
+        "difficulty_level": "Easy",
+        "key_concepts": [
+          "Concept 1",
+          "Concept 2"
+        ],
+        "time_management": "1-2 minutes recommended"
+      },
+      "detailed_backend_analysis": {
+        "primary_type": "General Studies",
+        "secondary_type": "Mixed",
+        "difficulty_reason": "Standard UPSC Easy question",
+        "options_analysis": {
+          "a": "Option A analysis for UPSC preparation",
+          "b": "Option B analysis for UPSC preparation",
+          "c": "Option C analysis for UPSC preparation",
+          "d": "Option D analysis for UPSC preparation"
+        },
+        "common_mistakes": [
+          "Mistake 1",
+          "Mistake 2"
+        ],
+        "elimination_technique": "Process of elimination for UPSC",
+        "memory_hooks": [
+          "Hook 1",
+          "Hook 2"
+        ],
+        "related_topics": [
+          "Topic 1",
+          "Topic 2"
+        ],
+        "exam_strategy": "1-2 minutes, assess confidence based on knowledge",
+        "source_material": "Standard UPSC sources",
+        "motivation": "Important for UPSC Civil Services preparation",
+        "examiner_thought_process": "Testing conceptual clarity and current affairs awareness",
+        "current_affairs_connection": "Connects to recent developments",
+        "confidence_calibration": "Assess based on subject familiarity",
+        "strength_indicators": [
+          "Basic knowledge of subject area"
+        ],
+        "weakness_indicators": [
+          "Potential gaps in fundamental concepts"
+        ],
+        "remediation_topics": [
+          "Core concepts of the subject"
+        ],
+        "advanced_connections": [
+          "Connects to advanced topics in the subject"
+        ]
+      },
+      "openai_analysis_date": "2025-07-15T02:03:25.911321"
+    },
+    {
+      "id": "33915efc-fc93-42f5-bbb5-0d5055805a06",
+      "question_number": 7,
+      "type": "mcq",
+      "difficulty": "Medium",
+      "subject": "Science & Technology",
+      "exam_info": "Prelims 2024",
+      "question_text": "Consider the following types of vehicles:\nI. Full battery electric vehicles\nII. Hydrogen fuel cell vehicles\nIII. Fuel cell electric hybrid vehicles\nHow many of the above are considered as alternative (powertrain) vehicles?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only one"
+        },
+        {
+          "letter": "B",
+          "text": "Only two"
+        },
+        {
+          "letter": "C",
+          "text": "All the three"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ],
+      "correct_answer": "C",
+      "student_facing_analysis": {
+        "explanation": "Explanation for UPSC question 7",
+        "learning_objectives": "Core concept and knowledge areas tested",
+        "question_strategy": "Question design and common patterns",
+        "difficulty_level": "Medium",
+        "key_concepts": [
+          "Concept 1",
+          "Concept 2"
+        ],
+        "time_management": "1-2 minutes recommended"
+      },
+      "detailed_backend_analysis": {
+        "primary_type": "Science & Technology",
+        "secondary_type": "Mixed",
+        "difficulty_reason": "Standard UPSC Medium question",
+        "options_analysis": {
+          "a": "Option A analysis for UPSC preparation",
+          "b": "Option B analysis for UPSC preparation",
+          "c": "Option C analysis for UPSC preparation",
+          "d": "Option D analysis for UPSC preparation"
+        },
+        "common_mistakes": [
+          "Mistake 1",
+          "Mistake 2"
+        ],
+        "elimination_technique": "Process of elimination for UPSC",
+        "memory_hooks": [
+          "Hook 1",
+          "Hook 2"
+        ],
+        "related_topics": [
+          "Topic 1",
+          "Topic 2"
+        ],
+        "exam_strategy": "1-2 minutes, assess confidence based on knowledge",
+        "source_material": "Standard UPSC sources",
+        "motivation": "Important for UPSC Civil Services preparation",
+        "examiner_thought_process": "Testing conceptual clarity and current affairs awareness",
+        "current_affairs_connection": "Connects to recent developments",
+        "confidence_calibration": "Assess based on subject familiarity",
+        "strength_indicators": [
+          "Basic knowledge of subject area"
+        ],
+        "weakness_indicators": [
+          "Potential gaps in fundamental concepts"
+        ],
+        "remediation_topics": [
+          "Core concepts of the subject"
+        ],
+        "advanced_connections": [
+          "Connects to advanced topics in the subject"
+        ]
+      },
+      "openai_analysis_date": "2025-07-15T02:03:25.911457"
+    },
+    {
+      "id": "2691ac9c-16f4-4129-9e61-e2dda9a6ae4f",
+      "question_number": 8,
+      "type": "table_mcq",
+      "difficulty": "Hard",
+      "subject": "Science & Technology",
+      "exam_info": "Prelims 2024",
+      "question_text": "With reference to India's defence, consider the following pairs:\n\nAircraft type – Description\nI. Dornier-228 : Maritime patrol aircraft\nII. IL-76 : Supersonic combat aircraft\nIII. C-17 Globemaster III : Military transport aircraft\n\nHow many of the pairs given above are correctly matched?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only one"
+        },
+        {
+          "letter": "B",
+          "text": "Only two"
+        },
+        {
+          "letter": "C",
+          "text": "All the three"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ],
+      "correct_answer": "B",
+      "student_facing_analysis": {
+        "explanation": "Explanation for UPSC question 8",
+        "learning_objectives": "Core concept and knowledge areas tested",
+        "question_strategy": "Question design and common patterns",
+        "difficulty_level": "Hard",
+        "key_concepts": [
+          "Concept 1",
+          "Concept 2"
+        ],
+        "time_management": "1-2 minutes recommended"
+      },
+      "detailed_backend_analysis": {
+        "primary_type": "Science & Technology",
+        "secondary_type": "Mixed",
+        "difficulty_reason": "Standard UPSC Hard question",
+        "options_analysis": {
+          "a": "Option A analysis for UPSC preparation",
+          "b": "Option B analysis for UPSC preparation",
+          "c": "Option C analysis for UPSC preparation",
+          "d": "Option D analysis for UPSC preparation"
+        },
+        "common_mistakes": [
+          "Mistake 1",
+          "Mistake 2"
+        ],
+        "elimination_technique": "Process of elimination for UPSC",
+        "memory_hooks": [
+          "Hook 1",
+          "Hook 2"
+        ],
+        "related_topics": [
+          "Topic 1",
+          "Topic 2"
+        ],
+        "exam_strategy": "1-2 minutes, assess confidence based on knowledge",
+        "source_material": "Standard UPSC sources",
+        "motivation": "Important for UPSC Civil Services preparation",
+        "examiner_thought_process": "Testing conceptual clarity and current affairs awareness",
+        "current_affairs_connection": "Connects to recent developments",
+        "confidence_calibration": "Assess based on subject familiarity",
+        "strength_indicators": [
+          "Basic knowledge of subject area"
+        ],
+        "weakness_indicators": [
+          "Potential gaps in fundamental concepts"
+        ],
+        "remediation_topics": [
+          "Core concepts of the subject"
+        ],
+        "advanced_connections": [
+          "Connects to advanced topics in the subject"
+        ]
+      },
+      "openai_analysis_date": "2025-07-15T02:03:25.911533"
+    },
+    {
+      "id": "e0e49914-5bbf-45b0-9607-ef87402860ac",
+      "question_number": 9,
+      "type": "mcq",
+      "difficulty": "Easy",
+      "subject": "Ancient History",
+      "exam_info": "Prelims 2024",
+      "question_text": "Fa-hien (Faxian), the Chinese pilgrim, travelled to India during the reign of",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Samudragupta"
+        },
+        {
+          "letter": "B",
+          "text": "Chandragupta II"
+        },
+        {
+          "letter": "C",
+          "text": "Kumaragupta I"
+        },
+        {
+          "letter": "D",
+          "text": "Skandagupta"
+        }
+      ],
+      "correct_answer": "B",
+      "student_facing_analysis": {
+        "explanation": "Explanation for UPSC question 9",
+        "learning_objectives": "Core concept and knowledge areas tested",
+        "question_strategy": "Question design and common patterns",
+        "difficulty_level": "Easy",
+        "key_concepts": [
+          "Concept 1",
+          "Concept 2"
+        ],
+        "time_management": "1-2 minutes recommended"
+      },
+      "detailed_backend_analysis": {
+        "primary_type": "Ancient History",
+        "secondary_type": "Mixed",
+        "difficulty_reason": "Standard UPSC Easy question",
+        "options_analysis": {
+          "a": "Option A analysis for UPSC preparation",
+          "b": "Option B analysis for UPSC preparation",
+          "c": "Option C analysis for UPSC preparation",
+          "d": "Option D analysis for UPSC preparation"
+        },
+        "common_mistakes": [
+          "Mistake 1",
+          "Mistake 2"
+        ],
+        "elimination_technique": "Process of elimination for UPSC",
+        "memory_hooks": [
+          "Hook 1",
+          "Hook 2"
+        ],
+        "related_topics": [
+          "Topic 1",
+          "Topic 2"
+        ],
+        "exam_strategy": "1-2 minutes, assess confidence based on knowledge",
+        "source_material": "Standard UPSC sources",
+        "motivation": "Important for UPSC Civil Services preparation",
+        "examiner_thought_process": "Testing conceptual clarity and current affairs awareness",
+        "current_affairs_connection": "Connects to recent developments",
+        "confidence_calibration": "Assess based on subject familiarity",
+        "strength_indicators": [
+          "Basic knowledge of subject area"
+        ],
+        "weakness_indicators": [
+          "Potential gaps in fundamental concepts"
+        ],
+        "remediation_topics": [
+          "Core concepts of the subject"
+        ],
+        "advanced_connections": [
+          "Connects to advanced topics in the subject"
+        ]
+      },
+      "openai_analysis_date": "2025-07-15T02:03:25.911601"
+    },
+    {
+      "id": "c998eb19-a599-4fa8-bb7b-b82920393f62",
+      "question_number": 10,
+      "type": "mcq",
+      "difficulty": "Hard",
+      "subject": "Science & Technology",
+      "exam_info": "Prelims 2024",
+      "question_text": "In the context of electric vehicle batteries, consider the following elements:\nI. Cobalt\nII. Graphite\nIII. Lithium\nIV. Nickel\nHow many of the above usually make up battery cathodes?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only one"
+        },
+        {
+          "letter": "B",
+          "text": "Only two"
+        },
+        {
+          "letter": "C",
+          "text": "Only three"
+        },
+        {
+          "letter": "D",
+          "text": "All the four"
+        }
+      ],
+      "correct_answer": "C",
+      "student_facing_analysis": {
+        "explanation": "Explanation for UPSC question 10",
+        "learning_objectives": "Core concept and knowledge areas tested",
+        "question_strategy": "Question design and common patterns",
+        "difficulty_level": "Hard",
+        "key_concepts": [
+          "Concept 1",
+          "Concept 2"
+        ],
+        "time_management": "1-2 minutes recommended"
+      },
+      "detailed_backend_analysis": {
+        "primary_type": "Science & Technology",
+        "secondary_type": "Mixed",
+        "difficulty_reason": "Standard UPSC Hard question",
+        "options_analysis": {
+          "a": "Option A analysis for UPSC preparation",
+          "b": "Option B analysis for UPSC preparation",
+          "c": "Option C analysis for UPSC preparation",
+          "d": "Option D analysis for UPSC preparation"
+        },
+        "common_mistakes": [
+          "Mistake 1",
+          "Mistake 2"
+        ],
+        "elimination_technique": "Process of elimination for UPSC",
+        "memory_hooks": [
+          "Hook 1",
+          "Hook 2"
+        ],
+        "related_topics": [
+          "Topic 1",
+          "Topic 2"
+        ],
+        "exam_strategy": "1-2 minutes, assess confidence based on knowledge",
+        "source_material": "Standard UPSC sources",
+        "motivation": "Important for UPSC Civil Services preparation",
+        "examiner_thought_process": "Testing conceptual clarity and current affairs awareness",
+        "current_affairs_connection": "Connects to recent developments",
+        "confidence_calibration": "Assess based on subject familiarity",
+        "strength_indicators": [
+          "Basic knowledge of subject area"
+        ],
+        "weakness_indicators": [
+          "Potential gaps in fundamental concepts"
+        ],
+        "remediation_topics": [
+          "Core concepts of the subject"
+        ],
+        "advanced_connections": [
+          "Connects to advanced topics in the subject"
+        ]
+      },
+      "openai_analysis_date": "2025-07-15T02:03:25.911675"
+    }
+  ]
+}

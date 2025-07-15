@@ -1,0 +1,99 @@
+/Users/mukulmalik/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+2025-07-14 20:41:36,940 - INFO - Background Agent initialized successfully
+2025-07-14 20:41:36,940 - INFO - 🚀 Starting Background Grok Analysis Agent
+2025-07-14 20:41:36,940 - INFO - ============================================================
+2025-07-14 20:41:36,940 - INFO - 📚 Processing UPSC 2025 Questions
+2025-07-14 20:41:36,940 - INFO - ----------------------------------------
+2025-07-14 20:41:36,940 - INFO - Loaded 100 questions for UPSC 2025
+2025-07-14 20:41:36,940 - INFO - Starting analysis for UPSC 2025
+2025-07-14 20:41:36,940 - INFO - Total questions: 100
+2025-07-14 20:41:36,940 - INFO - Batch size: 5
+2025-07-14 20:41:36,940 - INFO - Total batches: 20
+2025-07-14 20:41:36,940 - INFO - Estimated API calls: 20 (vs 100 individual calls)
+2025-07-14 20:41:36,940 - INFO - Processing batch 1/20 (Questions 1-5)
+2025-07-14 20:41:36,940 - INFO - Attempting batch analysis (attempt 1/3)
+2025-07-14 20:43:14,527 - INFO - Batch analysis completed successfully
+2025-07-14 20:43:14,528 - INFO -   ✅ Q1: Analysis added
+2025-07-14 20:43:14,528 - INFO -   ✅ Q2: Analysis added
+2025-07-14 20:43:14,528 - INFO -   ✅ Q3: Analysis added
+2025-07-14 20:43:14,528 - INFO -   ✅ Q4: Analysis added
+2025-07-14 20:43:14,528 - INFO -   ✅ Q5: Analysis added
+2025-07-14 20:43:14,528 - INFO -   📊 Batch 1 completed successfully
+2025-07-14 20:43:14,530 - INFO -   💾 Progress saved: ../json_files/upsc_prelims_2025_grok_progress_batch_1.json
+2025-07-14 20:43:14,530 - INFO -   ⏱️  Progress: 1/20 batches (5.0%)
+2025-07-14 20:43:14,530 - INFO -   ⏱️  Elapsed: 1.6 minutes, Estimated remaining: 30.9 minutes
+2025-07-14 20:43:14,530 - INFO -   ⏳ Waiting 15 seconds before next batch...
+2025-07-14 20:43:29,535 - INFO - Processing batch 2/20 (Questions 6-10)
+2025-07-14 20:43:29,535 - INFO - Attempting batch analysis (attempt 1/3)
+2025-07-14 20:44:47,506 - WARNING - JSON parsing error (attempt 1): Expecting ':' delimiter: line 70 column 18 (char 11480)
+2025-07-14 20:44:52,507 - INFO - Attempting batch analysis (attempt 2/3)
+2025-07-14 20:46:39,313 - INFO - Batch analysis completed successfully
+2025-07-14 20:46:39,314 - INFO -   ✅ Q6: Analysis added
+2025-07-14 20:46:39,314 - INFO -   ✅ Q7: Analysis added
+2025-07-14 20:46:39,314 - INFO -   ✅ Q8: Analysis added
+2025-07-14 20:46:39,314 - INFO -   ✅ Q9: Analysis added
+2025-07-14 20:46:39,314 - INFO -   ✅ Q10: Analysis added
+2025-07-14 20:46:39,314 - INFO -   📊 Batch 2 completed successfully
+2025-07-14 20:46:39,316 - INFO -   💾 Progress saved: ../json_files/upsc_prelims_2025_grok_progress_batch_2.json
+2025-07-14 20:46:39,317 - INFO -   ⏱️  Progress: 2/20 batches (10.0%)
+2025-07-14 20:46:39,317 - INFO -   ⏱️  Elapsed: 5.0 minutes, Estimated remaining: 45.4 minutes
+2025-07-14 20:46:39,317 - INFO -   ⏳ Waiting 15 seconds before next batch...
+2025-07-14 20:46:54,322 - INFO - Processing batch 3/20 (Questions 11-15)
+2025-07-14 20:46:54,322 - INFO - Attempting batch analysis (attempt 1/3)
+2025-07-14 20:48:49,356 - WARNING - JSON parsing error (attempt 1): Expecting ',' delimiter: line 93 column 1172 (char 16459)
+2025-07-14 20:48:54,362 - INFO - Attempting batch analysis (attempt 2/3)
+2025-07-14 20:50:28,546 - INFO - Batch analysis completed successfully
+2025-07-14 20:50:28,547 - INFO -   ✅ Q11: Analysis added
+2025-07-14 20:50:28,547 - INFO -   ✅ Q12: Analysis added
+2025-07-14 20:50:28,547 - INFO -   ✅ Q13: Analysis added
+2025-07-14 20:50:28,547 - INFO -   ✅ Q14: Analysis added
+2025-07-14 20:50:28,547 - INFO -   ✅ Q15: Analysis added
+2025-07-14 20:50:28,548 - INFO -   📊 Batch 3 completed successfully
+2025-07-14 20:50:28,550 - INFO -   💾 Progress saved: ../json_files/upsc_prelims_2025_grok_progress_batch_3.json
+2025-07-14 20:50:28,551 - INFO -   ⏱️  Progress: 3/20 batches (15.0%)
+2025-07-14 20:50:28,551 - INFO -   ⏱️  Elapsed: 8.9 minutes, Estimated remaining: 50.2 minutes
+2025-07-14 20:50:28,551 - INFO -   ⏳ Waiting 15 seconds before next batch...
+2025-07-14 20:50:43,556 - INFO - Processing batch 4/20 (Questions 16-20)
+2025-07-14 20:50:43,556 - INFO - Attempting batch analysis (attempt 1/3)
+2025-07-14 20:52:36,126 - INFO - Batch analysis completed successfully
+2025-07-14 20:52:36,127 - INFO -   ✅ Q16: Analysis added
+2025-07-14 20:52:36,127 - INFO -   ✅ Q17: Analysis added
+2025-07-14 20:52:36,127 - INFO -   ✅ Q18: Analysis added
+2025-07-14 20:52:36,128 - INFO -   ✅ Q19: Analysis added
+2025-07-14 20:52:36,128 - INFO -   ✅ Q20: Analysis added
+2025-07-14 20:52:36,128 - INFO -   📊 Batch 4 completed successfully
+2025-07-14 20:52:36,131 - INFO -   💾 Progress saved: ../json_files/upsc_prelims_2025_grok_progress_batch_4.json
+2025-07-14 20:52:36,131 - INFO -   ⏱️  Progress: 4/20 batches (20.0%)
+2025-07-14 20:52:36,132 - INFO -   ⏱️  Elapsed: 11.0 minutes, Estimated remaining: 43.9 minutes
+2025-07-14 20:52:36,132 - INFO -   ⏳ Waiting 15 seconds before next batch...
+2025-07-14 20:52:51,137 - INFO - Processing batch 5/20 (Questions 21-25)
+2025-07-14 20:52:51,137 - INFO - Attempting batch analysis (attempt 1/3)
+2025-07-14 20:55:09,322 - INFO - Batch analysis completed successfully
+2025-07-14 20:55:09,323 - INFO -   ✅ Q21: Analysis added
+2025-07-14 20:55:09,323 - INFO -   ✅ Q22: Analysis added
+2025-07-14 20:55:09,323 - INFO -   ✅ Q23: Analysis added
+2025-07-14 20:55:09,324 - INFO -   ✅ Q24: Analysis added
+2025-07-14 20:55:09,324 - INFO -   ✅ Q25: Analysis added
+2025-07-14 20:55:09,324 - INFO -   📊 Batch 5 completed successfully
+2025-07-14 20:55:09,328 - INFO -   💾 Progress saved: ../json_files/upsc_prelims_2025_grok_progress_batch_5.json
+2025-07-14 20:55:09,328 - INFO -   ⏱️  Progress: 5/20 batches (25.0%)
+2025-07-14 20:55:09,328 - INFO -   ⏱️  Elapsed: 13.5 minutes, Estimated remaining: 40.6 minutes
+2025-07-14 20:55:09,328 - INFO -   ⏳ Waiting 15 seconds before next batch...
+2025-07-14 20:55:24,333 - INFO - Processing batch 6/20 (Questions 26-30)
+2025-07-14 20:55:24,334 - INFO - Attempting batch analysis (attempt 1/3)
+2025-07-14 20:57:47,120 - WARNING - JSON parsing error (attempt 1): Expecting ',' delimiter: line 42 column 6 (char 8649)
+2025-07-14 20:57:52,124 - INFO - Attempting batch analysis (attempt 2/3)
+2025-07-14 20:59:39,353 - INFO - Batch analysis completed successfully
+2025-07-14 20:59:39,354 - INFO -   ✅ Q26: Analysis added
+2025-07-14 20:59:39,354 - INFO -   ✅ Q27: Analysis added
+2025-07-14 20:59:39,354 - INFO -   ✅ Q28: Analysis added
+2025-07-14 20:59:39,354 - INFO -   ✅ Q29: Analysis added
+2025-07-14 20:59:39,354 - INFO -   ✅ Q30: Analysis added
+2025-07-14 20:59:39,354 - INFO -   📊 Batch 6 completed successfully
+2025-07-14 20:59:39,360 - INFO -   💾 Progress saved: ../json_files/upsc_prelims_2025_grok_progress_batch_6.json
+2025-07-14 20:59:39,360 - INFO -   ⏱️  Progress: 6/20 batches (30.0%)
+2025-07-14 20:59:39,360 - INFO -   ⏱️  Elapsed: 18.0 minutes, Estimated remaining: 42.1 minutes
+2025-07-14 20:59:39,360 - INFO -   ⏳ Waiting 15 seconds before next batch...
+2025-07-14 20:59:54,365 - INFO - Processing batch 7/20 (Questions 31-35)
+2025-07-14 20:59:54,366 - INFO - Attempting batch analysis (attempt 1/3)

@@ -1,0 +1,41 @@
+/Users/mukulmalik/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+2025-07-14 23:36:46,606 - INFO - Background Agent initialized successfully
+2025-07-14 23:36:46,606 - INFO - 🚀 Starting Background Grok Analysis Agent
+2025-07-14 23:36:46,606 - INFO - ============================================================
+2025-07-14 23:36:46,606 - INFO - 📚 Processing UPSC 2025 Questions
+2025-07-14 23:36:46,606 - INFO - ----------------------------------------
+2025-07-14 23:36:46,607 - INFO - Loaded 100 questions for UPSC 2025
+2025-07-14 23:36:46,607 - INFO - Starting analysis for UPSC 2025
+2025-07-14 23:36:46,607 - INFO - Total questions: 100
+2025-07-14 23:36:46,607 - INFO - Batch size: 5
+2025-07-14 23:36:46,607 - INFO - Total batches: 20
+2025-07-14 23:36:46,607 - INFO - Estimated API calls: 20 (vs 100 individual calls)
+2025-07-14 23:36:46,607 - INFO - Processing batch 1/20 (Questions 1-5)
+2025-07-14 23:36:46,607 - INFO - Attempting batch analysis (attempt 1/3)
+2025-07-14 23:38:03,209 - INFO - Batch analysis completed successfully
+2025-07-14 23:38:03,210 - INFO -   ✅ Q1: Analysis added
+2025-07-14 23:38:03,210 - INFO -   ✅ Q2: Analysis added
+2025-07-14 23:38:03,210 - INFO -   ✅ Q3: Analysis added
+2025-07-14 23:38:03,210 - INFO -   ✅ Q4: Analysis added
+2025-07-14 23:38:03,211 - INFO -   ✅ Q5: Analysis added
+2025-07-14 23:38:03,211 - INFO -   📊 Batch 1 completed successfully
+2025-07-14 23:38:03,212 - INFO -   💾 Updated output file: ../json_files/upsc_prelims_2025_grok_analyzed.json (5 questions)
+2025-07-14 23:38:03,212 - INFO -   ⏱️  Progress: 1/20 batches (5.0%)
+2025-07-14 23:38:03,212 - INFO -   ⏱️  Elapsed: 1.3 minutes, Estimated remaining: 24.3 minutes
+2025-07-14 23:38:03,212 - INFO -   ⏳ Waiting 15 seconds before next batch...
+2025-07-14 23:38:18,217 - INFO - Processing batch 2/20 (Questions 6-10)
+2025-07-14 23:38:18,217 - INFO - Attempting batch analysis (attempt 1/3)
+2025-07-14 23:40:05,268 - INFO - Batch analysis completed successfully
+2025-07-14 23:40:05,269 - INFO -   ✅ Q6: Analysis added
+2025-07-14 23:40:05,269 - INFO -   ✅ Q7: Analysis added
+2025-07-14 23:40:05,269 - INFO -   ✅ Q8: Analysis added
+2025-07-14 23:40:05,269 - INFO -   ✅ Q9: Analysis added
+2025-07-14 23:40:05,269 - INFO -   ✅ Q10: Analysis added
+2025-07-14 23:40:05,269 - INFO -   📊 Batch 2 completed successfully
+2025-07-14 23:40:05,271 - INFO -   💾 Updated output file: ../json_files/upsc_prelims_2025_grok_analyzed.json (10 questions)
+2025-07-14 23:40:05,271 - INFO -   ⏱️  Progress: 2/20 batches (10.0%)
+2025-07-14 23:40:05,272 - INFO -   ⏱️  Elapsed: 3.3 minutes, Estimated remaining: 29.8 minutes
+2025-07-14 23:40:05,272 - INFO -   ⏳ Waiting 15 seconds before next batch...
+2025-07-14 23:40:20,277 - INFO - Processing batch 3/20 (Questions 11-15)
+2025-07-14 23:40:20,277 - INFO - Attempting batch analysis (attempt 1/3)

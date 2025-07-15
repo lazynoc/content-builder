@@ -5,7 +5,10 @@
     "paper": "General Studies Paper I",
     "total_questions": 100,
     "processing_date": "2025-07-13T18:21:54.999140",
-    "version": "1.0"
+    "version": "1.0",
+    "answer_key_added": true,
+    "answer_key_date": "2025-07-14",
+    "total_questions_with_answers": 100
   },
   "questions": [
     {
@@ -33,7 +36,8 @@
           "letter": "D",
           "text": "Neither I nor II"
         }
-      ]
+      ],
+      "correct_answer": "A"
     },
     {
       "id": "fa5a83e9-eb63-4e3e-85dd-4619807654b8",
@@ -60,7 +64,8 @@
           "letter": "D",
           "text": "Neither I nor II"
         }
-      ]
+      ],
+      "correct_answer": "D"
     },
     {
       "id": "8dd0ef9f-e87f-471d-a22a-7c87fae2332c",
@@ -87,7 +92,8 @@
           "letter": "D",
           "text": "None"
         }
-      ]
+      ],
+      "correct_answer": "D"
     },
     {
       "id": "249b6d4a-ee9f-4530-905e-36831a261c54",
@@ -114,7 +120,8 @@
           "letter": "D",
           "text": "I, II and III"
         }
-      ]
+      ],
+      "correct_answer": "C"
     },
     {
       "id": "650e9e61-8dc8-46f4-b4b2-e3152edec3e6",
@@ -141,7 +148,8 @@
           "letter": "D",
           "text": "I, II and III"
         }
-      ]
+      ],
+      "correct_answer": "C"
     },
     {
       "id": "a499b8ef-8149-40ef-859a-8df9e5e57865",
@@ -168,7 +176,8 @@
           "letter": "D",
           "text": "The Food and Agriculture Organization"
         }
-      ]
+      ],
+      "correct_answer": "A"
     },
     {
       "id": "33915efc-fc93-42f5-bbb5-0d5055805a06",
@@ -195,7 +204,8 @@
           "letter": "D",
           "text": "None"
         }
-      ]
+      ],
+      "correct_answer": "C"
     },
     {
       "id": "2691ac9c-16f4-4129-9e61-e2dda9a6ae4f",
@@ -222,7 +232,8 @@
           "letter": "D",
           "text": "None"
         }
-      ]
+      ],
+      "correct_answer": "B"
     },
     {
       "id": "e0e49914-5bbf-45b0-9607-ef87402860ac",
@@ -249,7 +260,8 @@
           "letter": "D",
           "text": "Skandagupta"
         }
-      ]
+      ],
+      "correct_answer": "B"
     },
     {
       "id": "c998eb19-a599-4fa8-bb7b-b82920393f62",
@@ -276,7 +288,8 @@
           "letter": "D",
           "text": "All the four"
         }
-      ]
+      ],
+      "correct_answer": "C"
     },
     {
       "id": "c8438835-be9e-47ba-bcd6-18c7d99a79cc",
@@ -303,7 +316,8 @@
           "letter": "D",
           "text": "Neither I nor II"
         }
-      ]
+      ],
+      "correct_answer": "A"
     },
     {
       "id": "3ec62386-337c-4183-9eaf-ee5f7f7428a4",
@@ -330,7 +344,8 @@
           "letter": "D",
           "text": "I, II and III"
         }
-      ]
+      ],
+      "correct_answer": "A"
     },
     {
       "id": "088017e2-64ef-4f3a-8e4d-b9c6e6ce5b64",
@@ -357,7 +372,8 @@
           "letter": "D",
           "text": "the launch of the Quit India Movement"
         }
-      ]
+      ],
+      "correct_answer": "A"
     },
     {
       "id": "aab75414-f2d8-426d-b5bb-fb1dc0c2add3",
@@ -384,7 +400,8 @@
           "letter": "D",
           "text": "Statement I is not correct but Statement II is correct"
         }
-      ]
+      ],
+      "correct_answer": "D"
     },
     {
       "id": "519c2fa6-1a16-48ca-b816-da0ca14262da",
@@ -411,7 +428,8 @@
           "letter": "D",
           "text": "None"
         }
-      ]
+      ],
+      "correct_answer": "D"
     },
     {
       "id": "af3ff4e7-17bd-4e7c-a6b5-5340ebb32521",
@@ -438,7 +456,8 @@
           "letter": "D",
           "text": "None of the above statements is correct"
         }
-      ]
+      ],
+      "correct_answer": "B"
     },
     {
       "id": "bf5a37f6-f474-4284-b670-148b8b529641",
@@ -465,7 +484,8 @@
           "letter": "D",
           "text": "These are fuels for rocket propulsion"
         }
-      ]
+      ],
+      "correct_answer": "B"
     },
     {
       "id": "e4615677-08af-4e6e-a427-a97b36117ca6",
@@ -492,7 +512,8 @@
           "letter": "D",
           "text": "I, II and III"
         }
-      ]
+      ],
+      "correct_answer": "A"
     },
     {
       "id": "1c65f5ef-631e-4ded-85f3-d201b2084b0c",
@@ -519,7 +540,8 @@
           "letter": "D",
           "text": "I, II and III"
         }
-      ]
+      ],
+      "correct_answer": "C"
     },
     {
       "id": "2f1e1f25-5e4b-4e2b-940b-9721fa30ca41",
@@ -546,7 +568,8 @@
           "letter": "D",
           "text": "Neither Statement II nor Statement III is correct"
         }
-      ]
+      ],
+      "correct_answer": "A"
     },
     {
       "id": "19509b90-e576-42aa-9c35-bcf174525b84",
@@ -573,7 +596,8 @@
           "letter": "D",
           "text": "All the four"
         }
-      ]
+      ],
+      "correct_answer": "D"
     },
     {
       "id": "fdb023f2-9400-4031-b3ab-315a8bab847c",
@@ -600,7 +624,8 @@
           "letter": "D",
           "text": "The International Bank for Reconstruction and Development (IBRD)"
         }
-      ]
+      ],
+      "correct_answer": "A"
     },
     {
       "id": "801a7ea6-71e6-4a63-aec7-f148bc5693c1",
@@ -627,7 +652,8 @@
           "letter": "D",
           "text": "I, II and III"
         }
-      ]
+      ],
+      "correct_answer": "D"
     },
     {
       "id": "fca99f17-46b8-48b9-b731-3bd55d3fc1f5",
@@ -654,7 +680,8 @@
           "letter": "D",
           "text": "All the four"
         }
-      ]
+      ],
+      "correct_answer": "B"
     },
     {
       "id": "32e570c5-25f4-4444-8e9d-b8535288ce0e",
@@ -681,7 +708,8 @@
           "letter": "D",
           "text": "I and II only"
         }
-      ]
+      ],
+      "correct_answer": "D"
     },
     {
       "id": "56c19b35-2e13-4cc0-8835-773ad099c8af",
@@ -708,7 +736,8 @@
           "letter": "D",
           "text": "Only two"
         }
-      ]
+      ],
+      "correct_answer": "B"
     },
     {
       "id": "f121c8f6-1854-48fb-8b06-eb9ecd99a727",
@@ -735,7 +764,8 @@
           "letter": "D",
           "text": "I only"
         }
-      ]
+      ],
+      "correct_answer": "D"
     },
     {
       "id": "4f10d512-743f-4373-83b1-c3de328e8319",
@@ -762,7 +792,8 @@
           "letter": "D",
           "text": "Statement I is not correct but Statement II is correct"
         }
-      ]
+      ],
+      "correct_answer": "A"
     },
     {
       "id": "b5ac4a81-6276-4139-b450-2ec957df5b05",
@@ -789,7 +820,8 @@
           "letter": "D",
           "text": "I and III only"
         }
-      ]
+      ],
+      "correct_answer": "C"
     },
     {
       "id": "aa10b00b-f0e8-4737-a638-406fa7974d30",
@@ -816,7 +848,8 @@
           "letter": "D",
           "text": "I only"
         }
-      ]
+      ],
+      "correct_answer": "A"
     },
     {
       "id": "c23da5ed-3ece-4c7b-a69f-07a3bdc8461c",
@@ -843,7 +876,8 @@
           "letter": "D",
           "text": "None of the above"
         }
-      ]
+      ],
+      "correct_answer": "A"
     },
     {
       "id": "83ac19f6-ed67-48fe-bb17-1d87a49560cc",
@@ -870,7 +904,8 @@
           "letter": "D",
           "text": "Neither I nor II"
         }
-      ]
+      ],
+      "correct_answer": "B"
     },
     {
       "id": "2d178884-4cae-4818-9f24-658a5fac31b6",
@@ -897,7 +932,8 @@
           "letter": "D",
           "text": "None"
         }
-      ]
+      ],
+      "correct_answer": "C"
     },
     {
       "id": "6150a24b-f083-4321-887a-a5c8458e79ae",
@@ -924,7 +960,8 @@
           "letter": "D",
           "text": "I, II and III"
         }
-      ]
+      ],
+      "correct_answer": "A"
     },
     {
       "id": "20d1c0f8-a5d1-4ee1-a5bd-fe5b27556ffb",
@@ -951,7 +988,8 @@
           "letter": "D",
           "text": "All the five"
         }
-      ]
+      ],
+      "correct_answer": "B"
     },
     {
       "id": "7036e2b6-7457-4067-b343-986db01adc13",
@@ -978,7 +1016,8 @@
           "letter": "D",
           "text": "All the four"
         }
-      ]
+      ],
+      "correct_answer": "B"
     },
     {
       "id": "e168fb09-35e2-4e9e-8520-d9c78a38c2bf",
@@ -1005,7 +1044,8 @@
           "letter": "D",
           "text": "Neither I nor II"
         }
-      ]
+      ],
+      "correct_answer": "A"
     },
     {
       "id": "726189ba-b297-4b7d-a19e-cd3bf23850fe",
@@ -1032,7 +1072,8 @@
           "letter": "D",
           "text": "Neither I nor II"
         }
-      ]
+      ],
+      "correct_answer": "B"
     },
     {
       "id": "5f188670-73e1-41a8-9495-015835bc4b30",
@@ -1059,7 +1100,8 @@
           "letter": "D",
           "text": "None"
         }
-      ]
+      ],
+      "correct_answer": "D"
     },
     {
       "id": "2c1f0b1a-e218-44cd-aa74-c4052aa4e5ab",
@@ -1086,7 +1128,8 @@
           "letter": "D",
           "text": "II, III and IV"
         }
-      ]
+      ],
+      "correct_answer": "C"
     },
     {
       "id": "65b148d8-9b78-4b05-be8a-4839694b5c61",
@@ -1113,7 +1156,8 @@
           "letter": "D",
           "text": "India to Europe through Azerbaijan"
         }
-      ]
+      ],
+      "correct_answer": "A"
     },
     {
       "id": "e25ccb6a-fe19-461f-a394-4bbba3bda906",
@@ -1140,7 +1184,8 @@
           "letter": "D",
           "text": "III only"
         }
-      ]
+      ],
+      "correct_answer": "A"
     },
     {
       "id": "6801bc49-323d-40e0-ba79-94e742aa882f",
@@ -1167,7 +1212,8 @@
           "letter": "D",
           "text": "All the six"
         }
-      ]
+      ],
+      "correct_answer": "B"
     },
     {
       "id": "714774fd-6043-4045-8973-0d5c2141fb33",
@@ -1194,7 +1240,8 @@
           "letter": "D",
           "text": "I, II and III"
         }
-      ]
+      ],
+      "correct_answer": "A"
     },
     {
       "id": "e28cd536-befb-488b-9e0a-b72cc476aaa7",
@@ -1221,7 +1268,8 @@
           "letter": "D",
           "text": "Neither Statement II nor Statement III is correct"
         }
-      ]
+      ],
+      "correct_answer": "A"
     },
     {
       "id": "da06649a-1dcc-44e5-861d-b67068f03d1c",
@@ -1248,7 +1296,8 @@
           "letter": "D",
           "text": "I, II and III"
         }
-      ]
+      ],
+      "correct_answer": "C"
     },
     {
       "id": "43c240f3-a602-40a4-bf66-b48c5bb132bc",
@@ -1275,7 +1324,8 @@
           "letter": "D",
           "text": "Neither Statement II nor Statement III is correct"
         }
-      ]
+      ],
+      "correct_answer": "A"
     },
     {
       "id": "a796393f-77f3-4d16-8b43-1ad8694450ab",
@@ -1302,7 +1352,8 @@
           "letter": "D",
           "text": "Neither I nor II"
         }
-      ]
+      ],
+      "correct_answer": "B"
     },
     {
       "id": "b1a336eb-1117-460e-8d95-404ace8d36fb",
@@ -1329,7 +1380,8 @@
           "letter": "D",
           "text": "I, II and V"
         }
-      ]
+      ],
+      "correct_answer": "D"
     },
     {
       "id": "b2e8e305-fca8-4f03-881e-cf9107f4db54",
@@ -1356,7 +1408,8 @@
           "letter": "D",
           "text": "Neither Statement II nor Statement III is correct"
         }
-      ]
+      ],
+      "correct_answer": "A"
     },
     {
       "id": "2bd91989-b2f0-4153-abb4-82a153fb31c2",
@@ -1383,7 +1436,8 @@
           "letter": "D",
           "text": "Neither Statement II nor Statement III is correct"
         }
-      ]
+      ],
+      "correct_answer": "B"
     },
     {
       "id": "469e4f78-1ab5-4599-9ab4-9291f24d0e0b",
@@ -1410,7 +1464,8 @@
           "letter": "D",
           "text": "None"
         }
-      ]
+      ],
+      "correct_answer": "D"
     },
     {
       "id": "d0c1feee-634d-417b-aca9-03a9bdd8e5b3",
@@ -1437,7 +1492,8 @@
           "letter": "D",
           "text": "None"
         }
-      ]
+      ],
+      "correct_answer": "A"
     },
     {
       "id": "3f7b45e8-0fe8-4d6a-9118-79ed3b1fb0c0",
@@ -1464,7 +1520,8 @@
           "letter": "D",
           "text": "I, II and III"
         }
-      ]
+      ],
+      "correct_answer": "C"
     },
     {
       "id": "6a6e4f3d-83b6-455d-b661-f788276b5883",
@@ -1491,7 +1548,8 @@
           "letter": "D",
           "text": "None"
         }
-      ]
+      ],
+      "correct_answer": "C"
     },
     {
       "id": "00338c7d-c73d-4c09-947d-54b23f39e416",
@@ -1518,7 +1576,8 @@
           "letter": "D",
           "text": "Neither Statement II nor Statement III is correct"
         }
-      ]
+      ],
+      "correct_answer": "C"
     },
     {
       "id": "942b2d11-7d20-4b44-97d5-58e46eeaa6c1",
@@ -1545,7 +1604,8 @@
           "letter": "D",
           "text": "I, II and III"
         }
-      ]
+      ],
+      "correct_answer": "C"
     },
     {
       "id": "fe12a7ec-a1a2-4cef-b143-cddd427fc69f",
@@ -1572,7 +1632,8 @@
           "letter": "D",
           "text": "I, II and III"
         }
-      ]
+      ],
+      "correct_answer": "D"
     },
     {
       "id": "4a9fe20b-73a6-4eb9-9c67-708a84b9888e",
@@ -1599,7 +1660,8 @@
           "letter": "D",
           "text": "I, II and III"
         }
-      ]
+      ],
+      "correct_answer": "D"
     },
     {
       "id": "e02a197a-1748-4499-815f-186c11b3d563",
@@ -1626,7 +1688,8 @@
           "letter": "D",
           "text": "M. A. Jinnah"
         }
-      ]
+      ],
+      "correct_answer": "B"
     },
     {
       "id": "fadda4b0-1022-4676-ba3b-91e1685a52f1",
@@ -1653,7 +1716,8 @@
           "letter": "D",
           "text": "I, II and III"
         }
-      ]
+      ],
+      "correct_answer": "D"
     },
     {
       "id": "d2abd211-4a06-4ac7-b7f5-30ce6bcd17ad",
@@ -1680,7 +1744,8 @@
           "letter": "D",
           "text": "Neither Statement II nor Statement III is correct"
         }
-      ]
+      ],
+      "correct_answer": "B"
     },
     {
       "id": "310510e1-9eb9-48ed-b4f1-c7b435e52ad5",
@@ -1707,7 +1772,8 @@
           "letter": "D",
           "text": "Promulgation of the Government of India Act, 1935"
         }
-      ]
+      ],
+      "correct_answer": "A"
     },
     {
       "id": "be3004d2-ce96-4044-ba5b-dec965ea58d8",
@@ -1734,7 +1800,8 @@
           "letter": "D",
           "text": "Only five"
         }
-      ]
+      ],
+      "correct_answer": "C"
     },
     {
       "id": "b366bae4-0931-4521-9974-d913ac804cbe",
@@ -1761,7 +1828,8 @@
           "letter": "D",
           "text": "All the four"
         }
-      ]
+      ],
+      "correct_answer": "C"
     },
     {
       "id": "4a8d97e2-ea6d-40d5-9f9d-4dbfcd032ef0",
@@ -1788,7 +1856,8 @@
           "letter": "D",
           "text": "Statement I is not correct but Statement II is correct"
         }
-      ]
+      ],
+      "correct_answer": "C"
     },
     {
       "id": "37eac109-28cf-4844-bffc-47888ca219cb",
@@ -1815,7 +1884,8 @@
           "letter": "D",
           "text": "Neither I nor II"
         }
-      ]
+      ],
+      "correct_answer": "A"
     },
     {
       "id": "87b325e8-5e56-43d3-9aeb-8410bd501385",
@@ -1842,7 +1912,8 @@
           "letter": "D",
           "text": "Lahore"
         }
-      ]
+      ],
+      "correct_answer": "D"
     },
     {
       "id": "bb617940-33ac-4b4f-9560-4f9948e42f69",
@@ -1869,7 +1940,8 @@
           "letter": "D",
           "text": "a large water bucket pulled up by rope directly by hand"
         }
-      ]
+      ],
+      "correct_answer": "B"
     },
     {
       "id": "8df89438-84ae-463a-bee8-7437c12fa786",
@@ -1896,7 +1968,8 @@
           "letter": "D",
           "text": "Vishnuvardhana (Hoysala)"
         }
-      ]
+      ],
+      "correct_answer": "C"
     },
     {
       "id": "9d111e9c-66c1-4058-96b8-83aca35561c1",
@@ -1923,7 +1996,8 @@
           "letter": "D",
           "text": "All the four"
         }
-      ]
+      ],
+      "correct_answer": "B"
     },
     {
       "id": "8895f180-508b-49b3-a7d3-74744b9f0343",
@@ -1950,7 +2024,8 @@
           "letter": "D",
           "text": "Simhavarman"
         }
-      ]
+      ],
+      "correct_answer": "A"
     },
     {
       "id": "227d2a2d-f9ab-46cc-a678-bff0da876a93",
@@ -1977,7 +2052,8 @@
           "letter": "D",
           "text": "None"
         }
-      ]
+      ],
+      "correct_answer": "C"
     },
     {
       "id": "9b73fabf-824e-4a81-b747-89474f446fbc",
@@ -2004,7 +2080,8 @@
           "letter": "D",
           "text": "Neither I nor II"
         }
-      ]
+      ],
+      "correct_answer": "C"
     },
     {
       "id": "a75c54e4-53ec-4e64-8b93-6d9a208077f6",
@@ -2031,7 +2108,8 @@
           "letter": "D",
           "text": "I, II and III"
         }
-      ]
+      ],
+      "correct_answer": "D"
     },
     {
       "id": "2f222000-c132-4248-a9e0-4516663b6d2a",
@@ -2058,7 +2136,8 @@
           "letter": "D",
           "text": "Dinkarrao Javalkar"
         }
-      ]
+      ],
+      "correct_answer": "A"
     },
     {
       "id": "cdd3a5e7-2b53-439d-a79e-8f41c01a9281",
@@ -2085,7 +2164,8 @@
           "letter": "D",
           "text": "None"
         }
-      ]
+      ],
+      "correct_answer": "B"
     },
     {
       "id": "649fb109-3c9f-434b-83eb-625c7baa6aa7",
@@ -2112,7 +2192,8 @@
           "letter": "D",
           "text": "None of the above statements is correct"
         }
-      ]
+      ],
+      "correct_answer": "A"
     },
     {
       "id": "6473882e-1ef9-48db-9ce8-d2fb203f76d2",
@@ -2139,7 +2220,8 @@
           "letter": "D",
           "text": "None"
         }
-      ]
+      ],
+      "correct_answer": "C"
     },
     {
       "id": "7872869d-78e7-453e-a7d7-9699f8816e41",
@@ -2166,7 +2248,8 @@
           "letter": "D",
           "text": "Neither I nor II"
         }
-      ]
+      ],
+      "correct_answer": "A"
     },
     {
       "id": "f5a8e458-82e9-45a3-b457-8ef00e962da8",
@@ -2193,7 +2276,8 @@
           "letter": "D",
           "text": "None"
         }
-      ]
+      ],
+      "correct_answer": "C"
     },
     {
       "id": "8007d0a4-c92a-4e4f-9bfe-b4e4a35bbbeb",
@@ -2220,7 +2304,8 @@
           "letter": "D",
           "text": "II and III only"
         }
-      ]
+      ],
+      "correct_answer": "C"
     },
     {
       "id": "7922217a-b24d-4e4f-a1e8-2a23157f2532",
@@ -2247,7 +2332,8 @@
           "letter": "D",
           "text": "Statement I is not correct but Statement II is correct"
         }
-      ]
+      ],
+      "correct_answer": "A"
     },
     {
       "id": "c1c1a5cf-fa58-4925-8bb2-a2c52f546eed",
@@ -2274,7 +2360,8 @@
           "letter": "D",
           "text": "I, II and III"
         }
-      ]
+      ],
+      "correct_answer": "D"
     },
     {
       "id": "bc16508e-d056-477e-90ad-acd8555fae53",
@@ -2301,7 +2388,8 @@
           "letter": "D",
           "text": "None"
         }
-      ]
+      ],
+      "correct_answer": "C"
     },
     {
       "id": "06ee99cf-49ad-4b23-b3c8-75af04c86c38",
@@ -2328,7 +2416,8 @@
           "letter": "D",
           "text": "level of the central administration"
         }
-      ]
+      ],
+      "correct_answer": "B"
     },
     {
       "id": "3e8bdeab-9e63-41a5-b50f-f13b60ebbc5e",
@@ -2355,7 +2444,8 @@
           "letter": "D",
           "text": "Neither Statement II nor Statement III is correct"
         }
-      ]
+      ],
+      "correct_answer": "C"
     },
     {
       "id": "db561a2c-ffc9-404a-9294-049499a33b76",
@@ -2382,7 +2472,8 @@
           "letter": "D",
           "text": "Neither I nor II"
         }
-      ]
+      ],
+      "correct_answer": "C"
     },
     {
       "id": "10c8856e-ed6f-4000-aa98-3080cbe818ba",
@@ -2409,7 +2500,8 @@
           "letter": "D",
           "text": "None"
         }
-      ]
+      ],
+      "correct_answer": "C"
     },
     {
       "id": "2c25253e-8110-4927-9825-4c1344c9af2b",
@@ -2436,7 +2528,8 @@
           "letter": "D",
           "text": "None"
         }
-      ]
+      ],
+      "correct_answer": "D"
     },
     {
       "id": "34b2664b-286c-45c7-8178-19453f37d5af",
@@ -2463,7 +2556,8 @@
           "letter": "D",
           "text": "II and III only"
         }
-      ]
+      ],
+      "correct_answer": "C"
     },
     {
       "id": "2144da05-a36c-4553-b4a4-b12d0f1f3c48",
@@ -2490,7 +2584,8 @@
           "letter": "D",
           "text": "Gold"
         }
-      ]
+      ],
+      "correct_answer": "C"
     },
     {
       "id": "27fa66f8-53b2-471d-a3f7-abb8519050b2",
@@ -2517,7 +2612,8 @@
           "letter": "D",
           "text": "Statement I is not correct but Statement II is correct"
         }
-      ]
+      ],
+      "correct_answer": "D"
     },
     {
       "id": "dd54b33f-2c73-4192-911a-50822ffe65bc",
@@ -2544,7 +2640,8 @@
           "letter": "D",
           "text": "None of the above statements is correct"
         }
-      ]
+      ],
+      "correct_answer": "C"
     },
     {
       "id": "812896e8-2670-4b9c-a337-e6df9eeb6162",
@@ -2571,7 +2668,8 @@
           "letter": "D",
           "text": "All the five"
         }
-      ]
+      ],
+      "correct_answer": "B"
     },
     {
       "id": "30d0bbc2-4696-4d1f-b1bc-55b976fbef43",
@@ -2598,7 +2696,8 @@
           "letter": "D",
           "text": "silver nitrate and potassium chloride"
         }
-      ]
+      ],
+      "correct_answer": "A"
     },
     {
       "id": "f75cc72f-c6af-4393-9693-8c5483c2cead",
@@ -2625,7 +2724,8 @@
           "letter": "D",
           "text": "II and III"
         }
-      ]
+      ],
+      "correct_answer": "D"
     },
     {
       "id": "41df8ede-4ed1-4d22-a56f-ae55a4be7641",
@@ -2652,7 +2752,8 @@
           "letter": "D",
           "text": "Statement I is not correct but Statement II is correct"
         }
-      ]
+      ],
+      "correct_answer": "D"
     },
     {
       "id": "54c90f78-fe3b-4a92-a42f-9a966668e48c",
@@ -2679,7 +2780,8 @@
           "letter": "D",
           "text": "I, II and III"
         }
-      ]
+      ],
+      "correct_answer": "A"
     },
     {
       "id": "5cc43c29-2688-4d4a-bbcf-b807c20b9f17",
@@ -2706,7 +2808,8 @@
           "letter": "D",
           "text": "Neither I nor II"
         }
-      ]
+      ],
+      "correct_answer": "D"
     }
   ]
 }
